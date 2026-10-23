@@ -55,6 +55,12 @@ export interface SepticLead {
   galleryPhotos?: GalleryPhotoItem[]
   crewMembers?: string[]
   serviceAreaList?: string[]
+  ticketTier?: 'HIGH_TICKET' | 'LOW_TICKET'
+  ticketTierLabel?: string
+  ticketTierLabelRu?: string
+  ticketRange?: string
+  primaryFocus?: string
+  highTicketServices?: string[]
 }
 
 export const septicLeads: SepticLead[] = rawLeads as SepticLead[]
