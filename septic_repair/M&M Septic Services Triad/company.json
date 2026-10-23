@@ -1,0 +1,59 @@
+{
+  "name": "M&M Septic Services Triad",
+  "rating": 4.9,
+  "reviewCount": 36,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 336-908-0604",
+  "phoneRaw": "+13369080604",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/M%26M+Septic+Services+Triad/@36.009825,-79.9021602,10z/data=!3m1!4b1!4m6!3m5!1s0x6d90984c2c9cd085:0xc80274547eb1c58b!8m2!3d36.009825!4d-79.9021602!16s%2Fg%2F11mz5yjks5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Greensboro",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/M&M Septic Services Triad",
+  "folderName": "M&M Septic Services Triad",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Erica Susa",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

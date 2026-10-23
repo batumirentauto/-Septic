@@ -1,0 +1,66 @@
+{
+  "name": "Kons Septic Services Inc",
+  "rating": 4.8,
+  "reviewCount": 62,
+  "category": "Septic system service",
+  "address": "W156N11387 Pilgrim Rd, Germantown, WI 53022, United States",
+  "phone": "+1 262-251-1704",
+  "phoneRaw": "+12622511704",
+  "website": null,
+  "plusCode": "6VFW+98 Germantown, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Kons+Septic+Services+Inc/@43.2234338,-88.1041751,17z/data=!3m1!4b1!4m6!3m5!1s0x880501ef4bd0a85b:0x64b925a8b37a3f24!8m2!3d43.2234338!4d-88.1041751!16s%2Fg%2F1vy7h47w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Milwaukee",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Kons Septic Services Inc",
+  "folderName": "Kons Septic Services Inc",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfTWz6sK_FFe23hUkrwzxA2hgPO6rx4UjG_JDWBl2OKiA5_ricl1s0yMgf0z8IqFuzBA9E6iaIkSY-aUfqUdIviPE4shjsP7-MCeoDyWQn1R_txX-pEVGTt1sRvKKRONkC80bX8y4XuKg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "K Rood",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

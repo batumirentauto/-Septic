@@ -1,0 +1,77 @@
+{
+  "name": "1213 Plumbing",
+  "rating": 5,
+  "reviewCount": 38,
+  "category": "Plumber",
+  "address": "1933 70th St, Lubbock, TX 79412, United States",
+  "phone": "+1 806-782-7454",
+  "phoneRaw": "+18067827454",
+  "website": "https://www.1213plumbing.com/",
+  "plusCode": "G4JR+89 Lubbock, Texas, USA",
+  "url": "https://www.google.com/maps/place/1213+Plumbing/@33.5308308,-101.859074,17z/data=!3m1!4b1!4m6!3m5!1s0x88dacfeb4a8e368f:0x85f39f6f367fabec!8m2!3d33.5308308!4d-101.859074!16s%2Fg%2F11nx0w34sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Lubbock",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/1213 Plumbing",
+  "folderName": "1213 Plumbing",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdAYrmy1Ieu6sU_fPI-Xi7MwLTdMDyP7mWEcdAuJWRWSjK0injf5SNieoXCQ8Kb1qc9V6osmWMQpqp-KdIPQQ7N6ketr24_VOwfau4krRLa_KRMKZ4loe6novEwPO4Qd_zAr1-=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqOFRMQcS9A6jINMQvN6VFKcxRsQv7XFt_4RQ4lxlu38CNnJ_Ed-5LtJGnN-26g1g0SCiuTY7FC1Ao8WzlyjefdoX1aiFsaTQ9QP6jZcUBAyAADrUPthOjvX3w0LE7pKqL-5E=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Amy Archinal",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Alyssa Hannon",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

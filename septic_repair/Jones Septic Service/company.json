@@ -1,0 +1,53 @@
+{
+  "name": "Jones Septic Service",
+  "rating": 4.9,
+  "reviewCount": 78,
+  "category": "Septic system service",
+  "address": "10 Gillespie Rd, Elkton, MD 21921, United States",
+  "phone": "+1 410-620-0458",
+  "phoneRaw": "+14106200458",
+  "website": null,
+  "plusCode": "J5G3+45 Elkton, Maryland, USA",
+  "url": "https://www.google.com/maps/place/Jones+Septic+Service/data=!4m7!3m6!1s0x89c7af3edb03454d:0x2f081484538a55c5!8m2!3d39.6253048!4d-75.8470124!16s%2Fg%2F11j7vrv9gq!19sChIJTUUD2z6vx4kRxVWKU4QUCC8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "DE",
+  "city": "Newark",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jones Septic Service",
+  "folderName": "Jones Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Roemer Rooter",
+  "rating": 4.8,
+  "reviewCount": 37,
+  "category": "Plumber",
+  "address": "1414 N Fiske St suit c, Spokane, WA 99202, United States",
+  "phone": "+1 509-230-2784",
+  "phoneRaw": "+15092302784",
+  "website": null,
+  "plusCode": "MJCP+H3 Spokane, Washington, USA",
+  "url": "https://www.google.com/maps/place/Roemer+Rooter/@47.6713833,-117.3648289,17z/data=!3m1!4b1!4m6!3m5!1s0x549e192124ac0e2b:0x73c29659672d90f5!8m2!3d47.6713833!4d-117.3648289!16s%2Fg%2F11fszt1fqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Spokane",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Roemer Rooter",
+  "folderName": "Roemer Rooter",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

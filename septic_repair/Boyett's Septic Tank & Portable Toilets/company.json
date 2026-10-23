@@ -1,0 +1,53 @@
+{
+  "name": "Boyett's Septic Tank & Portable Toilets",
+  "rating": 4.6,
+  "reviewCount": 114,
+  "category": "Septic system service",
+  "address": "7300 Mobile Hwy, Pensacola, FL 32526, United States",
+  "phone": "+1 850-944-5536",
+  "phoneRaw": "+18509445536",
+  "website": "http://www.boyetts.com/",
+  "plusCode": "GM23+VJ Pensacola, Florida, USA",
+  "url": "https://www.google.com/maps/place/Boyett%27s+Septic+Tank+%26+Portable+Toilets/data=!4m7!3m6!1s0x889097d5d9557d27:0x3be6e5f21b3278bf!8m2!3d30.5022239!4d-87.3459701!16s%2Fg%2F1wbg05k0!19sChIJJ31V2dWXkIgRv3gyG_Ll5js?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Pensacola",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Boyett's Septic Tank & Portable Toilets",
+  "folderName": "Boyett's Septic Tank & Portable Toilets",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

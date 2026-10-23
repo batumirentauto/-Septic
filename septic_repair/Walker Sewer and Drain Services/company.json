@@ -1,0 +1,110 @@
+{
+  "name": "Walker Sewer and Drain Services",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 973-508-6212",
+  "phoneRaw": "+19735086212",
+  "website": "https://www.walkerseweranddrain.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Walker+Sewer+and+Drain+Services/@40.073132,-74.724323,8z/data=!3m1!4b1!4m6!3m5!1s0x8e02b5beb67086ff:0xcd5152fcdb5fb71c!8m2!3d40.073132!4d-74.724323!16s%2Fg%2F11v5vhw9_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Sussex",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Walker Sewer and Drain Services",
+  "folderName": "Walker Sewer and Drain Services",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN8OIrUi7ueLcPS1kXGdIRbHEAiBKdf95niI8_yyqpLNDBSwagC4ksku4O43b535no5P6ATK-ALPLoqYV-BTjWU8ag3sotgH6wsf6BxyZsuZFYyKJeT_Ye2nHWqbCxTke-Ci1IRPzsIZiQ=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLevnmSuxjLQCHUqc2xvCVR2kA2t3FP6D7DDppjpPotWDcIpl16n3pF8S4Q8iLxgJCjl1J4kiK5MU--Fa1BtYzgK8twv6YyrLH_4GyNQHglfktVZI0kIpFTvkIsJPxOluA-TDohyBmc5lP8G=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLL7pS_5IbciX88VJxK3UTtGO47S2RU7OQr_GMzmjvRJJudtFeYnd-HpZ0PW4pAT9uarPbLnOq-olJirE3U6Xd8gK3M_PW7Qm0Q4XopPEAkC8_PMDtxvrGQ0aoW2ebuwY_R99zxXdoLK2K=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNJHI6Vzc2Nt9-YIULgrvWPGR-F_LQ4_cjLzw9azGaxsZ1QvBBOj4igtxo_ROFyJ7ohnUuhQc-fWqjUDNLBremrm2kYEOJrHZCVqnx_fFlyG5mGFlPe3d6Qq7yeTb-VIhkJCI81z-6Wog=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiGjDEUMwLo9afXA1N8JJdf_e8-ZUhYL_mPnYHHeC16sXuVj9z09-eEfy0r_icqMlLdpldT_v8JIcJnSuRnYBxXeeAF93FSt0q_spdYRhlNmzE6xRfVXmHi7cZJlu3fSW65Fhz6WTAeOek=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "John Parisi",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Daniella Kessler",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Daniella Kessler",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Daniella Kessler",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Daniella Kessler",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

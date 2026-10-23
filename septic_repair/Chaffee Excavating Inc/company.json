@@ -1,0 +1,48 @@
+{
+  "name": "Chaffee Excavating Inc",
+  "rating": 5,
+  "reviewCount": 46,
+  "category": "Excavating contractor",
+  "address": "510 Lisbon Rd, Darlington, PA 16115, United States",
+  "phone": "+1 724-581-1495",
+  "phoneRaw": "+17245811495",
+  "website": null,
+  "plusCode": "PGJ6+F6 Darlington, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/Chaffee+Excavating+Inc/@40.731176,-80.489427,17z/data=!3m1!4b1!4m6!3m5!1s0x88340d7cc0ef0db3:0x92f8859ebaa9c98b!8m2!3d40.731176!4d-80.489427!16s%2Fg%2F1vvyyq_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Pittsburgh",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Chaffee Excavating Inc",
+  "folderName": "Chaffee Excavating Inc",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHuaqalammuq8gZLez_ClcXW_L32Xwyt4Fs2_8G-NMI45R0q6SVi_UsRhTFGILAzUgV_vooclmaD6QGJXwTX1lZbBYCA73artP0mIDsXdDu0TGOOopX2321xZ7r51Ybra5EaiWufF4tITy=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4EszlU16ZUihE0Uyg-SK_4i0Tb4PL3OIAJWEdN6ccPA5bnMdGljzUBD0bEzpwHI2pq_u5HEylzyWVJatmB0jw-X54gc8HTpLqbPjzAXYb0Ttmez2J56A3wXZUlIxaZSZkTpv__0bhJKW0=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Emily Frazier",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Brent Weatherly",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

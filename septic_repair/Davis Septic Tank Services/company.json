@@ -1,0 +1,37 @@
+{
+  "name": "Davis Septic Tank Services",
+  "rating": 4.9,
+  "reviewCount": 87,
+  "category": "Septic system service",
+  "address": "121 Winningham Rd, Orangeburg, SC 29118, United States",
+  "phone": "+1 803-534-8130",
+  "phoneRaw": "+18035348130",
+  "website": null,
+  "plusCode": "H572+HV Orangeburg, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Davis+Septic+Tank+Services/@33.563915,-80.8478562,17z/data=!3m1!4b1!4m6!3m5!1s0x88f8d373c3366b2d:0xaa99220a40f65da1!8m2!3d33.563915!4d-80.8478562!16s%2Fg%2F1tjmfhrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Columbia",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Davis Septic Tank Services",
+  "folderName": "Davis Septic Tank Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLer5mn-u6lsr39EcLlY2I_4ankejEoAaRR-zwPFFOFfzinttqcdQwdPeQ7wJKt7oYcEfHt5q6qGGyRKCfd_-m3IkelG6juQKLu3qafkkREGagfpbY0zbb_hskvB80V_Go5WULDT=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ian Sinopoli",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

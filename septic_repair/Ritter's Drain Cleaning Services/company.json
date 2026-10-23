@@ -1,0 +1,53 @@
+{
+  "name": "Ritter's Drain Cleaning Services",
+  "rating": 4.9,
+  "reviewCount": 42,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 334-272-9049",
+  "phoneRaw": "+13342729049",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Ritter's+Drain+Cleaning+Services/@32.5762265,-86.6807364,7z/data=!3m1!4b1!4m6!3m5!1s0x888c2a26e39f34e9:0xb20e55e7ed689d31!8m2!3d32.5762265!4d-86.6807364!16s%2Fg%2F1tdlw0_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Montgomery",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ritter's Drain Cleaning Services",
+  "folderName": "Ritter's Drain Cleaning Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

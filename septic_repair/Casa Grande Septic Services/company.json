@@ -1,0 +1,53 @@
+{
+  "name": "Casa Grande Septic Services",
+  "rating": 4.7,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "858 W Gila Bend Hwy, Casa Grande, AZ 85122, United States",
+  "phone": "+1 520-836-2095",
+  "phoneRaw": "+15208362095",
+  "website": "http://www.casagrandesepticservice.com/",
+  "plusCode": "V6HJ+XF Casa Grande, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Casa+Grande+Septic+Services/@32.8799562,-111.7688022,17z/data=!3m1!4b1!4m6!3m5!1s0x872a5dc555555555:0x8b487f8c56e5cec1!8m2!3d32.8799562!4d-111.7688022!16s%2Fg%2F1w9y1kgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Phoenix",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Casa Grande Septic Services",
+  "folderName": "Casa Grande Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

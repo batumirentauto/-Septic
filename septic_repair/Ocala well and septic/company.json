@@ -1,0 +1,110 @@
+{
+  "name": "Ocala well and septic",
+  "rating": 4.9,
+  "reviewCount": 53,
+  "category": "Well drilling contractor",
+  "address": "700 NE 49th St, Ocala, FL 34479, United States",
+  "phone": "+1 352-425-7161",
+  "phoneRaw": "+13524257161",
+  "website": null,
+  "plusCode": "6VPC+VP Ocala, Florida, USA",
+  "url": "https://www.google.com/maps/place/Ocala+well+and+septic/data=!4m7!3m6!1s0x88e62bfc7375c299:0xd7d68958352fa340!8m2!3d29.2372456!4d-82.1281271!16s%2Fg%2F11rb2qyqpt!19sChIJmcJ1c_wr5ogRQKMvNViJ1tc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Ocala",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ocala well and septic",
+  "folderName": "Ocala well and septic",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg3ziyH-QF-nc1wQdbxTi23qU6m2l_DLJHDeGXV8dKCi3eZupYJf4en7kCCVlvgP5rq89YtPlqcJE4GO4NPUEoFqaIkUJvJhxsPQ1gZdL-DbU4lF0d6GBUrYkGEbVZUptd2n5W0fzlvdrL=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNWJ6pVw3HotKgLf4lCA4Skwkv5WQF5trgQqm7FcH-F6Fc3yWhIRorbd5WHdKX-5X9fr39YLYE2RoslMrS18PAUjxdJrRPGho-w6X9U0IAETJ7ZA5yosFUc9n_IEOrRckkg91dog=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgfnUGoiF5atwbPVTJvk64urHyRWKxeO9NOsM4eSwPwDA-XEfxPUCcKh2knInSQ0OvLv5tklUMIxvHnSgYlDw902TABuHnhlKzKXICoMk8eymGEm8jFoT0olEmpCRIlEtHmio450vCexw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4ps2asWgFzcxArpcSv8_LT3QBJpgNBwLQ42fTHOwpifJHpMC0KWbkzayRYfWUSmMf6amWx0m-qRe4u3tyV6ObdVgf6TmhVFyOKl1hiS92y0fMWVWX5Y98PxxrhSb2fitfjrkH=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVhzdehRRp-B3C-FbybMVijXefAjnr17h30HfV__-80vwreWSPFd8_5Es8kAEF-F60J7zogDpHE8WQgv-n41yIqZqIdYQDtLvW4zpPLwVWw3X-2CKXOwULlyGT4eta6lzOApr3EQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Josh Rockower",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "John Strong",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Josh Rockower",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "John Strong",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "John Strong",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

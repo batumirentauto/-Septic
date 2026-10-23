@@ -1,0 +1,99 @@
+{
+  "name": "Blackburn Brothers",
+  "rating": 5,
+  "reviewCount": 26,
+  "category": "Septic system service",
+  "address": "1204 W College St, Springfield, MO 65806, United States",
+  "phone": "+1 417-831-2222",
+  "phoneRaw": "+14178312222",
+  "website": null,
+  "plusCode": "6M5V+77 Springfield, Missouri, USA",
+  "url": "https://www.google.com/maps/place/Blackburn+Brothers/@37.2081996,-93.3067975,17z/data=!3m1!4b1!4m6!3m5!1s0x87cf63ad32777887:0x911dcd9c643a3efd!8m2!3d37.2081996!4d-93.3067975!16s%2Fg%2F1v2pqr64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Springfield",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Blackburn Brothers",
+  "folderName": "Blackburn Brothers",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5CqjUzePaA5njCfDK_Y9mWj2f2YJ2BlPh1K74jC-n5DnilKtlw-rkG8T9gtv2vkI3LrjEDt_mRHIG3_Pws6AiT1olC0kH1STRvlGdBXw5o449-8jA05EgkH37KZSPCVVjtarc0g=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKYNvv-b5rTIbnixE-OZzph7ISBrqapFYwnnkmGbM9ups7ucmPbPaSAK56TljdITLaSG0mnygAbVcBSg45p3fq48cJpT93qC8So9k3zp7GAgSL8mvjj6CfdMmo3LnDE2vvSK0KYw=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxZ87zsRM3XgZGi5MVCfMV6p6DzIc-WvhefVYoZ-23p8cFdQzO1Tnxn4Gyu93vXFlsmIoKJGL3q5mcqNh2HxTkjoxRsqo6gDljrIhZvPRXiTXD1zKOF2TQEiE04LDBYN69n3w=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLceyznEnJCrbyod3gUHazjYYHaYRJzgaKBRpYy6dfyeHxr75brxRbT6dwxE3jxr3xbBwswqnADcJCt3ElC6arV-Uw6KPJPrn5qloMvCW4Q5k-k5xRPxRhkrbCjDZkNsMJeRvfiq=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Miguel Tovar",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Miguel Tovar",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Miguel Tovar",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Miguel Tovar",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

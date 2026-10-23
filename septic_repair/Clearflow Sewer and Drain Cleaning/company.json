@@ -1,0 +1,53 @@
+{
+  "name": "Clearflow Sewer and Drain Cleaning",
+  "rating": 5,
+  "reviewCount": 28,
+  "category": "Drainage service",
+  "address": "2207 Charolais Dr, Fort Collins, CO 80526, United States",
+  "phone": "+1 970-889-2686",
+  "phoneRaw": "+19708892686",
+  "website": null,
+  "plusCode": "HV5J+7V Fort Collins, Colorado, USA",
+  "url": "https://www.google.com/maps/place/Clearflow+Sewer+and+Drain+Cleaning/data=!4m7!3m6!1s0xeba7226b3739d6f:0xd23b991b44b41dac!8m2!3d40.5582405!4d-105.1178092!16s%2Fg%2F11wtl7_w_5!19sChIJb51zsyZyug4RrB20RBuZO9I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CO",
+  "city": "Fort Collins",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Clearflow Sewer and Drain Cleaning",
+  "folderName": "Clearflow Sewer and Drain Cleaning",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

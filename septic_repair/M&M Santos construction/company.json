@@ -1,0 +1,53 @@
+{
+  "name": "M&M Santos construction",
+  "rating": 4.9,
+  "reviewCount": 98,
+  "category": "Septic system service",
+  "address": "19894 Sherwood Dr, Cleveland, TX 77328, United States",
+  "phone": "+1 936-718-3708",
+  "phoneRaw": "+19367183708",
+  "website": null,
+  "plusCode": "8PJR+PM Cleveland, Texas, USA",
+  "url": "https://www.google.com/maps/place/M%26M+Santos+construction/@30.3318149,-95.2582552,17z/data=!3m1!4b1!4m6!3m5!1s0x8647431ee8c0324b:0x50af623d9714d7be!8m2!3d30.3318149!4d-95.2582552!16s%2Fg%2F11fk165fsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Conroe",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/M&M Santos construction",
+  "folderName": "M&M Santos construction",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

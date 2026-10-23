@@ -1,0 +1,66 @@
+{
+  "name": "Schulteis Pumping LLC",
+  "rating": 4.8,
+  "reviewCount": 41,
+  "category": "Septic system service",
+  "address": "151 James St, Slinger, WI 53086, United States",
+  "phone": "+1 262-644-5071",
+  "phoneRaw": "+12626445071",
+  "website": "http://schulteispumping.com/",
+  "plusCode": "8PJ5+H7 Slinger, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Schulteis+Pumping+LLC/@43.3314158,-88.2918364,17z/data=!3m1!4b1!4m6!3m5!1s0x88045b11ebfa6b6d:0xbe2996f444e99d86!8m2!3d43.3314158!4d-88.2918364!16s%2Fg%2F11r9gsh3t4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Milwaukee",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Schulteis Pumping LLC",
+  "folderName": "Schulteis Pumping LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLde7hrdjlUm77xhDW--0v2T87cQ4kiebaAB4ywG4QO5mHuA8SeEntzlnYS0r7Nka2StK61Bu1wJR1qggKc6RdGDqBxmbC7Z_XGFyfLOA1HwcpCXLku0Od2AHtWfiAXXoNBinbFMjw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jodi Stehli-Oblamski",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

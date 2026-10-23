@@ -1,0 +1,59 @@
+{
+  "name": "Palmetto septic solutions LLC",
+  "rating": 4.9,
+  "reviewCount": 74,
+  "category": "Septic system service",
+  "address": "1020 Lindler Dr, West Columbia, SC 29170, United States",
+  "phone": "+1 803-678-9885",
+  "phoneRaw": "+18036789885",
+  "website": "https://www.facebook.com/share/14bNfkRP5eK/?mibextid=wwXIfr",
+  "plusCode": "WRMV+5M West Columbia, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Palmetto+septic+solutions+LLC/@33.9329233,-81.1558637,17z/data=!3m1!4b1!4m6!3m5!1s0xa40741b992298c3:0x8852235abac30758!8m2!3d33.9329233!4d-81.1558637!16s%2Fg%2F11yz8lv__z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Columbia",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Palmetto septic solutions LLC",
+  "folderName": "Palmetto septic solutions LLC",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Ian Robinson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

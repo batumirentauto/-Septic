@@ -1,0 +1,53 @@
+{
+  "name": "Arc-O-Rooter",
+  "rating": 4.8,
+  "reviewCount": 66,
+  "category": "Plumber",
+  "address": "24 Staples St, Danbury, CT 06810, United States",
+  "phone": "+1 203-743-9291",
+  "phoneRaw": "+12037439291",
+  "website": "http://www.arcorooter.com/",
+  "plusCode": "9GWG+CJ Danbury, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/Arc-O-Rooter/data=!4m7!3m6!1s0x89e7f90ec9053287:0x49240423b89c95f3!8m2!3d41.3960787!4d-73.4734706!16s%2Fg%2F1thxm2qq!19sChIJhzIFyQ7554kR85WcuCMEJEk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "Danbury",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Arc-O-Rooter",
+  "folderName": "Arc-O-Rooter",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

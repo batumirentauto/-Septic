@@ -1,0 +1,77 @@
+{
+  "name": "1-2-3 Septic Services",
+  "rating": 5,
+  "reviewCount": 116,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 574-440-0413",
+  "phoneRaw": "+15744400413",
+  "website": "https://123septicservices.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=a90dba65-fd9f-4c38-9c71-da4c6d7134b6",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/1-2-3+Septic+Services/@41.782014,-86.446897,9z/data=!3m1!4b1!4m6!3m5!1s0x67b7b647d5640f77:0x5d5783d66c6ee3c1!8m2!3d41.782014!4d-86.446897!16s%2Fg%2F11l24xsr47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IN",
+  "city": "South Bend",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/1-2-3 Septic Services",
+  "folderName": "1-2-3 Septic Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3pEDD4WXnZQADxaDgveUhR1__bDcwDiUL3K1mytzBkJ3vRED0k3DPHixqAKRDkHKPSWLalg36grNwrQJn3c72zOG1FAUp6lw8rqHxjLFyIMsgH1hhx2ViAje-6W26s4fF56S8O1oYIy-t=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz9QmaFPR--aoC2dDdRMXTMXsR2Vp8O9XPbcMb0fIcPlAkwP6tHxyaTv-xhAIJV0H7oa6xP6mmNp2hjtlFKE_7PF4GrP6EUJKOV4DDJgixtjrc22nosLRvLikAKXbURJnWmrKk11NpwPuw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Benjamin Ruiz",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Benjamin Ruiz",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

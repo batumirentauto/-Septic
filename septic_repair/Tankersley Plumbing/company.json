@@ -1,0 +1,48 @@
+{
+  "name": "Tankersley Plumbing",
+  "rating": 4.7,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 901-282-6989",
+  "phoneRaw": "+19012826989",
+  "website": "https://www.facebook.com/tankersleyplumbing/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Tankersley+Plumbing/@34.7790844,-89.8999825,9z/data=!3m1!4b1!4m6!3m5!1s0x887f8204e702543f:0xee2789cbf50a6571!8m2!3d34.7790844!4d-89.8999825!16s%2Fg%2F1tfrhjd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Memphis",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tankersley Plumbing",
+  "folderName": "Tankersley Plumbing",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsq6gkq1mtLhkYlkSEvBHFjSIOzOC_QhSI1Qnw076_a7hMR7b9AXkX1GSeV8P119SsnlK4FROXzXC2QSI8eWukPMBDUD6nR0GMsHURByqMSb_4mf0ea5VcuwYFKhrkzUoMHw9wNtvZYtfy=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwST4gdoS0YLlQgrbAgOpbkCt-5rkkU8WEgsGtay4oAb6Qchdnx3Phov4J2YPG0Yz-hvq-BBvBMzoWWAkFPnn1WxpP6P1qdEkYbXoeWDZsg_NYN4xBJ76ClZRHontXObkxvjRi-DG31ZCH=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "AR",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Regena Gunter",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

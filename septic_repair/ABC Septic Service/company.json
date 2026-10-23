@@ -1,0 +1,53 @@
+{
+  "name": "ABC Septic Service",
+  "rating": 4.9,
+  "reviewCount": 117,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 239-628-6200",
+  "phoneRaw": "+12396286200",
+  "website": "http://abcsepticserviceflorida.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/ABC+Septic+Service/data=!4m7!3m6!1s0x88db59faa8f6117d:0x1e51aef81fae4cce!8m2!3d28.412587!4d-82.439688!16s%2Fg%2F11jg7wnn0w!19sChIJfRH2qPpZ24gRzkyuH_iuUR4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Fort Myers",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ABC Septic Service",
+  "folderName": "ABC Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

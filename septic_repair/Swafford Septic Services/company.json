@@ -1,0 +1,66 @@
+{
+  "name": "Swafford Septic Services",
+  "rating": 4.9,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "193 Lynn Rothwell Rd, Pikeville, TN 37367, United States",
+  "phone": "+1 423-447-2212",
+  "phoneRaw": "+14234472212",
+  "website": null,
+  "plusCode": "JV3X+8M Pikeville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Swafford+Septic+Services/@35.6032759,-85.1008568,17z/data=!3m1!4b1!4m6!3m5!1s0x8860bb93c8e447c3:0x582a757b23f69c43!8m2!3d35.6032759!4d-85.1008568!16s%2Fg%2F11spxwx100?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Chattanooga",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Swafford Septic Services",
+  "folderName": "Swafford Septic Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmgAzNiO8JtpEg5tCQ3m_PrV2zEsFwwGTueJQ9yf8MwSeo_TdNsPdhHSedf_ON_1Tu1xJbIZuoNETP3kWoqjT4zQyngfiCDCOYg7DymcGUopIAy5X7DDc5d8EUYiaWlUHuqxWIt8orVRVn=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rob Christian",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

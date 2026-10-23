@@ -1,0 +1,59 @@
+{
+  "name": "Oberkramer Septic Solutions, LLC",
+  "rating": 5,
+  "reviewCount": 105,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 636-495-9900",
+  "phoneRaw": "+16364959900",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Oberkramer+Septic+Solutions,+LLC/@38.3378005,-90.6153034,9z/data=!3m1!4b1!4m6!3m5!1s0x6e2bec21ba2ad45b:0xe22353f0eb23f0ec!8m2!3d38.3378006!4d-90.6153034!16s%2Fg%2F11vymv1plt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Saint Louis",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Oberkramer Septic Solutions, LLC",
+  "folderName": "Oberkramer Septic Solutions, LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRrbmM063WSWBKa1B1gkwypn4iC22lo-YGsjS10mCMeZb13HPcBNAD-S6O-HBGMld4-DmzppLo-2J4CUrU4cTkPQl63bePK0n8tCtdAwN65YWB3xlNabU2no6sgx-wTZUcLRre-ZoS7l4V=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxG-6uK9g5NOrVlFgH0M88jlYkajjlD_OHRCuNrf0JC_o63AmwtEnY7iOaXhoJGDJJYCyxNV247ZohMgsHLckSdrN7xi4vktPdSUj_mNLPw7l84uXTYSQhXbyW_2uowOvoV7EcUb3jGoc=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVXG1rNqE5y12RsReYvI7xeqFVEiK1fOWwkL_Abdhkh3NXo3xzILo932EEWB8XxiV8mK0NLJ6gG-7HOyqdDmcokdm_4RzrExKICtmSBGupKv2cibUDuH-gfCY5OoYqb4yOIPNpXrpUCbKt=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dave Roberts",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Dave Roberts",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "sheena cookerly",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

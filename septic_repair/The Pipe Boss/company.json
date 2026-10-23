@@ -1,0 +1,66 @@
+{
+  "name": "The Pipe Boss",
+  "rating": 5,
+  "reviewCount": 94,
+  "category": "Plumber",
+  "address": "1100 Cypress Cir, Winston-Salem, NC 27106, United States",
+  "phone": "+1 336-729-8993",
+  "phoneRaw": "+13367298993",
+  "website": "https://thepipeboss.com/",
+  "plusCode": "4PWC+62 Winston-Salem, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/The+Pipe+Boss/@36.145618,-80.2798944,17z/data=!3m1!4b1!4m6!3m5!1s0x28415011207165f7:0x82951d201ca963b4!8m2!3d36.145618!4d-80.2798944!16s%2Fg%2F11vwy5pyxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Winston-Salem",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/The Pipe Boss",
+  "folderName": "The Pipe Boss",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLflU5KJepDAybA0UeFZAuuvc9Ya4fWjseGdBwZT3hojh0IdoO1K5wbVCYGO-GluxTPboxMcuPxukBLbBJHuoB9fr9KTqXRciWnSbnYeuoPeLixPPHZXG4WxQG5HASqvLjKsa8FjzQFF6yPx=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Tracey Kendrick",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

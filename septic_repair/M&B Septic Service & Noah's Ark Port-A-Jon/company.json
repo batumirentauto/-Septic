@@ -1,0 +1,88 @@
+{
+  "name": "M&B Septic Service & Noah's Ark Port-A-Jon",
+  "rating": 4.6,
+  "reviewCount": 58,
+  "category": "Septic system service",
+  "address": "3 Van Cleef Rd, West Milford, NJ 07480, United States",
+  "phone": "+1 973-838-5840",
+  "phoneRaw": "+19738385840",
+  "website": "http://www.mbsepticservices.com/",
+  "plusCode": "2JRG+WM West Milford, New Jersey, USA",
+  "url": "https://www.google.com/maps/place/M%26B+Septic+Service+%26+Noah's+Ark+Port-A-Jon/@41.0422791,-74.373288,17z/data=!3m1!4b1!4m6!3m5!1s0x89c31af6e733663d:0xfbf889bc857ce3ce!8m2!3d41.0422791!4d-74.373288!16s%2Fg%2F11_t8dxl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Toms River",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/M&B Septic Service & Noah's Ark Port-A-Jon",
+  "folderName": "M&B Septic Service & Noah's Ark Port-A-Jon",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9DOWBr49of4fggKwgKMziIWTkZoVssJvvOJUlaPuRUp12fsVqjASx_4GYcSPLwtpBIR5DJP1rtCKoiPMV_5Gnrh2yytPEj0YMuZkyJbUC2-XdTpIp_-b_dGNlHPeDfFaThzCozXoYOa4j=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpJbMjrXStg8qeQqPrIyPQPgSsGoi3rxdone6zEIt7PaYLnjgEZlGm-v4SI2qh96piV0bVEy-6VNDm81mMJhAL3aoIDDTlZgK9AFW5JlmMOwxDEabMm_6HQcRRvrQC6T3QztvcUSiqL7M=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezd8Ig-RrGEPQIhFnxrBDzubaqjVU9x4kycSeh5IMv9lhECy1_yS1f3yW1QPSqFjkgLpCpkLmCFXh_Cn1KomOe5Y3xSnXZHEhFfUcuRviXIrpXnuKiwahWX77ET5zyTLHUStubl67s8UWj=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Adam Salazar",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Douglas Haber",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Douglas Haber",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

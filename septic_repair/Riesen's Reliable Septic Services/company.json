@@ -1,0 +1,53 @@
+{
+  "name": "Riesen's Reliable Septic Services",
+  "rating": 4.8,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": "N4084 County Road M, Montello, WI 53949, United States",
+  "phone": "+1 608-589-5212",
+  "phoneRaw": "+16085895212",
+  "website": null,
+  "plusCode": "QGQJ+97 Montello, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Riesen's+Reliable+Septic+Services/@43.788453,-89.469256,17z/data=!3m1!4b1!4m6!3m5!1s0x88072b536e7fa413:0xb6a28d3bc4ad1936!8m2!3d43.788453!4d-89.469256!16s%2Fg%2F1tdp5mct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Riesen's Reliable Septic Services",
+  "folderName": "Riesen's Reliable Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

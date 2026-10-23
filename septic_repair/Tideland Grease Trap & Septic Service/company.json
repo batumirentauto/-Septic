@@ -1,0 +1,53 @@
+{
+  "name": "Tideland Grease Trap & Septic Service",
+  "rating": 4.9,
+  "reviewCount": 82,
+  "category": "Septic system service",
+  "address": "13219 FM1764, Santa Fe, TX 77510, United States",
+  "phone": "+1 409-925-4324",
+  "phoneRaw": "+14099254324",
+  "website": "https://tidelandgreaseandseptic.com/",
+  "plusCode": "9VRX+5C Santa Fe, Texas, USA",
+  "url": "https://www.google.com/maps/place/Tideland+Grease+Trap+%26+Septic+Service/@29.3904779,-95.1014026,17z/data=!3m1!4b1!4m6!3m5!1s0x864081753178b61b:0x4d995791b75c74f6!8m2!3d29.3904779!4d-95.1014026!16s%2Fg%2F1tk_k2jt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Houston",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tideland Grease Trap & Septic Service",
+  "folderName": "Tideland Grease Trap & Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

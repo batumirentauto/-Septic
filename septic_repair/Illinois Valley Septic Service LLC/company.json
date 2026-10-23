@@ -1,0 +1,66 @@
+{
+  "name": "Illinois Valley Septic Service LLC",
+  "rating": 5,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 815-656-7867",
+  "phoneRaw": "+18156567867",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Illinois+Valley+Septic+Service+LLC/@39.7393894,-89.266507,7z/data=!3m1!4b1!4m6!3m5!1s0x26f58e438e559d25:0x43db4b8cd556a026!8m2!3d39.7393894!4d-89.266507!16s%2Fg%2F11xdxhyhgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Illinois Valley Septic Service LLC",
+  "folderName": "Illinois Valley Septic Service LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOiceKy00sqCQ8L1pnaULZCiGC687MLhriNfQx_orYzbaqGWXCjQEH00KlCsCn5tWuq2IrgW4zjUUcitp7IO1t7wZ2hOT9rwHIUZpC4cQcm15OB0WfYENAV4OqdBYdC5dXN4HcCY0FV2Hx=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Javier Garcia",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

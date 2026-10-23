@@ -1,0 +1,53 @@
+{
+  "name": "England Septic Tank Cleaning",
+  "rating": 5,
+  "reviewCount": 55,
+  "category": "Septic system service",
+  "address": "120 Chilcut Rd, Cookeville, TN 38506, United States",
+  "phone": "+1 931-854-0447",
+  "phoneRaw": "+19318540447",
+  "website": "https://englandseptic.com/",
+  "plusCode": "6H34+5W Cookeville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/England+Septic+Tank+Cleaning/@36.2029417,-85.4427354,17z/data=!3m1!4b1!4m6!3m5!1s0x8867195ffd12a22f:0x935b05f112165d9d!8m2!3d36.2029417!4d-85.4427354!16s%2Fg%2F11syn3cnqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт не открывается (EPROTO)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/England Septic Tank Cleaning",
+  "folderName": "England Septic Tank Cleaning",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

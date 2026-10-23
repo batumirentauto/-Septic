@@ -1,0 +1,53 @@
+{
+  "name": "Brazos Septic Solutions",
+  "rating": 5,
+  "reviewCount": 156,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 254-235-3897",
+  "phoneRaw": "+12542353897",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Brazos+Septic+Solutions/@31.5095935,-97.2083175,9z/data=!3m1!4b1!4m6!3m5!1s0x864fa15ee3e8f5fb:0xfc00f0997bfbfc9d!8m2!3d31.5095935!4d-97.2083175!16s%2Fg%2F11j320t1k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Waco",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Brazos Septic Solutions",
+  "folderName": "Brazos Septic Solutions",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

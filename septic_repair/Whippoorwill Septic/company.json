@@ -1,0 +1,121 @@
+{
+  "name": "Whippoorwill Septic",
+  "rating": 5,
+  "reviewCount": 49,
+  "category": "Septic system service",
+  "address": "7000 US-69, Lufkin, TX 75901, United States",
+  "phone": "+1 936-302-2489",
+  "phoneRaw": "+19363022489",
+  "website": "https://whippoorwillseptic.com/",
+  "plusCode": "79PC+V7 Lufkin, Texas, USA",
+  "url": "https://www.google.com/maps/place/Whippoorwill+Septic/@31.2871991,-94.6293436,17z/data=!3m1!4b1!4m6!3m5!1s0x86383dfbdfccf961:0x4c454bf2653b1f96!8m2!3d31.2871991!4d-94.6293436!16s%2Fg%2F11gy8gbylt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Tyler",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Whippoorwill Septic",
+  "folderName": "Whippoorwill Septic",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfw9Ux55tDiwihN9NAQjhBYMOWnEk3QL0rqISULXMFxHHZDDpPOsJIIK6f9tdcJEOjGe8IgNpayUgE5IAUz7ESN8GSrTri8P6gY1G1iW9Eg2SijceSrjxiCJHF7qUNTrpZzzO-3pV4vtB7r=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGrz0uCG0uUeUJVX5vZY_jNGjRDwoyonkt21Mo3bWDMbvGUcnr8VQkYA5bUHBa_x_8nqoAzOWnEy8Z4enSGRWH5rGDEL12b3SmtFtkmCiJGa9S-UXaKoqFBdVUYk5_6dEuEjeDwzB3YSvH=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDaTEMQURVBwVGgAeATDM2a-FRUwJ8Sm1r_7nrkZpyjSRVhNb9me0oVfIwnpUGNLWze8paBj0b9dSAg7AmR9mAxb6GyicU6z2uiwNwXQUYRo7NzNkXu7lENzUrVvvd8782g_Hyegc-CBb7=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLee2K3zgb9eqyRs2g6UJoXozD8ngxP8ngAzpFJWgZs48UiJkZbJNpOWwcjEW38q-_MC4cijJqwQiKw3OPOdqhzjImWBQu73SCNo7DkpinAj91M2sXwCemI-r2S56zseGjGD5ygTWL9cdxBm=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvnhjXaTtGNnSpooDY9wtWIFcjzBLEW6fwjw940cSqcSXgRqaI6c6czno0kcY5LnHndJyBAwW60pav6iHlD0pMw98vUFM0GmJmhDqYY8ObQRsq6AJ6Qr7Lz8eUq1HoqL9ykLG9Trg6iWeK=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0B45buYa41RttYi3zpMj7_M2lVhHfBs5jOzmWsDK0G1JMaDF2_Mm1lZwaaG_tW9HlfZOnpM16b8gnnzsAqRPCKfbJcNAMLWWLBPKbLdsmkBWajX9xfO_s_MkrHuN-FWaqoXtejE53TqGn=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Chase Capps",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Greg Dawson",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Greg Dawson",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "andrea devincentz",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "andrea devincentz",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Greg Dawson",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

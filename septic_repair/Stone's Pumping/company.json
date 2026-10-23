@@ -1,0 +1,143 @@
+{
+  "name": "Stone's Pumping",
+  "rating": 4.9,
+  "reviewCount": 81,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 423-458-5606",
+  "phoneRaw": "+14234585606",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Stone's+Pumping/@35.5184431,-84.7048879,9z/data=!3m1!4b1!4m6!3m5!1s0x601ba48ae407a58d:0x922a6baed8bbf4c6!8m2!3d35.5184431!4d-84.7048879!16s%2Fg%2F11rzsyfjhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stone's Pumping",
+  "folderName": "Stone's Pumping",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrGuXaCcQOfFJhgZ50zZOMbcT0CMmRz76ZKfKFbCDlcI6hmCXFI7k755hcxijU8OB-4LAx6u7EZOCtkLoYx6QYMaMncf34qaW_VHtgjbeGuFSDJPW9z_dk9iyliObrt3dmIOY=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP5jKPtjPZfxMvhEYxO6dGkhXN3qbl7cYzwatNAA0qQ4E_HtHvH-JsLt2CLZveJfSXcHvP_6jBoE5mZOTDOoWeFQhVjv_fTLkUBkSPFTRhM0gnj04vY9LIrVHF9XwtjAuyYnNT=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL4SxAOxsDrTepT7f73PVbxiLota57YQIudjUw24CeGHaPNiE6nPO875jfkL8YZex_RojwLOMT5rQVuHof6qRC8IiZp2rz_53zTByIWURty0vJLPI1BdTFPCRPCoww742xbC4s=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd29wTaodBGnancm-hkU5kXhhCi94ZAQUEfb1hCuqM0LcIWIs7l2PyE9mtIYXR_FaikQUM4xXZmTP1gSa6VqQutiDa1OmI59PgelH6HvXELiiIpmC8kPBtwPYVpThIWLmtIUWnyA=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsmwHhMccAWApnraiNhV2jqGJ3mfqRIegp3Y-wqtMXC9Hp2Ado_mrU-Dqr3zBDsH-Ys2w2inASzBR6ROPXDqwnS_pGLUhH2-WMZJ5HBB10joB58pta1owsdKtNNwyW88m7gMONvY4NuU1p=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtFc9gxMfF2hTUKN9M9-b5qhvDjga2lijw3heM9_fnFIEMESi_kYXeO2qt2raJfx7-RvKIf4c1q37myW39rxqTay9TWp2_22tJqqsZzD4S2jWhkbSCj5KhlgNx6wBukEiWiqG5fSfqgak=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeholNxWIJRPfnT7T5ajSDBMpi4hAK9yKZWt8hmtq25iHHTiy2MH82QkmEdF6v80w17iZOn4GKIiU2_wXO59XIg0oDCJufoiLX3BlwauNwKau349EljVP6YnbvnAyhK8Z0tXY3ZixO1T4-i=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt2O2tbaftR761wVOOtI8zZV5x57EBG-4pFDCpUJEbrWgLz4vfsVgqOj6_YkdVqaIJgEskBkCjgpYfuxG3M3Z5pk0K8UZ_MwchmBSpSv6St1lAVLNRWNNegczX7IeswYZQOK2EBkF6opi6=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ricky Evans",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "S Jewett",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Shannon Daffern",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Pearl Foster",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Shannon Daffern",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "S Jewett",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Ricky Evans",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Shannon Daffern",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Watts Service Company Plumbing & Septic",
+  "rating": 5,
+  "reviewCount": 52,
+  "category": "Septic system service",
+  "address": "154 Maxwell Chapel Rd, Unionville, TN 37180, United States",
+  "phone": "+1 615-971-0975",
+  "phoneRaw": "+16159710975",
+  "website": null,
+  "plusCode": "JF62+JF Unionville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Watts+Service+Company+Plumbing+%26+Septic/@35.6115858,-86.5488473,17z/data=!3m1!4b1!4m6!3m5!1s0x8863ed9c13224b7f:0x473f993959d46d35!8m2!3d35.6115858!4d-86.5488473!16s%2Fg%2F11xsblxff2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Watts Service Company Plumbing & Septic",
+  "folderName": "Watts Service Company Plumbing & Septic",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKlLpR2MciHeO5dJVWLBPyzYa4Hf5QNwaL6oegbKSUqD0DHVmkylWX47nfooWf_tzwCjqpALY-BzhMfAjsa6v-98ew7fygO-p_GakjbkqxoI0LF4GDd0_S-VbbCR5Zt9IslXM1hdUgYL2z=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcreRsqvgXIHrHkfpEnJS9-Zyyj6UmPOQoHpG5LD0la1F1Cm1TITYJD57YrLYFrP0Lu2Md31aznX1Ng6Hb4yyerSUvP1m_whvraO5E5Yi1KszCB7g9w8H8L9A2pI_zg_vXsQL9JcuLGv2nw=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAvzzyhSqTlO3-uOBMl0u7864N-VFR9PcMkGMV_eMuQfxS3wOzRlllT76OOIs6KADZv6d0QR2tvHPwZlQuNXW2l9RE1xWX7C2y8OGSOB3lSIZvzpPeCr8-LP9af2OdFKfdoSreEFA7mrHx=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNNnTExwHFMC3H9lKT4yrje3iRE8OPItsv5GzilGbEEni03agLa6yTp-nP8oCFFvOCmZUbTPx-pfaUJDobmleTZwHINndG7qwdxbFWiFAjQeMAYgQCAEhUWHOpzOFOzgH4BNhYpib9HAz0=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "cashrowdy",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "cashrowdy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "cashrowdy",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "cashrowdy",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

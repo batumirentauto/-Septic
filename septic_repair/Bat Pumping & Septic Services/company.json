@@ -1,0 +1,53 @@
+{
+  "name": "Bat Pumping & Septic Services",
+  "rating": 4.8,
+  "reviewCount": 36,
+  "category": "Septic system service",
+  "address": "Roush Ln, Amberg, WI 54102, United States",
+  "phone": "+1 715-759-5224",
+  "phoneRaw": "+17157595224",
+  "website": null,
+  "plusCode": "GX54+J4 Amberg, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Bat+Pumping+%26+Septic+Services/@45.509104,-88.044628,17z/data=!3m1!4b1!4m6!3m5!1s0x4d52f9580ca84be5:0xd66ecf8d07202ff5!8m2!3d45.509104!4d-88.044628!16s%2Fg%2F1wtbtjg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bat Pumping & Septic Services",
+  "folderName": "Bat Pumping & Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

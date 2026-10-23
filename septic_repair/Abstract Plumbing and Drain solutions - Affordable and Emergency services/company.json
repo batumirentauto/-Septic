@@ -1,0 +1,66 @@
+{
+  "name": "Abstract Plumbing and Drain solutions - Affordable and Emergency services",
+  "rating": 5,
+  "reviewCount": 35,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 918-291-3159",
+  "phoneRaw": "+19182913159",
+  "website": "https://abstract-plumbing.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Abstract+Plumbing+and+Drain+solutions+-+Affordable+and+Emergency+services/@35.3090495,-98.7167134,7z/data=!3m1!4b1!4m6!3m5!1s0x2e48cf36a463d9:0x52e9f1bda6838f0e!8m2!3d35.3090496!4d-98.7167134!16s%2Fg%2F11st_dxsb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Broken Arrow",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 521)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Abstract Plumbing and Drain solutions - Affordable and Emergency services",
+  "folderName": "Abstract Plumbing and Drain solutions - Affordable and Emergency services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO6XoZQlPH-XAuHApJHY3MqTg_gO1zvf20ePQ5K-SdB2_zwthslHuJqd0tvzaHq_YGFElbkT5Ka2ZEO2vs9vP8GHO-qICibgq5PBb2C3z0_QJJ2qh5wNbHPVtk6hnIizmYyDvK=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Eric Lukasavitz",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

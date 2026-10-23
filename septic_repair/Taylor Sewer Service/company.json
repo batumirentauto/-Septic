@@ -1,0 +1,53 @@
+{
+  "name": "Taylor Sewer Service",
+  "rating": 4.7,
+  "reviewCount": 25,
+  "category": "Plumber",
+  "address": "6220 Magnolia Ave, St. Louis, MO 63139, United States",
+  "phone": "+1 314-644-0228",
+  "phoneRaw": "+13146440228",
+  "website": null,
+  "plusCode": "JP64+MM St. Louis, Missouri, USA",
+  "url": "https://www.google.com/maps/place/Taylor+Sewer+Service/@38.6116633,-90.2932525,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5789164b84b:0xe591a32072d8f61b!8m2!3d38.6116633!4d-90.2932525!16s%2Fg%2F1v6l80h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Saint Louis",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Taylor Sewer Service",
+  "folderName": "Taylor Sewer Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

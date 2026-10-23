@@ -1,0 +1,176 @@
+{
+  "name": "Jimmy Septic",
+  "rating": 5,
+  "reviewCount": 143,
+  "category": "Septic system service",
+  "address": "4370 Lawrenceville Hwy #2764, Lilburn, GA 30048, United States",
+  "phone": "+1 770-545-9826",
+  "phoneRaw": "+17705459826",
+  "website": "http://jimmyseptic.com/",
+  "plusCode": "VVXF+MC Lilburn, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Jimmy+Septic/@33.8992449,-84.1264492,17z/data=!3m1!4b1!4m6!3m5!1s0x88f5a5616e04708f:0x8a3943b9497a386b!8m2!3d33.8992449!4d-84.1264492!16s%2Fg%2F11h5pygg32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Atlanta",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jimmy Septic",
+  "folderName": "Jimmy Septic",
+  "totalPhotosDownloaded": 22,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdA7bljiqvWDBk-stI_0nK7a48_qB3Qk2rNdYCKShMGplDsMgy10BLdmHwt7YKCoLqTqRMPT9hh3SZy60UuLHbKtXOxatf-4Sx3SHkfq3mgwxU7qxWCAMqkTa5vs7ubvgqfU13gnWPTd4DF=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmoEgTL8ewVXG08O5B58AXlLhPbrm3KSkrKspavaWltu9QXumEfvajGe1-BFa7w4wRbOdJgrN5vwudzHNnWNg9OFhm0OROZppOXcAgdcBH5PsgTSHbfbQYMPJ954cgwZoO2y-JFT5RTsbs=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctBRiV9WxNWySRJV8DhtZ6MdFvY1ly9G9Z-mjvaClqI7weRi3jk8Hk-43XShF2WNPlSNDJc34_fkRTpZkesiLPhJ_D2Qevc4xb1sSQh3Lxa0kwR-1tGYpYN8EqgVNWrWQDCqVxOQoEK3CB=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQNkgVtSoCX7l8iIpcPwra_2HTo1BfFZ4DYx9zDjHufv34YBekeUf4G2jGeM6DZh7aQedcsVuyCQ2vPkX2vcYIZSxHNDDEQYH02mDnpVrh35klG3rPrZzrva4lBcmwtun3l3iJU224zXNZ=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd71y5MTp8Q_IVkDXfNSCOefWRe5AKU4sR6yQw-bmdpqJdLMc2Lrp2SIZAz56D5pn5vPhGuGwhIJPgZ8pGosNWmAOCK_2TdcodpTiyiajVldYQZYbm8CsnR7R02BN0uze9Hh4RR57jIkks=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCamvcf2MWQH1568leFP0P2zmSABkr4Q8GTOyqYbnQovgSXDr9wHEIF75fE1-xi9G9Jb7gdJ11oOLlVWS0F0LnkLGK3q_PR-ibv1Gvu8aP1uluPTmcP6SsUSpXenveLlfFuTWh4X5oFWXW=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTzZUrWJFJBGZsikekrylUJ9MJMGScrVGu8wvDs902ePf_ckZ0m3ui4mnZshqR4zv16XtRJMsORIK8lmvMz7aD2z0lAvR9HYSvsVnRWxjcE21A-XeW6GIhwMjfjIACMX6CcVR5n-KfLuvj=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjK0SNR3vQuaaOLPZlClXK-dC6BJ15YhzyMi_2gFdxU3E_qJ-BCFST0aHvaEuRdpYlj_A1vh7TA-4lxVTE3FST0gvaG4DYMSg8q9I-y7FdBFwYEqQZt-ngu-gy0-3gyM0fWo5hg0tHIfg=s0"
+      },
+      {
+        "index": 11,
+        "file": "photo_011.jpg",
+        "relativePath": "photos/owner/photo_011.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb9GTFNqaWv5VMCF9R3x2Nxgup_TluWD9wLk6MdkXJLDSlbvovaQG1NSAJ4_IWoDUg7TW5sRfLgyJpiB1PV4_nvOaNgD8wL0pFFJ9qIflqWJL1S_ycSgrUbDW9NbnKKM8XtdVBoeCgF_8=s0"
+      },
+      {
+        "index": 10,
+        "file": "photo_010.jpg",
+        "relativePath": "photos/owner/photo_010.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfV1nG1OaMpC-7pXWnpTZ74YZEPIDaUu0hxMwFN11ZUcc9Y3oKXQ4nWdZNjVGSoApE0dzG-u0l9QtooxDaAU9mDFWGC9VtxNFFTqVmExklTWzgXwO83Wkc9HDQaRVpODyhLUvTrLFk6JlU=s0"
+      },
+      {
+        "index": 9,
+        "file": "photo_009.jpg",
+        "relativePath": "photos/owner/photo_009.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegb9b80q60Bbi_nqJL6ai6G4GysQ7GgWv39OpCXttqFX5G76Z57ZGsQlBmTRz0vU7n1Y-b17k8IczCkst1lKuexW8IHW_-E9pfGyWeSf1zwYiKARO7bYqorHPKVx6h6wg8iYlae5_tGycZ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Julian Zamora",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Julian Zamora",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "W W",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "James Cahill",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "James Cahill",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "James Cahill",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Julian Zamora",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "James Cahill",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "W W",
+        "file": "review_photo_009.jpg",
+        "relativePath": "photos/reviews/review_photo_009.jpg"
+      },
+      {
+        "author": "W W",
+        "file": "review_photo_011.jpg",
+        "relativePath": "photos/reviews/review_photo_011.jpg"
+      },
+      {
+        "author": "W W",
+        "file": "review_photo_010.jpg",
+        "relativePath": "photos/reviews/review_photo_010.jpg"
+      }
+    ]
+  }
+}

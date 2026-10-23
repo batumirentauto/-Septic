@@ -1,0 +1,53 @@
+{
+  "name": "A Accurate Septic Service",
+  "rating": 5,
+  "reviewCount": 46,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 828-216-1625",
+  "phoneRaw": "+18282161625",
+  "website": "https://www.aaccuratesepticservice.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/A+Accurate+Septic+Service/@35.6929663,-80.8090786,8z/data=!3m1!4b1!4m6!3m5!1s0x449537ca1b4dbf2b:0x10a87e944f553218!8m2!3d35.6929664!4d-80.8090786!16s%2Fg%2F11wx0rsryk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Asheville",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A Accurate Septic Service",
+  "folderName": "A Accurate Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

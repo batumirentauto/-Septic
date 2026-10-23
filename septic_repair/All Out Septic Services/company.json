@@ -1,0 +1,53 @@
+{
+  "name": "All Out Septic Services",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 865-299-3668",
+  "phoneRaw": "+18652993668",
+  "website": "https://www.facebook.com/AllOutSepticServices",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/All+Out+Septic+Services/@36.135507,-85.2891725,8z/data=!3m1!4b1!4m6!3m5!1s0x4d0634979eb69a9d:0x54daaffebb4d6d7e!8m2!3d36.135507!4d-85.2891725!16s%2Fg%2F11sd3856_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/All Out Septic Services",
+  "folderName": "All Out Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

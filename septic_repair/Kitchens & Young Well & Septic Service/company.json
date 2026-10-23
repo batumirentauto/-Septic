@@ -1,0 +1,66 @@
+{
+  "name": "Kitchens & Young Well & Septic Service",
+  "rating": 4.9,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": "5555 Donnan Rd, Macon, GA 31217, United States",
+  "phone": "+1 478-742-7423",
+  "phoneRaw": "+14787427423",
+  "website": null,
+  "plusCode": "RGQ3+34 Macon, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Kitchens+%26+Young+Well+%26+Septic+Service/@32.8377414,-83.4971724,17z/data=!3m1!4b1!4m6!3m5!1s0x88f153f677e9790d:0x242db958ef727367!8m2!3d32.8377414!4d-83.4971724!16s%2Fg%2F1tgqk7n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Macon",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Kitchens & Young Well & Septic Service",
+  "folderName": "Kitchens & Young Well & Septic Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMY8MLl53NW-9g1fw7M1ywJJO9r3n_WUvbODfBn0eCeNYhqQ7uXf9PStzwmQGhvqXJoCyBHaENKOeam0o-b3GDR4ExPhaTZUGvsK5zBKLhWWKV5EaAX8r7jo1ZjgmzSp-6Gwga=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "shanya Woodall",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

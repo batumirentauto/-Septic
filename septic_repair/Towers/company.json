@@ -1,0 +1,53 @@
+{
+  "name": "Towers",
+  "rating": 4.9,
+  "reviewCount": 77,
+  "category": "Water damage restoration service",
+  "address": "2574 Dora St, Fort Myers, FL 33901, United States",
+  "phone": "+1 239-288-4700",
+  "phoneRaw": "+12392884700",
+  "website": "http://www.towersrestorations.com/",
+  "plusCode": "J4JQ+7Q Fort Myers, Florida, USA",
+  "url": "https://www.google.com/maps/place/Towers/data=!4m7!3m6!1s0x88db6b9206c8b74f:0x71ca4a0d805498bd!8m2!3d26.6306357!4d-81.8605208!16s%2Fg%2F11fb0vzy12!19sChIJT7fIBpJr24gRvZhUgA1KynE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Fort Myers",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 523)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Towers",
+  "folderName": "Towers",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

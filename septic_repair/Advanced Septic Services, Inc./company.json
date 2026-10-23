@@ -1,0 +1,53 @@
+{
+  "name": "Advanced Septic Services, Inc.",
+  "rating": 4.8,
+  "reviewCount": 130,
+  "category": "Septic system service",
+  "address": "14300 East Side St, Groveland, FL 34736, United States",
+  "phone": "+1 352-242-6100",
+  "phoneRaw": "+13522426100",
+  "website": "http://advancedsepticservicesfl.com/",
+  "plusCode": "H549+8G Groveland, Florida, USA",
+  "url": "https://www.google.com/maps/place/Advanced+Septic+Services,+Inc./@28.555828,-81.8311843,17z/data=!3m1!4b1!4m6!3m5!1s0x88e78e451d74c241:0xfb265345a2c988b3!8m2!3d28.555828!4d-81.8311843!16s%2Fg%2F1261dg8gs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Orlando",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Advanced Septic Services, Inc.",
+  "folderName": "Advanced Septic Services, Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "ASAP Plumbing and Drain LLC",
+  "rating": 5,
+  "reviewCount": 126,
+  "category": "Plumber",
+  "address": "2815 Meadow Valley Wy, Cumming, GA 30041, United States",
+  "phone": "+1 404-597-4179",
+  "phoneRaw": "+14045974179",
+  "website": "http://www.asapplumbingdrain.com/",
+  "plusCode": "4VG5+H9 Cumming, Georgia, USA",
+  "url": "https://www.google.com/maps/place/ASAP+Plumbing+and+Drain+LLC/@34.1264109,-84.1415163,17z/data=!3m1!4b1!4m6!3m5!1s0x88f595ab00c62955:0x4abfc76d48da8301!8m2!3d34.1264109!4d-84.1415163!16s%2Fg%2F11gh47ytmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Cumming",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ASAP Plumbing and Drain LLC",
+  "folderName": "ASAP Plumbing and Drain LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeHbHqfLT_Db-czjSGyneYEZcbTsE-pbspjM4z3d5-bGeoYN23csSuU15Sw91cTRJiBm7nGPgrtDhWZeHemoxPsHM1RIKWe-2u5lglbWIZ1kA547MVxFxlRzHtYJfdlmhOibg1we8C9_Xr=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "anri",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

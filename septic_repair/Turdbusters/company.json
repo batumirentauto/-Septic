@@ -1,0 +1,53 @@
+{
+  "name": "Turdbusters",
+  "rating": 4.8,
+  "reviewCount": 67,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 540-776-3200",
+  "phoneRaw": "+15407763200",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Turdbusters/@37.2747875,-79.9580739,12z/data=!3m1!4b1!4m6!3m5!1s0x884d0d5e9a9c0db9:0xc155d4dba87e15f!8m2!3d37.2747875!4d-79.958074!16s%2Fg%2F11fjqk1zvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Roanoke",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Turdbusters",
+  "folderName": "Turdbusters",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

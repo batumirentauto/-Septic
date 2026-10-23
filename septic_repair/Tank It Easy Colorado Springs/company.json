@@ -1,0 +1,88 @@
+{
+  "name": "Tank It Easy Colorado Springs",
+  "rating": 5,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 720-303-4099",
+  "phoneRaw": "+17203034099",
+  "website": "https://www.tankiteasycosprings.com/?utm_source=local&utm_medium=organic&utm_campaign=gbp_home",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Tank+It+Easy+Colorado+Springs/data=!4m7!3m6!1s0x69927c6173dd578b:0x78b512a14babf54d!8m2!3d38.875789!4d-104.752089!16s%2Fg%2F11yf_51rbp!19sChIJi1fdc2F8kmkRTfWrS6EStXg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tank It Easy Colorado Springs",
+  "folderName": "Tank It Easy Colorado Springs",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8N0m3Itgvcw3xbhYW8kfe61s-0aIvL-BoWMm5HPW3Xn7PbJu1gT6y_x2OK0mm3XfjXCfLGqZumxMizT-LiMwq4HqXuwApfUc-AmGV19pQNNJ_lIOb6VY5iesXCamMXviEd9w1ys1tEIX7=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-bXVNRVieIdl_UVJY2INqA8jLHhJui89X8yWOARPD9niYRIVlQ-2SmLmgDsOLEcpJm43-ZCelK7CYQd-E8Pz-RNldYpQACQNN9qfsmeq1BEzSZ69EKjm5_YK3yjwy5kdSR3UyrUYe8l8=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGGorR6Ks3n2JArHJwzXuHqmfA5wNO99rEIsc8j1wxoSDsCiep4vvD8flMJd3SkB6BR206LrmyksSsgnHZVwigAFp6Ls1o1yIf_HdoKunk3wb-K4qisw5ofmDbPnudOsUzhMy2G10Z7tA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Steven Petrie",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Dave Fallon",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Dave Fallon",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

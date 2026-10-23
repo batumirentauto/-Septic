@@ -1,0 +1,77 @@
+{
+  "name": "Eco Grease Pumping Services",
+  "rating": 4.9,
+  "reviewCount": 53,
+  "category": "Waste management service",
+  "address": "4079 Governor Dr #262, San Diego, CA 92122, United States",
+  "phone": "+1 619-609-0937",
+  "phoneRaw": "+16196090937",
+  "website": "http://www.ecogreasepumping.com/",
+  "plusCode": "VQ3X+P3 San Diego, California, USA",
+  "url": "https://www.google.com/maps/place/Eco+Grease+Pumping+Services/@32.8542834,-117.2023416,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc00c162c8273f:0xb5efee1bcfbd2ae6!8m2!3d32.8542834!4d-117.2023416!16s%2Fg%2F11h02mrh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "San Diego",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Eco Grease Pumping Services",
+  "folderName": "Eco Grease Pumping Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwcGvP2HwOTluoD2a12kuoqcQgnd8aIK7NJIzOws7m4muWR1rb-ShPF1SOjXzRC8rJeL_KO6csO_CQkilxJ6NaQd1wPiqaUr_Y7E8Y8Az1vO-zAGZ7kMuQdOcjTg928B5s7cPnk5jOdGzu=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiNYOIX6tEV7TATpYK0AQ3UpYJlv36LCLPXwmsa4j6XQgjWM9ZdRz_v2rYk3x36W-ea1J1BYVc4FESM5jTWTHI9dCmYRRW_DVxJnkXl_US5Pak7tCFJu7Bd1YFUco-b2myVQc5ich8wl9F=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Frank Martin",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Frank Martin",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

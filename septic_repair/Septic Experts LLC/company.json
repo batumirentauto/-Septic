@@ -1,0 +1,53 @@
+{
+  "name": "Septic Experts LLC",
+  "rating": 4.7,
+  "reviewCount": 55,
+  "category": "Septic system service",
+  "address": "228 County Rd 565, Wantage, NJ 07461, United States",
+  "phone": "+1 973-875-8000",
+  "phoneRaw": "+19738758000",
+  "website": "http://www.septicexperts.com/",
+  "plusCode": "59V7+M3 Wantage, New Jersey, USA",
+  "url": "https://www.google.com/maps/place/Septic+Experts+LLC/@41.194166,-74.6373441,17z/data=!3m1!4b1!4m6!3m5!1s0x89c36a33ee147417:0xfc5f136949a572c6!8m2!3d41.194166!4d-74.6373441!16s%2Fg%2F11ddyhzpp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Sussex",
+  "websiteIssue": "Сайт не открывается (Сервер сбросил соединение)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic Experts LLC",
+  "folderName": "Septic Experts LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

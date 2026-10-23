@@ -1,0 +1,66 @@
+{
+  "name": "Yavapai Septic Service",
+  "rating": 4.8,
+  "reviewCount": 59,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 928-300-8989",
+  "phoneRaw": "+19283008989",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Yavapai+Septic+Service/@34.6313005,-111.9649196,10z/data=!3m1!4b1!4m6!3m5!1s0x872d010f2829f1d9:0x23cff80cb75b3b13!8m2!3d34.6313005!4d-111.9649196!16s%2Fg%2F11bwflvvvz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Prescott",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Yavapai Septic Service",
+  "folderName": "Yavapai Septic Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpXQ1mXFMYa6syz7do_68nsd6YBPKAkYHek92BSY0G2aYEhlAsbb57h1SYvxezkzDA7-agsb-PAebxfWotww3-z3lP2ab0Bv0M11oiETQlZlIiaf082RlHc4rARtYKjmSG77DH=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mario Munoz",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

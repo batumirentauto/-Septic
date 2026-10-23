@@ -1,0 +1,121 @@
+{
+  "name": "Lowe's Septic Service",
+  "rating": 5,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "91 S First St, Summerville, GA 30747, United States",
+  "phone": "+1 706-734-4407",
+  "phoneRaw": "+17067344407",
+  "website": "http://lowesseptic.com/",
+  "plusCode": "GMHH+X9 Summerville, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Lowe's+Septic+Service/@34.5298931,-85.3216166,17z/data=!3m1!4b1!4m6!3m5!1s0x64f4b91ccb56da57:0x76579990c45aef23!8m2!3d34.5298931!4d-85.3216166!16s%2Fg%2F11vpkgl2yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Chattanooga",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lowe's Septic Service",
+  "folderName": "Lowe's Septic Service",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfZYDLzHAkBIqWLQONj1FI7Oi4MMjXcgt2GPr4HBfzQSsUjSV-StptpdNLew6YACcSDughBzdrEiG3Fx_E67batfD9yhblqjyGxLjcLSCpmJ0cobEOQkaoBfkUMKxUFN5VuXQI=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7KneKeZUzjpLBM1KqnXS83pRGnpoUEEVaXUpzVMCa4nPAnTpMjyPhRT8Mlnu0rUdbWsfTuSBlknPNBe7LfFkx4z-pGze4FBbTwJbyboPUl9soEh7MxvHTRLXxX7snp4lLNhj8=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHEnMZDW_AyuLNKBYDKhKDEoKWaUhfZ9PzyJH_6BqIGTVURi2WRGkwdvbAddnVBIqTm6P0ww1q85O1jQmGEY3yvl1r3oQBuZfeR5GEAlbe3Z8XsIiJ8h8FHN4K4kagtH0fl_I=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYGzyhmSlxMK3LilzkXGjMkLotLPJGyQmtGiJ7qJnTPNOQ-VZGF6TK2Xhr2TO82MQxKmdk_8R7g2OtGLa7bzD0iNicxeO1G1Cb02F1KIYw1J7YUaD828I3aLkQcu0rrl0NDx_P=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDaQnmgJ-xgiOnq7f2Bp92eFePaNy6BLXpLuSWndE17tD1CCfnvrXndHSsFyCDoRC5LsLmT884p6BScA670Sfwqa96gAr4gkSF4XFDNCOMDV5I8dT3Wq74bAMsLbeWp5Ude13uOEJiDCE=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvsvUtfd7F3a0jFDapiel8yk5CpeHW2gZLO8lQ6Suy4ao512ISo38-pTQMLNldbAGfvcj5vBSEo8P2NfpHTO-zh-q5J9iZmbx2TPXai0TG3qlbYQ7DZUwvOPQ6Eo3Ipkxri_PjOa1RNL0=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Donald Phillips",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Donald Phillips",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Donald Phillips",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Anna Middleton",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Jessica Etheridge",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Donald Phillips",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

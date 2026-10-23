@@ -1,0 +1,53 @@
+{
+  "name": "Burton's Plumbing LLC",
+  "rating": 4.8,
+  "reviewCount": 46,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 719-289-2144",
+  "phoneRaw": "+17192892144",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Burton's+Plumbing+LLC/@38.195538,-104.6166065,9z/data=!3m1!4b1!4m6!3m5!1s0x8699f17e30fe5dd1:0x394d945d4d82c144!8m2!3d38.195538!4d-104.6166065!16s%2Fg%2F11vc1yzqbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Pueblo",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Burton's Plumbing LLC",
+  "folderName": "Burton's Plumbing LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

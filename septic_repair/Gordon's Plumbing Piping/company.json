@@ -1,0 +1,99 @@
+{
+  "name": "Gordon's Plumbing Piping",
+  "rating": 5,
+  "reviewCount": 93,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 916-613-9538",
+  "phoneRaw": "+19166139538",
+  "website": "https://gordons-plumbing.com/?utm_source=google&utm_medium=business_profile&utm_campaign=main_link_to_website_localo",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Gordon's+Plumbing+Piping/@38.808405,-121.2861125,10z/data=!3m1!4b1!4m6!3m5!1s0xa3b71ee0ddfbc97f:0x69dda3daaa0c4311!8m2!3d38.808405!4d-121.2861124!16s%2Fg%2F11yftvct0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Sacramento",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gordon's Plumbing Piping",
+  "folderName": "Gordon's Plumbing Piping",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyQkbCbuc3LubHksk7atSfFNsLyopc6J6ef3dCteZAgdV9_GMcIWo5DEv5g3L-F5SvVxRu_AaqGIEt0M751KBoiHf-vjauDJc3zt2o_-Ie7HhKnQzGaQo4GbJ--R3Ck6Y0xuzZL_sI4sQ=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccpqrbDrOWfVsoIY0XuC-ez-wQI8v9IA2JFpW1xV90BvT9WlOSPcj-wrC5uzSjOASGKbLlMkizeKnhX82DswRK4MMnKfaBmRaNrkOJl4F9v9Dbj1Prk31OSb2ujctxJWa_2naMhaB9S2U=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKuLc0vIk8qewjGNqgMS-T3aiIY1EMyXZfn6zwd4yG7lx1iU6NB-cELqYj9_054MATEht5sSjpg3yV2RjIOAkhDa3AeJSqhiK8SkkLioNi4Cd2S0KVj4tHAq5rQ61U52SPpAmf9HgRX0ek=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchCCsoUmQBlDYOViwVrP4e5PlBo2AN4X6iZsQjgBjwsHFKTu8z5BZfyyZyv64VTLlo9uEGySqYBPbloChNwV2FezSvZuogntUbnjDCxMMgQbR5-o3jbf8PMIMIgAdPvXIf2Hg34ni4-K_U=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Bryan Macario",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Bryan Macario",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Josh Adams",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Josh Adams",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

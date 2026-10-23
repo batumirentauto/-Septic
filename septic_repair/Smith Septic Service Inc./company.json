@@ -1,0 +1,88 @@
+{
+  "name": "Smith Septic Service Inc.",
+  "rating": 5,
+  "reviewCount": 55,
+  "category": "Septic system service",
+  "address": "2169 NW 50th St, Bell, FL 32619, United States",
+  "phone": "+1 386-935-1429",
+  "phoneRaw": "+13869351429",
+  "website": null,
+  "plusCode": "R554+XM Bell, Florida, USA",
+  "url": "https://www.google.com/maps/place/Smith+Septic+Service+Inc./data=!4m7!3m6!1s0x88e8d7160f1c03a3:0x1cb2f8e202922683!8m2!3d29.8098879!4d-82.8432824!16s%2Fg%2F1tlw9xln!19sChIJowMcDxbX6IgRgyaSAuL4shw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Ocala",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Smith Septic Service Inc.",
+  "folderName": "Smith Septic Service Inc.",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOfjbTUm9JjJlufX7wH1h_Au-_mGAovih70lGkbzIVSRHkGwesXO-JmWZUCRlonXG5hc59cj0fVrQAKU_kSCr1HkpN8G1LpffxjMDEHSku4PJbCVialLZ_z09iqz8x7d6TGWlGLBRheDki=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGILEcDO8Yem43_1yowxpgwElkt3_p_U8x3nlwsFvzv7n5XRiW0JDw7CVwkY6Ac6gWq7Jz34PhrnKgqPMc8AGLNx3FmCF57DAJrbJM6u_jJxyN3KGT_d3adcJ7OQc2h1j_VtPnlTGFDkZE=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzbM_mANa-mpmYhNF55pyi8VSYRHxMYd6qIxLtCiRl-etWUPxlsRwQXqSwIkysP1hruRMPBBqudlIxIoCKpH1lS8IJ_i6reZ-z1i43O-dnUF8ZHMDwMbhpZQZ5cMirTOL6jJR_uPF35nHO=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Redland Aquatic Distributors",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Redland Aquatic Distributors",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Redland Aquatic Distributors",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

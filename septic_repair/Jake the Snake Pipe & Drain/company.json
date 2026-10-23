@@ -1,0 +1,53 @@
+{
+  "name": "Jake the Snake Pipe & Drain",
+  "rating": 4.7,
+  "reviewCount": 36,
+  "category": "Plumber",
+  "address": "214 Bassett St, New Haven, CT 06511, United States",
+  "phone": "+1 203-467-7877",
+  "phoneRaw": "+12034677877",
+  "website": null,
+  "plusCode": "83J8+R8 New Haven, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/Jake+the+Snake+Pipe+%26+Drain/data=!4m7!3m6!1s0x89e7d990a97868e7:0xee73781e1635978a!8m2!3d41.3321069!4d-72.9341643!16s%2Fg%2F1td4_x5z!19sChIJ52h4qZDZ54kRipc1Fh54c-4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "New Haven",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jake the Snake Pipe & Drain",
+  "folderName": "Jake the Snake Pipe & Drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

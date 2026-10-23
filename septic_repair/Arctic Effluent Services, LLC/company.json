@@ -1,0 +1,66 @@
+{
+  "name": "Arctic Effluent Services, LLC",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 907-865-3249",
+  "phoneRaw": "+19078653249",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Arctic+Effluent+Services,+LLC/@61.307439,-158.8131739,4z/data=!3m1!4b1!4m6!3m5!1s0x56c899ec407dffeb:0x4cf92cdcd7ea3ad8!8m2!3d61.307439!4d-158.813174!16s%2Fg%2F11mpjx_31r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AK",
+  "city": "Anchorage",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Arctic Effluent Services, LLC",
+  "folderName": "Arctic Effluent Services, LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNT52ABuq7EllWvzw9x9-H_vMwfuHNRT83JHFkD96jzuf3EUdjBB4guB3JhGSUVwLotzKkk4JkF6BKDIxA0_b05IFf03oRq5yTuAnsOkh6XHyUBHxzKmClaTqLs5BgzAY6GOL0sg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Elly Lynn",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Allgood Sewer & Septic Tank Service",
+  "rating": 4.6,
+  "reviewCount": 42,
+  "category": "Septic system service",
+  "address": "3334 Pleasant Grove Rd, White House, TN 37188, United States",
+  "phone": "+1 615-672-6969",
+  "phoneRaw": "+16156726969",
+  "website": "http://allgoodsewerandsepticservice.com/",
+  "plusCode": "F8M4+48 White House, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Allgood+Sewer+%26+Septic+Tank+Service/@36.4828135,-86.6941332,17z/data=!3m1!4b1!4m6!3m5!1s0x88644c294b324f0d:0x2c623e5169aca914!8m2!3d36.4828135!4d-86.6941332!16s%2Fg%2F1tdpsd8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Allgood Sewer & Septic Tank Service",
+  "folderName": "Allgood Sewer & Septic Tank Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Premier Plumbing Services LLC",
+  "rating": 4.9,
+  "reviewCount": 129,
+  "category": "Plumber",
+  "address": "5825 Milo Rd, Dayton, OH 45414, United States",
+  "phone": "+1 937-524-6955",
+  "phoneRaw": "+19375246955",
+  "website": "/aclk?sa=L&ai=DChsSEwjZjZ-U-86XAxUEaZEFHcTEKR4YACICCAEQABoCbHI&co=1&ase=2&gclid=EAIaIQobChMI2Y2flPvOlwMVBGmRBR3ExCkeEBAYASAAEgJXHPD_BwE&cid=CAASugHkaPn_CCMKIhcIsB9UP6mDXLA1unUycYHr0s0ooFteRz1NAucAzuF4fh69d7rsk2j446N9GpkyGB36K7guNEGsLjtU5kzQreZ56EwJUfCHyyundTxrvQvStTaJyHljcwHbIQCwZQlXo9VP6hTLsna87jRx_HiZ5JmydKJRuOHX-s12_5fuCJh2i7Lprnchp-sqcQIlwhSQkuRGXp_Q1xmSiGhPBUYVzv98rmW3hJAp6QIyUofbOeJLYp8&cce=2&category=acrcp_v1_32&sig=AOD64_32z3Cf1hraxaX1y3RetMmszVnalw&adurl&q&ctype=99&nis=5",
+  "plusCode": "RRF8+VJ Dayton, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Premier+Plumbing+Services+LLC/@39.8246507,-84.1834993,17z/data=!3m1!4b1!4m6!3m5!1s0x883f7957b76611ff:0x34234daa9cbf9804!8m2!3d39.8246507!4d-84.1834993!16s%2Fg%2F11j_r6m9fn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Dayton",
+  "websiteIssue": "Сайт не открывается (ERR_INVALID_URL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Premier Plumbing Services LLC",
+  "folderName": "Premier Plumbing Services LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Pro-Tec Septic",
+  "rating": 4.6,
+  "reviewCount": 84,
+  "category": "Septic system service",
+  "address": "151 Hillvue Rd, Georgetown, TX 78626, United States",
+  "phone": "+1 512-614-4444",
+  "phoneRaw": "+15126144444",
+  "website": "https://protecseptic.com/",
+  "plusCode": "J83Q+GH Georgetown, Texas, USA",
+  "url": "https://www.google.com/maps/place/Pro-Tec+Septic/@30.6038678,-97.6611055,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d13b657a673d:0x2d218dc60023cee9!8m2!3d30.6038678!4d-97.6611055!16s%2Fg%2F11cmf18csg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Austin",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pro-Tec Septic",
+  "folderName": "Pro-Tec Septic",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVKjYyPtQQ_GpgxNivoqu1Zm8zq9bp9wk97bWxP2TFDH5TzazcsJyf5hg5C53CkvJVmcGl8xslZUy8PjyQxRJcD7BQyXveAeqM11QxBBunOi0B3zgwl0v-KGQ5ER74m6eChKUdNA=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnGq9biGWPC_zlAmS5pNvpYRf07uwmii3tvFm5iMZSJhLxE9bq0S_mNpA2Czqe7jDyi1edkp3KjnA7YSTOUCdZgdR9sz-uRPEDjCeTktZQm1lCSjuuJXNUu00GfxGJsMxCm2YXDQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ0ngKgk5Z363n9EiAZ9RREGSTGbamfaAiYnasGRX20hGg1Cuu0wG2i_HOR_xUpqz0cWrj35ap83HHSIawDasZePA7If0DasB7VdqP-SNEI7ypqVhWcUstZdE24RC2LUDs1mhZ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Joshua Mccoy",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Joshua Mccoy",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Joshua Mccoy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

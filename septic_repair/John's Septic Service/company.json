@@ -1,0 +1,59 @@
+{
+  "name": "John's Septic Service",
+  "rating": 5,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "510 S Stepney Rd, Aberdeen, MD 21001, United States",
+  "phone": "+1 410-272-2317",
+  "phoneRaw": "+14102722317",
+  "website": "https://www.johnsepticservice.com/",
+  "plusCode": "FQRQ+87 Aberdeen, Maryland, USA",
+  "url": "https://www.google.com/maps/place/John%27s+Septic+Service/data=!4m7!3m6!1s0x89c7c3fac1670695:0x841fbdde4f604722!8m2!3d39.4907595!4d-76.2118497!16s%2Fg%2F11ybf74lmb!19sChIJlQZnwfrDx4kRIkdgT969H4Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "DE",
+  "city": "Newark",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/John's Septic Service",
+  "folderName": "John's Septic Service",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Nathaniel Padilla",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

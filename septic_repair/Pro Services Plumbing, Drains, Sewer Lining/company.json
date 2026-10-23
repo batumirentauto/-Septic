@@ -1,0 +1,53 @@
+{
+  "name": "Pro Services Plumbing, Drains, Sewer Lining",
+  "rating": 4.9,
+  "reviewCount": 150,
+  "category": "Plumber",
+  "address": "721 E Roosevelt Rd, Wheaton, IL 60187, United States",
+  "phone": "+1 630-642-6923",
+  "phoneRaw": "+16306426923",
+  "website": "https://proservicesnow.com/locations/illinois/wheaton/?utm_campaign=gmb&utm_medium=organic&utm_source=gbp",
+  "plusCode": "VW53+PW Wheaton, Illinois, USA",
+  "url": "https://www.google.com/maps/place/Pro+Services+Plumbing,+Drains,+Sewer+Lining/@41.8592724,-88.0952205,17z/data=!3m1!4b1!4m6!3m5!1s0x880e5505ad58de93:0x9d37f6945189c6d3!8m2!3d41.8592724!4d-88.0952205!16s%2Fg%2F11ytr86k68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pro Services Plumbing, Drains, Sewer Lining",
+  "folderName": "Pro Services Plumbing, Drains, Sewer Lining",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

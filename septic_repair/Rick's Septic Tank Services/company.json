@@ -1,0 +1,53 @@
+{
+  "name": "Rick's Septic Tank Services",
+  "rating": 4.8,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "15690 Larsen Ave, Gowen, MI 49326, United States",
+  "phone": "+1 616-984-2293",
+  "phoneRaw": "+16169842293",
+  "website": null,
+  "plusCode": "7M28+Q4 Gowen, Michigan, USA",
+  "url": "https://www.google.com/maps/place/Rick's+Septic+Tank+Services/@43.251903,-85.3347019,17z/data=!3m1!4b1!4m6!3m5!1s0x8818edead10acd91:0x421e0da544adc005!8m2!3d43.251903!4d-85.3347019!16s%2Fg%2F1tnjk5b1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Rick's Septic Tank Services",
+  "folderName": "Rick's Septic Tank Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

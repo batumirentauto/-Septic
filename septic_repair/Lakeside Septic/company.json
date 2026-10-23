@@ -1,0 +1,99 @@
+{
+  "name": "Lakeside Septic",
+  "rating": 4.9,
+  "reviewCount": 81,
+  "category": "Septic system service",
+  "address": "9900 Airport Way, Snohomish, WA 98296, United States",
+  "phone": "+1 425-822-2421",
+  "phoneRaw": "+14258222421",
+  "website": "https://lakesideseptic.com/",
+  "plusCode": "WV4X+6Q Snohomish, Washington, USA",
+  "url": "https://www.google.com/maps/place/Lakeside+Septic/@47.9055024,-122.1005542,17z/data=!3m1!4b1!4m6!3m5!1s0x549aaac291991d2f:0xbe60933a7c7a3382!8m2!3d47.9055024!4d-122.1005542!16s%2Fg%2F1tpn28kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Seattle",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lakeside Septic",
+  "folderName": "Lakeside Septic",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5J6e6xoHPPlkXeXpY_y5o7ZzcB0192gGH9MuVQJA6MiMrXq6rTwAtXygGgmvybUl5kSnBgBiHyqn7wi-elZh-V9QPXNIEH7L1LDLgrLZfOHsAWg6YnXnJL2-mvXy-uxeSpOvNP1J1blLp=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZsr6BhINiuOkO1Z4F5DiwoMdjaIWeTWM3BBopvNXVl5w0BFl4YjWZvksG4EfdfYTpiyXMJhBbbb3KewdP6KPHHjjorDCd53LusJj1r4ITcmU57mKJaVNlnkV0aT0KfVo_xcqGHskcyuM=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVvA7RuTLMseF8xv8UAuJR-h5V-mXkJzP_nP7BPE2zvBkUP5BWmiaATzrZfHR-VNWk1PYWTYPrRAsqv43zhBc_HlAqiV6A4w8LFeq1EvntdHEj7kI9LqOpqEsuW7v7ZiZmBRhX7HssXj8Y=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7C6_f3W58p-L39iUh0MtZyE9Tlv_WgsjkrdHd-bQpsBO975J9MsxIRQTpS6AJvYyeO8XSFpGjwaoz-Z1LyHoSJF3f1yR-quiSi3f3DpsDLse3_VzwCmgztqGczjOFyntIkAeqfZFUhJx9=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Connor Stumpf",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Connor Stumpf",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Connor Stumpf",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Connor Stumpf",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Busy Bee Septic LLC",
+  "rating": 5,
+  "reviewCount": 42,
+  "category": "Septic system service",
+  "address": "15605 Pine Ridge Rd, Fort Myers, FL 33908, United States",
+  "phone": "+1 239-200-7777",
+  "phoneRaw": "+12392007777",
+  "website": "https://busy-bee-septic.com/",
+  "plusCode": "G377+VV Fort Myers, Florida, USA",
+  "url": "https://www.google.com/maps/place/Busy+Bee+Septic+LLC/@26.5147439,-81.9352861,17z/data=!3m1!4b1!4m6!3m5!1s0x88db3f2f4ff98929:0xb249c22faed305fb!8m2!3d26.5147439!4d-81.9352861!16s%2Fg%2F11npr7vdmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Fort Myers",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Busy Bee Septic LLC",
+  "folderName": "Busy Bee Septic LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

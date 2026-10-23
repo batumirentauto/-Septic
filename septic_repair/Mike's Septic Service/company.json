@@ -1,0 +1,53 @@
+{
+  "name": "Mike's Septic Service",
+  "rating": 4.9,
+  "reviewCount": 50,
+  "category": "Septic system service",
+  "address": "1479 Main St Ext, Brogue, PA 17309, United States",
+  "phone": "+1 717-586-2050",
+  "phoneRaw": "+17175862050",
+  "website": null,
+  "plusCode": "VF9M+R5 Brogue, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/Mike's+Septic+Service/@39.8696043,-76.5170848,17z/data=!3m1!4b1!4m6!3m5!1s0x89c880ec32590bfd:0x17f33248809af2!8m2!3d39.8696043!4d-76.5170848!16s%2Fg%2F11cnbb08gc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Lancaster",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Mike's Septic Service",
+  "folderName": "Mike's Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Ned Carnett Septic Service",
+  "rating": 4.8,
+  "reviewCount": 115,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 530-622-3162",
+  "phoneRaw": "+15306223162",
+  "website": "https://www.nedcarnettseptic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Ned+Carnett+Septic+Service/data=!4m7!3m6!1s0x809a50f9fcb4e9c3:0xd7cca68e43e5de8c!8m2!3d38.64272!4d-120.5094214!16s%2Fg%2F1tf163jk!19sChIJw-m0_PlQmoARjN7lQ46mzNc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "Sacramento",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ned Carnett Septic Service",
+  "folderName": "Ned Carnett Septic Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXpvvqu0b8DHFnKtVCMFpB6bdsal7kV8GJgQlZf-igVi1s-U8sCqzkXa1rz_0JAGWuIl_2fyVIjEkwMThw_dm7urKN-d8qDjwZIkxrnBr4t1Zc9DaHdxTgEwcKGBX9iNOOeFMsLwcmaK9n=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "liv2rec",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

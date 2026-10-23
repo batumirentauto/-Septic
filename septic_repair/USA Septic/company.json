@@ -1,0 +1,53 @@
+{
+  "name": "USA Septic",
+  "rating": 4.8,
+  "reviewCount": 64,
+  "category": "Septic system service",
+  "address": "1317 Simpson Way Ste B, Escondido, CA 92029, United States",
+  "phone": "+1 858-900-3816",
+  "phoneRaw": "+18589003816",
+  "website": "https://www.usaseptic.com/escondido",
+  "plusCode": "4VCV+7P Escondido, California, USA",
+  "url": "https://www.google.com/maps/place/USA+Septic/@33.1206874,-117.1056705,17z/data=!3m1!4b1!4m6!3m5!1s0x80dbf589b00b1a55:0x1ae544b0d76d2ef5!8m2!3d33.1206874!4d-117.1056705!16s%2Fg%2F11zd8bp4dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "San Diego",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/USA Septic",
+  "folderName": "USA Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

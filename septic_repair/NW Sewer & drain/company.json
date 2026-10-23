@@ -1,0 +1,53 @@
+{
+  "name": "NW Sewer & drain",
+  "rating": 4.8,
+  "reviewCount": 44,
+  "category": "Plumber",
+  "address": "1223 24th St NE, Salem, OR 97301, United States",
+  "phone": "+1 971-900-9253",
+  "phoneRaw": "+19719009253",
+  "website": "https://www.cloggeddrainsnw.com/",
+  "plusCode": "WXWV+3V Salem, Oregon, USA",
+  "url": "https://www.google.com/maps/place/NW+Sewer+%26+drain/@44.9451352,-123.0052727,17z/data=!3m1!4b1!4m6!3m5!1s0x54bfff74a6ef9e0b:0xc1f6f7b13b2092ea!8m2!3d44.9451352!4d-123.0052727!16s%2Fg%2F11ghrgll0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Portland",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/NW Sewer & drain",
+  "folderName": "NW Sewer & drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

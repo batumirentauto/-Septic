@@ -1,0 +1,53 @@
+{
+  "name": "Boraczek Septic & Drain",
+  "rating": 4.8,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": "4 Hazel Dr, Hampstead, NH 03841, United States",
+  "phone": "+1 603-329-6005",
+  "phoneRaw": "+16033296005",
+  "website": null,
+  "plusCode": "VRGW+JH Hampstead, New Hampshire, USA",
+  "url": "https://www.google.com/maps/place/Boraczek+Septic+%26+Drain/@42.8765277,-71.1536013,17z/data=!3m1!4b1!4m6!3m5!1s0x89e2ff216710d8c1:0x5432dd6be42a9adf!8m2!3d42.8765277!4d-71.1536013!16s%2Fg%2F1v3kp1yk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Boraczek Septic & Drain",
+  "folderName": "Boraczek Septic & Drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

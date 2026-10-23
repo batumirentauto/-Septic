@@ -1,0 +1,53 @@
+{
+  "name": "MONTGOMERY'S",
+  "rating": 4.8,
+  "reviewCount": 76,
+  "category": "Septic system service",
+  "address": "1561 Laws Rd, McMinnville, TN 37110, United States",
+  "phone": "+1 931-474-1222",
+  "phoneRaw": "+19314741222",
+  "website": null,
+  "plusCode": "M5Q6+WX McMinnville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/MONTGOMERY'S/@35.689789,-85.8376057,17z/data=!3m1!4b1!4m6!3m5!1s0x886130a5b3832f93:0xfa4657241191b654!8m2!3d35.689789!4d-85.8376057!16s%2Fg%2F11c604f694?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/MONTGOMERY'S",
+  "folderName": "MONTGOMERY'S",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

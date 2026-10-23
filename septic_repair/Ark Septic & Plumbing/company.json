@@ -1,0 +1,77 @@
+{
+  "name": "Ark Septic & Plumbing",
+  "rating": 4.7,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 888-522-0219",
+  "phoneRaw": "+18885220219",
+  "website": "http://www.septictank-services.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Ark+Septic+%26+Plumbing/@28.4849655,-81.4837026,11z/data=!3m1!4b1!4m6!3m5!1s0x88e781698aedc1c7:0x6c2f86f657d03472!8m2!3d28.4849654!4d-81.4837026!16s%2Fg%2F1hhvwbhxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Orlando",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ark Septic & Plumbing",
+  "folderName": "Ark Septic & Plumbing",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmL7zeJjG3KtE7VWvn3ega6HDNfCa_S94BEElqegTwVcgabZgF0K_bn-xcO_2bmz9IuQBwOCh8wGqKpunTUTbmu-ptSPKLg2ilmrw2Sn_CWCs4w2E51xZMhwbC0eZoxjtgeHl3=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJtcxkw5zW_ERO-qjQtDooWYnehLOnKxOA8CoXL30DXr8K5r5tUoXRIyXgY5HeBC5vZ1GYkIH5dZPiRf3C2IsYfZyVUQ9d530Qo0_0HpAlTxzj-fpCr6v2_2DgJhsNvPvr8uifKQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Louis Schwartz",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Louis Schwartz",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

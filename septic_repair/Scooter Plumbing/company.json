@@ -1,0 +1,53 @@
+{
+  "name": "Scooter Plumbing",
+  "rating": 4.8,
+  "reviewCount": 46,
+  "category": "Plumber",
+  "address": "3940 SE 45th Ct, Ocala, FL 34480, United States",
+  "phone": "+1 352-572-1051",
+  "phoneRaw": "+13525721051",
+  "website": "https://scooterplumbing.com/",
+  "plusCode": "4WWG+VX Ocala, Florida, USA",
+  "url": "https://www.google.com/maps/place/Scooter+Plumbing/data=!4m7!3m6!1s0x88e62f86b873c62b:0x4cbcdd415385c5fe!8m2!3d29.1471603!4d-82.0725049!16s%2Fg%2F1tfgf1cj!19sChIJK8ZzuIYv5ogR_sWFU0HdvEw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Ocala",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Scooter Plumbing",
+  "folderName": "Scooter Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

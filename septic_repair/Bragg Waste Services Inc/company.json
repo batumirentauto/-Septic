@@ -1,0 +1,99 @@
+{
+  "name": "Bragg Waste Services Inc",
+  "rating": 4.9,
+  "reviewCount": 130,
+  "category": "Portable toilet supplier",
+  "address": "169 Giles Dr, Boiling Springs, SC 29316, United States",
+  "phone": "+1 864-599-0350",
+  "phoneRaw": "+18645990350",
+  "website": "https://www.braggwasteservices.com/",
+  "plusCode": "22QF+5G Boiling Springs, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Bragg+Waste+Services+Inc/@35.0379519,-81.9761373,17z/data=!3m1!4b1!4m6!3m5!1s0x885771cc8ccb7615:0x4fbb1ec52c697c11!8m2!3d35.0379519!4d-81.9761373!16s%2Fg%2F11h1j_j7dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Spartanburg",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bragg Waste Services Inc",
+  "folderName": "Bragg Waste Services Inc",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdPDOJlmzZ4sHLGzVBFXVC40vziDIyuOH0-bHG1dtYr9GAjzQFmldzOj0_8XhV98SMRe5vI1v3jh2UtmkrI8CX_s-pk4q0ZvHH6CDofcU2H-BVxroOVZXeX2GHs9hYmsnZl1FZ9n-Zqe4z=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCDK5zpXlByRG28A-bRrOgEz7e2dqpEQPEvHQcaLaNdh-UO53p1gikloJ5ehgfyFdskMx4dNlAfEc_ZFW-JYx5uBa6p31WL2oyf36Qt4Gx9iGh7SmEFAg0kHDS_1pFjm0GXHhwgr6zOgA=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-rBxuKt5phLUMVFheQD6YqglWs4iEWkUoBVrbcGT-uyERshcEE5BVM5eTM2GccXUqjpPKMKiVENXK6F8-WJme42SVNCXOams0Sxiv5I5PqspaOXCqQcbfmlqEl7x-ioacICuVWq8nBbf1=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZog_auDWJlLQu5G1b4crg5peMYk8eGCk4r1gqdxKQ7HW3KMaaTqwvMAcKgJZwaqDudGJURjTkRoVMexGHgNeyWKjtZo7i6LbqhLgrgmcF7LagYqyZ1JaYg8-kUN7qC9L0_lxiCj2NCZ2M=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "saving money",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "saving money",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "saving money",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "saving money",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

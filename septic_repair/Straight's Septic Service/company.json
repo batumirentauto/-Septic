@@ -1,0 +1,53 @@
+{
+  "name": "Straight's Septic Service",
+  "rating": 4.9,
+  "reviewCount": 28,
+  "category": "Septic system service",
+  "address": "72 Sisson Rd, South Glens Falls, NY 12803, United States",
+  "phone": "+1 518-480-4883",
+  "phoneRaw": "+15184804883",
+  "website": "http://straightssepticservice.com/",
+  "plusCode": "79RQ+V9 South Glens Falls, New York, USA",
+  "url": "https://www.google.com/maps/place/Straight's+Septic+Service/@43.2922017,-73.6116071,17z/data=!3m1!4b1!4m6!3m5!1s0x89dfd1f23d61b8df:0x97ee2e6351c12176!8m2!3d43.2922017!4d-73.6116071!16s%2Fg%2F11b7lm79yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 503)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Straight's Septic Service",
+  "folderName": "Straight's Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

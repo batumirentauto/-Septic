@@ -1,0 +1,53 @@
+{
+  "name": "ProSeptic",
+  "rating": 4.9,
+  "reviewCount": 160,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 401-569-3763",
+  "phoneRaw": "+14015693763",
+  "website": "https://prosepticri.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/ProSeptic/@41.5573165,-71.4979145,9z/data=!3m1!4b1!4m6!3m5!1s0x89e449aec67ffefd:0x76907a1fcd77c03e!8m2!3d41.5573165!4d-71.4979145!16s%2Fg%2F11rgpdt3vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "RI",
+  "city": "Providence",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ProSeptic",
+  "folderName": "ProSeptic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

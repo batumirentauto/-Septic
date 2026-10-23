@@ -1,0 +1,53 @@
+{
+  "name": "Roper and Son Septic Service",
+  "rating": 5,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": "490 Pleasant Valley Rd, Jacksonville, AL 36265, United States",
+  "phone": "+1 256-310-0663",
+  "phoneRaw": "+12563100663",
+  "website": null,
+  "plusCode": "R5QR+3F Jacksonville, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Roper+and+Son+Septic+Service/@33.8376556,-85.8088206,17z/data=!3m1!4b1!4m6!3m5!1s0xa8d7b5e3dbd45611:0x915d5ad08a751725!8m2!3d33.8376556!4d-85.8088206!16s%2Fg%2F11p02gn_jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Roper and Son Septic Service",
+  "folderName": "Roper and Son Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

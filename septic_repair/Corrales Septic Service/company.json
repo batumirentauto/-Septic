@@ -1,0 +1,53 @@
+{
+  "name": "Corrales Septic Service",
+  "rating": 4.9,
+  "reviewCount": 47,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 505-485-3557",
+  "phoneRaw": "+15054853557",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Corrales+Septic+Service/@35.23936,-106.622023,13z/data=!3m1!4b1!4m6!3m5!1s0x8722655a813d0739:0xb191a5ad500d7a21!8m2!3d35.23936!4d-106.622023!16s%2Fg%2F11fn1cr6b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NM",
+  "city": "Albuquerque",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Corrales Septic Service",
+  "folderName": "Corrales Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

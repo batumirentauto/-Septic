@@ -1,0 +1,77 @@
+{
+  "name": "J & S Liquid Waste Services Inc.",
+  "rating": 4.6,
+  "reviewCount": 51,
+  "category": "Septic system service",
+  "address": "4030 Option Pass Unit A, Fort Wayne, IN 46818, United States",
+  "phone": "+1 260-489-6021",
+  "phoneRaw": "+12604896021",
+  "website": "http://jsliquidwaste.com/",
+  "plusCode": "4RQ3+95 Fort Wayne, Indiana, USA",
+  "url": "https://www.google.com/maps/place/J+%26+S+Liquid+Waste+Services+Inc./@41.1384079,-85.1971098,17z/data=!3m1!4b1!4m6!3m5!1s0x8815e178f989e1a5:0x9850974a022ec63b!8m2!3d41.1384079!4d-85.1971098!16s%2Fg%2F1v5fshzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IN",
+  "city": "Fort Wayne",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/J & S Liquid Waste Services Inc.",
+  "folderName": "J & S Liquid Waste Services Inc.",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD34_fFpn3JKo0vYMfa8MRTpa7xQdNSVlvIX_UuOzoCeY7VT4xt-PVr9NXtfAB0A_e3pApI_mRJKNcSmlyqmY9xxilhaNADKomUDUVwV123MJPJcCCnTMzm0BbVdNQgU8N6aBrSTFj330E=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePAHBwpGspM_jk2gZqluWo55MtUQSNtafyLDszaNQXCnYAlFRFJQgxVWyQ6tHuEdTPKHx9pGIl38CXA8mMj23B4W5YxzUadOlN99JPPwxNHSrpA28bj8c4ZdZ7RbzZ_5Iyl0F6RvjJ9Xef=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jay",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Hugh Reusser",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

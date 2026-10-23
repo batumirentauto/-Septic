@@ -1,0 +1,53 @@
+{
+  "name": "Superior Vac & Septic",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "1620 Thoroughfare Rd, Cassatt, SC 29032, United States",
+  "phone": "+1 803-229-8968",
+  "phoneRaw": "+18032298968",
+  "website": "http://www.a1and2septicservice.com/",
+  "plusCode": "8GPP+HG Cassatt, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Superior+Vac+%26+Septic/@34.3364163,-80.4636888,17z/data=!3m1!4b1!4m6!3m5!1s0x8855ed1efaf8b709:0x9d5e6f1002c7d324!8m2!3d34.3364163!4d-80.4636888!16s%2Fg%2F11h4yd22wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Columbia",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Superior Vac & Septic",
+  "folderName": "Superior Vac & Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

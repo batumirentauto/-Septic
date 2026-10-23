@@ -1,0 +1,53 @@
+{
+  "name": "Hardin Co Plumbing Service",
+  "rating": 5,
+  "reviewCount": 40,
+  "category": "Plumber",
+  "address": "112 North Main Street Ste C, Elizabethtown, KY 42701, United States",
+  "phone": "+1 270-320-3564",
+  "phoneRaw": "+12703203564",
+  "website": null,
+  "plusCode": "M4VR+FV Elizabethtown, Kentucky, USA",
+  "url": "https://www.google.com/maps/place/Hardin+Co+Plumbing+Service/@37.6936818,-85.8577629,17z/data=!3m1!4b1!4m6!3m5!1s0x85882f3999483aeb:0x5d86702c0f114414!8m2!3d37.6936818!4d-85.8577629!16s%2Fg%2F11npx8hhqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Elizabethtown",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hardin Co Plumbing Service",
+  "folderName": "Hardin Co Plumbing Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

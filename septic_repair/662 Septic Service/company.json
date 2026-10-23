@@ -1,0 +1,53 @@
+{
+  "name": "662 Septic Service",
+  "rating": 5,
+  "reviewCount": 51,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 662-701-9525",
+  "phoneRaw": "+16627019525",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/662+Septic+Service/@34.5350175,-88.847848,9z/data=!3m1!4b1!4m6!3m5!1s0xc38e8ff6e1d8b2f:0xe82341adab9d693c!8m2!3d34.5350176!4d-88.847848!16s%2Fg%2F11y2sttkp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MS",
+  "city": "Southaven",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/662 Septic Service",
+  "folderName": "662 Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

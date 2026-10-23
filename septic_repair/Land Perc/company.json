@@ -1,0 +1,53 @@
+{
+  "name": "Land Perc",
+  "rating": 4.9,
+  "reviewCount": 37,
+  "category": "Septic system service",
+  "address": "3602 Colonial Ct, Fort Myers, FL 33913, United States",
+  "phone": "+1 239-274-6818",
+  "phoneRaw": "+12392746818",
+  "website": "http://landperc.com/",
+  "plusCode": "J662+V7 Fort Myers, Florida, USA",
+  "url": "https://www.google.com/maps/place/Land+Perc/data=!4m7!3m6!1s0x88db6bbe55555555:0xb51efc7177652392!8m2!3d26.6121553!4d-81.7993178!16s%2Fg%2F11gk1nw0fl!19sChIJVVVVVb5r24gRkiNld3H8HrU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Fort Myers",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Land Perc",
+  "folderName": "Land Perc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

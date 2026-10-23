@@ -1,0 +1,66 @@
+{
+  "name": "Allen's Environmental Services, LLC",
+  "rating": 4.9,
+  "reviewCount": 102,
+  "category": "Septic system service",
+  "address": "720 Rudd Hollow Rd, Townsend, TN 37882, United States",
+  "phone": "+1 865-257-6430",
+  "phoneRaw": "+18652576430",
+  "website": null,
+  "plusCode": "M7W8+JJ Townsend, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Allen's+Environmental+Services,+LLC/@35.6966245,-83.7333821,17z/data=!3m1!4b1!4m6!3m5!1s0x885ea9ab34e21f0b:0xd29abaf604424de0!8m2!3d35.6966245!4d-83.7333821!16s%2Fg%2F11fjwz64kc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Allen's Environmental Services, LLC",
+  "folderName": "Allen's Environmental Services, LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0Yy-LFiR0iboF6d3WUpSJyZx7_NAzYvgDAqd1w9czkGEo9uAyA3UqeOtUoCpRaa7kdVQi2UpYkzULbl2-2sa9afCLlgvPio7xBGACGQoGD8b0-e4mKY2zN_dS3lg4miaW879JTztYBtk=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mumu Xi",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

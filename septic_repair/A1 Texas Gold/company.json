@@ -1,0 +1,53 @@
+{
+  "name": "A1 Texas Gold",
+  "rating": 4.9,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": "1617 Eighteenth St, Rockport, TX 78382, United States",
+  "phone": "+1 361-266-4618",
+  "phoneRaw": "+13612664618",
+  "website": "https://a1texasgold.com/?utm_source=Google+Business+Profile&utm_medium=GBP&utm_campaign=GBP+Website+Button",
+  "plusCode": "XVVX+GV Rockport, Texas, USA",
+  "url": "https://www.google.com/maps/place/A1+Texas+Gold/@27.9938502,-97.1003076,17z/data=!3m1!4b1!4m6!3m5!1s0x86684deac216b981:0xe0aae956a910732!8m2!3d27.9938502!4d-97.1003076!16s%2Fg%2F11vqtd4lhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Corpus Christi",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A1 Texas Gold",
+  "folderName": "A1 Texas Gold",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

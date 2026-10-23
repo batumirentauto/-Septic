@@ -1,0 +1,110 @@
+{
+  "name": "Elite Rooter Boise",
+  "rating": 4.7,
+  "reviewCount": 200,
+  "category": "Plumber",
+  "address": "Boise, ID 83706, United States",
+  "phone": "+1 208-425-1902",
+  "phoneRaw": "+12084251902",
+  "website": "https://www.eliterooter.com/boise",
+  "plusCode": "JP4X+73 Boise, Idaho, USA",
+  "url": "https://www.google.com/maps/place/Elite+Rooter+Boise/@43.605637,-116.2523206,17z/data=!3m1!4b1!4m6!3m5!1s0x54ae57fa9db6fb95:0x832bb261b5b65eae!8m2!3d43.605637!4d-116.2523206!16s%2Fg%2F11sqdc4307?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ID",
+  "city": "Boise",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 410)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Elite Rooter Boise",
+  "folderName": "Elite Rooter Boise",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDJn1ImpPn0FFW_JQCET-gapyYgNzrCLduMNFtBNOfzpYhb0PYH_kvnRl_29coqDf6rYa-Zi2VZvGsEwoEEodpiXpFcGfyDFrJQMchDA6oc5Cw0Ma4G-glN2_6QZL6f4njZH7QEg=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0mBZxKsPf4BKqVytibcc1OKB-Jy1O-4gprc9LTyJrvaj-xKH8DyJVfFuIzFzAcIv7L85-PwnKlMRTaRpHX_3Ul_4QRJ5N6qIraNJadd2h-MSg2gYmXiI-WexfF6Ix16Zh1JA=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL1aUiq16Sio_5OkPnw2xvSpG3-br4i3gmMHN1wqu7NaXQg3ulexhBTS199E3q-HKeXfrrbgBB8cr6quwhFCBW3NoMLQ4-cqsy39y1QWtIhKcVmbvS52EnzfsVRCccu1MPKE0=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0yCnxTn1e_ZEZnsOaY80R0fKY_p9twB7J4ykqwJUCZ_BexnxUVcJd3KSltP-d1TutGmro3mkgL0O1jTE-pjF1bhEWRDz-iH0FxnoFPOGd5F1k70l9u-c2r-92_7S8U-gdXXEU=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexixxjd-J2lKWnhf2RTIHeFgSnuICVwyfbgkXfa62xXmWqBdDIwjoGeqYQ11AnfCE14YXdFlCB0za5_wknMX9OSEGc-EleJwmWoS1lqB8_5O7ZnblfoMFk364Mp4LiY8yi5zpf=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Aaron Fontaine",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Aaron Fontaine",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Aaron Fontaine",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Aaron Fontaine",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "T. L",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

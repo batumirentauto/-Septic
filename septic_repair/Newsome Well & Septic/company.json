@@ -1,0 +1,66 @@
+{
+  "name": "Newsome Well & Septic",
+  "rating": 4.6,
+  "reviewCount": 78,
+  "category": "Portable toilet supplier",
+  "address": "12718 NW 77 Terrace, Alachua, FL 32615, United States",
+  "phone": "+1 386-588-8378",
+  "phoneRaw": "+13865888378",
+  "website": "http://newsome-septic.com/?utm_source=Google+Business+Profile&utm_medium=GBP&utm_campaign=GBP+Website+Button",
+  "plusCode": "QHCC+PM Alachua, Florida, USA",
+  "url": "https://www.google.com/maps/place/Newsome+Well+%26+Septic/@29.7718308,-82.4283045,17z/data=!3m1!4b1!4m6!3m5!1s0x88e8a393ffffffff:0xd5a82ae64ee7815!8m2!3d29.7718308!4d-82.4283045!16s%2Fg%2F1vg_dpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Gainesville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Newsome Well & Septic",
+  "folderName": "Newsome Well & Septic",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSkoa1IfREbZR8SN9xyfAGO6PnYyfRwIzXpIjcND9rBWsidDoqNIMJjh097YqIKcxp-F6ipkNTv1QW3UuoqwLqYvoHv4RdX-yP_F4X1OJDK7OU1SaiGZFUtiS2A5ghxlPGNEctTlMFwUo=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Stephanie M",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

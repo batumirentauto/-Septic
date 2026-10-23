@@ -1,0 +1,71 @@
+{
+  "name": "Soco Septic Service, LLC",
+  "rating": 5,
+  "reviewCount": 79,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 719-369-3788",
+  "phoneRaw": "+17193693788",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Soco+Septic+Service,+LLC/@38.4738055,-105.529734,9z/data=!3m1!4b1!4m6!3m5!1s0xffeb48cb5387f03:0x4fc58d12342ec16e!8m2!3d38.4738055!4d-105.529734!16s%2Fg%2F11kj56_xvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Soco Septic Service, LLC",
+  "folderName": "Soco Septic Service, LLC",
+  "totalPhotosDownloaded": 3,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdl63j_WZGsZ7o0AnE5J1oVQhcxBgY7KyrVrZlJ7MJelFD2pWDv13SOf_y_jOvYo9eOAv_onEHR_0l3H0OJ44gVTSP2f_O8nzaJXCsKcuLj7-b7n6FE6LADvP7XyeHvMuWR4cvHQEeuisG1=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dusty BRITTAIN",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "hi-def Mcreynolds",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

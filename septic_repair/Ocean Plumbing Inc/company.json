@@ -1,0 +1,53 @@
+{
+  "name": "Ocean Plumbing Inc",
+  "rating": 4.7,
+  "reviewCount": 51,
+  "category": "Plumber",
+  "address": "304 Glenoak Dr, Corpus Christi, TX 78418, United States",
+  "phone": "+1 361-937-7284",
+  "phoneRaw": "+13619377284",
+  "website": "http://oceanplumbinginc.com/",
+  "plusCode": "JPR4+FF Flour Bluff, Corpus Christi, TX, USA",
+  "url": "https://www.google.com/maps/place/Ocean+Plumbing+Inc/@27.6411918,-97.2938345,17z/data=!3m1!4b1!4m6!3m5!1s0x8669ac8203176865:0x16b6322f0896039a!8m2!3d27.6411918!4d-97.2938345!16s%2Fg%2F1ttyx502?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Corpus Christi",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ocean Plumbing Inc",
+  "folderName": "Ocean Plumbing Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

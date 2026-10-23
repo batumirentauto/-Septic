@@ -1,0 +1,53 @@
+{
+  "name": "Affordable Refrigeration, LLC",
+  "rating": 4.9,
+  "reviewCount": 34,
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 715-297-8917",
+  "phoneRaw": "+17152978917",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Affordable+Refrigeration,+LLC/@45.118575,-89.770155,9z/data=!3m1!4b1!4m6!3m5!1s0x88002f467d5cc0d3:0x3663cca1c82310ae!8m2!3d45.118575!4d-89.770155!16s%2Fg%2F11c565fqm9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Wausau",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Affordable Refrigeration, LLC",
+  "folderName": "Affordable Refrigeration, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

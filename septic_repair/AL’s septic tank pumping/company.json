@@ -1,0 +1,53 @@
+{
+  "name": "AL’s septic tank pumping",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 740-972-2167",
+  "phoneRaw": "+17409722167",
+  "website": "http://alsseptictankpumping.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/AL%E2%80%99s+septic+tank+pumping/data=!4m7!3m6!1s0x8838e309456f24a9:0x4ebdc676d9a6d477!8m2!3d40.282586!4d-83.0706054!16s%2Fg%2F11jn4nqnm9!19sChIJqSRvRQnjOIgRd9Sm2XbGvU4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "DE",
+  "city": "Newark",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AL’s septic tank pumping",
+  "folderName": "AL’s septic tank pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

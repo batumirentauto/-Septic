@@ -1,0 +1,53 @@
+{
+  "name": "A1 Pumping Service LLC",
+  "rating": 4.7,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": "6 Rawls Dr, Hattiesburg, MS 39402, United States",
+  "phone": "+1 601-268-2700",
+  "phoneRaw": "+16012682700",
+  "website": null,
+  "plusCode": "9JH9+HG Hattiesburg, Mississippi, USA",
+  "url": "https://www.google.com/maps/place/A1+Pumping+Service+LLC/@31.3789495,-89.3812327,17z/data=!3m1!4b1!4m6!3m5!1s0x889cd894d7b0629f:0xac07b3329166eb3c!8m2!3d31.3789495!4d-89.3812327!16s%2Fg%2F1tct9hgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MS",
+  "city": "Hattiesburg",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A1 Pumping Service LLC",
+  "folderName": "A1 Pumping Service LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

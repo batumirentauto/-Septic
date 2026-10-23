@@ -1,0 +1,53 @@
+{
+  "name": "Millennium Plumbing Specialist, Inc",
+  "rating": 5,
+  "reviewCount": 139,
+  "category": "Plumber",
+  "address": "7000 Franklin Blvd #665, Sacramento, CA 95823, United States",
+  "phone": "+1 916-287-7770",
+  "phoneRaw": "+19162877770",
+  "website": "https://theplumbingspecialist.com/",
+  "plusCode": "FGXP+RH Sacramento, California, USA",
+  "url": "https://www.google.com/maps/place/Millennium+Plumbing+Specialist,+Inc/@38.4995409,-121.4635967,17z/data=!3m1!4b1!4m6!3m5!1s0x4804f3f243711b6b:0x254d0f4a6c18e19b!8m2!3d38.4995409!4d-121.4635967!16s%2Fg%2F11q9gz2ctv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Sacramento",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Millennium Plumbing Specialist, Inc",
+  "folderName": "Millennium Plumbing Specialist, Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

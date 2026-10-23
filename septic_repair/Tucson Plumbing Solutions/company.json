@@ -1,0 +1,53 @@
+{
+  "name": "Tucson Plumbing Solutions",
+  "rating": 5,
+  "reviewCount": 64,
+  "category": "Plumber",
+  "address": "245 S Plumer Ave #38, Tucson, AZ 85719, United States",
+  "phone": "+1 520-367-4744",
+  "phoneRaw": "+15203674744",
+  "website": "http://www.tucsonplumbingsolutions.com/",
+  "plusCode": "6396+JG Tucson, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Tucson+Plumbing+Solutions/@32.2190337,-110.9386281,17z/data=!3m1!4b1!4m6!3m5!1s0x86d6714623ff2339:0x97d950eaa612f0e3!8m2!3d32.2190337!4d-110.9386281!16s%2Fg%2F11tt0mfss_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Tucson",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tucson Plumbing Solutions",
+  "folderName": "Tucson Plumbing Solutions",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Appalachian Pumping",
+  "rating": 4.9,
+  "reviewCount": 113,
+  "category": "Septic system service",
+  "address": "124 Cheyenne Ln, Boone, NC 28607, United States",
+  "phone": "+1 828-264-2450",
+  "phoneRaw": "+18282642450",
+  "website": "http://appalachianpumping.com/",
+  "plusCode": "696V+XC Boone, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Appalachian+Pumping/@36.2124913,-81.6064821,17z/data=!3m1!4b1!4m6!3m5!1s0x8850fbad91cb95d3:0x94dbdf88818e506!8m2!3d36.2124913!4d-81.6064821!16s%2Fg%2F1v29cqq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Charlotte",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Appalachian Pumping",
+  "folderName": "Appalachian Pumping",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVjSb8kXxJvw8ThiJMr0LJkHDgwTencsY4qsG5YE1YqysJ2ypSo2Q-NT11fjyHPfeHmt51zSVB42FkwdKeDzb99Bp8eC-sAsKySZWFVByDbDVQuaIkyTiGwfH82nkn8BFY_hio6MmTs6ze=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUjrdUTUCVPFRvkYSjO3F-WavA4ZBMD_F8ry_onCj22UXgoyBV4tpMbvGoQ0azFHqrfUn3pHTIvzSwLdJSce596k_IN09Z56wTg2yi025PS6aPWYp49iSHbuwFjU2q5qVeNUNFMBiEZLl0=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2Qm46gGch90GaE9NxERh4hkku2I_n5hbao_1FzHbQSDr-6AlGyeFCwXJu9TDfFAxtstuVKxCMCZXmA2jNCQr00TIPhCy9TiQcLhk-ig-SDq5b4C0qsZhDt2vsaPLkcT0I-vcU5XRvt8c=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewVHH5B9sGG9Sjtf3vIW87REUDSkiBeMrgatJF4z6vKoAPEjB6BuTcnhWz-J2sfc_zyef0OcBn-PCAhni_QYtbsDCS8ujng0pDVG34cpQ5c3MGo4-2vWZzcun-rBQkNkmQxW-cs39OfE3M=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "kpcpfam",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Benjamin H",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "kpcpfam",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "kpcpfam",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

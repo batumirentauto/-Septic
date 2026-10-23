@@ -1,0 +1,53 @@
+{
+  "name": "East Texas Septic Cleaning",
+  "rating": 4.9,
+  "reviewCount": 43,
+  "category": "Septic system service",
+  "address": "#152933, Lufkin, TX 75915, United States",
+  "phone": "+1 936-238-8327",
+  "phoneRaw": "+19362388327",
+  "website": null,
+  "plusCode": "86QP+RW Lufkin, Texas, USA",
+  "url": "https://www.google.com/maps/place/East+Texas+Septic+Cleaning/@31.3395854,-94.7627302,17z/data=!3m1!4b1!4m6!3m5!1s0x61121b00583e2db1:0xf02bc720d71b0162!8m2!3d31.3395854!4d-94.7627302!16s%2Fg%2F11s5v3qhqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Tyler",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/East Texas Septic Cleaning",
+  "folderName": "East Texas Septic Cleaning",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

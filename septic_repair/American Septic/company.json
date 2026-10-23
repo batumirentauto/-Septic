@@ -1,0 +1,99 @@
+{
+  "name": "American Septic",
+  "rating": 5,
+  "reviewCount": 123,
+  "category": "Septic system service",
+  "address": "206 S Willow St, Brooksville, KY 41004, United States",
+  "phone": "+1 606-782-4356",
+  "phoneRaw": "+16067824356",
+  "website": null,
+  "plusCode": "MWHJ+WC Brooksville, Kentucky, USA",
+  "url": "https://www.google.com/maps/place/American+Septic/@38.6797883,-84.068979,17z/data=!3m1!4b1!4m6!3m5!1s0x88416f45336d206b:0xf56597ca25810582!8m2!3d38.6797883!4d-84.068979!16s%2Fg%2F11jnm37k5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Louisville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/American Septic",
+  "folderName": "American Septic",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc21Sdxut5veOP4opzbtKhWTPLul7AfEDysj1Ljvr6O63pGnPSGfFECvD9PAiC9CY4fYYtdeQ1pg18RafKOnNyOkOEbJVtXhsCAsRdyTk3pNXomF34SX1-QmEAokLrhrPXovM4j0X62RYxU=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgEw9pXsDiKSo9qd3SVKMPgpB96ertdTOY5tBPp1m1kVuTLFt4h9C4FMVY1hDV-KzbiJNC_9qZ12l_y4o2aNNQN36Ns5DfkHsEqHybSVq93PNO4HsV_zPGAePXBEO03IPvspsPy3VBJox4=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLft-O5X_0ipwS1nMajcvoDYkrnFhsdqRcPYmvTALDYVhKX2Ss0ZvC88mZw9nSRV4Mmn0jRMzWs2LcnPKH7TNLf7IE22XteQu_IHP3V40UPLPT2NfsR0PGeerFRON_EUwF0gfAWK43JiuD6z=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdgCZUgbqHwGojMepkQvmCAF0JRuJ4SWvb7KOsfv5KJp6EM0sUIJbu2zXPB9fc0G0AsJj4_matg8SVs97JXbIUpTHoEJ8Bqq0zBUR0pcPCvqvRKpF_fIj0Ui1k9EL2udDAvuBxN6J-API=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Melissa Gawne",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Melissa Gawne",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Melissa Gawne",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Melissa Gawne",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

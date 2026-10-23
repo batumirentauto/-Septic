@@ -1,0 +1,53 @@
+{
+  "name": "Avery & Sons Plumbing",
+  "rating": 4.9,
+  "reviewCount": 184,
+  "category": "Plumber",
+  "address": "1026 S 1680 W #9900, Orem, UT 84058, United States",
+  "phone": "+1 435-485-7121",
+  "phoneRaw": "+14354857121",
+  "website": null,
+  "plusCode": "77H7+9V Orem, Utah, USA",
+  "url": "https://www.google.com/maps/place/Avery+%26+Sons+Plumbing/@40.2784552,-111.7352801,17z/data=!3m1!4b1!4m6!3m5!1s0x874d9b080e687073:0xe65a6cb83d3a5075!8m2!3d40.2784552!4d-111.7352801!16s%2Fg%2F11k2q4n8q2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "UT",
+  "city": "Provo",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Avery & Sons Plumbing",
+  "folderName": "Avery & Sons Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

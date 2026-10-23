@@ -1,0 +1,53 @@
+{
+  "name": "Rosebud Sanitation & Excavating",
+  "rating": 4.6,
+  "reviewCount": 41,
+  "category": "Septic system service",
+  "address": "49377 Hickman Rd, Calcutta, OH 43920, United States",
+  "phone": "+1 330-385-6622",
+  "phoneRaw": "+13303856622",
+  "website": null,
+  "plusCode": "MCPJ+X6 Calcutta, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Rosebud+Sanitation+%26+Excavating/@40.6874387,-80.5694039,17z/data=!3m1!4b1!4m6!3m5!1s0x8834117a990a8f49:0x96054b94fea1a7cb!8m2!3d40.6874387!4d-80.5694039!16s%2Fg%2F12637tzjq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Pittsburgh",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Rosebud Sanitation & Excavating",
+  "folderName": "Rosebud Sanitation & Excavating",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

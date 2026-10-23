@@ -1,0 +1,53 @@
+{
+  "name": "Septic Kings",
+  "rating": 5,
+  "reviewCount": 58,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 816-816-7667",
+  "phoneRaw": "+18168167667",
+  "website": "https://www.septickingskc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Septic+Kings/@38.979522,-94.3509244,10z/data=!3m1!4b1!4m6!3m5!1s0x62e96cba31ab395b:0x60ca3cb059626553!8m2!3d38.979522!4d-94.3509244!16s%2Fg%2F11m5j_fhvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Overland Park",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic Kings",
+  "folderName": "Septic Kings",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

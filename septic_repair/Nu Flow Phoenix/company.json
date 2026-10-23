@@ -1,0 +1,132 @@
+{
+  "name": "Nu Flow Phoenix",
+  "rating": 4.8,
+  "reviewCount": 117,
+  "category": "Plumber",
+  "address": "3328 E Corona Ave, Phoenix, AZ 85040, United States",
+  "phone": "+1 480-505-3618",
+  "phoneRaw": "+14805053618",
+  "website": "https://www.nuflowphoenix.com/?utm_campaign=gmb",
+  "plusCode": "CX4R+94 Phoenix, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Nu+Flow+Phoenix/@33.4059159,-112.009632,17z/data=!3m1!4b1!4m6!3m5!1s0x872badab0ca46c45:0x565eca6781b161df!8m2!3d33.4059159!4d-112.009632!16s%2Fg%2F11b6v3_d4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Phoenix",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Nu Flow Phoenix",
+  "folderName": "Nu Flow Phoenix",
+  "totalPhotosDownloaded": 14,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ-IdsgQQn-hkJrF4puRpCIwN6YnGUr3wNiTxyH07uwFBmzZJooKLlasO8rGet7njHlWkvr8N9hlU5SahGtjNiuJS77VXsrnu37ab76o845F4H5iCdb6dyn8SkeLpG5rq7NmbOiuWryE1M=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezSrxF8GrBKxTeC30-QnuIaR9ELRriFCMOE8rK1xQlwFkYor_2xBWoy_aS9nAclU0MGO9FgAJgB-_aKcxCvGIKu9Pg_iJwYwxdBnhWZSV_gN4HKTRyPDj9v-fNnpOzFrPhSpNQEJBhMZg=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffykcJyGNcY7YzD-WNKtZrpN550FdBQKXKSrvmdewx3mRSv1aA7cumRM-m5xJm9LzNccOaSe_cSIX3pFQaYPyagyOEgsPNT3LqOaejyJ9_algKkwA3fYoAVmTdL_dEso8QWWVtpepN7g_s=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDKZsW05O6jIZ-Q07Pmfps4kHmE0Wk51dMkofR8rjct9943Xhh-LnawyDqVDfobiQK8eWnIWEbLQRIeEYOdG5yS8Zx6Qi4u274DXH0EPWQl5q8adBNFO6eG_Ttc1LZTt2WSGocCp-FjIo=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8QooViFj7DoEBO09RrATW-XsJIZjQi9_J4gQQuqTrENbMgwKXMwcm_MZcJbFpFQCapffRzv29iVDg_pOvEwEV8Qw5NSc75fqdhra-wt6XKyqv9qbPQ49DoqB5kNjGZagNrv8LsrlQES9Z=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUzSr4ZdrNYs0crp78drFOKVTbbDoOZ8bEacdmQQuTsRabzpypGPvjUgC8uZ_Ry_XJUB2uZZ8yoNGOB3V3ThJp5QZ-axg0XfHqX0Ur9WOho4t75GnteBSb8VnIBYzDxNLjOb_3Ucd4ZA49=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKD6RgkJE4w1E22WwkZbFHL7DtUdmbdI3idW6oKNpy4zU49QXRdZA0OZFkEwcSHm1GPzOPT5FVrweUzsqVRt-4emwqqtSmIGD-OOovOKI98KNlYh2Qd7HnW6r0Uy0UKLIxXn1-001SN0KJ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Erin McDonald",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Ricardo",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Hal Kunnen",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Ricardo",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Hal Kunnen",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Ricardo",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Ricardo",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      }
+    ]
+  }
+}

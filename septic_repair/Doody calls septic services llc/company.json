@@ -1,0 +1,77 @@
+{
+  "name": "Doody calls septic services llc",
+  "rating": 4.7,
+  "reviewCount": 50,
+  "category": "Septic system service",
+  "address": "944 Country Club Blvd, Cape Coral, FL 33990, United States",
+  "phone": "+1 239-542-7667",
+  "phoneRaw": "+12395427667",
+  "website": "https://www.facebook.com/Doody-Calls-Septic-Services-llc-106928501475131/",
+  "plusCode": "J2MW+JX Cape Coral, Florida, USA",
+  "url": "https://www.google.com/maps/place/Doody+calls+septic+services+llc/data=!4m7!3m6!1s0x88db41573d32d11f:0x8acd6d02929cf12f!8m2!3d26.6341234!4d-81.9525871!16s%2Fg%2F11s2s03mp_!19sChIJH9EyPVdB24gRL_GckgJtzYo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Fort Myers",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Doody calls septic services llc",
+  "folderName": "Doody calls septic services llc",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkNs1tC3RQhSgbkyUPCzfZvXQbQmRunPhgvQbLveC_sR2pNLCkR7ImVwh7nqvQWx_HLfAHrPwH4uVjEZ5pRZOMSXOY7Gx1N_kwnMnQLHO5yD2BLNKRn2-6ThHtvMyBCuNDXIJy=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFKPeeDGExFp_11we3MCCOjpOY3ZTOdycnmo6q3fk6vBtuCiRGQbUKkiDtwja6T0-VfqXQ7SzOVONwX4SkyeF6QQoRaFLAEJYGsgXcOErsx_7m7_52qmhnyT32IbPhY1tUYO_G9w=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jake Tuckey",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Jake Tuckey",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

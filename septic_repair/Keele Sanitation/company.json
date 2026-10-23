@@ -1,0 +1,53 @@
+{
+  "name": "Keele Sanitation",
+  "rating": 5,
+  "reviewCount": 78,
+  "category": "Sanitation service",
+  "address": "872 E North St, Powell, WY 82435, United States",
+  "phone": "+1 307-587-6616",
+  "phoneRaw": "+13075876616",
+  "website": "https://www.keelesanitation.com/",
+  "plusCode": "Q733+65 Powell, Wyoming, USA",
+  "url": "https://www.google.com/maps/place/Keele+Sanitation/@44.7530784,-108.7470858,17z/data=!3m1!4b1!4m6!3m5!1s0x534953679f08654d:0x5f1a8a2f55bcefe7!8m2!3d44.7530784!4d-108.7470858!16s%2Fg%2F11nsvp3trf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MT",
+  "city": "Billings",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Keele Sanitation",
+  "folderName": "Keele Sanitation",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

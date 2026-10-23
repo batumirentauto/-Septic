@@ -1,0 +1,77 @@
+{
+  "name": "Snell Septic Service",
+  "rating": 4.6,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "155 Bulson Rd, Greenwich, NY 12834, United States",
+  "phone": "+1 518-692-7477",
+  "phoneRaw": "+15186927477",
+  "website": "https://www.facebook.com/snellsepticservice",
+  "plusCode": "3FQC+JG Greenwich, New York, USA",
+  "url": "https://www.google.com/maps/place/Snell+Septic+Service/@43.0891015,-73.52872,17z/data=!3m1!4b1!4m6!3m5!1s0x89de291c34a375f1:0x228a3d84be6c2167!8m2!3d43.0891015!4d-73.52872!16s%2Fg%2F113grdjk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Snell Septic Service",
+  "folderName": "Snell Septic Service",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLey7jQHN7AfyHZI6a7X-dM7zUnDMBjgIngC8BxuH24J9bByYqCoY7e0hISAWpNFMywulUTENyKGJj3ThaECMXM0xxiBH-gYO2PS9bhZ48VtvxDGQ32b3R0sXMau763LumkzJvR9=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZBLMdN7-khk-0bvMlLmYU9-m4Vv41wOlQ7MwhjSZ7D0ghRFpJSggEHwu6OUluqxP7FNnNg06mZmRAhPFKy-i8HvvAmc0WnKBb-s0J36ZjoOK0eXqnh74QYR2PzRAJPsJ46JvX=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "John Hodgens",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "John Hodgens",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

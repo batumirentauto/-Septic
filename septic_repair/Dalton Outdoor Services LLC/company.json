@@ -1,0 +1,121 @@
+{
+  "name": "Dalton Outdoor Services LLC",
+  "rating": 5,
+  "reviewCount": 61,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 678-577-9361",
+  "phoneRaw": "+16785779361",
+  "website": "http://www.daltonoutdoorservices.net/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Dalton+Outdoor+Services+LLC/@34.0555075,-83.817072,9z/data=!3m1!4b1!4m6!3m5!1s0x2a09fd6add60c37b:0x1aedb1eecaba2a1e!8m2!3d34.0555074!4d-83.817072!16s%2Fg%2F11kk4gkkg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Athens",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Dalton Outdoor Services LLC",
+  "folderName": "Dalton Outdoor Services LLC",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC5u1yWn4p3YRCFYGuKn_R_nYAWiirLOei7-sUA3bjEpnSG036vye_AKxGqV-t-9Q894KUsHHmMla5D37XyafiIgvu_SKDCS-h1MzKj74f-BpIea4ho40p2gW3pVafRmuMt29ehBHJVYI=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSifraXlsX08FCCtjfJVE7pifEn9WqExhHJ_y7cssYEMN1FQfsmUc32M_Op5KMBxxVueiEV5tJjuaouhmDAI901z7qrFZyWksDkZ1-stmLOspYhBYvP0i5cibS-F_klF_bLUl3SMF3CI7p=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdjG4IB1GugfjuC6YaQRgl-VfiYEo-zrQl4efZmu8mMvHEvWHuv1bAcnB1SvebZgUEKis9VebtG7Blevxq-CO4YYY9m4SBVWfpJLsZskWMHlf-2FUKLq4tjlet21gPjt7tw6-y=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPfnlyizeVqRl0HSwW66_C9EBCPdBU-SZHdxZOd5TewyaKTOJfqVzYHeirIgTm4wVLUcwJniYFW3n0b4F6x4vvihUmQUOSTR-oQ7SdKcCeW5k93T9yHcOHECzmu4f3UaTmXy4=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcm4Jw23AXMk8WWS5liCWxRfUbwrWlaQrEUuAVRZOUiqSbMtC1U3QTZNZv7folWe4V3V-1ebEHwLHGR6WFiHPWBy8k-hmMz_Hd45DSxGlQMr8bmYnVl8tQdmSd9LP8iIev2sbAeAg=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_sOwISBX-xg0sHVyELJCfsU9YTznF-zZe8mhdw18m9cHQXt8ceUPdXS0moBRziZcJB6akktbLwSl-AcxyVD8tZ0yYcLB8Epoz01oEe7GrB8ZxJJBiL8nW6KR7VDWwcHQogUG9iA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Bryan Stanley",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Joe",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Joe",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Joe",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Bryan Stanley",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Joe",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Rhoton’s Septic Tank Service",
+  "rating": 4.7,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "3123 Beech Creek Rd, Rogersville, TN 37857, United States",
+  "phone": "+1 423-348-6673",
+  "phoneRaw": "+14233486673",
+  "website": null,
+  "plusCode": "C67R+7G Rogersville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Rhoton%E2%80%99s+Septic+Tank+Service/@36.413176,-82.7587348,17z/data=!3m1!4b1!4m6!3m5!1s0x885af823323580c9:0x92d7aa07b3f4b19a!8m2!3d36.413176!4d-82.7587348!16s%2Fg%2F1260vrk6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Rhoton’s Septic Tank Service",
+  "folderName": "Rhoton’s Septic Tank Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

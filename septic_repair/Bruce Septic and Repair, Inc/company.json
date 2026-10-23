@@ -1,0 +1,77 @@
+{
+  "name": "Bruce Septic and Repair, Inc",
+  "rating": 4.9,
+  "reviewCount": 60,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 219-696-8303",
+  "phoneRaw": "+12196968303",
+  "website": "https://www.brucesepticserviceinc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Bruce+Septic+and+Repair,+Inc/@41.1890286,-87.2855335,10z/data=!3m1!4b1!4m6!3m5!1s0x8811f9d91ad45371:0x25290f4451f866ef!8m2!3d41.1890286!4d-87.2855335!16s%2Fg%2F1thpxfk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bruce Septic and Repair, Inc",
+  "folderName": "Bruce Septic and Repair, Inc",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcr18pWkcaZzjEHOes00jFH6oM2Oiq21msy-TnLJy9DOf1QFy49c8TZeGpDOxT2fS7Te0IDHy0ljc8OPWJ93GGODWtGcgPLkXV7pL6ZQ8govo7CyHb8QMtdDWXqGVGSnLSiltEFxkRhrik=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmB-Grc1KAme_jyPh-zVZlJQ3lI3-5fQULiMyXPEjAymV_24AAucfUu6Ljn0iXyVz7WpoP6w5ePeRwjS3iXYeTQzFTQbW0UOrhvbRBNDrMM8bHoWHGf8jKh0DNV52dP3tLboy8DIrAtJgC=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rebecca Stankowski",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Billie Black",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

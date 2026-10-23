@@ -1,0 +1,53 @@
+{
+  "name": "DrainPro Express Emergency Plumbing & Drain Cleaning Services",
+  "rating": 5,
+  "reviewCount": 118,
+  "category": "Drainage service",
+  "address": "4515 Hwy 31 S, Decatur, AL 35603, United States",
+  "phone": "+1 256-410-8344",
+  "phoneRaw": "+12564108344",
+  "website": null,
+  "plusCode": "G29J+54 Decatur, Alabama, USA",
+  "url": "https://www.google.com/maps/place/DrainPro+Express+Emergency+Plumbing+%26+Drain+Cleaning+Services/@34.5179852,-86.9697463,17z/data=!3m1!4b1!4m6!3m5!1s0x81462d250d7ecd99:0xfe2ab47cf4a0bf77!8m2!3d34.5179852!4d-86.9697463!16s%2Fg%2F11tx4t5vk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Huntsville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/DrainPro Express Emergency Plumbing & Drain Cleaning Services",
+  "folderName": "DrainPro Express Emergency Plumbing & Drain Cleaning Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

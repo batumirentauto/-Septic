@@ -1,0 +1,66 @@
+{
+  "name": "T&V Backhoe & Septic Services",
+  "rating": 5,
+  "reviewCount": 80,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 918-855-7465",
+  "phoneRaw": "+19188557465",
+  "website": "https://tvbackhoe.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/T%26V+Backhoe+%26+Septic+Services/@36.129014,-95.852143,10z/data=!3m1!4b1!4m6!3m5!1s0x87b6fb19025b0537:0x170b79738ea02681!8m2!3d36.129014!4d-95.852143!16s%2Fg%2F11f5pw0spl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Broken Arrow",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/T&V Backhoe & Septic Services",
+  "folderName": "T&V Backhoe & Septic Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWBzrtcoI_DwtTuNNRl7rQJ9H-z9pVHL7G3DbN2CgCTi1g6N2UAefE4fDGLFqBume9R1RECjePFoayFbvv-R8bCfOy1VpndScAxHdbE2sJsgKug-Q24i4piyIweyRHJEWziYOnscEDwwNZ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dawn Fisher",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

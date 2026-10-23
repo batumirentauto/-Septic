@@ -1,0 +1,53 @@
+{
+  "name": "G&L Septic Inc.",
+  "rating": 5,
+  "reviewCount": 65,
+  "category": "Septic system service",
+  "address": "39w277 Campton Hills Dr, St. Charles, IL 60175, United States",
+  "phone": "+1 630-584-9494",
+  "phoneRaw": "+16305849494",
+  "website": "https://gandlseptic.com/",
+  "plusCode": "WJ79+CW St. Charles, Illinois, USA",
+  "url": "https://www.google.com/maps/place/G%26L+Septic+Inc./@41.913516,-88.3802465,17z/data=!3m1!4b1!4m6!3m5!1s0x880f1d8b7c9d38d5:0xab559700a4380e9!8m2!3d41.913516!4d-88.3802465!16s%2Fg%2F1yg4d0v0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 520)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/G&L Septic Inc.",
+  "folderName": "G&L Septic Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

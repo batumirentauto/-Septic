@@ -1,0 +1,88 @@
+{
+  "name": "AAA Sewer & Drain Cleaning",
+  "rating": 4.8,
+  "reviewCount": 101,
+  "category": "Drainage service",
+  "address": "3080 15th St NE, Sauk Rapids, MN 56379, United States",
+  "phone": "+1 320-252-6330",
+  "phoneRaw": "+13202526330",
+  "website": "https://aaaseweranddraincleaningmn.com/",
+  "plusCode": "HWQ2+77 Sauk Rapids, Minnesota, USA",
+  "url": "https://www.google.com/maps/place/AAA+Sewer+%26+Drain+Cleaning/@45.5882057,-94.0993056,17z/data=!3m1!4b1!4m6!3m5!1s0x52b466a0c306f019:0x5fb952f5ce115d9c!8m2!3d45.5882057!4d-94.0993056!16s%2Fg%2F1tgps870?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MN",
+  "city": "Saint Cloud",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AAA Sewer & Drain Cleaning",
+  "folderName": "AAA Sewer & Drain Cleaning",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHEb8hUMCygwfBZmD5IGOSF7sC0Qx-yguVsM23nC7yX8l789A2SIWSZb_3stE-bxphYNdnkBsDOnMnYQ5tKfyxsCfha5VCsDDTZ8R1Z-Y6q1II6KidSznAD6yR4YxeNEWsN548jeTV9Lc2=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4EfEn9w2sFMz0quvjmEoJ0-m_lRDB5lMHJi6-itmq7B8ttahLyBk5i6pgZu717hQf3V9Gkqbx9tMunJm5IiZQhSYrapeLkvNJZpRuWIiYy9iMqJmBxvUj5d9ucr2DBQIYxNkdZNzNUbjD=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQApl8aRZz_eJZMvSsCHU431_cznGv-4GD92_0tn_JfNDmu4n9vvFKJEsiLW9v-32hGN6Fwfp4LaVBjQ-gwZMeyDQmtVCPS8SaPRWRYhsSP1tmiUtxTSYFXC5__gNknNI6PCoWlKvrBmY=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sandy Anderson",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Sandy Anderson",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Sandy Anderson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

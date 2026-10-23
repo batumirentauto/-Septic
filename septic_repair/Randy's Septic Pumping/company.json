@@ -1,0 +1,53 @@
+{
+  "name": "Randy's Septic Pumping",
+  "rating": 4.6,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": "N9070 WI-55, Pickerel, WI 54465, United States",
+  "phone": "+1 715-484-3683",
+  "phoneRaw": "+17154843683",
+  "website": null,
+  "plusCode": "932V+R3 Pickerel, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Randy's+Septic+Pumping/@45.3521064,-88.9072945,17z/data=!3m1!4b1!4m6!3m5!1s0x4d5499ff08a43f77:0x4d55f2103331f3ea!8m2!3d45.3521064!4d-88.9072945!16s%2Fg%2F1thw6c8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Wausau",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Randy's Septic Pumping",
+  "folderName": "Randy's Septic Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

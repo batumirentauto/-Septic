@@ -1,0 +1,53 @@
+{
+  "name": "Brewer Septic",
+  "rating": 4.9,
+  "reviewCount": 57,
+  "category": "Septic system service",
+  "address": "4 Station Rd, Whiting, NJ 08759, United States",
+  "phone": "+1 732-849-1669",
+  "phoneRaw": "+17328491669",
+  "website": "http://brewerseptic.com/",
+  "plusCode": "XJ3C+4V Whiting, Manchester Township, NJ, USA",
+  "url": "https://www.google.com/maps/place/Brewer+Septic/@39.952842,-74.377767,17z/data=!3m1!4b1!4m6!3m5!1s0xa1f95dafeaffecab:0x5a121b0196305e67!8m2!3d39.952842!4d-74.377767!16s%2Fg%2F11xnqq_v1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Toms River",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Brewer Septic",
+  "folderName": "Brewer Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

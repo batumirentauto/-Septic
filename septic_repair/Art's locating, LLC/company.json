@@ -1,0 +1,66 @@
+{
+  "name": "Art's locating, LLC",
+  "rating": 4.9,
+  "reviewCount": 109,
+  "category": "Utility contractor",
+  "address": "3135 Baylor Dr, Prescott, AZ 86301, United States",
+  "phone": "+1 928-713-3946",
+  "phoneRaw": "+19287133946",
+  "website": null,
+  "plusCode": "HGVM+FM Prescott, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Art's+locating,+LLC/@34.5936553,-112.465814,17z/data=!3m1!4b1!4m6!3m5!1s0x872d28cfe61411db:0xb3f33a2f36fe3f94!8m2!3d34.5936553!4d-112.465814!16s%2Fg%2F1tdw8jlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Prescott",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Art's locating, LLC",
+  "folderName": "Art's locating, LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO7N-IDK-JALrNe3gg8wY4G99XaoWzc-22DIlcP0aDL95_ZyRwtMdV6Odzzu8UuaXg6anofZSuMYbWMwz4N0nGPwyBUYtUDsW4bWjhJ1IQ22B__EaiiN3CYSF8ddm-K9rtUkECelvEW0I=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Pine Country Plumbing",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

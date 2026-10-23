@@ -1,0 +1,77 @@
+{
+  "name": "The Local Guys Plumbing and Drain Services LLC",
+  "rating": 4.8,
+  "reviewCount": 52,
+  "category": "Plumber",
+  "address": "8603 E Courtland Ave, Millwood, WA 99212, United States",
+  "phone": "+1 509-808-0713",
+  "phoneRaw": "+15098080713",
+  "website": "https://localguysplumbing.com/",
+  "plusCode": "MPQ6+Q7 Millwood, Washington, USA",
+  "url": "https://www.google.com/maps/place/The+Local+Guys+Plumbing+and+Drain+Services+LLC/@47.6894901,-117.2892758,17z/data=!3m1!4b1!4m6!3m5!1s0x549e226aff46eded:0xe9fef92b26210239!8m2!3d47.6894901!4d-117.2892758!16s%2Fg%2F11clyh9bz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Spokane",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 503)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/The Local Guys Plumbing and Drain Services LLC",
+  "folderName": "The Local Guys Plumbing and Drain Services LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1EN7KOOxbqPCWBbj_0uKIDd0sXNmkuLf_y3Q4Bk5UkU5oP6WRrIFs9RiY-jECpMjLZCh5reDHlxIKisFC_-khn_PuSnKPJm0m62AAat4QAMALc_6bnfEPhPhGqrZUI1iM6sy1=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXPNqtqMwe8cP2mVqyIH7bZjdC2QArI2HY0JbMv8UwjNujE_qrbbeg_yCDfFxVK-8IQY1HD-fBkC6l973Hstsh3RJIjlIooHOIMzVawZkxgi7Dgtn2jkuyMxO4xA3t_r67zUyJm64JdC4=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "John Kennedy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Anna McConnell",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

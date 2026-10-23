@@ -1,0 +1,53 @@
+{
+  "name": "Lil John Sanitary Services Inc",
+  "rating": 4.6,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": "633 E Smith Rd, Bellingham, WA 98226, United States",
+  "phone": "+1 360-398-9828",
+  "phoneRaw": "+13603989828",
+  "website": "https://liljohnsanitary.net/",
+  "plusCode": "RGMV+32 Bellingham, Washington, USA",
+  "url": "https://www.google.com/maps/place/Lil+John+Sanitary+Services+Inc/@48.8326576,-122.4574251,17z/data=!3m1!4b1!4m6!3m5!1s0x5485a4ac4726e87d:0x652414a8f31a68ac!8m2!3d48.8326576!4d-122.4574251!16s%2Fg%2F1tf5dfbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Bellingham",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lil John Sanitary Services Inc",
+  "folderName": "Lil John Sanitary Services Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

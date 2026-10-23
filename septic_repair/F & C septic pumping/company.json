@@ -1,0 +1,143 @@
+{
+  "name": "F & C septic pumping",
+  "rating": 5,
+  "reviewCount": 36,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 661-862-9537",
+  "phoneRaw": "+16618629537",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/F+%26+C+septic+pumping/data=!4m7!3m6!1s0x609ab41f2db35329:0xc262d3ceec23af55!8m2!3d37.0738174!4d-120.078026!16s%2Fg%2F11tn7h2mbm!19sChIJKVOzLR-0mmARVa8j7M7TYsI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "Bakersfield",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/F & C septic pumping",
+  "folderName": "F & C septic pumping",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOT-KH4JgkC3zKJIAmVpNQ2pN6f4zG-qory0_odY_v7Yv-6FFMvyiw_EEvOmLCe5z3Agv2MobnkiJ9dgLDv-X4BwNULN4g0uLufL6xcARjdLznLDXnw5XW5dvfu_kuJaBBBkk=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnXb0AGs60aHgEUclTeKXdWLf7iLM5210zcThlmmuPgn5VGX8Sk6X_nsTd6s8YYQ65-pQLNYCJr3OSVhAlvFSbKi1-Zbh_wHMqyl_Ggd-NLTtQ_PC1XYv1xuuCBHeifelPRO4=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegtMww84PcmKiPyeLGK-gSIgs2y4JqhLBP_-GpYewhCxfHMQKuZye_khMYnwE578pqW6yTXNkjQsXEjKrw3ZckUNrgxYnYXmlZakQ5p64nyh9MLee4Y51pO7ocnCDlbB5hIZ3lCQ=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJbanKaxOiSritlF3PB9HzST9Cn3EibR51ZY7M8f7gYKbKT5FvNYrAli7GqzeTEpHDQZhaX1bUB2QWdel8KlQfkn06sBlVWUn57I6LP1bPOEX5d8hIreiELC238Qylx25GfcDT=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaJftO0dNWAZ2zSUHqmrqjcY9nPn_9F6IxSSO6iuWqbcIfHIU1gU0IANuXZKEAnrGgAiNXMz96-xr2ZfK-gCuY00bya71fyu4UgbZPi92tEAvoA1UOtnwuD5uTpxza52UzfcRF=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7T04UHi73QKa0wkgOmJ-rHRG5cpfUQ7IqS1IRAYQZaOwxThgXKVtCASXKYkuixxmLOz9b8cFxXfz3NEkwPGrcQeNh0dR98LclMjN9Q6lvQeHTZJCH8z2nGsk-OW2GOEOqQViD=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5xG5sSH15tJ12AwJlYstd60p9fI7GjOnb0D6KAfdv85rmWsIp3jctdV7m3jmbdBqmzPvka_WfGfhRFy6w2S7NIcmRCPG-2rg6qtRM8dOb-7ayHPOI45G2oaCYsQTPyIettYZT=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrCyo9J2oUq9h4VGx7J_8nHUSfu50APSu4Lr4-ngN66cF23_L87-PVJa-qOp9IEUzQyRJFNK9xO71Oec9DHsl4YXcX8cbMXmkO0EtQGUQHukB4ismiMYag7JNWttYORlIUBmE40Q=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Gilberto Perez",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Mindy Gonzales",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Mindy Gonzales",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Alejandro Ibarra",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Alejandro Ibarra",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Alejandro Ibarra",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Mindy Gonzales",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Alejandro Ibarra",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

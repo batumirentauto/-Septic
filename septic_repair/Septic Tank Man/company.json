@@ -1,0 +1,53 @@
+{
+  "name": "Septic Tank Man",
+  "rating": 4.9,
+  "reviewCount": 144,
+  "category": "Septic system service",
+  "address": "2563 Toledo Blade Blvd ste 3, North Port, FL 34288, United States",
+  "phone": "+1 941-297-3166",
+  "phoneRaw": "+19412973166",
+  "website": "http://www.theseptictankman.com/",
+  "plusCode": "3RJV+78 North Port, Florida, USA",
+  "url": "https://www.google.com/maps/place/Septic+Tank+Man/data=!4m7!3m6!1s0x88dcabe352575d65:0xfc9f7dde29058956!8m2!3d27.08067!4d-82.1566325!16s%2Fg%2F11fd4rs1c9!19sChIJZV1XUuOr3IgRVokFKd59n_w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Sarasota",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic Tank Man",
+  "folderName": "Septic Tank Man",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

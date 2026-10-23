@@ -1,0 +1,77 @@
+{
+  "name": "Eco Septic Tank Pumping Lakeland",
+  "rating": 5,
+  "reviewCount": 77,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 863-313-1487",
+  "phoneRaw": "+18633131487",
+  "website": "https://ecosepticpumping.com/lakeland-septic-tank-pumping",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Eco+Septic+Tank+Pumping+Lakeland/data=!4m7!3m6!1s0x655222f693e4a265:0x62cc1b8656b23e60!8m2!3d28.0366075!4d-81.85905!16s%2Fg%2F11vr17j9rl!19sChIJZaLkk_YiUmURYD6yVoYbzGI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Lakeland",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Eco Septic Tank Pumping Lakeland",
+  "folderName": "Eco Septic Tank Pumping Lakeland",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfeTiw5aG1NQ78XOa_hI3-amG1kvhXAz3XM_FHNOPNGYkBsJF17b_pERW_kxB6PcbvFF55E3JPMiuSnTxqG9Qyfi3q5gAbc1dBzUKOZevaNxDlyRGni3vVao-9yBeuhHU0zQeFGeYEXVzR=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8YxeW9QbVqomKenyXwzrbuVhSexNU8BxSMRMLsbVTTBj7nPtM3Q7H2aC72c7ycg6PZbFEOCCw0oPYtrMg9IofWZdHGDlrXy3fj7MFhdx4lA6Ls-P60vEHYEVUoBkLu1hIY8-XWRGOHxgA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Nesha Lewis",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Nesha Lewis",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Aloha Septic Service/Town & Country Inc.",
+  "rating": 4.9,
+  "reviewCount": 186,
+  "category": "Septic system service",
+  "address": "20504 66th Ave E, Spanaway, WA 98387, United States",
+  "phone": "+1 253-847-3030",
+  "phoneRaw": "+12538473030",
+  "website": "https://alohasepticservice.com/",
+  "plusCode": "3MC4+5V Spanaway, Washington, USA",
+  "url": "https://www.google.com/maps/place/Aloha+Septic+Service%2FTown+%26+Country+Inc./@47.070389,-122.3428263,17z/data=!3m1!4b1!4m6!3m5!1s0x54911dce468e1f59:0xf035d88c339a69e1!8m2!3d47.070389!4d-122.3428263!16s%2Fg%2F11c3l9g162?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Tacoma",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Aloha Septic ServiceTown & Country Inc.",
+  "folderName": "Aloha Septic ServiceTown & Country Inc.",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdB2Y16oxqxEhca4dBoHHIgZ9Ajqk90QIWDhdpAHCf4y68axFYiNQh7a30acNckIXBQvAwNlFc8MsFefRXYobKBgoN3nuVigCwr7QEQavOM-gL44E35TroKpfx6dyota49RDjJo4pFTGaH1=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Corey Belser (Cbelser32)",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

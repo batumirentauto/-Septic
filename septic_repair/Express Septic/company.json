@@ -1,0 +1,53 @@
+{
+  "name": "Express Septic",
+  "rating": 4.8,
+  "reviewCount": 53,
+  "category": "Septic system service",
+  "address": "5884 State Rte 138, Hillsboro, OH 45133, United States",
+  "phone": "+1 513-594-8627",
+  "phoneRaw": "+15135948627",
+  "website": null,
+  "plusCode": "58C7+G9 Hillsboro, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Express+Septic/@39.1712994,-83.6865098,17z/data=!3m1!4b1!4m6!3m5!1s0x27c825304ec3641:0xf3bf413ca4ca6bd9!8m2!3d39.1712994!4d-83.6865098!16s%2Fg%2F11s1ftyr9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Cincinnati",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Express Septic",
+  "folderName": "Express Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

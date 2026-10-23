@@ -1,0 +1,53 @@
+{
+  "name": "Fletcher Sewer & Drain",
+  "rating": 4.7,
+  "reviewCount": 200,
+  "category": "Septic system service",
+  "address": "824 Perimeter Rd, Ludlow, MA 01056, United States",
+  "phone": "+1 413-788-7200",
+  "phoneRaw": "+14137887200",
+  "website": "https://fletcherseweranddrain.com/",
+  "plusCode": "6F3M+RR Ludlow, Massachusetts, USA",
+  "url": "https://www.google.com/maps/place/Fletcher+Sewer+%26+Drain/@42.2046104,-72.5154283,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6c3ffbfedb59d:0x35bf713b08009051!8m2!3d42.2046104!4d-72.5154283!16s%2Fg%2F126243fwz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MA",
+  "city": "Springfield",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Fletcher Sewer & Drain",
+  "folderName": "Fletcher Sewer & Drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

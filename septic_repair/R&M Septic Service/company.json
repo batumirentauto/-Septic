@@ -1,0 +1,24 @@
+{
+  "name": "R&M Septic Service",
+  "rating": 4.8,
+  "reviewCount": 73,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 651-674-8520",
+  "phoneRaw": "+16516748520",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/R%26M+Septic+Service/@45.5135205,-92.894259,10z/data=!3m1!4b1!4m6!3m5!1s0x52b2f9faeb861967:0xc78ac1e0d36e4360!8m2!3d45.5135205!4d-92.894259!16s%2Fg%2F1tdwpr5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MN",
+  "city": "Minneapolis",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/R&M Septic Service",
+  "folderName": "R&M Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

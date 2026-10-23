@@ -1,0 +1,70 @@
+{
+  "name": "Universal Septic Services",
+  "rating": 4.8,
+  "reviewCount": 175,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 248-697-2697",
+  "phoneRaw": "+12486972697",
+  "website": "https://universalsepticservices.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Universal+Septic+Services/@42.6774895,-83.4320774,9z/data=!3m1!4b1!4m6!3m5!1s0x88235f91f9024957:0xae48fee943cba80e!8m2!3d42.6774895!4d-83.4320774!16s%2Fg%2F11h07lnq63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Universal Septic Services",
+  "folderName": "Universal Septic Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmbmVes7TX5mGkc1zRQFCA-gTn5opQpYKhIGa_AK4c2epCfzs5k3GiWUO2pf_9up0XTWFg1a_TcmXmzo3ppmVDq07mI84N2zY5rmjcjq2lS9cI7tKCOq9qkW7uqejXePmVQF8peTAQemTF=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDJbgnQmZ_i9J53ud2QaBL0Hf8l3Ess5ZEV8b229J-IJIXXZiSmMLkd35dqLNNlUK5phXnqQ1Q-bLdHkR_zVHqNZbRTmp76k8ZVcXc_L-WcsQwfe4l6RluFfXeensIOEX6_TgUY8n72jJ-=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIzZZqm8Ue7AEH3s7QPClGlmtbnSviVGfZdgdoSjSkq_O2-Eej3uhdlBqd1cb67MhWWRvwxeynitORov-8kxvnMyPIPetSKUNW1JG_ljBppXRSOTN0TrkJXn_2m_S3FiKnYQexQXKTU3VE=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJIqKONU1IOCds9XESrt1OeEWfDFgmoUw8CR8uCXTPkFXy7b-Rjxg-Qpa-pe_di7g28q7-4EgbFn-k1jliQEJaSKNa6eJemdWhcx0ptAvbY46eLk-vq-lvONhYPP3RCPtHXmh7rArrATB6=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Carlos Salcedo",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Carlos Salcedo",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Carlos Salcedo",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Carlos Salcedo",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

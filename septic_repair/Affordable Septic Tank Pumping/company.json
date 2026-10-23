@@ -1,0 +1,53 @@
+{
+  "name": "Affordable Septic Tank Pumping",
+  "rating": 4.9,
+  "reviewCount": 38,
+  "category": "Septic system service",
+  "address": "Lincoln Rd, Idaho Falls, ID 83401, United States",
+  "phone": "+1 208-569-8219",
+  "phoneRaw": "+12085698219",
+  "website": null,
+  "plusCode": "GX9X+73 Idaho Falls, Idaho, USA",
+  "url": "https://www.google.com/maps/place/Affordable+Septic+Tank+Pumping/@43.5182481,-112.0023732,17z/data=!3m1!4b1!4m6!3m5!1s0x53545e6d076e70a3:0xf0dad1bc9c87aa95!8m2!3d43.5182481!4d-112.0023732!16s%2Fg%2F1th491nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ID",
+  "city": "Idaho Falls",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Affordable Septic Tank Pumping",
+  "folderName": "Affordable Septic Tank Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

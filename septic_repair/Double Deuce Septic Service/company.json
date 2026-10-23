@@ -1,0 +1,53 @@
+{
+  "name": "Double Deuce Septic Service",
+  "rating": 5,
+  "reviewCount": 124,
+  "category": "Septic system service",
+  "address": "8511 State Rd 1537, Rougemont, NC 27572, United States",
+  "phone": "+1 919-450-6582",
+  "phoneRaw": "+19194506582",
+  "website": null,
+  "plusCode": "52MM+RW Rougemont, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Double+Deuce+Septic+Service/@36.1845587,-78.9651704,17z/data=!3m1!4b1!4m6!3m5!1s0x89ad1f0fc9845d45:0x50c3e62bfe9372f0!8m2!3d36.1845587!4d-78.9651704!16s%2Fg%2F11rkcdmgf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Raleigh",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Double Deuce Septic Service",
+  "folderName": "Double Deuce Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

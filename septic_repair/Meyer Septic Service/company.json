@@ -1,0 +1,53 @@
+{
+  "name": "Meyer Septic Service",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "7130 Olean Rd, South Wales, NY 14139, United States",
+  "phone": "+1 716-652-0553",
+  "phoneRaw": "+17166520553",
+  "website": null,
+  "plusCode": "MCPH+H2 South Wales, New York, USA",
+  "url": "https://www.google.com/maps/place/Meyer+Septic+Service/@42.6864307,-78.5724709,17z/data=!3m1!4b1!4m6!3m5!1s0x89d3a94978a30b7d:0x902caafb40bc25b9!8m2!3d42.6864307!4d-78.5724709!16s%2Fg%2F1vp74rw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Buffalo",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Meyer Septic Service",
+  "folderName": "Meyer Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

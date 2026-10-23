@@ -1,0 +1,59 @@
+{
+  "name": "Kalm Plumbing Solutions",
+  "rating": 4.9,
+  "reviewCount": 32,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 570-291-8886",
+  "phoneRaw": "+15702918886",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Kalm+Plumbing+Solutions/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x23638ce24a9d3249:0xc64c4fbf4e3ec605!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11wtf39tfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Scranton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Kalm Plumbing Solutions",
+  "folderName": "Kalm Plumbing Solutions",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Sicario Civic",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

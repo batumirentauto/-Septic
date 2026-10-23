@@ -1,0 +1,77 @@
+{
+  "name": "Payne Septic Tank Cleaning",
+  "rating": 4.7,
+  "reviewCount": 55,
+  "category": "Septic system service",
+  "address": "630 Woodside Ln, Lafayette, TN 37083, United States",
+  "phone": "+1 615-666-6916",
+  "phoneRaw": "+16156666916",
+  "website": null,
+  "plusCode": "HXG9+JJ Lafayette, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Payne+Septic+Tank+Cleaning/@36.5765618,-86.0309547,17z/data=!3m1!4b1!4m6!3m5!1s0x88666239d2fe9655:0xa65c4e02e0a801f0!8m2!3d36.5765618!4d-86.0309547!16s%2Fg%2F1tf7swfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Payne Septic Tank Cleaning",
+  "folderName": "Payne Septic Tank Cleaning",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTDZjzHtUaUdDJ2kfibQxO3TA_Hi8U83jhwpffVB-3O3yEfH0wYmXCzIfJT27YNEwfcuGNtbf4ZbgwBC6Utf_3njRwPO24yWFKbNJM8vluFy8eEoJCumsGBNquv1fsqWwB6leALBlIqC1I=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGfoe6Qdsreh24RDhEUfjXKRxcx53vI1WsMm3DhDWWQFJorRQ1sTwcvNEegCvm_NGcX-VgyIQ2QovlmBK0qIKegVzTZteQTCzVck2uUHX0gdosSxkgFyLonpDkz1szVID49NXXiwFQsAry=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "debbie",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "debbie",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Olson's Excavating & Sewer Services",
+  "rating": 4.7,
+  "reviewCount": 56,
+  "category": "Excavating contractor",
+  "address": "17638 Lyons St NE, Columbus, MN 55025, United States",
+  "phone": "+1 651-464-2082",
+  "phoneRaw": "+16514642082",
+  "website": "http://www.olsonsinthepink.com/",
+  "plusCode": "7XQH+MM Columbus, Minnesota, USA",
+  "url": "https://www.google.com/maps/place/Olson's+Excavating+%26+Sewer+Services/@45.2891532,-93.0207806,17z/data=!3m1!4b1!4m6!3m5!1s0x52b2e705149cd3c7:0xb91b51432314185d!8m2!3d45.2891532!4d-93.0207806!16s%2Fg%2F1tz75mbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MN",
+  "city": "Minneapolis",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Olson's Excavating & Sewer Services",
+  "folderName": "Olson's Excavating & Sewer Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLff6fxqFt6cxX79VZoWZKqtUReSaO8gXHU7ws70MuHyQyCpgePJHt6GJdLxmRE9M9gjShAvCdCnwMNrY4b-5mJKDgoy9RVeP0yVuLKVsnRTOLI_qLaeoirixlj79miNI-H20Gh6NQXgs7a1=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc7rRvH9D480tQ7XOh-K9zJAefzND2zkoTE1ONANL7vHSUyg9d1Dmy8jRjKE0w88yjKHaoebbuHyhXY09s_ltRprK5RMEaetJo4S5L3yNFpAY6L8E94R4n6TMC2JLG3j33S8c_=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Christine Cartwright",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Eric Haugen",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Petersen Septic Systems LLC",
+  "rating": 4.9,
+  "reviewCount": 69,
+  "category": "Septic system service",
+  "address": "7334 Nagel Rd, Valders, WI 54245, United States",
+  "phone": "+1 920-323-2640",
+  "phoneRaw": "+19203232640",
+  "website": null,
+  "plusCode": "2559+J2 Valders, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Petersen+Septic+Systems+LLC/@44.0090442,-87.8324921,17z/data=!3m1!4b1!4m6!3m5!1s0x88034053dc7d23cf:0xeaeade2175c7f754!8m2!3d44.0090442!4d-87.8324921!16s%2Fg%2F1hc0tkcvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Petersen Septic Systems LLC",
+  "folderName": "Petersen Septic Systems LLC",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZh82pI4ZvoCC5TJf0ZlDFnODjk5k3OApQKWKFW9lC_UXNVa9nabWiWU0gMZjM8dVjg-PlCrIVMJqMj82Hl8r6lyHc9df6LzgEACdrlxJZwBWUWjB5HTgCSSXEmW8-jHMz998=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd46iW8hcljmaMwVg39PS4iIAi_c2URJITc3-3HFbyk4yy1mekLtTvBTiGkIS9aGoHH0eP_Y4hSfTLgnvwDOjIhYnHuyW4tFo-BcSC9B7mJ2z13KOpdd7Tv2a6vUWiwM_WxisDgjQ=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDwjKOhFfz-KF4cPBcxqyu6q01wfpVFrgwttj4SvTi50LbyTl1EY3LoidZ9_0p9OD9Rpele2TPnw45zgbYKPmg02VsRVu1hVUYejhD3Yrp0M0DtA3hOkD6Y37XG2pHIGSYvN9d=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvYRwUQLH-7Cxtl3gw8nmh12q4nFSRPKxPMRiKNLlcoc-gC3JNHxIMO1Y5OUDmB0iosfeMaKRYpEFUMkHROpaPlpEtEElR0WqmZ8oNIsECV0b2qTUgkdCf2dhsFt-q3LIrWetOIg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Tracie Wurm",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Tracie Wurm",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Tracie Wurm",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Tracie Wurm",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Adrenaline Services",
+  "rating": 5,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 360-831-7656",
+  "phoneRaw": "+13608317656",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Adrenaline+Services/@45.8696764,-122.6727801,10z/data=!3m1!4b1!4m6!3m5!1s0x81a0a490ce665691:0xa1a34539ede28892!8m2!3d45.8696764!4d-122.67278!16s%2Fg%2F11t8p1hkdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Portland",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Adrenaline Services",
+  "folderName": "Adrenaline Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

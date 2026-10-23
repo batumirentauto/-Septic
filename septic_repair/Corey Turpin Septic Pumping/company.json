@@ -1,0 +1,59 @@
+{
+  "name": "Corey Turpin Septic Pumping",
+  "rating": 5,
+  "reviewCount": 44,
+  "category": "Septic system service",
+  "address": "Homer, GA 30547, United States",
+  "phone": "+1 770-654-9368",
+  "phoneRaw": "+17706549368",
+  "website": null,
+  "plusCode": "8FHV+CF Homer, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Corey+Turpin+Septic+Pumping/@34.3285126,-83.5062521,17z/data=!3m1!4b1!4m6!3m5!1s0x88f6020263147b27:0x39d03ff4d387f79b!8m2!3d34.3285126!4d-83.5062521!16s%2Fg%2F11g8cym0mg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Athens",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Corey Turpin Septic Pumping",
+  "folderName": "Corey Turpin Septic Pumping",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Beverly Tanner (Bev)",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

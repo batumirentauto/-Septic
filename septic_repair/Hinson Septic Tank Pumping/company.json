@@ -1,0 +1,53 @@
+{
+  "name": "Hinson Septic Tank Pumping",
+  "rating": 4.9,
+  "reviewCount": 106,
+  "category": "Septic system service",
+  "address": "632 Stokes Rd, Camden, SC 29020, United States",
+  "phone": "+1 803-432-0960",
+  "phoneRaw": "+18034320960",
+  "website": null,
+  "plusCode": "7H84+68 Camden, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Hinson+Septic+Tank+Pumping/@34.265521,-80.444211,17z/data=!3m1!4b1!4m6!3m5!1s0x88558d86c24514d9:0x8ea8cc5e56753721!8m2!3d34.265521!4d-80.444211!16s%2Fg%2F11fj8mx5fx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Columbia",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hinson Septic Tank Pumping",
+  "folderName": "Hinson Septic Tank Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

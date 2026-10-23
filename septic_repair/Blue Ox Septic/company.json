@@ -1,0 +1,53 @@
+{
+  "name": "Blue Ox Septic",
+  "rating": 5,
+  "reviewCount": 49,
+  "category": "Septic system service",
+  "address": "1149 E Hoop Rd, Xenia, OH 45385, United States",
+  "phone": "+1 937-210-9013",
+  "phoneRaw": "+19372109013",
+  "website": "https://blueoxportables.com/",
+  "plusCode": "M4F4+RQ Xenia, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Blue+Ox+Septic/@39.6745157,-83.893121,17z/data=!3m1!4b1!4m6!3m5!1s0x8e888fff49c8dfff:0x6f381415771191ad!8m2!3d39.6745157!4d-83.893121!16s%2Fg%2F11z0zg79l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Dayton",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Blue Ox Septic",
+  "folderName": "Blue Ox Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

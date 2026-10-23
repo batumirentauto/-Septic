@@ -1,0 +1,24 @@
+{
+  "name": "Sheyenne Septic Service",
+  "rating": 5,
+  "reviewCount": 50,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 701-317-2756",
+  "phoneRaw": "+17013172756",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Sheyenne+Septic+Service/@46.5875865,-97.29467,9z/data=!3m1!4b1!4m6!3m5!1s0x40014fd5c31152f1:0x7976566cd280a087!8m2!3d46.5875865!4d-97.29467!16s%2Fg%2F11twr1h03p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ND",
+  "city": "Fargo",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sheyenne Septic Service",
+  "folderName": "Sheyenne Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

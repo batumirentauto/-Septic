@@ -1,0 +1,77 @@
+{
+  "name": "Champion Plumbing",
+  "rating": 4.8,
+  "reviewCount": 191,
+  "category": "Plumber",
+  "address": "1000 W Wilshire Blvd #349, Nichols Hills, OK 73116, United States",
+  "phone": "+1 405-267-4996",
+  "phoneRaw": "+14052674996",
+  "website": "https://callthechamps.com/plumbing-services-in-nichols-hills/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_id=GBP_Nichols-Hills",
+  "plusCode": "HF29+5M Nichols Hills, Oklahoma, USA",
+  "url": "https://www.google.com/maps/place/Champion+Plumbing/@35.5504657,-97.5307534,17z/data=!3m1!4b1!4m6!3m5!1s0x87b21b17a1c74df5:0x248079f7dd751cb0!8m2!3d35.5504657!4d-97.5307534!16s%2Fg%2F11kbnpjlsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Oklahoma City",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Champion Plumbing",
+  "folderName": "Champion Plumbing",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDIG72pf82mMpqZCbLYyG2kyW7ZpP_6YwGP192EFrdkK1RtUPTd-DbVW9T2UgrCJmN8hbLQSb7I0ZcLF5LNa_rymurw0LtaKOdeB_snIOr1Mv1ZHlM0149GoEJI43j77dfJE_kzzIlayBx=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZ6_xJBqu2UQrkWDaZgn7gXPFpLw1PT3mbhGkWcdhNb4E0auw-maaaWcY9VgXsOYiyMmQ6z2NzzqHqla0hUg7QbYW2dKvTX7SjC2_9Fp6-Q2fFP7sBqtgGqvCGHM-y0tEZfJ5cSNpdTQZs=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Teagan Hawkins",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Teagan Hawkins",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

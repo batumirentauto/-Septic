@@ -1,0 +1,53 @@
+{
+  "name": "Evans Rooter Service llc.",
+  "rating": 4.6,
+  "reviewCount": 63,
+  "category": "Plumber",
+  "address": "3722 Mountainview Dr, Evans, CO 80620, United States",
+  "phone": "+1 970-515-9322",
+  "phoneRaw": "+19705159322",
+  "website": "http://evansrooterservice.net/",
+  "plusCode": "97GC+H4 Evans, Colorado, USA",
+  "url": "https://www.google.com/maps/place/Evans+Rooter+Service+llc./data=!4m7!3m6!1s0x876ea121cd362d8f:0xae739d0b2648d966!8m2!3d40.3763974!4d-104.7296399!16s%2Fg%2F11bxfwdrjj!19sChIJjy02zSGhbocRZtlIJgudc64?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CO",
+  "city": "Greeley",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Evans Rooter Service llc.",
+  "folderName": "Evans Rooter Service llc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

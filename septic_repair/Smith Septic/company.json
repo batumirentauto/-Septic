@@ -1,0 +1,77 @@
+{
+  "name": "Smith Septic",
+  "rating": 5,
+  "reviewCount": 148,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 208-572-9628",
+  "phoneRaw": "+12085729628",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Smith+Septic/@43.708341,-111.8955255,10z/data=!3m1!4b1!4m6!3m5!1s0x23a44bb7d4d084cb:0x3fd9026acbaeadfd!8m2!3d43.708341!4d-111.8955255!16s%2Fg%2F11q477xfkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ID",
+  "city": "Idaho Falls",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Smith Septic",
+  "folderName": "Smith Septic",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd6KtX_PCTQb6W60w9DEhv132vI93TytLCitOAhdC-yeWPNU4wyi6RM7cJ4NWR99uyILCYO7BbC06MLFoa8iASkDGgiaH9feoNvlg0QaUSBVeTrdJOOk0oAFDNSWqSmK7yCTOEePfeOj0z=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_k04HVaKbUDSqFW3O48t0tz-FqgC8-QY6Ccf4QzMsSRoj5ZYqhqHQLEmkckt_1a9GBt9hFgI0O9gRkJw39evQNvyWCUYKP_8VgGrL9ceFb_JRyvvCM1KikihZoVLHCPan4V-1mnNu5zaR=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jessica Matthews",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "J Powers",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

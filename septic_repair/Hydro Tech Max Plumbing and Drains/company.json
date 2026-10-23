@@ -1,0 +1,66 @@
+{
+  "name": "Hydro Tech Max Plumbing and Drains",
+  "rating": 5,
+  "reviewCount": 147,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 630-853-2884",
+  "phoneRaw": "+16308532884",
+  "website": "https://hydrotechmaxplumbing.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Hydro+Tech+Max+Plumbing+and+Drains/@41.6225121,-88.176276,10z/data=!3m1!4b1!4m6!3m5!1s0x880e59b7daac46c1:0x5c5f2810e4e25013!8m2!3d41.6225121!4d-88.176276!16s%2Fg%2F11h3bt3sw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hydro Tech Max Plumbing and Drains",
+  "folderName": "Hydro Tech Max Plumbing and Drains",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcS006XhwdX8MBtrxP-r7FDJKB7GxP_nGGpUAWJcwEhAesI-_GlzQtwXsK3eiwswRzjKwg-WxdrXAUYsn5753RZ2tz8ymD7u9cxR24TWtAYEZ6zK8ypFu9NbJnIuYRIHOHmMSgor_31VVi=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Brian",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

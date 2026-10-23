@@ -1,0 +1,66 @@
+{
+  "name": "TruFlow Plumbing & Drainage, Inc",
+  "rating": 4.8,
+  "reviewCount": 52,
+  "category": "Plumber",
+  "address": "125 Covey Rise Circle, Clarksville, TN 37043, United States",
+  "phone": "+1 931-998-0606",
+  "phoneRaw": "+19319980606",
+  "website": null,
+  "plusCode": "HQ8C+6G Clarksville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/TruFlow+Plumbing+%26+Drainage,+Inc/@36.5656005,-87.2286891,17z/data=!3m1!4b1!4m6!3m5!1s0x4ef9aa7a1f315c2d:0x9c12b93d7394405!8m2!3d36.5656005!4d-87.2286891!16s%2Fg%2F11sfqtn5n7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Clarksville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/TruFlow Plumbing & Drainage, Inc",
+  "folderName": "TruFlow Plumbing & Drainage, Inc",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiqHTYK2SuKTs_9XQ96OhR9NR-M6GxC8ji9ZMAFQdTDTV87w4RrCf7JMJl6m25SKsy0dyDeMbjAkah-hCsTeha-_UkniGnHLildFl17Ktb7t3UaRUQFtMwbeWqJkDSORCG46sK=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Amber Hanika",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

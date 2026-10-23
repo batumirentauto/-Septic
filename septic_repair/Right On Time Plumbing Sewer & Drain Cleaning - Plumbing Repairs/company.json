@@ -1,0 +1,66 @@
+{
+  "name": "Right On Time Plumbing Sewer & Drain Cleaning - Plumbing Repairs",
+  "rating": 4.7,
+  "reviewCount": 143,
+  "category": "Plumber",
+  "address": "1823 W 48th St, Davenport, IA 52804, United States",
+  "phone": "+1 309-737-6753",
+  "phoneRaw": "+13097376753",
+  "website": "https://rightontimeplumbingdavenportia.com/",
+  "plusCode": "H99W+CQ Davenport, Iowa, USA",
+  "url": "https://www.google.com/maps/place/Right+On+Time+Plumbing+Sewer+%26+Drain+Cleaning+-+Plumbing+Repairs/@41.5685639,-90.6030489,17z/data=!3m1!4b1!4m6!3m5!1s0x87e3c51047697eab:0x12eb31587d566554!8m2!3d41.5685639!4d-90.6030489!16s%2Fg%2F11bzx4smh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IA",
+  "city": "Davenport",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Right On Time Plumbing Sewer & Drain Cleaning - Plumbing Repairs",
+  "folderName": "Right On Time Plumbing Sewer & Drain Cleaning - Plumbing Repairs",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWk9qPsqj0RKb4EdgHbgYtIyOoX2A5wmfRRzFwatKBrstRi9u0uYmTKtaAjHJ0kJfFwH5nni2GxTGunFNf7DNvGK8IEHcMcmhNsa8kuj0p0cJpSoefAX0fnInhthctQLNaqbgLuYbOJlWN=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Steve Zarley",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

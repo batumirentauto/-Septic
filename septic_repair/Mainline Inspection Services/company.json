@@ -1,0 +1,53 @@
+{
+  "name": "Mainline Inspection Services",
+  "rating": 5,
+  "reviewCount": 147,
+  "category": "Plumber",
+  "address": "1206 W Loveland Ave, Loveland, OH 45140, United States",
+  "phone": "+1 513-349-3357",
+  "phoneRaw": "+15133493357",
+  "website": "http://www.mainlineinspection.com/",
+  "plusCode": "7PCF+QV Loveland, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Mainline+Inspection+Services/@39.2719777,-84.2752691,17z/data=!3m1!4b1!4m6!3m5!1s0x884056036200fea9:0x51ff8331e6e5e0f9!8m2!3d39.2719777!4d-84.2752691!16s%2Fg%2F1tgn5dsr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Cincinnati",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Mainline Inspection Services",
+  "folderName": "Mainline Inspection Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

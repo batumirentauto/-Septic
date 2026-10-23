@@ -1,0 +1,77 @@
+{
+  "name": "Sandia Pumping",
+  "rating": 4.9,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 505-286-8888",
+  "phoneRaw": "+15052868888",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Sandia+Pumping/@35.066721,-106.1673305,11z/data=!3m1!4b1!4m6!3m5!1s0x8718b943eba1c9a7:0x5a43f964b71a9c94!8m2!3d35.066721!4d-106.1673305!16s%2Fg%2F11ghsdk2s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NM",
+  "city": "Albuquerque",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sandia Pumping",
+  "folderName": "Sandia Pumping",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtqHXPtLYiF_uAxPSuCU5s1js7hF5O7G5zwgFXKEIgkTPnM4n_5jxEwkUe2Kn4q2mo8bXVHCs_Pi74Dzmy6APtHH9TK8ZVW84W4wibp0BGlPuj-DER0UA4YhzMXxRwP5EvdqCa=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_Yy-U_Eel8euXgkhd-8x8lE57OihbtwrOfs1xXxDd0OSV1tBdPCeQ5mwd2zkdyOYbfckuPtgCCNnZsEUqiu3TwCjfvmYc7QR97pQTpbAy6kP9zlnflEqMkr0zSHx4_PTpfFJx=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "v111pilot V",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "v111pilot V",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

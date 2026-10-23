@@ -1,0 +1,132 @@
+{
+  "name": "Speed Plumbing Pros",
+  "rating": 5,
+  "reviewCount": 76,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 916-333-8369",
+  "phoneRaw": "+19163338369",
+  "website": "http://www.speedplumbingpros.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Speed+Plumbing+Pros/data=!4m7!3m6!1s0x81c0e93b4ac7e7df:0xf3f3a214e8a0b59c!8m2!3d38.5047915!4d-121.567555!16s%2Fg%2F11w20nd4b8!19sChIJ3-fHSjvpwIERnLWg6BSi8_M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "Sacramento",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 429)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Speed Plumbing Pros",
+  "folderName": "Speed Plumbing Pros",
+  "totalPhotosDownloaded": 14,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeubXuwEtqqaErMWC5hv8TP34sZEvgTGUfTiLOrt2oI8Mmb8xJeGkZeih5TspIPlQicjnoAIHfuFQ0LAfHJXLE5shaCMwMCPxShaDEfoCWsJK9MgXdzZF6jFbyLHMTC38zPzcmB4FsD2UhA=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmUfXguDiqaKLrWZRG14j9cakvOABMiFJXl_dcbuH3gKfO_vs6sHwGTozPJtfbY5NM0H6aF8xcI-2fGVbB5092d_OXrrM92joRHt9UMqxnSPtoJ3EqtiBFhWohklJ0yX1P9pm7jqIi0vza=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDvGk1pyKCBA957gBdXICAQkG2YfJHAG19xT4jwc6wSJn89_rv6qTSv7fsZWuNAhK-wundvihW-d4b1iaFU8OBgE7Ln9PVHNfpuomBWLCrjCA57ABEkdq-RxuFVsv6q06kaKRtkEsbyH0x=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehPGbHCrZu6znsEXPKaRndAtFBid3yIWsYGw58qB2Qo5PYtqyv3fAkoOFWZGAHd31VSlpGSHmkemkoPvOyQA8lvo1kB7xviDigd2ujPCCU2grPGcxlMKkSX6Z4qQeyS2wFzoRzJvMLCBo=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwt7_M_HbPzboAfQXYjQu98SNCzw6kpAmUIfTZW-jaWXwGJYxGfZV79YTBN2nWssz0NeTE4PqzNHDn-AAZYHo5mZa8DNkdC4uHZ4G8ljeUOHNJ-rboMWIPRMkHHoEkuhb1pvcW75Tp26IJ=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehGfH2o9rB31hbsl4CaFlpQkG-2WJw9qv8FvTE_eZi8dSvAcwOLfblYYFoNeSdHnzqCeT5jjjcFdL7PM23Ls043JG_lb54KAUVDlftjyXJ_Uz-4yznNRyDx1FiQk9HdVmUUkkCm1LtcJDU=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0LtvyFvEeqUlbaP0leLB_J5V2vowW_9-cnUNTcytXXR-6ZZE5MgrpCA3iF9xYTJifXqYpFYaqvMX9Y_DwXPvYZmGLBnf2kHU-lBm7fiiRNO7TL1nZlw2jlC1QNZ7dwtcF19vgDz_ZrYR3=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jesse A",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Heidi Ramirez",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Edward Chan",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Edward Chan",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Edward Chan",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Luis Arroyo",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Luis Arroyo",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      }
+    ]
+  }
+}

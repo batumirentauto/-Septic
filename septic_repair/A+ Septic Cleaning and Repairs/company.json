@@ -1,0 +1,99 @@
+{
+  "name": "A+ Septic Cleaning and Repairs",
+  "rating": 4.7,
+  "reviewCount": 67,
+  "category": "Septic system service",
+  "address": "23205 Windy Valley Rd, Leander, TX 78641, United States",
+  "phone": "+1 512-740-5513",
+  "phoneRaw": "+15127405513",
+  "website": "https://aplussepticaustin.com/",
+  "plusCode": "H2FV+PP Leander, Texas, USA",
+  "url": "https://www.google.com/maps/place/A%2B+Septic+Cleaning+and+Repairs/@30.5742888,-97.9556894,17z/data=!3m1!4b1!4m6!3m5!1s0x865b272f5def96c9:0x19036dba03fa47b1!8m2!3d30.5742888!4d-97.9556894!16s%2Fg%2F11fl0y3p2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Austin",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A+ Septic Cleaning and Repairs",
+  "folderName": "A+ Septic Cleaning and Repairs",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV_IXkUiEd9IhRfkPyqMmT-A72N6AM6Wev3ylCFz2sm7J1uSCDv3jND7n3UULmRsgr1elhO1ZD2QrLDCaF8t-ZqTO-W3xKEqC75UQ2lK6-i3Bc-TElTUblfwHC75Mel0S6QjI=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWe855Lvz2aEqJSOftMcyeOKNObRzFRa_73kC12A09GUVpQJHLN4aEFJRABuTkeuVCxoMzqrIhyTZLWuCculKR-M9mFezpJrih8lgwby0aj1tcC6jfMRXvmjtXu5NmFY_zQ7WGpg=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdk_H--L-tVsLCxNbPx9WV1tHcMtwKaX537kawv6D6QbxL-Sd2Fk32I766NtssbdMtnUIVHlj8YPJsSa-MtoyNnUWMaaRe93P_bE39ZomZelQU1QrBnbmjcfHIj_Q51irkoOlK6=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebR9-Dcko_FIA-qDsMAaP7CTHaHDbomiirTCWXJbTA8-pyNrSeb71eHlAE9_9QqjKFLwaVuWAItXwMt09P_SSOqV5YLozv1G3q5XaXodfpaVcTJYyw-ylN7zw-cWPHfX_gdwBO=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Chad Anselmo",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Elizabeth Latham",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Elizabeth Latham",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Chad Anselmo",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Wausau Plumbing Plus LLC",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 715-660-1132",
+  "phoneRaw": "+17156601132",
+  "website": "https://www.facebook.com/profile.php?id=100089185470400&mibextid=LQQJ4d",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Wausau+Plumbing+Plus+LLC/@45.127332,-89.546687,9z/data=!3m1!4b1!4m6!3m5!1s0x483ea63db8195d3:0x1b9505c88f4df6f8!8m2!3d45.127332!4d-89.546687!16s%2Fg%2F11sf02vhvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Wausau",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wausau Plumbing Plus LLC",
+  "folderName": "Wausau Plumbing Plus LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

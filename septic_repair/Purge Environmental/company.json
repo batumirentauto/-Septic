@@ -1,0 +1,83 @@
+{
+  "name": "Purge Environmental",
+  "rating": 4.9,
+  "reviewCount": 195,
+  "category": "Septic system service",
+  "address": "10625 Deme Dr D, Indianapolis, IN 46236, United States",
+  "phone": "+1 317-999-7366",
+  "phoneRaw": "+13179997366",
+  "website": "https://www.purgeenvironmental.com/?utm_source=gbp&utm_medium=button&utm_campaign=gbp-website&utm_content=website",
+  "plusCode": "V26C+89 Indianapolis, Indiana, USA",
+  "url": "https://www.google.com/maps/place/Purge+Environmental/@39.8608021,-85.9790958,17z/data=!3m1!4b1!4m6!3m5!1s0xae589a33120d70f:0x3be4834e4256997!8m2!3d39.8608021!4d-85.9790958!16s%2Fg%2F11x8621mkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IN",
+  "city": "Indianapolis",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Purge Environmental",
+  "folderName": "Purge Environmental",
+  "totalPhotosDownloaded": 5,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCSPRUwaWQJSm8Ozf70UqQU1HZdTiQf1b7t98TkBHH7BQr8ok9H3Mo2NpcYdTvHc8PF1-2TZBNN6iWmyBaIgG98unZ-xkFznEAxiNFwLRAhgozmkgALOhEk97zzct1aGWYXlzxqn14pAje=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhxeCv6Hc_QrVk_l9PIRUeBh3CAcoaps6QhmEheLvu5AViHd_IfyqeaFjpbuNm-V6PmvsW5BXeZpx9WinnxNVzt7oiYDTDSBqPVou5BGFQD7KEkzLK3m6hxDRGsqutSFShR85N-3oBvBeG=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNwZjbVML1dczh1MjmAxEWKgMZQKaF97kysRq95fBnQN7Dsef-VFkk0FuoStA0mS5C9oAAFY2qMMdDWL3yBQDS1ci_fbd0Wn2l69swkNiADfJT5nHwJ6sLP18ZNaKRscxyx9kBL0Mn3qx-=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Teresa Chapman",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Teresa Chapman",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

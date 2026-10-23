@@ -1,0 +1,99 @@
+{
+  "name": "Hugh R Simmons Septic Tank Services",
+  "rating": 4.8,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "511 Mount Zion Rd, Spartanburg, SC 29303, United States",
+  "phone": "+1 864-809-1318",
+  "phoneRaw": "+18648091318",
+  "website": null,
+  "plusCode": "XWCX+2F Spartanburg, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Hugh+R+Simmons+Septic+Tank+Services/@34.970092,-82.0513239,17z/data=!3m1!4b1!4m6!3m5!1s0x885777f254b38227:0xe86fea4a19f16139!8m2!3d34.970092!4d-82.0513239!16s%2Fg%2F1tf6hbwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Greenville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hugh R Simmons Septic Tank Services",
+  "folderName": "Hugh R Simmons Septic Tank Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeABXnk2G_eu2FWk19OwTw7MJmBXOQuaYZ8sqtU2_6o_KGmFh2lmsUr2i6T0wbiv9HqXcCBKcYdbCUOVervwM7hOivRp6fwa1nIYuVp2torZ-PUrRyoYI9FwyFRf9GAsg4QftKPig=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcurbQVVobKzp4M0fmPg4Mn24leeet_soM9m-DEVdmEiN7cl0vPrCXjVsEg_h5mrbUpoWEBD4ERQg0atBSwOtJA8OYVBrmNloXHC1Gj2p57i6PvC0q3LDvslbB84DCnCSiKCFMo=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-inRh8OxdU9R4pYWsa4JxDfphS0sNtelZ5Odcw1ktP_9gPHSjB-e1EMOWmlMiFqyG2dAALLRjajx3-r61FxyLSaUAIj_FuoIjeYng4V3uesBSx5TyVzgIUw5HoqKcaTLr21M=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhQ6liiIQj1oOA9GYjz0KtTaEzdVYLEiS1vfukn-L7_RpPiHKjOM8T85jhIHt-4zx2ZibbJOocdQqtx3hiBXYgl7anzvMhf3bp9trQTQvwwE4kqfp553DpZEf5J61y06Ff8QJ1tA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Davitta Simon",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Davitta Simon",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Davitta Simon",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Davitta Simon",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

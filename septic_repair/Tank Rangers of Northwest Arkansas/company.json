@@ -1,0 +1,53 @@
+{
+  "name": "Tank Rangers of Northwest Arkansas",
+  "rating": 5,
+  "reviewCount": 50,
+  "category": "RV repair and maintenance service",
+  "address": "20571 Wade Rd, Springdale, AR 72764, United States",
+  "phone": "+1 479-365-9300",
+  "phoneRaw": "+14793659300",
+  "website": "https://tankrangers.com/tank-rangers-of-northwest-arkansas/",
+  "plusCode": "52C6+C9 Springdale, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Tank+Rangers+of+Northwest+Arkansas/@36.1710594,-93.9890165,17z/data=!3m1!4b1!4m6!3m5!1s0x87c941241e8cef21:0x184261305ad85c5b!8m2!3d36.1710594!4d-93.9890165!16s%2Fg%2F11xrzzqnns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Springdale",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tank Rangers of Northwest Arkansas",
+  "folderName": "Tank Rangers of Northwest Arkansas",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

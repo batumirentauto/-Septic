@@ -1,0 +1,99 @@
+{
+  "name": "Hardin County Septic Services",
+  "rating": 5,
+  "reviewCount": 70,
+  "category": "Septic system service",
+  "address": "2390 Valley Creek Rd, Elizabethtown, KY 42701, United States",
+  "phone": "+1 270-735-9710",
+  "phoneRaw": "+12707359710",
+  "website": null,
+  "plusCode": "M5HX+C8 Elizabethtown, Kentucky, USA",
+  "url": "https://www.google.com/maps/place/Hardin+County+Septic+Services/@37.6785246,-85.8016805,17z/data=!3m1!4b1!4m6!3m5!1s0x8868ef5d9eed2009:0x611ba3c0c5f8f15b!8m2!3d37.6785246!4d-85.8016805!16s%2Fg%2F11h6sbcy19?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Lexington",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hardin County Septic Services",
+  "folderName": "Hardin County Septic Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZmRgJaUMQJTDtue4fywR-kqW5uEYr_qVuB9daaM6fWs2wO0AzurRTTTH7cJI66FkCYJmH2U-81mwwYFuVPy_kTkCz7cOPPmvgfhZdRk7SBpgsCEPXT5jCz_O148TJZPOgLRC7=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWxTHKiQbqLyqcQbAnnRdiNZDumndnNeRtQzEt8bGQydTWEJrlHODLPROQGLr0rhv5DZjMMs5w51KrpJmIFrXdV1Y7Y19IPzoXGlnpQ_ImC-4pYy46SNiHigfnyeUwdtK16_n8MQ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUVangtmebOSNvLY9U8Oowf6LF9f9CQtKjFCaWMJseSIw_NWn22Sizr6CQc12FbMJUAquntYXrFqGs2UrwHKtuvFUh81jFTo2eRnoZHUYe_nQFyOH6Yj9pxNpNCj7gp0CWZqk-=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_jMrCyZE2Wp9TlIJok_4pX2QQkbvgOpWqpUNtmFinCtWIwOXkNIvC_FOVKrCUOib944Gw3GpYHAXMl-fxlEjdyrzPCRLZWt7u13ciT2Ayn40HVlliqjftS14NdSz9SeGvLG3HuQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Paul Gamerdinger",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Paul Gamerdinger",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Paul Gamerdinger",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Paul Gamerdinger",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "North Bay Restaurant Services",
+  "rating": 4.9,
+  "reviewCount": 186,
+  "category": "Cleaning service",
+  "address": "437 W 9th St, Santa Rosa, CA 95401, United States",
+  "phone": "+1 707-824-9737",
+  "phoneRaw": "+17078249737",
+  "website": "http://www.northbayrestaurantservices.com/",
+  "plusCode": "C7R9+QX Santa Rosa, California, USA",
+  "url": "https://www.google.com/maps/place/North+Bay+Restaurant+Services/data=!4m7!3m6!1s0x80844825c4dd77bb:0xc9b0982d26af78c4!8m2!3d38.441932!4d-122.730083!16s%2Fg%2F11cn3s5x73!19sChIJu3fdxCVIhIARxHivJi2YsMk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "Santa Rosa",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/North Bay Restaurant Services",
+  "folderName": "North Bay Restaurant Services",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUEXHy2JjiVPM7u-tUNxb6HjSsDF4mHEo1AOcPhelXE6FTQ1uEcipGE6IxcJ52xDm7LY9lXJuE0wYxW5JHrwXJz_bVLXFo6_TLrrEoXF0GZia6UqBJTb0OSAJuIpiL997zPF7lxb0YSZcl=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLds2nw7nLMIUPXPnS3l0q1EiK5H9Lda24SvvNqMjYkF5BYgGityyy-I2o_JEbHsHIgPPiXi2jG0i5BaVhIRUgOVnWwsyAjQptIv098AQnK10C9ernwVmK_tZ6n992dxoY2j2AtxC5LdsEMe=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1gRV9VHxvLx-XFFJTqWefaGCcKSIFhGROF3Q5EaW0CdcpUlKuR-RwbO9G_bMSJRg1DULNhNWU1tHrqmBG3oEPEBOX70mah9xyKFgSCxsdgFqliMhUTec5aFbuSOW_8soXKSbFzdlr5sFX=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Chris Apodaca",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Chris Apodaca",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Ray Simon",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

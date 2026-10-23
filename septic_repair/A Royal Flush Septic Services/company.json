@@ -1,0 +1,53 @@
+{
+  "name": "A Royal Flush Septic Services",
+  "rating": 4.9,
+  "reviewCount": 73,
+  "category": "Septic system service",
+  "address": "7499 N Mt Tabor Rd, Ellettsville, IN 47429, United States",
+  "phone": "+1 812-876-7867",
+  "phoneRaw": "+18128767867",
+  "website": null,
+  "plusCode": "798H+GG Ellettsville, Indiana, USA",
+  "url": "https://www.google.com/maps/place/A+Royal+Flush+Septic+Services/@39.2662738,-86.6211291,17z/data=!3m1!4b1!4m6!3m5!1s0x886cf57792212293:0xd2090ad85fecdaec!8m2!3d39.2662738!4d-86.6211291!16s%2Fg%2F1wk7rm08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IN",
+  "city": "Bloomington",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A Royal Flush Septic Services",
+  "folderName": "A Royal Flush Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

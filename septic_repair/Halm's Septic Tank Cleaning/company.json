@@ -1,0 +1,77 @@
+{
+  "name": "Halm's Septic Tank Cleaning",
+  "rating": 5,
+  "reviewCount": 28,
+  "category": "Septic system service",
+  "address": "8048 Gratiot Rd F, Saginaw, MI 48609, United States",
+  "phone": "+1 989-781-2899",
+  "phoneRaw": "+19897812899",
+  "website": null,
+  "plusCode": "CW8H+F2 Saginaw, Michigan, USA",
+  "url": "https://www.google.com/maps/place/Halm's+Septic+Tank+Cleaning/@43.4161324,-84.072428,17z/data=!3m1!4b1!4m6!3m5!1s0x8823c5db212466ff:0x9e414a4fda847f8c!8m2!3d43.4161324!4d-84.072428!16s%2Fg%2F1tdky90f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Halm's Septic Tank Cleaning",
+  "folderName": "Halm's Septic Tank Cleaning",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLec8rNoZIsjhohu9st4mdfO8B-gzouo-Wi8xDtABTP5woMHXEwOxkua4_4Ctr_NFaKUtNtWnWgLRa2qOKcDhYeZ-ID9Qb55dUADiIyM27LiJ06pzrBLyMWYRBwuFzxmT1ybTOrg=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf85Wk6hCPhG057by2PuUcZpSjn3VsdGk5TJB6sLSmid6QPTipMqtdPiMvtlllcsoyQ6Pin7qaOC6PShV4k3Fs0cVsxct-e4zufero1IaTPF-62__gWZTnzUfzNyfbGRq48qDCoLQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Hannah",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Hannah",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

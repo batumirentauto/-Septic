@@ -1,0 +1,53 @@
+{
+  "name": "Xtreme Drainworks Inc.",
+  "rating": 5,
+  "reviewCount": 31,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 858-583-1798",
+  "phoneRaw": "+18585831798",
+  "website": "https://www.xtremedrainworks.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Xtreme+Drainworks+Inc./@32.8242556,-117.0644554,10z/data=!3m1!4b1!4m6!3m5!1s0x2300bfe53903e14f:0x3921aec0f8aea788!8m2!3d32.8242556!4d-117.0644554!16s%2Fg%2F11zbb0tljy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "San Diego",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Xtreme Drainworks Inc.",
+  "folderName": "Xtreme Drainworks Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

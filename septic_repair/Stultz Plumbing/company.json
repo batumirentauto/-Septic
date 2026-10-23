@@ -1,0 +1,121 @@
+{
+  "name": "Stultz Plumbing",
+  "rating": 4.9,
+  "reviewCount": 182,
+  "category": "Plumber",
+  "address": "25003 Broad Oak Trail, San Antonio, TX 78255, United States",
+  "phone": "+1 210-672-1502",
+  "phoneRaw": "+12106721502",
+  "website": "https://stultzplumbing.com/",
+  "plusCode": "M89Q+PQ San Antonio, Texas, USA",
+  "url": "https://www.google.com/maps/place/Stultz+Plumbing/@29.6692696,-98.6605698,17z/data=!3m1!4b1!4m6!3m5!1s0x4b1b8c077617c417:0x6a01a741f1976389!8m2!3d29.6692696!4d-98.6605698!16s%2Fg%2F11vwyf_736?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "San Antonio",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stultz Plumbing",
+  "folderName": "Stultz Plumbing",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedgJsEEQXKsCogGl8ahjBmV-Nh2SxRyXLmpOIIqhnPCwuzCXyP57aYJ8oQ1eplpmZOvwtsSPjrF9ZD3g89mFBmiwfOK0TE3TSQFGeNTxZatti1E3q0zSHeRfuFHY-YkymOZgqrMKRRDwGx=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFrBePNtsUD6psMmwHgQfRo_b32VafQ3aGtCjIt8HViBF8-QbM4YELnJV9iPPEceI-2MKN117YMf1RSy8YuD6TxqZc3ClVocHBQw-dayf3nytwybRT0ezWfX4M3fOZvNtRMdT60r8fj-A=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfx1-tnFZ7x3IpZ3UwTOWP8nVBOSel-JveUiiiPUoE3RW4NEwkEvAIZH2m3u-ZGZpMnnxPy43tnPebruM2OMDE6T7opSXokYqUPsnp6pnNb5AVdvmmX56ZzSqktUqddxqbZtAwOnDAt2Jo=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_3MRFGHAWoC4Y-QiZ4SvPTcZLYfuyqW3l0zCDBWa4zEWSz9bdO5TGNZaoSZSTXO4cDqk2MetWhJ4gD70jfjr-qRKfpBl03OAnLLwU9a7e1-ndf4O4RodLNZ9NQpFzJ0QSiRIhYzzqmu0=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcufOEKJBWn7ZeNPZfY8C-dJVLa1c43VTKFO1j2eBh8NE3qhmLZy9CMSa1h88jQ0EemH5I8ux30SaUx2OE7F4r7bbDfOrnqTOq7qhbSkUvC_J3T8ZPqkDXqbjqOVxigzL9N19QMKZOyeZdr=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf31IuBLFTgYzB4-w1uFuG2DwJKhVXY1RniddwXEWtCBal87kwXpNYaktileLkMUKsVJDVEmq0k9i0Q-DT_6kK1HqTzsC5wfV089mL7Ouv-aOpEIkt6HZ9emTeENyYp_0ExZlqgLJPtEiHw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Curtis Cormack",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Curtis Cormack",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Curtis Cormack",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Curtis Cormack",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Dylan Delgado",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Dylan Delgado",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

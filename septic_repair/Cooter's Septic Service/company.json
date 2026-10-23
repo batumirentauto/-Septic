@@ -1,0 +1,77 @@
+{
+  "name": "Cooter's Septic Service",
+  "rating": 4.7,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "504 Center St, Lathrop, MO 64465, United States",
+  "phone": "+1 816-419-5974",
+  "phoneRaw": "+18164195974",
+  "website": null,
+  "plusCode": "GMXC+28 Lathrop, Missouri, USA",
+  "url": "https://www.google.com/maps/place/Cooter's+Septic+Service/@39.547589,-94.3292227,17z/data=!3m1!4b1!4m6!3m5!1s0x87c1b5c3b74d3359:0xd5cd7903f1aef7f7!8m2!3d39.547589!4d-94.3292227!16s%2Fg%2F11gmb9q1m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Overland Park",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Cooter's Septic Service",
+  "folderName": "Cooter's Septic Service",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHfLfXmoqL1glU0bGPbCVBzPes4hqAQ2dHirofDIf29FbENknqqtufh-WxjTo8iYXPpSqi21o4ia_jpUa1q2t0Qx1p_ePSoMgqs9r06LbdXcw36s_WYpKZ4nDdNu1KyDnnpW4f=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuz_t4t3Yp-QYBggHjc1DScy9IhOuIwbs2vbRU36zUqFZwwBTZDPl9iGxn4XcofiHQ3xZHqAk08GDqmvnv6gyyEcsC9s7vRAlTNaMOLzysL4SqPqhqwWBrik4MIsmdWbAIW5fYBA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Scoo Ter",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Scoo Ter",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

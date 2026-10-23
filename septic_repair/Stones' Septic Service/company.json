@@ -1,0 +1,53 @@
+{
+  "name": "Stones' Septic Service",
+  "rating": 5,
+  "reviewCount": 72,
+  "category": "Septic system service",
+  "address": "39 Goodell Ave, Swanzey, NH 03446, United States",
+  "phone": "+1 603-354-3391",
+  "phoneRaw": "+16033543391",
+  "website": null,
+  "plusCode": "RPRF+99 Swanzey, New Hampshire, USA",
+  "url": "https://www.google.com/maps/place/Stones'+Septic+Service/@42.8409856,-72.2765043,17z/data=!3m1!4b1!4m6!3m5!1s0x89e16df43750d6c3:0x4063e804f4a7fe79!8m2!3d42.8409856!4d-72.2765043!16s%2Fg%2F11nn333khq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stones' Septic Service",
+  "folderName": "Stones' Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

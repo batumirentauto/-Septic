@@ -1,0 +1,53 @@
+{
+  "name": "Veteran's Plumbing Services",
+  "rating": 5,
+  "reviewCount": 190,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 615-636-6431",
+  "phoneRaw": "+16156366431",
+  "website": "http://veteransplumbingtn.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Veteran's+Plumbing+Services/@36.2010356,-86.870541,9z/data=!3m1!4b1!4m6!3m5!1s0x86593c3da66babf9:0x1516f98b6947a62b!8m2!3d36.2010356!4d-86.870541!16s%2Fg%2F11ydq8wf22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 429)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Veteran's Plumbing Services",
+  "folderName": "Veteran's Plumbing Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

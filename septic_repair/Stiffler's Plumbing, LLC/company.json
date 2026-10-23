@@ -1,0 +1,99 @@
+{
+  "name": "Stiffler's Plumbing, LLC",
+  "rating": 5,
+  "reviewCount": 178,
+  "category": "Plumber",
+  "address": "1464 Hickory Point Rd, Clarksville, TN 37043, United States",
+  "phone": "+1 931-222-9970",
+  "phoneRaw": "+19312229970",
+  "website": "https://stifflersplumbing.com/",
+  "plusCode": "FP3W+FX Clarksville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Stiffler's+Plumbing,+LLC/@36.4537281,-87.2526015,17z/data=!3m1!4b1!4m6!3m5!1s0x69faace01259aa6d:0xa816763e61c9139d!8m2!3d36.4537281!4d-87.2526015!16s%2Fg%2F11qb8pp1qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Clarksville",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stiffler's Plumbing, LLC",
+  "folderName": "Stiffler's Plumbing, LLC",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH7e7iMn8RVBNY-YVSbQ0pwa3cHfvLokpDgeVDp1aLhDwda1ss4jnx6-LK4VdDNoQeBPsbhnXl6NjBZKjQRDsrDlUm_Fl7EMg2J6AkCZWaUHT0dmIyLtYLrnf7itxNdvoZ5ySd=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJIMM7dOQV7-vOPHywUdCeRKhryb5A3MtSzRhjBisAkPkjCJgVjdMR4T-ZQ1ObunSunczk0E9gw1lxtRGmVlMEnZrW1tnTA7aVPOjweh4Cn_aijQavyN1C4HPdh87ldLYKXa89aw=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepiHwrsBFfcZaLoYoznDf6scW7BMRHOyTDY3_Nu7t6PcP3HcOJyewoMnOIEsoKnQ6f3OMbGlymEkPXSXWkcWoK6D-w-R6g3efNgokFEa2Jc1rwrMmJAXIVG2YGvw4ktt0xZm0F=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwr5spBktvmwzmaVoVBPPzaPzQQJzFup2T5taAkTzH2tIWR2g3DlEHL8QRS2e7ltJWBETmHGWp3x9H0Zg7GFyQgX8hvCriYnJ8Z1oBByEy8hOkyU6v2cb-oEZoL9KVlTfNIzIA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jay Bakenhaus",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Jay Bakenhaus",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Jay Bakenhaus",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Jay Bakenhaus",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

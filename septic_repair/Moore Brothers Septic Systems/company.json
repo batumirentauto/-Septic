@@ -1,0 +1,53 @@
+{
+  "name": "Moore Brothers Septic Systems",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "2760 E Pridemore Dr, Lincoln, AR 72744, United States",
+  "phone": "+1 479-824-2272",
+  "phoneRaw": "+14798242272",
+  "website": null,
+  "plusCode": "XJ29+4Q Lincoln, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Moore+Brothers+Septic+Systems/@35.9502942,-94.3806157,17z/data=!3m1!4b1!4m6!3m5!1s0x87c979d5630a0eed:0x5a3450522054e275!8m2!3d35.9502942!4d-94.3806157!16s%2Fg%2F1tdps5qy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Springdale",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Moore Brothers Septic Systems",
+  "folderName": "Moore Brothers Septic Systems",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": "ALK Septic Service",
+  "rating": 5,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "88 Clara Dr, Dallas, GA 30132, United States",
+  "phone": "+1 470-501-0629",
+  "phoneRaw": "+14705010629",
+  "website": "https://alksepticservice.com/",
+  "plusCode": "X6X3+25 Dallas, Georgia, USA",
+  "url": "https://www.google.com/maps/place/ALK+Septic+Service/@33.9975862,-84.7970694,17z/data=!3m1!4b1!4m6!3m5!1s0xcb6e2b733ee82b:0xa0d4bcd768895594!8m2!3d33.9975862!4d-84.7970694!16s%2Fg%2F11wxvd8fff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Atlanta",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ALK Septic Service",
+  "folderName": "ALK Septic Service",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVWm0iSs-o-j7kCLHEazqDR7bz03SpZBbpFOmcFX5VaBlaRD2a-Ug-qJAIQa9QqAln7y4ikW1a844pVJfaARMYtP2TjAypz24RJKELczAP9YGgFo4XXZrIUq66nDbVGHRkw4OG=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgi7HlBBCG6Eb2L52d-14Nz2sGn7bmp3Pb4EAmiHTsugJJj9o_Tvc0FURQAKY8Ec7C1E__NbV7RN_fmOAPvRGeoNPRcX7mD3BixP3Cnm7p2OwebMSOJ5bBSgoekGD5UffrWjHFV0iFDeg=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxFSgbuzGt0nUI-CN8mvgSG6Crz5jXZ01kMjxSbg7FAvNhJsnk20TNeWAcg6ZaIzppOdoUVdwHftphllCqscSUT9uCPWW0xP5OLqwFiS6JNOcR6EMq_gB_VatR5R6uyushxHipmh3NvoA=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetBUiivOBfBAz2Hskzs4ZWlDP3aNJD9tqmnVBoI5PfsVJFfYlUWv0bsRll9nHhQRT7NwtSe00vUOF2KN488oEffAeekgzV6gboE1LnSO4bFFhauSCXQdrPO_rl7kUWpQbo7-M9ZxfwedTA=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbg3LS6Fe-72q4UYJZrI14d0e10nkNZG22nDjzlFXtpYmW7TWvnWaO2zItFfpy24a86j0pc_Z9iBd3oFMrvhn4EKZTXLrjX_fmeJBfEnAyhhsiSAbcxwYTrVljyQJScBxrv_PqRA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Darmita Cox",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "T G",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "T G",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Jose Rendon",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Darmita Cox",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

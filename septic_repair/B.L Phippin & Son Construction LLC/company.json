@@ -1,0 +1,53 @@
+{
+  "name": "B.L Phippin & Son Construction LLC",
+  "rating": 4.8,
+  "reviewCount": 49,
+  "category": "Septic system service",
+  "address": "7950 Jersey Rd, Salisbury, MD 21801, United States",
+  "phone": "+1 410-430-3897",
+  "phoneRaw": "+14104303897",
+  "website": null,
+  "plusCode": "C96X+F6 Salisbury, Maryland, USA",
+  "url": "https://www.google.com/maps/place/B.L+Phippin+%26+Son+Construction+LLC/@38.4111279,-75.6019393,17z/data=!3m1!4b1!4m6!3m5!1s0x89b903ae693f1b6d:0xab61335eab4596e9!8m2!3d38.4111279!4d-75.6019393!16s%2Fg%2F1tdz0vtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MD",
+  "city": "Salisbury",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/B.L Phippin & Son Construction LLC",
+  "folderName": "B.L Phippin & Son Construction LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

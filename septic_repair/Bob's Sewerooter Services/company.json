@@ -1,0 +1,53 @@
+{
+  "name": "Bob's Sewerooter Services",
+  "rating": 4.8,
+  "reviewCount": 128,
+  "category": "Plumber",
+  "address": "4677 NE 38th St, Des Moines, IA 50317, United States",
+  "phone": "+1 515-262-6520",
+  "phoneRaw": "+15152626520",
+  "website": null,
+  "plusCode": "JFW5+6C Des Moines, Iowa, USA",
+  "url": "https://www.google.com/maps/place/Bob's+Sewerooter+Services/@41.6455865,-93.54146,17z/data=!3m1!4b1!4m6!3m5!1s0x87ee90dfe917ed83:0xbb7c4dee902d1e2e!8m2!3d41.6455865!4d-93.54146!16s%2Fg%2F1td2n0vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IA",
+  "city": "Des Moines",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bob's Sewerooter Services",
+  "folderName": "Bob's Sewerooter Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

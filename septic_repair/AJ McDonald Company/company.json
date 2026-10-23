@@ -1,0 +1,53 @@
+{
+  "name": "AJ McDonald Company",
+  "rating": 4.9,
+  "reviewCount": 139,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 443-891-4131",
+  "phoneRaw": "+14438914131",
+  "website": "https://www.ajmcdonald.org/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/AJ+McDonald+Company/data=!4m7!3m6!1s0x89b7feb7b8fbcbc3:0xdd9a50cc8fa0ff80!8m2!3d39.2162004!4d-76.7996255!16s%2Fg%2F1tff8hvs!19sChIJw8v7uLf-t4kRgP-gj8xQmt0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "MD",
+  "city": "Baltimore",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AJ McDonald Company",
+  "folderName": "AJ McDonald Company",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

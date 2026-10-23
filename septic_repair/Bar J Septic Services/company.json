@@ -1,0 +1,53 @@
+{
+  "name": "Bar J Septic Services",
+  "rating": 5,
+  "reviewCount": 112,
+  "category": "Septic system service",
+  "address": "6654 Canyon Dr #8, Amarillo, TX 79109, United States",
+  "phone": "+1 806-414-0665",
+  "phoneRaw": "+18064140665",
+  "website": "http://www.barjservices.com/",
+  "plusCode": "44P3+H9 Amarillo, Texas, USA",
+  "url": "https://www.google.com/maps/place/Bar+J+Septic+Services/@35.1363908,-101.8966146,17z/data=!3m1!4b1!4m6!3m5!1s0x87015b24e494d515:0x71a012a1a3ebf405!8m2!3d35.1363908!4d-101.8966146!16s%2Fg%2F11wwjdcsc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Lubbock",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bar J Septic Services",
+  "folderName": "Bar J Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

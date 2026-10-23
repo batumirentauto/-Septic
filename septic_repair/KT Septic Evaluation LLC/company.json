@@ -1,0 +1,99 @@
+{
+  "name": "KT Septic Evaluation LLC",
+  "rating": 4.9,
+  "reviewCount": 167,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 248-499-3966",
+  "phoneRaw": "+12484993966",
+  "website": "https://www.ktseptic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/KT+Septic+Evaluation+LLC/@43.0964429,-84.0160314,8z/data=!3m1!4b1!4m6!3m5!1s0x8824a3f2a7b339e5:0x99cf55ce9203cb1d!8m2!3d43.0964429!4d-84.0160314!16s%2Fg%2F11fklfl63f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/KT Septic Evaluation LLC",
+  "folderName": "KT Septic Evaluation LLC",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe30ZMOkf9owd3J3LxLwjPc8Nh_xd4SblqIHnV3S9C5igfAo0gCK6gGgOVx-8zymrejhZ3HvMOeJSIbsqdpJmNa0CEUhVJ1uJywDMMZboKwChapdl5XZy-pWyfbK_NCFWptm1Jd=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOY_GKSMuLW2pynCL1OBRdmy0emYYxUm_YJHO6shF1xxa-yIWyZUKJ9M0SsHo86glWYDLF_9feV1w_XWVumVAAlWpZ_ZHsf-rchVlYBOLPof3W0QhYFuyCPnl5QBu3Lw1Xv-yQ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVWO6obNQcA8EKUyKsf6sFS8PIl4TN-fU2kjR9Q_jmTCcXtJyZH2fgE9SU-XvVc4patxuGa0yxmKqYxMZvV3t8-6Z5SyFcRFfcD2862UuTlYEHeZrvL9gjAc-n_J70C0pqPDYT=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdo7gstkFE8W4aBmmMuNJhk1HFTyOt5UVF3uglMULpQPBEVwMhP0qLbGWv_5u-5Qms_77yTVjIPYJ1KD-y8dXHJTegWH0w1hX9bxjsF5Dvndvl4mspRujO1si_TngmVMoFDmGp65A=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "John Maher",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "John Maher",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "John Maher",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "John Maher",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

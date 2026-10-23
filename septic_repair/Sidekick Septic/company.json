@@ -1,0 +1,59 @@
+{
+  "name": "Sidekick Septic",
+  "rating": 4.8,
+  "reviewCount": 58,
+  "category": "Septic system service",
+  "address": "459 Cripple Creek Loop, Elizabethton, TN 37643, United States",
+  "phone": "+1 423-360-9220",
+  "phoneRaw": "+14233609220",
+  "website": "https://sidekickseptic.com/",
+  "plusCode": "9QG3+8V Elizabethton, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Sidekick+Septic/@36.3758732,-82.2452901,17z/data=!3m1!4b1!4m6!3m5!1s0x4832dcdc9bba9bc3:0x40b34a30017087e6!8m2!3d36.3758732!4d-82.2452901!16s%2Fg%2F11vxtz60kt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sidekick Septic",
+  "folderName": "Sidekick Septic",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Lisa Sasha",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Lilac City Septic Services Co",
+  "rating": 4.8,
+  "reviewCount": 36,
+  "category": "Septic system service",
+  "address": "6808 S Linke Rd, Greenacres, WA 99016, United States",
+  "phone": "+1 509-891-8918",
+  "phoneRaw": "+15098918918",
+  "website": "https://lilaccityseptic.com/",
+  "plusCode": "HRR9+CH Greenacres, Spokane Valley, WA, USA",
+  "url": "https://www.google.com/maps/place/Lilac+City+Septic+Services+Co/@47.5910668,-117.1810463,17z/data=!3m1!4b1!4m6!3m5!1s0x549e27c4317b586b:0x5cd53a7fc60be176!8m2!3d47.5910668!4d-117.1810463!16s%2Fg%2F11k9pff9wn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Spokane",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lilac City Septic Services Co",
+  "folderName": "Lilac City Septic Services Co",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

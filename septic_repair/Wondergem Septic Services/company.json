@@ -1,0 +1,53 @@
+{
+  "name": "Wondergem Septic Services",
+  "rating": 4.6,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": "9920 Peck Rd, Greenville, MI 48838, United States",
+  "phone": "+1 616-754-3041",
+  "phoneRaw": "+16167543041",
+  "website": null,
+  "plusCode": "6P7H+VM Greenville, Michigan, USA",
+  "url": "https://www.google.com/maps/place/Wondergem+Septic+Services/@43.2147411,-85.27081,17z/data=!3m1!4b1!4m6!3m5!1s0x8818f2b5e275b379:0xabd656def51dca03!8m2!3d43.2147411!4d-85.27081!16s%2Fg%2F1td20wfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wondergem Septic Services",
+  "folderName": "Wondergem Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

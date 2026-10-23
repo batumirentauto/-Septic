@@ -1,0 +1,53 @@
+{
+  "name": "Pile Septic Service LLC",
+  "rating": 4.8,
+  "reviewCount": 47,
+  "category": "Septic system service",
+  "address": "12827 El Paso Dr, Hagerstown, MD 21742, United States",
+  "phone": "+1 301-733-5961",
+  "phoneRaw": "+13017335961",
+  "website": "http://pileseptic.com/",
+  "plusCode": "M99C+5P Hagerstown, Maryland, USA",
+  "url": "https://www.google.com/maps/place/Pile+Septic+Service+LLC/@39.6679442,-77.6281733,17z/data=!3m1!4b1!4m6!3m5!1s0x89c993031537a9ff:0xbb2edf18b78d9b25!8m2!3d39.6679442!4d-77.6281733!16s%2Fg%2F1tppsymv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MD",
+  "city": "Hagerstown",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pile Septic Service LLC",
+  "folderName": "Pile Septic Service LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

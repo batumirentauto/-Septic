@@ -1,0 +1,99 @@
+{
+  "name": "FV Plumbing",
+  "rating": 5,
+  "reviewCount": 53,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 708-979-0071",
+  "phoneRaw": "+17089790071",
+  "website": "https://fvplumbing.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/FV+Plumbing/@41.8337105,-87.966015,10z/data=!3m1!4b1!4m6!3m5!1s0x6f53fe73a6d5f44d:0xbe35fe1cbc763e36!8m2!3d41.8337105!4d-87.966015!16s%2Fg%2F11wx4_ppxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 429)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/FV Plumbing",
+  "folderName": "FV Plumbing",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjMALhmRlXQaADWPJaqI9dczt6Dzt1TWHT-Z1E-Q01fi--NLtRkLUoB6MqI9fzm_oVJaxtyn6VLjHPYzcqd1lcmm336oQ8fcg5eP5f0BfBkFvieKZzG3q_hXYKG7FsNwkSDB0BlQ=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4Hnz7bKQdsuQN9du1Z_QfiMO51NgFa8yZhdrAt87DZOaMc45j7DT87eE24w-FUipyXp7nw6-L09bmGzyDLioRohUOcdf14ol2bGFxHc3FGj3JddvqGEfEkDnhmSb9F_LFhOQT5g=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhya5QZA98dFVxQXlRnroUJeEHEJ3zqtyDpoHQNEM1WPYDiZ7cIw6VrfCKnQ1XGdQIISp7u2iY69f-QQIk9VgDT8iEiea2i5IuQYqP-6UFrsOmAkemFt19WzTpP12FH0R5dmqY5w=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7QmsU7HINMzj_O4T4a2Sq8F1U_mfJBgmG-yzkSIafEwE41-EDKN4WcamMHt2LBcIOwaeV_RRkZgrPp6rgY7nsA_tMs1K9jrdONLTIw17wLunzqIZqF9ABci5De1U7RmF7M32v=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Richard Serrano",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Carlton Frazier",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Richard Serrano",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Richard Serrano",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

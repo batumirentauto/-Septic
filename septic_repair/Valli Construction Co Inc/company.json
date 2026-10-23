@@ -1,0 +1,102 @@
+{
+  "name": "Valli Construction Co Inc",
+  "rating": 5,
+  "reviewCount": 51,
+  "category": "Septic system service",
+  "address": "22 Sand Hill Rd, Portland, CT 06480, United States",
+  "phone": "+1 860-321-6499",
+  "phoneRaw": "+18603216499",
+  "website": "/aclk?sa=L&ai=DChsSEwinuvDim86XAxWZIaIDHRxJKsYYACICCAEQARoCbGU&co=1&ase=2&gclid=EAIaIQobChMIp7rw4pvOlwMVmSGiAx0cSSrGEBAYAiAAEgKP-PD_BwE&cid=CAASugHkaFTfX1IUjZcmkwwRXcRyS21Jv5a3zxuYdb9NxCgEqi1SauwDshOZSUAQbNvwSJQvgYtsUJSWkaQ93oi_3noa8-W8_y2XBjrv0UzDa3NiRmlAdybTxuv4hDIRCdXbBQok72N5OFuCFaJ2m2AqfXuF8QDXsH-0e152KlKUZYv9ezgNSXerNRNw4dN1tfyJIHTzDmFZkvbjkK6XGQeRVGwws1TSS6GshvmEkFhnOGM8_NQ9QGkC946cJNw&cce=2&category=acrcp_v1_32&sig=AOD64_0GZ7bgBURe_DKI_LmaeuwaRh-zKQ&adurl&q&ctype=99&nis=5",
+  "plusCode": "H9FP+8Q Portland, CT, USA",
+  "url": "https://www.google.com/maps/place/Valli+Construction+Co+Inc/data=!4m7!3m6!1s0x89e6497eaa2fcfbb:0xac62a2a083e336f8!8m2!3d41.573264!4d-72.613051!16s%2Fg%2F11cllkql27!19sChIJu88vqn5J5okR-Dbjg6CiYqw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "New Haven",
+  "websiteIssue": "Сайт не открывается (ERR_INVALID_URL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Valli Construction Co Inc",
+  "folderName": "Valli Construction Co Inc",
+  "totalPhotosDownloaded": 9,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1Wd-jehfgMRPCpxqRggZ9N2RUxIaFG7g1IAmvolS27DWFi8QTccDkZ5TphXcGa-iV9ewejNfNEYHMoMkaT0yEvuC17V3M-acoInTMLZ79UjSuaObeKz7-h-jLsKWG_WCqISPb=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemQ61SMGxMAbb7aY31WH-UycAGAtL1xok6P1KuQo7q5q7FQkegqFhSJJrX5zh-RthhZRO4GB_LJVygU16JAnCZpfaT7Hn3_HeJvyTAQeIezHxzmPOHAr0e2QP1wRUUuT-ONHe-=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Paul Conlon",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Ginger LaBella",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Ginger LaBella",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Paul Conlon",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Paul Conlon",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Paul Conlon",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Ginger LaBella",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Above Grade Septic",
+  "rating": 5,
+  "reviewCount": 65,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 425-954-7233",
+  "phoneRaw": "+14259547233",
+  "website": "https://abovegradeseptic.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Above+Grade+Septic/@47.9256225,-122.075414,9z/data=!3m1!4b1!4m6!3m5!1s0x549aa980313c0f65:0xe6172e17124e30bd!8m2!3d47.9256225!4d-122.075414!16s%2Fg%2F11f3sd6c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Snohomish",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Above Grade Septic",
+  "folderName": "Above Grade Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

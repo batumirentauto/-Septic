@@ -1,0 +1,53 @@
+{
+  "name": "Morgantown Septic Tank Service",
+  "rating": 5,
+  "reviewCount": 84,
+  "category": "Septic system service",
+  "address": "469 Mason Dixon Hwy, Morgantown, WV 26501, United States",
+  "phone": "+1 304-599-5340",
+  "phoneRaw": "+13045995340",
+  "website": "http://morgantownseptic.com/",
+  "plusCode": "MX83+F2 Morgantown, West Virginia, USA",
+  "url": "https://www.google.com/maps/place/Morgantown+Septic+Tank+Service/@39.666231,-80.047472,17z/data=!3m1!4b1!4m6!3m5!1s0x88357c6a5ead1563:0x499d557a77728f74!8m2!3d39.666231!4d-80.047472!16s%2Fg%2F11g70gbjc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Pittsburgh",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Morgantown Septic Tank Service",
+  "folderName": "Morgantown Septic Tank Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

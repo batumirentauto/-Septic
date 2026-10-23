@@ -1,0 +1,88 @@
+{
+  "name": "ABC Quick Pump Septic Service & Rentals",
+  "rating": 5,
+  "reviewCount": 53,
+  "category": "Septic system service",
+  "address": "1526 Rustic Dr, Rogers, AR 72756, United States",
+  "phone": "+1 479-877-5868",
+  "phoneRaw": "+14798775868",
+  "website": "http://www.abcquickpump.com/",
+  "plusCode": "9VW6+WH Rogers, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/ABC+Quick+Pump+Septic+Service+%26+Rentals/@36.3973302,-94.1385391,17z/data=!3m1!4b1!4m6!3m5!1s0x9fd2c445a5b7feb:0xcc52ec81ebe68b5f!8m2!3d36.3973302!4d-94.1385391!16s%2Fg%2F11m77cqb7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ABC Quick Pump Septic Service & Rentals",
+  "folderName": "ABC Quick Pump Septic Service & Rentals",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdMLK1YR6LnMFgvByj9n7cb4XHzuTKypInzGaGgpdz6BXv1U3xZU0XYk98fODyLne_4CLXuyd9WJu53_tE8KsPCM0P9VFyNYzO9L8eKHgO8xyyY_Vd7dKo34hXAHbqA6sINYnicOeZU9Mp=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfP5QPbBUT_HU4f2m2FB59i38OOxVVXxgnTJB0Q55YHzQAr4LaxomPgV3D841B4b9tbSrtxXQoikpLaBruR4vWtUEoBI9po72hq3fAEWV8r4A9HBYUP8LjyfQ73iCtLctZY7Zp_w1U26lE=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjzzwObhPMxmDnrMJ0dpNGTi3qu5YepCBe2zxSlZYgMtV57W7p3YZbq9i7ZZrNv5iAnMeSU3ap_7cY-E8rYT-NwrTkcj9YMDJdMO63Nb1g3idg0YxuMwGYzTKdmV10ppVmweyacsW-0-I=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Cody H",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Rebekah Gandy",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Rebekah Gandy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Avalon Septic Service LLC",
+  "rating": 5,
+  "reviewCount": 80,
+  "category": "Septic system service",
+  "address": "4255 Elk Creek Rd, Eau Claire, WI 54703, United States",
+  "phone": "+1 715-271-7402",
+  "phoneRaw": "+17152717402",
+  "website": "https://avalonseptic.com/",
+  "plusCode": "R9R9+CX Eau Claire, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Avalon+Septic+Service+LLC/@44.8410256,-91.6300905,17z/data=!3m1!4b1!4m6!3m5!1s0x87f891d510a02acb:0x493c5cf7ef000a1d!8m2!3d44.8410256!4d-91.6300905!16s%2Fg%2F11g0h51pj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Eau Claire",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Avalon Septic Service LLC",
+  "folderName": "Avalon Septic Service LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfe3DD6kPT-2yLJrjqU23wf4OoM9J-U_cSupvDjemZ9S9YaudQy1QxDqpmxBbg_cqxFyt6N94LuiZkQ4PwrwWQPrbHe4Ul_s9yA4W_gQChy5PmfOSHfR6xpRQRKsDqpcZxA2f9-=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Robert Nicolai",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

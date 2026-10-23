@@ -1,0 +1,53 @@
+{
+  "name": "Dvorak Pumping, L.L.C.",
+  "rating": 5,
+  "reviewCount": 43,
+  "category": "Septic system service",
+  "address": "2551 Nora Rd, Cottage Grove, WI 53527, United States",
+  "phone": "+1 608-255-1022",
+  "phoneRaw": "+16082551022",
+  "website": "https://dvorakpumping.com/",
+  "plusCode": "3R72+VF Cottage Grove, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Dvorak+Pumping,+L.L.C./@43.0646539,-89.1988303,17z/data=!3m1!4b1!4m6!3m5!1s0x88065ba5577feaad:0x749d5be3f7113988!8m2!3d43.0646539!4d-89.1988303!16s%2Fg%2F1tdlvvqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Madison",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Dvorak Pumping, L.L.C.",
+  "folderName": "Dvorak Pumping, L.L.C.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Alabama Septic Tank Services, LLC",
+  "rating": 4.7,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 205-426-1310",
+  "phoneRaw": "+12054261310",
+  "website": "https://alabamaseptictankservices.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Alabama+Septic+Tank+Services,+LLC/@33.394298,-87.0411069,10z/data=!3m1!4b1!4m6!3m5!1s0x8888c3eb77915b4f:0x7c689f0adc70988b!8m2!3d33.394298!4d-87.041107!16s%2Fg%2F11mvbf2czs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Tuscaloosa",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Alabama Septic Tank Services, LLC",
+  "folderName": "Alabama Septic Tank Services, LLC",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1kOZv8JxgwoTnFDDsOImVMyVwiYr9Ti9O-u21BnLpav0k1ScM3u2zdHgMUaL29S_7D2dFtGxW_Nd9ASi_yI1M5V5A2yRzkdOobxqGP6eML10tOhx1CQnmfwahPRiauH9ZsGTKhs8jQNYW=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPgHsXuyWuv-wV2K0h_F7l_McwDXuinXCAPTMHI9rBYvvj8cFi3ZfKOQDdRM2iK98IG-ZgRcL4RvQhipxlhvVDxRzACY1IPm2fEbQwP6pE9Ay913lClZTmFjv4VGgliLHsvUn-QYq5U7g=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1mgqfraIT_EkGAL-aGkvM8P79k1p5WxOS1y6Q47wQZTb_sdgP7OMeIUtZkQccTQwVCJL6COm4UHhR3HTgosZGuus7DNfhZRFtSRH8Xhw7-UGnhylJlYs8N_vwrLLUEAbjIedJ49VHg3s=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIATyDzfwZqVb37LNbL806erJFWE4NsR7oTOGi_PPP4sOMVmZ6vge53c53NGivCO9V4atSgUr9IPlBkM34cTD85lQqu0v9kNC7OHh-XetjBm2NxqQ7sLA2P-wewpcVfX7tZsV5MZoabwpR=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "jettt111",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "jettt111",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "jettt111",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "jettt111",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

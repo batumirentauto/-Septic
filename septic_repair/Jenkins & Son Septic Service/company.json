@@ -1,0 +1,53 @@
+{
+  "name": "Jenkins & Son Septic Service",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "8744 Hillview Rd NW, Depauw, IN 47115, United States",
+  "phone": "+1 812-267-1778",
+  "phoneRaw": "+18122671778",
+  "website": null,
+  "plusCode": "8PJG+RX Depauw, Indiana, USA",
+  "url": "https://www.google.com/maps/place/Jenkins+%26+Son+Septic+Service/@38.3320725,-86.2725125,17z/data=!3m1!4b1!4m6!3m5!1s0x886eb4a31f6a604b:0x95a963ce39ea9ae1!8m2!3d38.3320725!4d-86.2725125!16s%2Fg%2F11c3k9kdft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Louisville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jenkins & Son Septic Service",
+  "folderName": "Jenkins & Son Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

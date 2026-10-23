@@ -1,0 +1,53 @@
+{
+  "name": "H&H Restoration",
+  "rating": 4.9,
+  "reviewCount": 37,
+  "category": "Water damage restoration service",
+  "address": "1601 Normal Ave, Baltimore, MD 21213, United States",
+  "phone": "+1 410-960-1263",
+  "phoneRaw": "+14109601263",
+  "website": "http://hnhrestore.com/",
+  "plusCode": "8C83+9Q Baltimore, Maryland, USA",
+  "url": "https://www.google.com/maps/place/H%26H+Restoration/@39.3159324,-76.5955182,17z/data=!3m1!4b1!4m6!3m5!1s0x89c8053bda0d4651:0x61b64c780253c410!8m2!3d39.3159324!4d-76.5955182!16s%2Fg%2F11j660pqcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MD",
+  "city": "Baltimore",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/H&H Restoration",
+  "folderName": "H&H Restoration",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

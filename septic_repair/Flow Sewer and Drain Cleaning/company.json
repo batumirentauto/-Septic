@@ -1,0 +1,53 @@
+{
+  "name": "Flow Sewer and Drain Cleaning",
+  "rating": 4.8,
+  "reviewCount": 63,
+  "category": "Plumber",
+  "address": "4422 Tioga St, Duluth, MN 55804, United States",
+  "phone": "+1 218-722-6353",
+  "phoneRaw": "+12187226353",
+  "website": null,
+  "plusCode": "RXP8+RG Duluth, Minnesota, USA",
+  "url": "https://www.google.com/maps/place/Flow+Sewer+and+Drain+Cleaning/@46.8370778,-92.0337115,17z/data=!3m1!4b1!4m6!3m5!1s0x52afab7cb85e4c87:0x89cff8457bfcf765!8m2!3d46.8370778!4d-92.0337115!16s%2Fg%2F11gbnp2gpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MN",
+  "city": "Duluth",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Flow Sewer and Drain Cleaning",
+  "folderName": "Flow Sewer and Drain Cleaning",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Kramer & Company Mechanical",
+  "rating": 4.9,
+  "reviewCount": 167,
+  "category": "Plumber",
+  "address": "12451 AR-72, Bentonville, AR 72712, United States",
+  "phone": "+1 479-847-2379",
+  "phoneRaw": "+14798472379",
+  "website": "http://www.kramerandcomechanical.com/?utm_source=google&utm_medium=gpb&utm_campaign=referral",
+  "plusCode": "CM7X+QC Bentonville, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Kramer+%26+Company+Mechanical/@36.4144813,-94.3014786,17z/data=!3m1!4b1!4m6!3m5!1s0x87c9043a6eb91d37:0xe2c9139b22d12bfb!8m2!3d36.4144813!4d-94.3014786!16s%2Fg%2F11c31ny1f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Kramer & Company Mechanical",
+  "folderName": "Kramer & Company Mechanical",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelSjwYps8MR_8vAhk_S9euBazpYLnaszVEeoPApFaP6PWVsvNik3aA0NDthurPFSJGW0t2dgUOkJ1emf86SlitFqDjSRi3vtxF-93YEmQzQZGgLWKnl0sW65-mE7SrWkEYif9U=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdB3375Z27tCJUndDZKbN2xF5RudL6-Ms6NAj2wGOHww0RSFsVyRwEwBIPxRXVtqZmacJZkRFXwRzziRRILoqsxlpSp4fiVhsx5zFytkoZ5U8ItGtOcjRJbZr60g5p8HcPN60o=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Danny Cheney",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Danny Cheney",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

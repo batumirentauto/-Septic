@@ -1,0 +1,53 @@
+{
+  "name": "Emergency Sewer and Drain",
+  "rating": 5,
+  "reviewCount": 141,
+  "category": "Drainage service",
+  "address": null,
+  "phone": "+1 401-663-6893",
+  "phoneRaw": "+14016636893",
+  "website": "https://emergencyseweranddrainllc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Emergency+Sewer+and+Drain/@41.6014501,-71.5577064,9z/data=!3m1!4b1!4m6!3m5!1s0x4c351bfef804af97:0x381e7250b5d4914!8m2!3d41.6014501!4d-71.5577064!16s%2Fg%2F11xm69npb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "RI",
+  "city": "South Kingstown",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Emergency Sewer and Drain",
+  "folderName": "Emergency Sewer and Drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

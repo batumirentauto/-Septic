@@ -1,0 +1,121 @@
+{
+  "name": "Low Cost Drain Plumbing",
+  "rating": 4.8,
+  "reviewCount": 31,
+  "category": "Plumber",
+  "address": "500 Ala Moana Blvd STE#401, Honolulu, HI 96813, United States",
+  "phone": "+1 808-753-0651",
+  "phoneRaw": "+18087530651",
+  "website": null,
+  "plusCode": "842Q+F5 Honolulu, Hawaii, USA",
+  "url": "https://www.google.com/maps/place/Low+Cost+Drain+Plumbing/@21.3012336,-157.8621199,17z/data=!3m1!4b1!4m6!3m5!1s0x7c006e0959c61773:0x67b45634ef5f1a8b!8m2!3d21.3012336!4d-157.8621199!16s%2Fg%2F11g6njwzr0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "HI",
+  "city": "Honolulu",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Low Cost Drain Plumbing",
+  "folderName": "Low Cost Drain Plumbing",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczoeiKdK8QPcZV6XS667M-IqhRHH4vxb7Bo3WNXNdSciE3SIGVdmrCxRYRnMGrkrHLRcaFPB1Zatc5vxcTs-gja68ytnmrkJXkYFoi57pN9bSlwrRrKy4RI0z5FIUcogtngti3=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMsAN5wmSocjfTtd9tkUazkEk5uUnlGQnVkhb7QfQ6ZaShlaDFMjSw4JkpGLAabknT2j8QCgkLnjPGrnwys4rD1nLCYKsxSZJbV7sKSNpaGOFB642jYsA6tgMZA7ai4isFrm6-5g=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyHXuBHLb4P0Dbu3DpPWQ0AsNXtLWiT2vzisUNTtJNgwh1bzMRWrT66WgPVoKpSF35s-_uzE9RMJhptJnqWZP4jTKA2K8G98pKrm4BBl5Q4PtUaI6KqNSMYDPdi-vM10QAwno5=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjGtx7L4YM0ioStgtI7q2RTMOQ4r1wr10jUOMb1Rp2CisJAzG5RMXrRKponuUE1ai0O8CCauHRk6V1mo99jGwwhvHO3ic3v5e9zYQMRxopQ7SpkqX0Z5x8qebVagj_aazQJodj=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoQesx6xyGXXo2TFyldt2eK8zIQnxT6LlofwcbOotUeg8Y4xsWFj19xMCfBMqfCmkc8CjjHc97CrOLPzhIhBVLTP-5-JxVrcFyV_Foj2rhFU8rXNkHv6yIfyWYsb6pI35tQ0Y=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLct9OeGx7DlHcxp7s3iWApXrRIx15oKeQXZRoLRXCKmOYs3ro6wPumcMh9jqqC4DrGZjXdtG40TSlai5gAF6WjnZmTrWQKDylycDnz8sSHD0w44ou5-9sU0kmKEhQZqOwFIg_mUDw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Patti Yasuhara",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "ruy carlos",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Patti Yasuhara",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "ruy carlos",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "ruy carlos",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "ruy carlos",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

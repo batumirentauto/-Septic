@@ -1,0 +1,53 @@
+{
+  "name": "Above and Beyond Plumbing LLC",
+  "rating": 5,
+  "reviewCount": 43,
+  "category": "Plumber",
+  "address": "476 Morning Sun Dr, Nampa, ID 83686, United States",
+  "phone": "+1 208-249-2682",
+  "phoneRaw": "+12082492682",
+  "website": null,
+  "plusCode": "GCVC+F4 Nampa, Idaho, USA",
+  "url": "https://www.google.com/maps/place/Above+and+Beyond+Plumbing+LLC/@43.5436644,-116.5796518,17z/data=!3m1!4b1!4m6!3m5!1s0x54ae495dc7df3e89:0x4b3673be58bedf94!8m2!3d43.5436644!4d-116.5796518!16s%2Fg%2F11cn3h9kgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ID",
+  "city": "Nampa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Above and Beyond Plumbing LLC",
+  "folderName": "Above and Beyond Plumbing LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Arnett Environmental",
+  "rating": 5,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "10680 Co Rd 51, Jemison, AL 35085, United States",
+  "phone": "+1 205-678-6078",
+  "phoneRaw": "+12056786078",
+  "website": "http://www.arnettpumping.com/",
+  "plusCode": "X8FM+H5 Jemison, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Arnett+Environmental/@32.9739768,-86.667092,17z/data=!3m1!4b1!4m6!3m5!1s0x888ecc71472d889d:0x9bbf329d071dc5be!8m2!3d32.9739768!4d-86.667092!16s%2Fg%2F11hc_3f_k5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Arnett Environmental",
+  "folderName": "Arnett Environmental",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLirSh95Pa6pQZs5wBO5BwpF0KeMx30b9yEpRTTfGuwyp--aMNu8KWq3If5VU8-op6vut0zE1msjiSD3sRV3hcpf2_cnLF5PzDfkHCC8o96rJhukn8PqZ9eG0Uoh0205qf3ZJf2Vb1edc=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Chad Sorrells",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

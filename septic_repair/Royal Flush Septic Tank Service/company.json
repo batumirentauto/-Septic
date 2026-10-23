@@ -1,0 +1,66 @@
+{
+  "name": "Royal Flush Septic Tank Service",
+  "rating": 4.8,
+  "reviewCount": 97,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 334-480-0960",
+  "phoneRaw": "+13344800960",
+  "website": "http://royalflushsepticpumping.net/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Royal+Flush+Septic+Tank+Service/@32.4860085,-85.1906125,10z/data=!3m1!4b1!4m6!3m5!1s0x888ccee51b13abdb:0xf25f0f6f3ac376bf!8m2!3d32.4860085!4d-85.1906124!16s%2Fg%2F1tkkvnbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Columbus",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Royal Flush Septic Tank Service",
+  "folderName": "Royal Flush Septic Tank Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTJC2AL732nPAi7AFU7FZ89wjmObzxEm8dCCFbbjTOBdAZdxMUQ0LxbrQD_W4I5miLT6aaz6sHGfSwbpfUwHh8HZBm6DuA2PY72v2OFW4WJAxxaizbPlG2cYPiJkApde57AXQBynwy_T1j=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Greg Dealba",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

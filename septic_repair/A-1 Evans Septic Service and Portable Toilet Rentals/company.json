@@ -1,0 +1,53 @@
+{
+  "name": "A-1 Evans Septic Service and Portable Toilet Rentals",
+  "rating": 4.9,
+  "reviewCount": 52,
+  "category": "Septic system service",
+  "address": "3301 7th Ave SE, Minot, ND 58701, United States",
+  "phone": "+1 701-852-5103",
+  "phoneRaw": "+17018525103",
+  "website": "http://a-1evans.com/",
+  "plusCode": "6QJ4+C4 Minot, North Dakota, USA",
+  "url": "https://www.google.com/maps/place/A-1+Evans+Septic+Service+and+Portable+Toilet+Rentals/@48.2310009,-101.2447387,17z/data=!3m1!4b1!4m6!3m5!1s0x52ded5ea58bc18bf:0x8fe1bab198d0e05c!8m2!3d48.2310009!4d-101.2447387!16s%2Fg%2F1262jmf3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ND",
+  "city": "Minot",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A-1 Evans Septic Service and Portable Toilet Rentals",
+  "folderName": "A-1 Evans Septic Service and Portable Toilet Rentals",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Emerald Coast Plumbing & Septic Inc.",
+  "rating": 4.8,
+  "reviewCount": 131,
+  "category": "Septic system service",
+  "address": "4848 Hawkins Dr, Milton, FL 32571, United States",
+  "phone": "+1 850-994-3976",
+  "phoneRaw": "+18509943976",
+  "website": null,
+  "plusCode": "JV73+M3 Milton, Florida, USA",
+  "url": "https://www.google.com/maps/place/Emerald+Coast+Plumbing+%26+Septic+Inc./data=!4m7!3m6!1s0x8890ec218094e72d:0x29408936778d7f8a!8m2!3d30.614189!4d-87.147354!16s%2Fg%2F1tdygdky!19sChIJLeeUgCHskIgRin-NdzaJQCk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Pensacola",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Emerald Coast Plumbing & Septic Inc.",
+  "folderName": "Emerald Coast Plumbing & Septic Inc.",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Kp9wS2yUXL-mr1Te4sGxJZydpDYDa2d1ZgW0MmZEL-UcRUk-GGE_7k5sQ-2vc2eX0uD0aDvQ4uUofjwWGAm78LZgfmwzRZkPybvXB_OB_3_TVu5QB5ViE490A5rdzXbRdCGI=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9nAWvh591boH47XLiFhVWST9yM3CbFLFXkdVL0U4HZY3jNvDdq_dXiOvmP_Nit1nzqxqpozfXjQKKqz_fM5F4klgU_y21_Jp-tGf6ZK41bJYpiSAh3XYAUm4cI-vZfcDYLX0h=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Eb9431Lhb_i_9qQcZuWRYlKtV_wqyr1ppxxYsDbE10M0pCNX8fszGj8mMDfjiNuphLRrkGf16FUNEYqat178YbjgZexF2Wl5xZrObWLzIlscUGgPjkVZRxUVj_wkDWoHJaec=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1FVBZQ1WKeeSgP7Kd9r3TyziGr_1poOyvzEYJHJfgq4DnxcTVDOijx_NAfrWDaBsvdE9Ca6GlKW2YFL7jkzEjmBMmFVd3fQ6ScgfO3sgzLWLA5Dbetuzvmj0kFewqi2IH-hoU=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mark Starr",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Mark Starr",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Mark Starr",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Mark Starr",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

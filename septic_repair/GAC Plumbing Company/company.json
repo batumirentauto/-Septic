@@ -1,0 +1,53 @@
+{
+  "name": "GAC Plumbing Company",
+  "rating": 4.9,
+  "reviewCount": 30,
+  "category": "Plumber",
+  "address": "720 2nd St #5511, Santa Rosa, CA 95402, United States",
+  "phone": "+1 707-538-8000",
+  "phoneRaw": "+17075388000",
+  "website": "https://www.gaccompany.com/",
+  "plusCode": "C7QQ+WV Santa Rosa, California, USA",
+  "url": "https://www.google.com/maps/place/GAC+Plumbing+Company/@38.4398157,-122.710367,17z/data=!3m1!4b1!4m6!3m5!1s0x808447da9e4be49f:0xa38e42b416bf1105!8m2!3d38.4398157!4d-122.710367!16s%2Fg%2F12hkh1czt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Santa Rosa",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 521)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/GAC Plumbing Company",
+  "folderName": "GAC Plumbing Company",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

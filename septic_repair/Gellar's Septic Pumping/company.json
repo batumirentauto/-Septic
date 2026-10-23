@@ -1,0 +1,53 @@
+{
+  "name": "Gellar's Septic Pumping",
+  "rating": 5,
+  "reviewCount": 51,
+  "category": "Septic system service",
+  "address": "506 State Rd, Plymouth, MA 02360, United States",
+  "phone": "+1 508-224-2427",
+  "phoneRaw": "+15082242427",
+  "website": "https://gellars.com/",
+  "plusCode": "WCFH+VW Plymouth, Massachusetts, USA",
+  "url": "https://www.google.com/maps/place/Gellar's+Septic+Pumping/@41.9246496,-70.5701355,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4b1795b4fd6f7:0x1fb95b3934235c72!8m2!3d41.9246496!4d-70.5701355!16s%2Fg%2F11h23k2gmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MA",
+  "city": "Plymouth",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gellar's Septic Pumping",
+  "folderName": "Gellar's Septic Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

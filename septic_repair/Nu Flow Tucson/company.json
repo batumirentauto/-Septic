@@ -1,0 +1,53 @@
+{
+  "name": "Nu Flow Tucson",
+  "rating": 4.8,
+  "reviewCount": 158,
+  "category": "Plumber",
+  "address": "3650 N Oracle Rd, Tucson, AZ 85705, United States",
+  "phone": "+1 520-900-1391",
+  "phoneRaw": "+15209001391",
+  "website": "http://www.nuflowtucson.com/?utm_campaign=gmb",
+  "plusCode": "72FC+7W Tucson, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Nu+Flow+Tucson/@32.2731297,-110.9776521,17z/data=!3m1!4b1!4m6!3m5!1s0x86d67b61ebdaafa5:0x4832c10258f27a44!8m2!3d32.2731297!4d-110.9776521!16s%2Fg%2F11ftkxtwwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Tucson",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Nu Flow Tucson",
+  "folderName": "Nu Flow Tucson",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

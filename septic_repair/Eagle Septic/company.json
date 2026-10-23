@@ -1,0 +1,53 @@
+{
+  "name": "Eagle Septic",
+  "rating": 4.9,
+  "reviewCount": 82,
+  "category": "Septic system service",
+  "address": "810 N Railroad St, Eagle River, WI 54521, United States",
+  "phone": "+1 715-546-4199",
+  "phoneRaw": "+17155464199",
+  "website": "https://eagle-septic.com/",
+  "plusCode": "WPGR+CP Eagle River, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Eagle+Septic/@45.9260858,-89.2582491,17z/data=!3m1!4b1!4m6!3m5!1s0x866f0937e5e955b9:0xcb25b3ba852a0a6a!8m2!3d45.9260858!4d-89.2582491!16s%2Fg%2F11t1r7mwjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Eagle Septic",
+  "folderName": "Eagle Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

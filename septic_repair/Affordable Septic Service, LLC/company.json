@@ -1,0 +1,88 @@
+{
+  "name": "Affordable Septic Service, LLC",
+  "rating": 4.8,
+  "reviewCount": 66,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 740-385-9082",
+  "phoneRaw": "+17403859082",
+  "website": "https://www.affordsepticservice.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Affordable+Septic+Service,+LLC/@39.701278,-82.5715449,10z/data=!3m1!4b1!4m6!3m5!1s0x88478bf6a79756e7:0x62b0500cb2d0287c!8m2!3d39.701278!4d-82.5715449!16s%2Fg%2F11g1q96tnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Columbus",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Affordable Septic Service, LLC",
+  "folderName": "Affordable Septic Service, LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhqcLzC88sfhMTo_lV1CruqeqHM-Bb8_SbJ72K9Gtu_2YEP6UhJebtinQHZMuKkqksymWmlYgo4BWEWH_TasvGqIB7Jw13pp5b8qXxbZ8ZCaEOHc8nrctmeU5ziVUQeaeAbquSI4mF96Yf=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf78gKDMOlZ4CC0GOBYtnVC5DR4k70MZKEZMktPvx4dFLPkR7Kgm4Nau5g3MJbpOIE6LeY3DEPJd-h-1vBiJnkmss5cAW46iE_Ld2x3dz-mi5xA5RMK1Zj0tA677X5GsSK3vTlRdj4PrsM=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRrQRvpVF6QpAEP5c56-62t13b9CnuSN_iz7d2gAgEJodjD4xQ1QZbI3zF4Omrh_3rPqPTfbqk4m62s0EIIv1pjFPpNd8EHDGLogaWo3fpPunlp1HVG-9c1C9qCT5vZDQX5ioq=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Brent Bethel",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Mark Thompson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Rob Calderwood",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

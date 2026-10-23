@@ -1,0 +1,74 @@
+{
+  "name": "Royal Flush Septic Services Jacksonville NC",
+  "rating": 5,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 910-546-2092",
+  "phoneRaw": "+19105462092",
+  "website": "https://royal-flush-septic-services.brandrepmarketing.com/home-page",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Royal+Flush+Septic+Services+Jacksonville+NC/data=!4m7!3m6!1s0x6084f0e1a88a5fed:0xf5af73770760f2ef!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11zg1vxnqm!19sChIJ7V-KqOHwhGAR7_JgB3dzr_U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Jacksonville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Royal Flush Septic Services Jacksonville NC",
+  "folderName": "Royal Flush Septic Services Jacksonville NC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Aurora Beard Company",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Wren Smith",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Aurora Beard Company",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Aurora Beard Company",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

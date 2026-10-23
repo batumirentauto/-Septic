@@ -1,0 +1,53 @@
+{
+  "name": "Hamm Septic Services",
+  "rating": 4.9,
+  "reviewCount": 193,
+  "category": "Septic system service",
+  "address": "4 Candy Ln, Hudson, NH 03051, United States",
+  "phone": "+1 603-434-7701",
+  "phoneRaw": "+16034347701",
+  "website": "https://hammsepticservices.com/",
+  "plusCode": "RHCR+VW Hudson, New Hampshire, USA",
+  "url": "https://www.google.com/maps/place/Hamm+Septic+Services/@42.8221257,-71.4076256,17z/data=!3m1!4b1!4m6!3m5!1s0x89e3b25b4b1951d1:0x8527561ae4ce3a21!8m2!3d42.8221257!4d-71.4076256!16s%2Fg%2F1w6r9917?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hamm Septic Services",
+  "folderName": "Hamm Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

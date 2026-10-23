@@ -1,0 +1,69 @@
+{
+  "name": "Southern Tractor & Landscaping",
+  "rating": 4.9,
+  "reviewCount": 36,
+  "category": "Landscaping supply store",
+  "address": null,
+  "phone": "+1 205-361-1779",
+  "phoneRaw": "+12053611779",
+  "website": "https://tuscaloosalandscape.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Southern+Tractor+%26+Landscaping/@33.3810354,-87.5570395,11z/data=!3m1!4b1!4m6!3m5!1s0x8886041555555555:0xa0a655b7f5ef3c98!8m2!3d33.3810354!4d-87.5570395!16s%2Fg%2F113k1v9qt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Tuscaloosa",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Southern Tractor & Landscaping",
+  "folderName": "Southern Tractor & Landscaping",
+  "totalPhotosDownloaded": 3,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Sam Delaney",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Kyle Snider",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Carl Rowe",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Hudson Septic Tank Services",
+  "rating": 4.6,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 803-980-4976",
+  "phoneRaw": "+18039804976",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Hudson+Septic+Tank+Services/@34.8540165,-81.1189284,10z/data=!3m1!4b1!4m6!3m5!1s0x88566284a1ae7159:0xb956fed058321d6a!8m2!3d34.8540165!4d-81.1189284!16s%2Fg%2F1tdx4vdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Rock Hill",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hudson Septic Tank Services",
+  "folderName": "Hudson Septic Tank Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

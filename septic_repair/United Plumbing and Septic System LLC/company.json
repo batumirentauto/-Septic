@@ -1,0 +1,88 @@
+{
+  "name": "United Plumbing and Septic System LLC",
+  "rating": 5,
+  "reviewCount": 39,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 832-202-8126",
+  "phoneRaw": "+18322028126",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/United+Plumbing+and+Septic+System+LLC/@29.9681981,-95.3857625,10z/data=!3m1!4b1!4m6!3m5!1s0x6f188b2af178eb15:0xcf294adcd16c767d!8m2!3d29.9681981!4d-95.3857626!16s%2Fg%2F11kq008x8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Houston",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/United Plumbing and Septic System LLC",
+  "folderName": "United Plumbing and Septic System LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeobmcLSImKmc2zpZL8rS_7KRSVES5LxXzqBNsqioEeNuco9UtBhFWu9cFPq2U8btgwscGyT6OHJBlmzQCDgS0gKTRuEmup3txzRgE5SuPxnfU2G4_Inobg7pmLJvAHxiN3sM=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7vZnkfqKKUmrQCL4uoF0ksulFXDM8uZnxW-MZ08sOFm0_OU89oVB27RZqg1D9lOewRuSVfTHl_FEmwobWCuYtcmMFrGZpbQPcbT6SrQ0R3Wp9aHPWkID7032KZ0oEu3nRCJxm=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8IdNLY4zNXdmAReT_uHWbaohMXFDf-Of3OKLqRYRRoVHarTKw420541seLMiGHT5I5SOskAQJemfGNHzPgsG3JHkLpQcdFMObK7ez-BLEudiRAPF325YC7u15BmOl8Kym8jl2=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ekemini Akpabio",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Ekemini Akpabio",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Natalie Roman",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

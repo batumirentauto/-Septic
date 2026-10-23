@@ -1,0 +1,53 @@
+{
+  "name": "United Drain Techs",
+  "rating": 4.7,
+  "reviewCount": 57,
+  "category": "Plumber",
+  "address": "91-1075 Polea St, Ewa Beach, HI 96706, United States",
+  "phone": "+1 808-450-8922",
+  "phoneRaw": "+18084508922",
+  "website": null,
+  "plusCode": "8XMG+X4 Ewa Beach, Hawaii, USA",
+  "url": "https://www.google.com/maps/place/United+Drain+Techs/@21.3349886,-158.0246418,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00653ee8417e67:0x4b6153b74572ec4d!8m2!3d21.3349886!4d-158.0246418!16s%2Fg%2F11rc1yy3xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "HI",
+  "city": "Honolulu",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/United Drain Techs",
+  "folderName": "United Drain Techs",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

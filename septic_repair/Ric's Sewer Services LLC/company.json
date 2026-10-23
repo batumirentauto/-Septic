@@ -1,0 +1,53 @@
+{
+  "name": "Ric's Sewer Services LLC",
+  "rating": 4.9,
+  "reviewCount": 115,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 715-848-5144",
+  "phoneRaw": "+17158485144",
+  "website": "https://www.facebook.com/RicsSewerService/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Ric's+Sewer+Services+LLC/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x88001fb64dd561a1:0xab00477c8e41035d!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F1v6l81bq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ric's Sewer Services LLC",
+  "folderName": "Ric's Sewer Services LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

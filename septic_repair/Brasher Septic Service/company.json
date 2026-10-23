@@ -1,0 +1,53 @@
+{
+  "name": "Brasher Septic Service",
+  "rating": 5,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "2052 Co Rd 89, Montevallo, AL 35115, United States",
+  "phone": "+1 205-851-9700",
+  "phoneRaw": "+12058519700",
+  "website": "https://brasherseptic.com/",
+  "plusCode": "35QM+8R Montevallo, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Brasher+Septic+Service/@33.0882997,-86.8154847,17z/data=!3m1!4b1!4m6!3m5!1s0x88892d000715fc89:0x72dbecf02ddce1da!8m2!3d33.0882997!4d-86.8154847!16s%2Fg%2F11y5q4y362?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Brasher Septic Service",
+  "folderName": "Brasher Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

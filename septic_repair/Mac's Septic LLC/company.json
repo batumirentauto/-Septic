@@ -1,0 +1,88 @@
+{
+  "name": "Mac's Septic LLC",
+  "rating": 5,
+  "reviewCount": 109,
+  "category": "Septic system service",
+  "address": "5829 W 10th St, Indianapolis, IN 46224, United States",
+  "phone": "+1 317-247-1974",
+  "phoneRaw": "+13172471974",
+  "website": null,
+  "plusCode": "QPGQ+7H Indianapolis, Indiana, USA",
+  "url": "https://www.google.com/maps/place/Mac's+Septic+LLC/@39.775638,-86.2610389,17z/data=!3m1!4b1!4m6!3m5!1s0x886ca8222c694341:0x6340ba8061a37ec8!8m2!3d39.775638!4d-86.2610389!16s%2Fg%2F11c3yqrxg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IN",
+  "city": "Indianapolis",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Mac's Septic LLC",
+  "folderName": "Mac's Septic LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegyA3hSHrbCD1liMxW7fpfn4T1jKDK2deAtnleBChz8uMWbLhezNHkXkKVV7i6A1mSpWFsUnmjBoOhO5QSXJHYcaQTeh7_mqXzkVfHQbJ9-4sIOv-S6gxILDWYlpxm4H_lTes=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAxWFlpChHfybQJSqcsGjK8-JmlYxgGALiYfKWNvlvKJ6H82eDmWIkshrJqxbdEw-fmJaNXMvvMmcdDxczQ0VA7cZVMzn90q52qRgn2ZlswgUI6fGa6yx1zw2W-1IXk4vpwE2N=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMYvfefjO2UejnHDa-lschm9aZzhvT3e9Y6UOCUwd4LjrGzqxfvGFOS5N8AL6L2Qk1ioeJNcsU0k6HxvJGVnIEoc4sygaqx-i6ucwkHrjMUnOmMrZFODSqH5S6pzfxwpr-PyIc=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Eric Stoner",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Eric Stoner",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Eric Stoner",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

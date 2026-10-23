@@ -1,0 +1,99 @@
+{
+  "name": "Dependable Plumbing & Rooter Service LLC",
+  "rating": 5,
+  "reviewCount": 128,
+  "category": "Plumber",
+  "address": "2611 E 36th St N, Tulsa, OK 74110, United States",
+  "phone": "+1 918-894-7755",
+  "phoneRaw": "+19188947755",
+  "website": "https://facebook.com/dependablerooter",
+  "plusCode": "624W+JP Tulsa, Oklahoma, USA",
+  "url": "https://www.google.com/maps/place/Dependable+Plumbing+%26+Rooter+Service+LLC/@36.2065395,-95.9532327,17z/data=!3m1!4b1!4m6!3m5!1s0x87b439b4dba34c8d:0x9e0cd0ac4a88c794!8m2!3d36.2065395!4d-95.9532327!16s%2Fg%2F11t2_hx7nn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Tulsa",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Dependable Plumbing & Rooter Service LLC",
+  "folderName": "Dependable Plumbing & Rooter Service LLC",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfN9p1skJHGh8zuiJdNJhWzOP6tysfGys6k0q5dfJo2aIN7JVl1bXTlHPys-6QD5I8e34-4sGnkOal0VhIJlA6ML-wG1BPaSx78najS0vVuR5HyEhwfuZp-aOgYhHI5FNSy8avM=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFq94LBw-lbpqzGmQyrQZ4DskWrefHGcveGuFFOeyJE02TgmZQMDWmpW0epkZp-0Pz6vhSRF2xOPzweimcp3MYyzN8k4RkHZQsM1kgdOsYEKk29hj2-b4w_rVOTvdiTfwnZCzP=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeedYrUA0gMENmdBtWXi8TNW-Qh2KstkdA5c27q_D_mPisqawXL67FUUHNwlgWmm_Jyz3ug4JmWEPkMct-tbnfmzsARjRsl9H5T9uyb5JHYgfWrtSod_QLnjeqYtAVBSH_l4ApD=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSGfzEN0DoekJJ7WUrtEzqqyzFD4SGVV69hnP6Vjdvh_tIlF03Jz6SAF7a3YUDCrhAyVTVVXCcV8r7csVO1rZTMr_ppn5BlHE1m1W3u6CdyLEXt8qTWzFxsMjFvX5cOiJB0Kil=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Brian's Heat and Air'",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Brian's Heat and Air'",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Ethan Sanderson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Ethan Sanderson",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

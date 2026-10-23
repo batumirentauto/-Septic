@@ -1,0 +1,53 @@
+{
+  "name": "Metro Plumbing & Sewer LLC",
+  "rating": 4.8,
+  "reviewCount": 44,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 440-941-7931",
+  "phoneRaw": "+14409417931",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Metro+Plumbing+%26+Sewer+LLC/@41.43974,-81.73869,11z/data=!3m1!4b1!4m6!3m5!1s0x8830efb55288f547:0xdfec868fa9d0c52d!8m2!3d41.43974!4d-81.73869!16s%2Fg%2F11b5plr4gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Cleveland",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Metro Plumbing & Sewer LLC",
+  "folderName": "Metro Plumbing & Sewer LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

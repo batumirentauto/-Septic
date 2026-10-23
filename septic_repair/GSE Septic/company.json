@@ -1,0 +1,110 @@
+{
+  "name": "GSE Septic",
+  "rating": 5,
+  "reviewCount": 37,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 941-979-0290",
+  "phoneRaw": "+19419790290",
+  "website": "https://gse-septic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/GSE+Septic/@26.8527149,-82.0764859,9z/data=!3m1!4b1!4m6!3m5!1s0x84c0e7a34026b183:0x894fedfa34afe547!8m2!3d26.8527149!4d-82.0764859!16s%2Fg%2F11xsk95qsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Port Charlotte",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/GSE Septic",
+  "folderName": "GSE Septic",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnp_GY1KQL8LEziblpgeD4lIxpfeyYN3QANDXbfRLbx6HtUfzLP__UB5u84bhESEpnwHau5bZ-jtjRbTm2muiwfHvorj0an83L1TpDXgYReGbT_FEidPe3-DMBDykDF6WTeV8xryN1z_U=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9tk7gYVygs-S4jntqeoBVOT-AzxqyNNvu--yxArMofPJahI-W6HMwUxcKH7YZMQT78SIDBRFakEHGp-PRuKU3_tIsp-hzvul9QLEO2Ttv7f2E5cxX120AjnhUTU1e232PRbjGmYAH11pz=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYAKjPwiU65MgZlfHKaDPOLyflQdAMbZQ20vzQEJw7CazzUOQJZ6ej7Z0zsnY7OGIE8fTj4ZOdRvgYXeB4LbQKqELfpSy1Ic4RWqa5Jxud3zFGhblo-zcQ0zrWbT85g9IUmvZ3e_4sKcQ=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3OdraGkqoEvFenExlX33ETg5GrFkmvq4cuaus4vf0fBdi3MVKn_N1X030v8WOscWOdKQXH-SMNzComwMyP6j5YM5NfbIFBos-VBA-cFmZF8T2dbbnDtlzOGhli0Jc44sgTiYqTu0SR1Gt=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmRxE4f0CcMitbmR9eU8_aqEB2mnDjQ026fSZ75a2g5-Cm9eXD6rKjXVjbSZFfqEbWJpiGuQfzxTHlWOOkM8DrSBFc6z_hePAZl2wPLLcPtz9WrYhX7m9YIBloFRIIi0cDGVn46U7HdfNF=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mercy Donohue",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Mercy Donohue",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Chulinflai S.",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Chulinflai S.",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Chulinflai S.",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

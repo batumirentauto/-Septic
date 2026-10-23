@@ -1,0 +1,53 @@
+{
+  "name": "All Dry Services Kansas City",
+  "rating": 4.9,
+  "reviewCount": 164,
+  "category": "Water damage restoration service",
+  "address": "9025 East 35th St S, Kansas City, MO 64129, United States",
+  "phone": "+1 816-782-8379",
+  "phoneRaw": "+18167828379",
+  "website": "https://www.alldrykc.com/",
+  "plusCode": "3G5G+QG Kansas City, Missouri, USA",
+  "url": "https://www.google.com/maps/place/All+Dry+Services+Kansas+City/@39.0594419,-94.4736307,17z/data=!3m1!4b1!4m6!3m5!1s0xa9bf9a58b301f595:0x24961af4cc25ba2a!8m2!3d39.0594419!4d-94.4736307!16s%2Fg%2F11rpmvyjkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Kansas City",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/All Dry Services Kansas City",
+  "folderName": "All Dry Services Kansas City",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

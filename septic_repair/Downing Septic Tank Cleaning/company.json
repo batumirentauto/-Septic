@@ -1,0 +1,77 @@
+{
+  "name": "Downing Septic Tank Cleaning",
+  "rating": 4.8,
+  "reviewCount": 54,
+  "category": "Septic system service",
+  "address": "2611 SW 17th St #105, Topeka, KS 66604, United States",
+  "phone": "+1 785-357-0046",
+  "phoneRaw": "+17853570046",
+  "website": "https://downingseptic.com/",
+  "plusCode": "27PQ+MV Topeka, Kansas, USA",
+  "url": "https://www.google.com/maps/place/Downing+Septic+Tank+Cleaning/@39.0366376,-95.7103276,17z/data=!3m1!4b1!4m6!3m5!1s0x87bf046feca7088d:0x2a6a5682d2f6728d!8m2!3d39.0366376!4d-95.7103276!16s%2Fg%2F1v_nd09l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Topeka",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Downing Septic Tank Cleaning",
+  "folderName": "Downing Septic Tank Cleaning",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddb7mDXHOMm3xGEOEXwdYp1GcXtT9SlBi-BxxPdX-2HUnK9I5WQn6N0vR8nQLQbWR2HZouki5EoRggCAiZmGCPq8_6dY7HREsx35a69zbF1aw673sUlznhjofNDACUYwvbm1Sh=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNPsV-B2FcqoSXWGQNITYrvfwvPPKJ-T-eJEpKk0Mc1Boboa2M2IepvhRmxWA6CgAuiQZMAG8a7D90tQ-Ztgi5Gk4odsrDYUZkC6WPELdXnSa7XvrW5XaltC9ImmE4UvBxHIlAng=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Nicole Cott",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Nicole Cott",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

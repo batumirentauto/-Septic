@@ -1,0 +1,110 @@
+{
+  "name": "National Economy Plumbers",
+  "rating": 4.6,
+  "reviewCount": 141,
+  "category": "Plumber",
+  "address": "2114 Southern Ave, Memphis, TN 38114, United States",
+  "phone": "+1 901-278-4242",
+  "phoneRaw": "+19012784242",
+  "website": "https://nationaleconomyplumbers.com/",
+  "plusCode": "4285+H6 Memphis, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/National+Economy+Plumbers/@35.116404,-89.991951,17z/data=!3m1!4b1!4m6!3m5!1s0x887f87507330229f:0x86eee2de3f5f822c!8m2!3d35.116404!4d-89.991951!16s%2Fg%2F1tdcs8zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Memphis",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/National Economy Plumbers",
+  "folderName": "National Economy Plumbers",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTi12xUMe2yslFgMM4PTnFnyfhdh6kcQYk3BhuxeE7ITTvdXCgeVP-zWugGM4beK4TWkOFFKEKxKZgJroPFhD_bTGNQ7GB4iNsDDM0pXtPdpkwYN9htmmigYVVoZA_pEMFbwOAuqLxrueS=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcf1b_i2CsnIfVikiVmrZCZPNCk5WtYQT4EeMHeNyvlwTKILE4nXym4nUjs8TI3VNF5thF3NS60YhQncw2vOTNjsX5FEFfRG-8JT-Jv-BoaRZ8KulBtn9vsIeIIqW0os364tp526U4__W_f=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdA2uuLM7WZ6KLxdCE7FiDbCT9dTZE2PwqfoJ8y5aOYNNrhM1SFjeb_WVh41EHYBCBeZJJUsUNXJ1xhyJfR5QhtTbUufN2XBH4RVU91Q0IVqYCbNtgAqn4QxF8qxJ1sLhnsO9Wu8evDwbLr=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczp_m64kvJnNdk-iOYStnd-WAXFWt6Wqay7YuWTwQC-U8uErlweIs5Xfr0yrQfMPS6v3_RIYLXQ6b9AaUSmirr8InXHQLs2nymKumcgFR8YQsX1YWaNue-b07qHtGasrA5r_uM4QQmMscJ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTEuqUUlbo-9-oP9vm5a9UNJaTZT0MHtiE8tXN0t8NoyI9neak9_5UeJCVAKzmPnnjdRFQ94igVCb2fl1cOTC7MQ5LLbkGClS8_bohufsbYb0fDwbHXX_SeR1Qutts5Hzd-VfJ_9-U6D-Y=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Shelley Johnson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Morgan Fenter",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Shelley Johnson",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Lesley Hartney",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Shelley Johnson",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

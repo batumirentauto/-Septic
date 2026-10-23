@@ -1,0 +1,110 @@
+{
+  "name": "It's Plumbing",
+  "rating": 4.8,
+  "reviewCount": 156,
+  "category": "Plumber",
+  "address": "14123 Pleasant Ridge Rd, Rogers, AR 72756, United States",
+  "phone": "+1 479-866-6310",
+  "phoneRaw": "+14798666310",
+  "website": "https://itsplumbingnwa.com/",
+  "plusCode": "8WCJ+2J Rogers, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/It's+Plumbing/@36.3200063,-94.0684204,17z/data=!3m1!4b1!4m6!3m5!1s0x87c917b6373e5b91:0x739083a006002432!8m2!3d36.3200063!4d-94.0684204!16s%2Fg%2F11j79pzs54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/It's Plumbing",
+  "folderName": "It's Plumbing",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3-YVKj-KE3adgmIEIo4unaxt_zz0t0FoVsUbaqeps0z4t2TNZPddEN-c-WIik9Frlexro-3NPFjq58ZN0CIhKvg-d_VNr2BfBhm0-bPOkB45gYrC3P4-fJ81IprhRTBC9EHc85rd0uOPY=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv0Y1a_JmKU8x5s-FKEkpRvUzPM1VOEPeZjWDiQqVAvFpRzoPR1lTH6qgHDOxrCEmRc-sPX4ndS4dwdntow4VqFCL4ZDWRLHOLFL2Pjp51x_9ZGVNiF93D-kqtgYhAQIEq-najF19yqO_W=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1RHzlHf3S4k2va5u1IwZkjoiH3z8hyWrdyKreaXM5Lnu0hbbV48rKgkW9CsJJv6Gkw5QoMRiTbYWV3VzbeZ2S4IAEnlStEFGeIAx7BUHTmVuGVnHu7PNWf5_D6tCnHdjVNBkh4Abxz4CG=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd84lJkZ-zKn2jfa-vAUyo3_3n-3Hy-ARx-1tGQhu_hBFU2vOoSKQT9L1N2i_RBoJfLtwVQpq5C31idXQRXnOCb7bFdBf5KZFtFz11YN2-Cp9RDdngA-W-AxM5-7zWYppnBk_YK9fE417M=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYOFNTdXWbGCWjFXiQtBuyy6o6TmNRleLM7pBs-SLoJic_Qe7c1fzgNYFoxF4Kz7-f9SGCEYCoMqT3DnGlXetZIFt4L1-UmNsJObOUqT0EiMMqYxcti9BEfckK4fuOc3yVh5J6pa1JPMCg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Analiese Jones",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Analiese Jones",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Analiese Jones",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Analiese Jones",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Jacob Smith",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

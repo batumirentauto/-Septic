@@ -1,0 +1,53 @@
+{
+  "name": "Schroeder Septic Systems",
+  "rating": 4.9,
+  "reviewCount": 32,
+  "category": "Septic system service",
+  "address": "3051 Williams Grant Dr, De Pere, WI 54115, United States",
+  "phone": "+1 920-621-8989",
+  "phoneRaw": "+19206218989",
+  "website": null,
+  "plusCode": "9RMJ+G2 De Pere, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Schroeder+Septic+Systems/@44.3838443,-88.1699033,17z/data=!3m1!4b1!4m6!3m5!1s0x880255173eb94af1:0x7fe90957ba3949f3!8m2!3d44.3838443!4d-88.1699033!16s%2Fg%2F1tdx982j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Green Bay",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Schroeder Septic Systems",
+  "folderName": "Schroeder Septic Systems",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

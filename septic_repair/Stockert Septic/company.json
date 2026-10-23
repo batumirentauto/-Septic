@@ -1,0 +1,53 @@
+{
+  "name": "Stockert Septic",
+  "rating": 4.7,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": "1587 Co Rd 56, Garrett, IN 46738, United States",
+  "phone": "+1 260-357-3053",
+  "phoneRaw": "+12603573053",
+  "website": null,
+  "plusCode": "8VFJ+CJ Garrett, Indiana, USA",
+  "url": "https://www.google.com/maps/place/Stockert+Septic/@41.3235998,-85.1183974,17z/data=!3m1!4b1!4m6!3m5!1s0x88160fee7fb00377:0xda421689c934892d!8m2!3d41.3235998!4d-85.1183974!16s%2Fg%2F1260p35b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IN",
+  "city": "Fort Wayne",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stockert Septic",
+  "folderName": "Stockert Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

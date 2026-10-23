@@ -1,0 +1,53 @@
+{
+  "name": "Little Rooster Septic Service",
+  "rating": 5,
+  "reviewCount": 105,
+  "category": "Septic system service",
+  "address": "13444 Donald Elisar Ln, Gonzales, LA 70737, United States",
+  "phone": "+1 225-622-3752",
+  "phoneRaw": "+12256223752",
+  "website": "https://fb.com/CluckCluckPooPooTruck",
+  "plusCode": "748F+R7 Gonzales, Louisiana, USA",
+  "url": "https://www.google.com/maps/place/Little+Rooster+Septic+Service/@30.2670756,-90.8768317,17z/data=!3m1!4b1!4m6!3m5!1s0x8626c9dff0b72ea7:0x2cec0139b93c7029!8m2!3d30.2670756!4d-90.8768317!16s%2Fg%2F11ybxsfd6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "LA",
+  "city": "Baton Rouge",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Little Rooster Septic Service",
+  "folderName": "Little Rooster Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

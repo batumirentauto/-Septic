@@ -1,0 +1,88 @@
+{
+  "name": "A Royal Flush",
+  "rating": 5,
+  "reviewCount": 39,
+  "category": "Portable toilet supplier",
+  "address": "9206 Wickheather St, San Antonio, TX 78254, United States",
+  "phone": "+1 210-476-0738",
+  "phoneRaw": "+12104760738",
+  "website": "http://www.aroyalflush.net/",
+  "plusCode": "G8HQ+G3 San Antonio, Texas, USA",
+  "url": "https://www.google.com/maps/place/A+Royal+Flush/@29.5287846,-98.6622942,17z/data=!3m1!4b1!4m6!3m5!1s0x865cf523e8f247b9:0xc594cef010549d6a!8m2!3d29.5287846!4d-98.6622942!16s%2Fg%2F1hc23hjss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "San Antonio",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A Royal Flush",
+  "folderName": "A Royal Flush",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefwJGrbhJU0VsnjHfVWncXkCI0mQtHV3PmyYdiTbaeBLsCH6ClKLtTh61WuKSECn2zo7MeVznGYuBYNl9lmOKetZTXoq4CUrxzAxDvvT3k0rsY7L43p8izCt56llwf8CcPJx5i=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekCLv_oa_zfWc0Ug97L_0DNmvweoFjOOqxmrDEg-yFEncdqPRdY86b_C-64PecIyfg5lOTY4tQpWgZZK_QmmYp1M5hTHbf1Zs8Jzv2VUnXwjqfSvu_33_8Lfu3r7wWinfVJLB_Ew=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmA37MOfBGEFWyZ9ybLPu4tI_54PAHNySlIuddjn8k2jP5Nmm25XNUta0Wnt6_7KYhUoKmthyE8WCDyjJVncKEAw-4jCNFP1icV3BQ-kwOWoGISvN3kNNPLYPrWxeWvsLkBvAJ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Cumby Group",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Cumby Group",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Laura Jorgensen",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

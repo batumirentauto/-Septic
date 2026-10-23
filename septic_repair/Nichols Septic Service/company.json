@@ -1,0 +1,24 @@
+{
+  "name": "Nichols Septic Service",
+  "rating": 5,
+  "reviewCount": 146,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 302-242-4133",
+  "phoneRaw": "+13022424133",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Nichols+Septic+Service/data=!4m7!3m6!1s0x44c2c0201f0ef21b:0x5fd199b0aae71809!8m2!3d39.108703!4d-75.4492676!16s%2Fg%2F11vhx6_cjp!19sChIJG_IOHyDAwkQRCRjnqrCZ0V8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "DE",
+  "city": "Dover",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Nichols Septic Service",
+  "folderName": "Nichols Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

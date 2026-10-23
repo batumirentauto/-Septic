@@ -1,0 +1,77 @@
+{
+  "name": "Moore's Plumbing & Septic",
+  "rating": 4.6,
+  "reviewCount": 133,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 434-414-4402",
+  "phoneRaw": "+14344144402",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Moore's+Plumbing+%26+Septic/@37.9254475,-78.220505,10z/data=!3m1!4b1!4m6!3m5!1s0x89b3ed2a1a897a95:0x181251f8631b95ab!8m2!3d37.9254475!4d-78.220505!16s%2Fg%2F11hg5pq0y5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Richmond",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Moore's Plumbing & Septic",
+  "folderName": "Moore's Plumbing & Septic",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetQkcdH-zpWWlkqmYscTE4jd4mB3wHeyYUCdxfoJW2O9ieTiHF5HjliKsZkILy1jl2dUH96g1xEmmip7koxgvINQ05YDCGooJ4m6da6_gxTAL6rz0dcy3Y_fVxJVGIfczOoO-n=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLenDQDKkXoYi_qP85TqbKBGLcQBS5zarH6UfbkJpB0lA05YKoswPE2hsfJuQQ5SWYhRWo2JLNpGDgduz1e7x6xJMohITM7Km6AO9FOkEYCYp6Q1jQgjSfnUMi3bLFJxpT7gISGjOw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Devin Noble",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Devin Noble",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

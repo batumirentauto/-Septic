@@ -1,0 +1,88 @@
+{
+  "name": "Plumbing Solutions Of Wichita Inc",
+  "rating": 4.8,
+  "reviewCount": 171,
+  "category": "Plumber",
+  "address": "1645 S West St, Wichita, KS 67213, United States",
+  "phone": "+1 316-942-0019",
+  "phoneRaw": "+13169420019",
+  "website": "https://www.plumbingsolutionsofwichita.com/",
+  "plusCode": "MJ76+Q3 Wichita, Kansas, USA",
+  "url": "https://www.google.com/maps/place/Plumbing+Solutions+Of+Wichita+Inc/@37.6644661,-97.3898572,17z/data=!3m1!4b1!4m6!3m5!1s0x87bae6cd21042685:0x9bb4f594418b5307!8m2!3d37.6644661!4d-97.3898572!16s%2Fg%2F11ckqjcs9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Wichita",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Plumbing Solutions Of Wichita Inc",
+  "folderName": "Plumbing Solutions Of Wichita Inc",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuqacZeOEN-FplyF_aN_atMrHxR9SqANYbK_gehmwoiFBBO5VZSWJJizdozfnlc5Q3DYOGlimDKLsf666akURny1QJD9WYuIKLM5cIANY-sRVGblVRxpHG-x0LEg2zg2j2OiVj5SdhUjTH=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGDvII1biHuivOyaePw9oJI48d86C-RgjgBbRO0jDuIh_xkIojFyT-H1icxa88ASOYXiXpWZyqALK8Zr3u2e6opi2_-Z49oBJJyaIl-Yco6kvhCT9MBTrNstHzAA-VHmwtWnBwpChQGECD=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoe5BvBBW8PM20CnUjU3cTIMT3A5Se4E_gCIJf2CHDKvw2ZewLNXgOK248mLbeyJbWBf5iuNc1VipFeAH5Ls-SD43Eq_vo3KcPtxR5J1z4ni78oeoRDdFN50HINNmTCngsCkIwq5l54eI=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Kristen Chapman",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Kalie Lupton",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Kalie Lupton",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

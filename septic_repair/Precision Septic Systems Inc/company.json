@@ -1,0 +1,77 @@
+{
+  "name": "Precision Septic Systems Inc",
+  "rating": 4.8,
+  "reviewCount": 87,
+  "category": "Septic system service",
+  "address": "554 Homestead Ln, Angier, NC 27501, United States",
+  "phone": "+1 919-909-4389",
+  "phoneRaw": "+19199094389",
+  "website": "http://www.precisionseptic.com/",
+  "plusCode": "F72R+8Q Angier, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Precision+Septic+Systems+Inc/@35.450824,-78.7080469,17z/data=!3m1!4b1!4m6!3m5!1s0x89ac81221e418e83:0x3642772e8cfd87ae!8m2!3d35.450824!4d-78.7080469!16s%2Fg%2F1tr18fhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Precision Septic Systems Inc",
+  "folderName": "Precision Septic Systems Inc",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHHZzmsMtQVRzU-hzw47UtzJbdJZTdbHWwcCUQFa8-7z6dvrvalczOpweQatFT-P5ASXpEM1LnNpJlKhZhCbdOf6KdEreqBxKeC5Ii7iI0pexIOT1c0A3VNGQ9Dqhjjw1ujzAAdl1gFfw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLde1P8F1Mf4TeoWf7TGz3ev9sl2ellg7dvXs41wrKpHr1gCy4O9g4oPoF407xfjgHvbLZvp_OGnwHBDqNxRl8klYmMlYTzq8gyZSNw5A_v3hCfbGuZbpNaAKNVyUlCcRRKf93SzVBuJmyTY=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Alyssa Martinez",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Alyssa Martinez",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

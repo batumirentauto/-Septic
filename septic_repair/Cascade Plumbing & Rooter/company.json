@@ -1,0 +1,53 @@
+{
+  "name": "Cascade Plumbing & Rooter",
+  "rating": 4.7,
+  "reviewCount": 56,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 530-691-0000",
+  "phoneRaw": "+15306910000",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Cascade+Plumbing+%26+Rooter/@40.5657524,-121.8371185,8z/data=!3m1!4b1!4m6!3m5!1s0x2c1a328c2c94df89:0x2b442f2a434299e9!8m2!3d40.5657524!4d-121.8371185!16s%2Fg%2F11s7qcck35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Redding",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Cascade Plumbing & Rooter",
+  "folderName": "Cascade Plumbing & Rooter",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

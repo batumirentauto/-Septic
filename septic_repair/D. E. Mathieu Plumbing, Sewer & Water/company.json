@@ -1,0 +1,53 @@
+{
+  "name": "D. E. Mathieu Plumbing, Sewer & Water",
+  "rating": 5,
+  "reviewCount": 51,
+  "category": "Plumber",
+  "address": "29 West, 082 Batavia Rd, Warrenville, IL 60555, United States",
+  "phone": "+1 630-248-7679",
+  "phoneRaw": "+16302487679",
+  "website": "https://www.plumbingbackflownaperville.com/",
+  "plusCode": "RRH6+4X Warrenville, Illinois, USA",
+  "url": "https://www.google.com/maps/place/D.+E.+Mathieu+Plumbing,+Sewer+%26+Water/@41.8278672,-88.1875799,17z/data=!3m1!4b1!4m6!3m5!1s0x880eff4a82e60995:0xc5e1ca970aa159a9!8m2!3d41.8278672!4d-88.1875799!16s%2Fg%2F1tcyy03w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/D. E. Mathieu Plumbing, Sewer & Water",
+  "folderName": "D. E. Mathieu Plumbing, Sewer & Water",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

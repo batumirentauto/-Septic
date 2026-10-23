@@ -1,0 +1,53 @@
+{
+  "name": "White Knight Plumbing",
+  "rating": 4.6,
+  "reviewCount": 103,
+  "category": "Plumber",
+  "address": "638 Durell Rd SE, Olympia, WA 98501, United States",
+  "phone": "+1 360-753-3631",
+  "phoneRaw": "+13607533631",
+  "website": "https://plumbingolympia.com/",
+  "plusCode": "X4H3+3V Olympia, Washington, USA",
+  "url": "https://www.google.com/maps/place/White+Knight+Plumbing/@46.9777188,-122.895263,17z/data=!3m1!4b1!4m6!3m5!1s0x549174e7b8a02cbb:0x51009ac1fb65884e!8m2!3d46.9777188!4d-122.895263!16s%2Fg%2F1tfmbyqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Olympia",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/White Knight Plumbing",
+  "folderName": "White Knight Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

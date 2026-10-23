@@ -1,0 +1,53 @@
+{
+  "name": "Buckner Septic Tank Cleaning",
+  "rating": 5,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "2317 County Hwy 34, Haleyville, AL 35565, United States",
+  "phone": "+1 205-269-1568",
+  "phoneRaw": "+12052691568",
+  "website": null,
+  "plusCode": "673W+5J Haleyville, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Buckner+Septic+Tank+Cleaning/@34.202922,-87.70339,17z/data=!3m1!4b1!4m6!3m5!1s0x8887e91d0db86829:0xfebdc38d1af62014!8m2!3d34.202922!4d-87.70339!16s%2Fg%2F11r7pyrv4s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Buckner Septic Tank Cleaning",
+  "folderName": "Buckner Septic Tank Cleaning",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

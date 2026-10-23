@@ -1,0 +1,77 @@
+{
+  "name": "Septic Check Inspections",
+  "rating": 4.9,
+  "reviewCount": 118,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 603-893-2011",
+  "phoneRaw": "+16038932011",
+  "website": "http://www.septicchecknh.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Septic+Check+Inspections/@44.0014099,-71.566109,8z/data=!3m1!4b1!4m6!3m5!1s0x89e25baccbebaef9:0xb5ff764f7f22ff06!8m2!3d44.0014099!4d-71.566109!16s%2Fg%2F11b7q9zjx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 500)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic Check Inspections",
+  "folderName": "Septic Check Inspections",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1p2UPYKGBWUUR7-cBeBqJoGewUBgeRQ3jwJenAyMWV4B8_6goxvVD1QCz819uCABHO_mqhjuRZa-i9rZ7epNm_xt7pTmOoldfBy4PDq2_2EckrJYn8U7oHIru9oNKGPFB5yrL9EaS5Vtj=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLettkJ8NkzwWrJhk-s0v8IByJTTopabN3o3Su5MRLODLr7hjC4KXJ6nPc8wYal7_c9x5WU4QO_MUU3TZ6ahq218PAe0gmCP3nuLRuzgoS378FiylKax4cNzL5KNeIlFiZN-T6PdVw1fICeJ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mike “num9908”",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Mike “num9908”",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

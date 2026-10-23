@@ -1,0 +1,53 @@
+{
+  "name": "Alberta Septic Systems",
+  "rating": 4.7,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 425-276-7557",
+  "phoneRaw": "+14252767557",
+  "website": "https://www.albertasepticsystems.com/?utm_source=gmb&utm_medium=gmb_listing_click&utm_campaign=local",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Alberta+Septic+Systems/@47.5996736,-122.018596,11z/data=!3m1!4b1!4m6!3m5!1s0x549068e93d34447d:0x5e2b64b353e83236!8m2!3d47.5996736!4d-122.018596!16s%2Fg%2F119vc8wcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Tacoma",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Alberta Septic Systems",
+  "folderName": "Alberta Septic Systems",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "American Sewer & Drain",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Plumber",
+  "address": "1047 Russell Ave, Santa Rosa, CA 95403, United States",
+  "phone": "+1 707-586-0111",
+  "phoneRaw": "+17075860111",
+  "website": null,
+  "plusCode": "F796+PW Santa Rosa, California, USA",
+  "url": "https://www.google.com/maps/place/American+Sewer+%26+Drain/@38.4693585,-122.7377374,17z/data=!3m1!4b1!4m6!3m5!1s0x8084388a7ddaa0bb:0x4a5486c97653e5cc!8m2!3d38.4693585!4d-122.7377374!16s%2Fg%2F1tdy035r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Santa Rosa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/American Sewer & Drain",
+  "folderName": "American Sewer & Drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

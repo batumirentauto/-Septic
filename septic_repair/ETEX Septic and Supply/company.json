@@ -1,0 +1,53 @@
+{
+  "name": "ETEX Septic and Supply",
+  "rating": 4.8,
+  "reviewCount": 80,
+  "category": "Septic system service",
+  "address": "1630 W 16th St, Mt Pleasant, TX 75455, United States",
+  "phone": "+1 903-856-7887",
+  "phoneRaw": "+19038567887",
+  "website": "https://www.etexseptic.com/",
+  "plusCode": "5284+FP Mt Pleasant, Texas, USA",
+  "url": "https://www.google.com/maps/place/ETEX+Septic+and+Supply/@33.166188,-94.9931747,17z/data=!3m1!4b1!4m6!3m5!1s0x8635fde47f693f9d:0xe2f22b78a866a73d!8m2!3d33.166188!4d-94.9931747!16s%2Fg%2F11h6y3v21_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Tyler",
+  "websiteIssue": "Сайт не открывается (Сервер сбросил соединение)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ETEX Septic and Supply",
+  "folderName": "ETEX Septic and Supply",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

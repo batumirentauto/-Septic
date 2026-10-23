@@ -1,0 +1,66 @@
+{
+  "name": "AAA Septic Tank Service of Cullman, LLC",
+  "rating": 4.9,
+  "reviewCount": 39,
+  "category": "Septic system service",
+  "address": "9661 US-31, Hanceville, AL 35077, United States",
+  "phone": "+1 256-739-5917",
+  "phoneRaw": "+12567395917",
+  "website": null,
+  "plusCode": "459P+4W Hanceville, Alabama, USA",
+  "url": "https://www.google.com/maps/place/AAA+Septic+Tank+Service+of+Cullman,+LLC/@34.1177779,-86.8126902,17z/data=!3m1!4b1!4m6!3m5!1s0x8889ca3993a7cded:0xf87b9c4b61dcbad5!8m2!3d34.1177779!4d-86.8126902!16s%2Fg%2F1vnrlsr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AAA Septic Tank Service of Cullman, LLC",
+  "folderName": "AAA Septic Tank Service of Cullman, LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtfi_UwU1PxbvTJAt5x19sZ14ybHl3NFinCGg-TQIsfN6skyVOeQ_kGpHzi6Jh_YC8RKoSFeck3V21yKddUPvHavaRt5gx7_NCq0Og1v43ItBxIL63MWPfDtxIsX6pkg2NHDgA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Greg Boyles",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

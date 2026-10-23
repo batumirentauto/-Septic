@@ -1,0 +1,53 @@
+{
+  "name": "TBC Septic",
+  "rating": 4.7,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": "2041 CO-83 Ste D, Franktown, CO 80116, United States",
+  "phone": "+1 303-731-2299",
+  "phoneRaw": "+13037312299",
+  "website": "https://tbcseptic.com/",
+  "plusCode": "96RW+JJ Franktown, Colorado, USA",
+  "url": "https://www.google.com/maps/place/TBC+Septic/@39.3916138,-104.7534107,17z/data=!3m1!4b1!4m6!3m5!1s0x876c94030a2017b9:0x9d24ef057ca4dec1!8m2!3d39.3916138!4d-104.7534107!16s%2Fg%2F11c2km548l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/TBC Septic",
+  "folderName": "TBC Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

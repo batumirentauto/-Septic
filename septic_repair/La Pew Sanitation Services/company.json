@@ -1,0 +1,53 @@
+{
+  "name": "La Pew Sanitation Services",
+  "rating": 4.6,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "10999 Pope Rd, Jonesville, MI 49250, United States",
+  "phone": "+1 517-437-7510",
+  "phoneRaw": "+15174377510",
+  "website": null,
+  "plusCode": "395P+PW Jonesville, Michigan, USA",
+  "url": "https://www.google.com/maps/place/La+Pew+Sanitation+Services/@42.0592661,-84.6126315,17z/data=!3m1!4b1!4m6!3m5!1s0x883d6b31be3b5403:0xb6548f24925bfe3f!8m2!3d42.0592661!4d-84.6126315!16s%2Fg%2F1tcwxd5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/La Pew Sanitation Services",
+  "folderName": "La Pew Sanitation Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

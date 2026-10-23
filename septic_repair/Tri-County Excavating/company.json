@@ -1,0 +1,143 @@
+{
+  "name": "Tri-County Excavating",
+  "rating": 5,
+  "reviewCount": 57,
+  "category": "Excavating contractor",
+  "address": null,
+  "phone": "+1 518-528-1646",
+  "phoneRaw": "+15185281646",
+  "website": "http://www.masonrycontractorsalbany.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Tri-County+Excavating/@42.6880125,-73.9010685,9z/data=!3m1!4b1!4m6!3m5!1s0x89de087abf573c53:0xf4d8e70375be8ca0!8m2!3d42.6880125!4d-73.9010685!16s%2Fg%2F1tltncgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tri-County Excavating",
+  "folderName": "Tri-County Excavating",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3noC4_FLJ0dffz0Af4vtE0Pr0ff06pKg1cq5Wn6t7CExD-4SB-OoxXiRvO-hIbE7zYVekGwo7uiqLAnGVNqrvWu2klLAVYoX7lU3-QeEzzlN_EGR1IuVuZ29kDVpgJ2ONVuip=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefDtRZzYOJadPSu1w-3b6ecvpfFefxd2R9U30qZZcTNSaQ_H5QDPmpudLq16i8nIGobWPsMCk147UxGft0cge8YgkYb_wz1x7KQuaYVvPsJs2EoI6RqsOEy9k4MPbOBNQYTEvV=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV6w-lH3T7V2VNRjoL2f1whkWtkiXfCeca_Uqy0NHXk6yNN8WwlLOaKFXy5vkhXxWBLdLo14um-pK_hSOTB6M9QkKLOCaD1wTrQTtZXOYY2CDSTrTxdyJXCf7boyys5IsCsHM=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcE86cAKJi8moNjQYcRqGAQuphAVcyZBa7eqvMkNK1xl_BtreVuCT9ZUnOsfgyL3GSJ0zhHPRfLMg8gwbZHqcK4NuWsaWzyego94GfKvxwDs70Ux6hRMWbIL2mX2WO7Ih4wl3Yn=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdltTGnhQvjg3QFF95qiSdUO97CVFGIuSfIKZVS954eRU2JW6JKp5MIVNPVt_qUptam2_W9JTFDCrmbaOXcpjMThpUOtwq-dVswnzaHf8SRrBXVoIztgzTfU1GhFrWb5hjn_mbh=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7vOBlsVB-mbQEx_4JpjrtCNoPg6vQ4dPAwf6EIk7bKNsZhnCmcjI4ImPNFxkaEuGz-mnjBxD7Pktd5AdqnnnmLrIi5II6Jo9DdYYQK7yM99ssPkv0fEsaA6ZLO3KUJn-M7Auo=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhowJ6vYz2z81beC7d6uY7GY14fRh698lMiaoSkX9-b6HuCUdFC-RyovgGfT6auNHi9Xv7L4juN6T_NGq-ku5w_ovTN1r6yuZN64i78wIZXlSfBx3sXvGOqvtXRxcelIxnWAI=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSB4Fy1abp-X3fooDknpvWPkEWXw8_RcXZhBId7ep_w-2Zn7tYM8ClepmPQj-B8wcmjdm87zr7GkX48dZKxM4yihbh4uRK-rMLrx0byHHifFfFdpxQCfSW1_gczGGEn2RtBD1x=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Craig",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Craig",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "David Quam",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "David Quam",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Craig",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Craig",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "David Quam",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "David Quam",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Flooring 2 Roofing Mobile Rv Repair",
+  "rating": 4.9,
+  "reviewCount": 100,
+  "category": "RV repair shop",
+  "address": "645 Sam St, Corpus Christi, TX 78412, United States",
+  "phone": "+1 361-434-9320",
+  "phoneRaw": "+13614349320",
+  "website": null,
+  "plusCode": "PJHG+87 Bay Area, Corpus Christi, TX, USA",
+  "url": "https://www.google.com/maps/place/Flooring+2+Roofing+Mobile+Rv+Repair/@27.7283167,-97.3743601,17z/data=!3m1!4b1!4m6!3m5!1s0x8668f565ea21d12d:0x37f7864b36c76ecc!8m2!3d27.7283167!4d-97.3743601!16s%2Fg%2F11n97nm0y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Corpus Christi",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Flooring 2 Roofing Mobile Rv Repair",
+  "folderName": "Flooring 2 Roofing Mobile Rv Repair",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNGgNOWct_9lB-bE0do_urYR5zu8eY76WGSQ5kixezV9Gx4VEfshblvUAiKa0ukTN3PcuiB2AoSeUQMX6vEUUjzRkT5tLR-0_eTW6-WMyyJvSeN2euT0jJDB0YYEbVe0UkHLnGhsfenHM=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Bruce Jones",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

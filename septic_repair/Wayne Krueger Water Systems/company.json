@@ -1,0 +1,48 @@
+{
+  "name": "Wayne Krueger Water Systems",
+  "rating": 4.8,
+  "reviewCount": 44,
+  "category": "Well drilling contractor",
+  "address": "7606 N Lane Dr, Wausau, WI 54401, United States",
+  "phone": "+1 715-675-2108",
+  "phoneRaw": "+17156752108",
+  "website": null,
+  "plusCode": "27M9+M9 Wausau, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Wayne+Krueger+Water+Systems/@45.0341669,-89.7315449,17z/data=!3m1!4b1!4m6!3m5!1s0x4d554afbfded0b6f:0x423e720f619f821d!8m2!3d45.0341669!4d-89.7315449!16s%2Fg%2F1tfgcwn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Wausau",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wayne Krueger Water Systems",
+  "folderName": "Wayne Krueger Water Systems",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGi-jX3-8YCtpOUBDIzdfNJe5F2SM1E_1wNyeAyuKmd5lbAuxecAn4-u6pTK-TXvATEZhm2E04rt6sBhE1WqZW4D2XLNY_u-eGcglJChUV3cvihzH0lO4XnYOouaVYSq9U75GdKYhyHBvd=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJT_0a-F0El0_ny-1zei_9hMYWwCgVDHDHd-WCV5N-HWVZNNnd0qevAgRfEH4oufuwW7kBzwxQgHl68Zf5tedckGfDv8X-4dfh2KB8Nv55gleyKmQdqNjr6wAzK7dLYb9E-QnvHqwxqSk=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Casey Kempinski",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Casey Kempinski",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

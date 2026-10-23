@@ -1,0 +1,77 @@
+{
+  "name": "Green Latrine",
+  "rating": 4.9,
+  "reviewCount": 95,
+  "category": "Portable toilet supplier",
+  "address": "4055 21st Ave W Ste 202, Seattle, WA 98199, United States",
+  "phone": "+1 206-397-0336",
+  "phoneRaw": "+12063970336",
+  "website": "https://www.gogreenlatrine.com/",
+  "plusCode": "MJ48+XG Seattle, Washington, USA",
+  "url": "https://www.google.com/maps/place/Green+Latrine/@47.6574009,-122.3836538,17z/data=!3m1!4b1!4m6!3m5!1s0x54906ad2b4330749:0x40ca573c6d698ca2!8m2!3d47.6574009!4d-122.3836538!16s%2Fg%2F11hbfhbl4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Seattle",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Green Latrine",
+  "folderName": "Green Latrine",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepxMGCZdADiH_sEbtN0-qdtRGidfQvohU2qalsazl44boLm1pAJt40ymamrb5ZY2yJSQ6nW-IxyDs9EV_KMHgRIYr2CrnbJfXOTivbY4OIH0wFxzmt6XvM0vSbmgh3nWGIfB1GccESKgmC=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLHDDEpUF3-yZPb7GXtsB2FFihwt5-AjO71jHk6dAz2og_Uix_336eq7iVURDo6Qf7DpC6RlhZu1F8Ju4KX346FPL38Yv1IKARk1FEd7z-uMm4vgNw3-njy43Uw6y5Tw2f7FrhuiVdvkeL=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Hannah Goldstein",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Hannah Goldstein",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

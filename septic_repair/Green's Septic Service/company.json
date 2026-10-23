@@ -1,0 +1,53 @@
+{
+  "name": "Green's Septic Service",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "171 Stone Hill Ln, Berryville, VA 22611, United States",
+  "phone": "+1 540-955-2960",
+  "phoneRaw": "+15409552960",
+  "website": null,
+  "plusCode": "5WFJ+H9 Berryville, Virginia, USA",
+  "url": "https://www.google.com/maps/place/Green's+Septic+Service/@39.1739468,-78.0690431,17z/data=!3m1!4b1!4m6!3m5!1s0x89b5e51c486be0ed:0xf295f72b5083bf04!8m2!3d39.1739468!4d-78.0690431!16s%2Fg%2F1tdpbhd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Winchester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Green's Septic Service",
+  "folderName": "Green's Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

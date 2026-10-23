@@ -1,0 +1,77 @@
+{
+  "name": "AllStarz Pumping & Engineering",
+  "rating": 4.7,
+  "reviewCount": 127,
+  "category": "Septic system service",
+  "address": "437 W 9th St #C, Santa Rosa, CA 95401, United States",
+  "phone": "+1 707-777-7867",
+  "phoneRaw": "+17077777867",
+  "website": "https://www.allstarzpumping.com/?utm_source=google&utm_medium=localpack&utm_campaign=gbp_traffic&utm_term=gbp_organic&utm_content=gbp_page_visit",
+  "plusCode": "C7R9+QX Santa Rosa, California, USA",
+  "url": "https://www.google.com/maps/place/AllStarz+Pumping+%26+Engineering/@38.441932,-122.730083,17z/data=!3m1!4b1!4m6!3m5!1s0x80844825c4dd77bb:0x4979b52d0220b243!8m2!3d38.441932!4d-122.730083!16s%2Fg%2F1pyqqcvf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Santa Rosa",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AllStarz Pumping & Engineering",
+  "folderName": "AllStarz Pumping & Engineering",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGfgKsdvPXVwAnAnLakZhsTj_55xzv1vGyy22PP13Tz9LkTwYPSSYfD4Pm4nb2nDZfxu-3AZSoZz7Gk425xgvslnlWBmU2Yml66s768oRvMlxzPQcyU9Dgg-olXV90kzM24BSjvzgTgLgF=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGh4R0Ua9uVrqNWcJl565dwcU6X8fOqeyXQ6Xh37OYaNDyVjAhHfPxHCu2VwM7vghWShTlU_c1MdAm_NgeXmP2ckzwviJCPGe7a9B9H_RqnD9kWkN7sf9R8-dn3jxqpWLemMIwKt_Hdvk=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dawn Dolan",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Dawn Dolan",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

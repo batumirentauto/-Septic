@@ -1,0 +1,53 @@
+{
+  "name": "TL Septic",
+  "rating": 5,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 225-416-6177",
+  "phoneRaw": "+12254166177",
+  "website": "https://tlsepticpumper.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/TL+Septic/@30.4907595,-91.208733,10z/data=!3m1!4b1!4m6!3m5!1s0x8f27582ce3759c35:0x1fae139313805b3b!8m2!3d30.4907595!4d-91.208733!16s%2Fg%2F11zgvzkl_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "LA",
+  "city": "Baton Rouge",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/TL Septic",
+  "folderName": "TL Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "NoCo Septic & Excavation",
+  "rating": 5,
+  "reviewCount": 145,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 720-899-8749",
+  "phoneRaw": "+17208998749",
+  "website": "http://www.nocoseptic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/NoCo+Septic+%26+Excavation/data=!4m7!3m6!1s0x876c01ad52f45669:0xd7085c74d771d1a3!8m2!3d40.443826!4d-105.5358314!16s%2Fg%2F11f4qwcbc1!19sChIJaVb0Uq0BbIcRo9Fx13RcCNc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CO",
+  "city": "Fort Collins",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/NoCo Septic & Excavation",
+  "folderName": "NoCo Septic & Excavation",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

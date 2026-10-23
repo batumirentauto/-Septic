@@ -1,0 +1,66 @@
+{
+  "name": "Double R Septic System",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "241 Cobra Ct, Rio Rico, AZ 85648, United States",
+  "phone": "+1 520-980-2373",
+  "phoneRaw": "+15209802373",
+  "website": null,
+  "plusCode": "C2W8+59 Rio Rico, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Double+R+Septic+System/@31.4454177,-110.984031,17z/data=!3m1!4b1!4m6!3m5!1s0x86d6af43790dbe91:0x913efd88f06a6845!8m2!3d31.4454177!4d-110.984031!16s%2Fg%2F11nzlfvh7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Tucson",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Double R Septic System",
+  "folderName": "Double R Septic System",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwDeN3EVAv85xqXq4K2BeYyHQJEnCPChnVlw2xBs72bFzxcXlvmh2HxkBfOlkCFx4KfYqCzqRfobHt-oerOVwK7KEnudwjHHitsgNT85NJUusil1snPASa5oSNOKSoEWgoqMRneg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Heather Towell",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+=====================================================
+COMPANY OVERVIEW: Jim the Plumber and Sons
+=====================================================
+State:           SC
+City:            Columbia
+Category:        Plumber
+Google Rating:   4.9 (65 reviews)
+Phone:           +1 803-518-5608
+Website:         https://jimtheplumbersc.com/
+Website Status:  Сайт не открывается (ECONNRESET)
+Address:         N/A
+Google Maps URL: https://www.google.com/maps/place/Jim+the+Plumber+and+Sons/@33.6057195,-80.9266145,8z/data=!3m1!4b1!4m6!3m5!1s0x88f8bd53bb974653:0x7f2c3779d3d7b0bd!8m2!3d33.6057194!4d-80.9266144!16s%2Fg%2F11gtc0yxfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D
+
+WORKING HOURS:
+  Thursday     : 
+  Friday       : 
+  Saturday     : 
+  Sunday       : 
+  Monday       : 
+  Tuesday      : 
+  Wednesday    : 
+
+PHOTOS DOWNLOADED:
+  Gallery:       1 photos in ./photos/owner/
+  From Reviews:  1 photos in ./photos/reviews/
+  Total:         2 high-res images
+
+TOP REVIEWS PREVIEW (5 total saved):
+-----------------------------------------------------
+[#1] Trinity Perry (5★, 6 months ago)
+"Excellent work and truly good people. Jim and his son's installed a new septic system for us and did everything they could to help us out. These guys are the only people I'll call if I need plumbing work done."
+
+-----------------------------------------------------
+[#2] Kaylee Battle (5★, 7 months ago)
+"Ethan came out and gave us a hand with a toilet that was leaking and he was very professional! He immediately knew what was wrong with it and fixed it quickly and easily. Highly recommend!"
+
+-----------------------------------------------------
+[#3] Jeffery Myers (5★, a year ago)
+"Ethan did a fantastic job tapping into the natural gas line at my house. He was able to add a ball valve for my grill in less than an hour, including finding the parts. Seth was likewise very helpful in the payment process and made sure my invoice was clear and understood."
+
+-----------------------------------------------------
+[#4] Cheryl Rodriguez (5★, 4 months ago)
+"Jim is honest and a super nice guy. I highly recommend this company if you’re in need."
+
+-----------------------------------------------------
+[#5] Andrew Craft (5★, a year ago)
+"Today was the second time I’ve called these guys for an issue. This time I had a leaky shutoff valve at the water heater in our attic that was causing water to leak through the ceiling. I called these guys up and he suggested that I just go up there and tighten up a certain nut on the valve to stop the leak. It worked perfectly and he didn’t even have to come out. They are really honest and trustworthy, and when they have to make a repair, their prices are very fair. Wouldn’t hesitate to recommend these guys to anyone."

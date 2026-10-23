@@ -1,0 +1,53 @@
+{
+  "name": "Action Jackson Septic Pumping",
+  "rating": 4.6,
+  "reviewCount": 41,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 803-402-5164",
+  "phoneRaw": "+18034025164",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Action+Jackson+Septic+Pumping/@34.275073,-80.727576,10z/data=!3m1!4b1!4m6!3m5!1s0x885605bd257f77d1:0x452aec0fa03b65ff!8m2!3d34.275073!4d-80.727576!16s%2Fg%2F11g0t71_6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Columbia",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Action Jackson Septic Pumping",
+  "folderName": "Action Jackson Septic Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

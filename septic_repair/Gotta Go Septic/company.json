@@ -1,0 +1,53 @@
+{
+  "name": "Gotta Go Septic",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "2516 Holly Hill Rd, Manchester Township, NJ 08759, United States",
+  "phone": "+1 732-608-1360",
+  "phoneRaw": "+17326081360",
+  "website": null,
+  "plusCode": "2PMV+F3 Manchester Township, New Jersey, USA",
+  "url": "https://www.google.com/maps/place/Gotta+Go+Septic/@40.0336683,-74.2573565,17z/data=!3m1!4b1!4m6!3m5!1s0x89c17723bc7a11e5:0x4581451a57476c71!8m2!3d40.0336683!4d-74.2573565!16s%2Fg%2F11x65p5sbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Toms River",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gotta Go Septic",
+  "folderName": "Gotta Go Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

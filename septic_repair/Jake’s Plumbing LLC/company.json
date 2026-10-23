@@ -1,0 +1,59 @@
+{
+  "name": "Jake’s Plumbing LLC",
+  "rating": 4.8,
+  "reviewCount": 42,
+  "category": "Plumber",
+  "address": "3318 WI-66, Rosholt, WI 54473, United States",
+  "phone": "+1 715-321-5577",
+  "phoneRaw": "+17153215577",
+  "website": null,
+  "plusCode": "JJFV+G5 Rosholt, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Jake%E2%80%99s+Plumbing+LLC/@44.6237524,-89.3570564,17z/data=!3m1!4b1!4m6!3m5!1s0x8801bbae08d4ebe9:0x368fe974cc8128e1!8m2!3d44.6237524!4d-89.3570564!16s%2Fg%2F11f6g27ndl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jake’s Plumbing LLC",
+  "folderName": "Jake’s Plumbing LLC",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Sandra Yonker",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

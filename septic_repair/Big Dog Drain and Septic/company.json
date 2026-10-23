@@ -1,0 +1,48 @@
+{
+  "name": "Big Dog Drain and Septic",
+  "rating": 4.6,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "Sevierville, TN 37876, United States",
+  "phone": "+1 865-908-9951",
+  "phoneRaw": "+18659089951",
+  "website": null,
+  "plusCode": "VGH7+6P Sevierville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Big+Dog+Drain+and+Septic/@35.8780861,-83.4856394,17z/data=!3m1!4b1!4m6!3m5!1s0x885bfa37d617f5f5:0x54184129996eaf26!8m2!3d35.8780861!4d-83.4856394!16s%2Fg%2F1tk9rh7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Big Dog Drain and Septic",
+  "folderName": "Big Dog Drain and Septic",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcY9xD-K0lcU3UrXTfefGPNSvyMtSYOSjcbilyp6ZwVJhc3sfCRyiLSXqVdgNLPGjzl4Tbzakg-sNTHrfJfvyggFYGGS6jH9Ee3Zhc2RD9V2l_p1n_TYz2joc0GamrGQJQDeEQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdEXKHRjw41ovAFzfbw9v_5t0whahZmDDzlqPy6Uc3Sr6PoSXBm_4dUWeWpzJ-j2KQuHyP1bddC3Go-ghwiF3Zc6eE4HEmL4w5snEU7QoMFcy-lRBH9zdG-fog75tuIK46jv2m=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "J Covey",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "J Covey",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

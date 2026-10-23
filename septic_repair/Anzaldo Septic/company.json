@@ -1,0 +1,143 @@
+{
+  "name": "Anzaldo Septic",
+  "rating": 4.9,
+  "reviewCount": 76,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 407-556-7306",
+  "phoneRaw": "+14075567306",
+  "website": "http://anzaldoseptic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Anzaldo+Septic/data=!4m7!3m6!1s0x88e7770d431874d7:0x3917e62855046151!8m2!3d28.6203235!4d-81.453817!16s%2Fg%2F11gwl57dly!19sChIJ13QYQw1354gRUWEEVSjmFzk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Ocala",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Anzaldo Septic",
+  "folderName": "Anzaldo Septic",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgSFnhfWe9ZJOx6UsbVAjnpZTrAmdCi1btO8LKb3JuyZTF94pk8Ze8MwCau6kDxs10yLFyQfTIuFdrGI2vPrbmcC36Y2jIhdEVSS402n5MlAh4gRRi5LBBxRJzEsXyFQix-F1sk7WRJk-e=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEHvPQhRVMBNp9O9zOvhxvW0ooa3c9rcYnHIvyJVr4nHTMOt43DalN42WfycDPo4B0CT9TsPvaSZfOUCNsOZvFg7oAYk9PIyMJZQ-RThJ-Df29-sqHN87yS-g_eE0tAWVeToMH=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYNAMLOaeO-iuLFRsipzNjn7_zfci-bsgVhpZTUTVH3i9_IIMI4wLNhCxwdCTrpYAX5rUl80vz2BRp1c7thFM-YOWiO75ZVF-pSv5hx3Q95oqBPYMaQKTJC-smPFEBTJfOUdWy-g=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkSHsGQ-kHO0JQu5YGwF07fIWvr3spWO2ooameRGTMJUg0Nzjvoik1pmdNwTT8U8aCNzkbfK5LRSKzmGj1uJXp1Ak62OyBE1TF8CQ4iaostTuwwVeV-CnlvbY7SiLGvxgHKt5QeQ=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVOp_CgLLZdERv-SzzSeJFvGrYSqhCwBdAxeV2NJ_4Go-881ewZJ3RzBCOlMnt0_i0yjR1l4SaZ7XNiVtqH5A9UlmB4l55mWoqdgk03ogokQwR160kFb8rsT58GE14qo8Nl1fg=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewIJy1kAs9iD9ImX5YZs571zM7cCzlpgbVUXFLOnEAgTsrNrTmcemjjbB5kAbsGBozetbMBQXxnA_UgAttxlFQVi5xQ-CBtKVuUFc7Gb0nIpmx4lVR61hPaatD1xT_4NNhPjcR=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_bXm9cx6Kia0wHKoLCye9WIapSqgaOgDuvbaNBnaxqfD4gdcsaAV1mr6dq-0cYRE6xLh7IsJb2IN5S4ssNSmwQc8E4W1KVkYsIYPaUnmZJbmGGkyNzPlBi392_x4zi2ckEQ=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXQnXdcX9p9xOJ5hPfARJfsonkvUWUFiN6SlZOBzEViQT2FkUPl-_dGcGpbVFPf4MjBA8WEMVqj0OqXMZheYFllaq34vRvTbAypAX-TZR6aMmzousFN2ZF6dI7OuE5e1BVbumoQCfaKmg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Nicholas A. del Mazo",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Jose “Key_k” Perez",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Angel Rivera",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Angel Rivera",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Jose “Key_k” Perez",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Nicholas A. del Mazo",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Nicholas A. del Mazo",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Nicholas A. del Mazo",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

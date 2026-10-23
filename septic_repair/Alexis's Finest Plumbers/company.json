@@ -1,0 +1,53 @@
+{
+  "name": "Alexis's Finest Plumbers",
+  "rating": 4.8,
+  "reviewCount": 101,
+  "category": "Plumber",
+  "address": "1712 N 120th St #1163, Omaha, NE 68154, United States",
+  "phone": "+1 402-383-3182",
+  "phoneRaw": "+14023833182",
+  "website": null,
+  "plusCode": "7VGX+89 Omaha, Nebraska, USA",
+  "url": "https://www.google.com/maps/place/Alexis's+Finest+Plumbers/@41.2758187,-96.1015293,17z/data=!3m1!4b1!4m6!3m5!1s0x8793f333f5900ecf:0xe9ca206b43807547!8m2!3d41.2758187!4d-96.1015293!16s%2Fg%2F11jx4ymjfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NE",
+  "city": "Omaha",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Alexis's Finest Plumbers",
+  "folderName": "Alexis's Finest Plumbers",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

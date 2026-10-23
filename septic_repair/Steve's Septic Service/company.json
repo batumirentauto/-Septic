@@ -1,0 +1,53 @@
+{
+  "name": "Steve's Septic Service",
+  "rating": 4.8,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 870-423-4669",
+  "phoneRaw": "+18704234669",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Steve's+Septic+Service/@36.55868,-93.685041,9z/data=!3m1!4b1!4m6!3m5!1s0x87cedaf3ad9ba2b1:0x6a82c670e92ed74f!8m2!3d36.55868!4d-93.685041!16s%2Fg%2F1tcx7jz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Steve's Septic Service",
+  "folderName": "Steve's Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

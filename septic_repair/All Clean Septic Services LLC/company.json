@@ -1,0 +1,66 @@
+{
+  "name": "All Clean Septic Services LLC",
+  "rating": 4.8,
+  "reviewCount": 52,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 405-639-7864",
+  "phoneRaw": "+14056397864",
+  "website": "https://www.facebook.com/All-Clean-Septic-Services-LLC-105796324720502/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/All+Clean+Septic+Services+LLC/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x87b2731334078855:0x7478b89e8e417759!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11n0741btx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Oklahoma City",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/All Clean Septic Services LLC",
+  "folderName": "All Clean Septic Services LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVg0C0xuD8Vzw1S3X3dpUpDj7R1yovgWd6c5C7RPKK9L0jm2QgfFC5u559rdPF-Mdc-H4WCoi-h1LvRfNbco0dP6Ek3yiizl_1NNxhwF-uoYID7nWLmsrssquOTvScb9hqG6MZ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jeff Bassemier",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

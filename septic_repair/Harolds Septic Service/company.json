@@ -1,0 +1,77 @@
+{
+  "name": "Harolds Septic Service",
+  "rating": 5,
+  "reviewCount": 60,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 434-258-0454",
+  "phoneRaw": "+14342580454",
+  "website": "http://haroldssepticservice.com/?utm_source=gmb&utm_medium=referral",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Harolds+Septic+Service/@37.6392475,-79.105695,10z/data=!3m1!4b1!4m6!3m5!1s0xa1a1920dc1c0aeef:0xa120579305b8ccd7!8m2!3d37.6392475!4d-79.105695!16s%2Fg%2F11txrvqt6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Lynchburg",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Harolds Septic Service",
+  "folderName": "Harolds Septic Service",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_GagbI1AA2kottk2AdwTT2-Pa08A6Q7XyjJcGSeMPyB8DqBpPtd7OK6xFouzp2BE_RDNce43ktB63BCqlFhaMqNROLa3ZWBKhx4pv4XUeJN8HyCApKdUbE9XSIYqpDxOmsJc=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQOflm-FJrvfcGEsKhwOGbwMelvAUdWCUULNWf2bdQnCfYYJkDYoto9VZq1KDmMhsO2OzCCqStjmaXQOZSnPSkpnGRd4aNebEq7-ZZleKKNYG9ehBz05sgV8HVhp8SIi4b0qSjWg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Theodore Choi",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Theodore Choi",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

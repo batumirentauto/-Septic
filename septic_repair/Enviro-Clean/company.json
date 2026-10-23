@@ -1,0 +1,53 @@
+{
+  "name": "Enviro-Clean",
+  "rating": 5,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": "70 Coy Rd, Clintondale, NY 12515, United States",
+  "phone": "+1 845-883-5563",
+  "phoneRaw": "+18458835563",
+  "website": null,
+  "plusCode": "MWGM+6X Clintondale, New York, USA",
+  "url": "https://www.google.com/maps/place/Enviro-Clean/@41.6755905,-74.0651239,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd230f3b9d2883:0x104a5eda89a07f42!8m2!3d41.6755905!4d-74.0651239!16s%2Fg%2F11jsjkc919?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Middletown",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Enviro-Clean",
+  "folderName": "Enviro-Clean",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

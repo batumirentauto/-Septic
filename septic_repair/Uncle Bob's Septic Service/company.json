@@ -1,0 +1,77 @@
+{
+  "name": "Uncle Bob's Septic Service",
+  "rating": 4.6,
+  "reviewCount": 44,
+  "category": "Septic system service",
+  "address": "63 Shields Dr, Bennington, VT 05201, United States",
+  "phone": "+1 802-232-2222",
+  "phoneRaw": "+18022322222",
+  "website": "https://www.unclebobseptic.com/",
+  "plusCode": "VRW5+H9 Bennington, Vermont, USA",
+  "url": "https://www.google.com/maps/place/Uncle+Bob's+Septic+Service/@42.8964474,-73.1915421,17z/data=!3m1!4b1!4m6!3m5!1s0x89e096659dd1edb3:0xe3da9c1734311eb3!8m2!3d42.8964474!4d-73.1915421!16s%2Fg%2F11bbw_rgxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 403)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Uncle Bob's Septic Service",
+  "folderName": "Uncle Bob's Septic Service",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4e-ZlziivnKsR1elR1RfAOjmVSYZ4C47K6RZFEwB0hfv7loezu9s_XTj1ycfO0vqlKUOgPVQTusiqubSBnOpYol1-6qxjRMEsWeL2ZQ8K0JDgPk-VNv6z_QsFdf2aThBxOclW=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8IInO4X_bCKUcZ0XLGufJjbl-OtSsLwt_7-mOVtHPtV0JMNnkEYCZVWubnsp5AhhLODXqaPIFpH6SCHi1Opmqi2FE4Yn94-jhX0-pMxbV9iwpYdDBlIBMEwb_oBxFXGL99kGt=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rochelle McFarland",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Rochelle McFarland",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

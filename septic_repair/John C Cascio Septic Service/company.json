@@ -1,0 +1,53 @@
+{
+  "name": "John C Cascio Septic Service",
+  "rating": 5,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": "1460 S McCall Rd Ste 2D 12, Englewood, FL 34223, United States",
+  "phone": "+1 941-218-0333",
+  "phoneRaw": "+19412180333",
+  "website": "https://www.jccseptic.com/",
+  "plusCode": "WMQ4+PC Englewood, Florida, USA",
+  "url": "https://www.google.com/maps/place/John+C+Cascio+Septic+Service/data=!4m7!3m6!1s0xaa96f1f0b134b71f:0x5e82572e7fb1fccd!8m2!3d26.9392652!4d-82.3439412!16s%2Fg%2F11m747b6jb!19sChIJH7c0sfDxlqoRzfyxfy5Xgl4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Sarasota",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/John C Cascio Septic Service",
+  "folderName": "John C Cascio Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Chris Dawson Plumbing LLC",
+  "rating": 5,
+  "reviewCount": 174,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 706-436-6684",
+  "phoneRaw": "+17064366684",
+  "website": "http://chrisdawsonplumbing.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Chris+Dawson+Plumbing+LLC/@33.4091305,-83.3783055,8z/data=!3m1!4b1!4m6!3m5!1s0x1f70ee8ddb616c5:0xfabab29665e0d98c!8m2!3d33.4091305!4d-83.3783055!16s%2Fg%2F11vwjdl97k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Athens",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 429)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Chris Dawson Plumbing LLC",
+  "folderName": "Chris Dawson Plumbing LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUYi91qHe3FUwql8F1CP7-pUAkiRkave9dAnlNvYYVqojLqoIfGNymZV97TDbBI-6VTE1YTjlLejCREnmrHPt8EDSkQWS52e_mJrvALjch06SV95nRy09T6ot5XZC9l-6rSzIOuESQEMSm=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz0X7EumBDg_jsf_H_xlgw6skCx6OrKbs8byCNu2cbDnrVa35opXj8P-nFBZdPfYeRJpmbUkIfZ1RnBORJc6zEorUVyOFn1oIERGHCdGoC6dWYB2BKb2n9fSNm1mLXm8VcEppNs2hO9UXu=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "장종현",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "장종현",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

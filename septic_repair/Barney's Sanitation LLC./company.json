@@ -1,0 +1,53 @@
+{
+  "name": "Barney's Sanitation LLC.",
+  "rating": 4.9,
+  "reviewCount": 62,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 239-940-0471",
+  "phoneRaw": "+12399400471",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Barney%27s+Sanitation+LLC./data=!4m7!3m6!1s0x88db43f78b02d103:0xf130e05866644e94!8m2!3d26.636629!4d-82.0120959!16s%2Fg%2F11j4lszy6k!19sChIJA9ECi_dD24gRlE5kZljgMPE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Fort Myers",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Barney's Sanitation LLC.",
+  "folderName": "Barney's Sanitation LLC.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

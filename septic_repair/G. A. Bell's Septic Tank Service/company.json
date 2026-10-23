@@ -1,0 +1,53 @@
+{
+  "name": "G. A. Bell's Septic Tank Service",
+  "rating": 5,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "701 Old Homestead Hwy, Swanzey, NH 03446, United States",
+  "phone": "+1 603-352-1989",
+  "phoneRaw": "+16033521989",
+  "website": null,
+  "plusCode": "VP98+2X Swanzey, New Hampshire, USA",
+  "url": "https://www.google.com/maps/place/G.+A.+Bell's+Septic+Tank+Service/@42.8675746,-72.2825515,17z/data=!3m1!4b1!4m6!3m5!1s0x89e1727d26c80027:0xb9e99b351d65a60f!8m2!3d42.8675746!4d-72.2825515!16s%2Fg%2F1tf6n662?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/G. A. Bell's Septic Tank Service",
+  "folderName": "G. A. Bell's Septic Tank Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

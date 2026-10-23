@@ -1,0 +1,88 @@
+{
+  "name": "SOS Septic Pumping",
+  "rating": 5,
+  "reviewCount": 26,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 360-794-4619",
+  "phoneRaw": "+13607944619",
+  "website": "http://www.sossepticpumping.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/SOS+Septic+Pumping/@47.956013,-121.920616,10z/data=!3m1!4b1!4m6!3m5!1s0x549aa8bb10fb7fe5:0x57c9799c5d959285!8m2!3d47.956013!4d-121.920616!16s%2Fg%2F1tkbxypg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Snohomish",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/SOS Septic Pumping",
+  "folderName": "SOS Septic Pumping",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf35HAxqOmgtswRK7kpl-3yoqLJ-KXYsDutcTzobcQsLOyAijkbu9L5GnBPW3orhQ3rRb-s-AsyaQfFM4HS56DNCbrNrIkC9m-h6tYa3lnI3Ndy91sDwD-2sDzc3sOk0iT4NS82=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdF6nGmMP7_82Ya4rN3FV9YUUuCFDudcv0R2F7uy--kMJPCiFMNFrD-kLnBm3wQG3njBM7Rl3qarMXEN2YAIILExzp3WWggOA77YT5d4FEUpsmgYRh0JDpJ5v2JpU2ag8ttf-ZLHY8q8O7o=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMBM4-6Iik6adGMHSCM614thn_KOtmo7Z6dJvzkvSjfm8AVEhaH_7RCuoD8tZayeDi4ERpIQurfvf1d9AtNzaGRKowSKH_zpnHeBytY-hPMRY-m1Q0SjEX9om_zeEKFEiSGg9CDUjPhw9-=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ashley Hart",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "J Drews",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "J Drews",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

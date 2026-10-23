@@ -1,0 +1,53 @@
+{
+  "name": "West Side Drain and Septic",
+  "rating": 4.9,
+  "reviewCount": 197,
+  "category": "Septic system service",
+  "address": "5976 SE Alexander St Ste C, Hillsboro, OR 97123, United States",
+  "phone": "+1 503-334-2228",
+  "phoneRaw": "+15033342228",
+  "website": "https://www.westsidedrain.com/",
+  "plusCode": "F3WH+VC Hillsboro, Oregon, USA",
+  "url": "https://www.google.com/maps/place/West+Side+Drain+and+Septic/@45.4971261,-122.9214357,17z/data=!3m1!4b1!4m6!3m5!1s0x54950b8e9ff26937:0xcd5bb3c14d76f597!8m2!3d45.4971261!4d-122.9214357!16s%2Fg%2F1hdywv9wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Portland",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/West Side Drain and Septic",
+  "folderName": "West Side Drain and Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

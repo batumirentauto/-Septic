@@ -1,0 +1,53 @@
+{
+  "name": "Anthony's Septic Services",
+  "rating": 4.8,
+  "reviewCount": 39,
+  "category": "Septic system service",
+  "address": "9163 Station Rd, Erie, PA 16510, United States",
+  "phone": "+1 814-725-3018",
+  "phoneRaw": "+18147253018",
+  "website": null,
+  "plusCode": "4472+Q5 Erie, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/Anthony's+Septic+Services/@42.1144939,-79.8995653,17z/data=!3m1!4b1!4m6!3m5!1s0x882d62a2fe2f81e1:0x9ba51ff9b0d2a6b8!8m2!3d42.1144939!4d-79.8995653!16s%2Fg%2F1tpf7s5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Erie",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Anthony's Septic Services",
+  "folderName": "Anthony's Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

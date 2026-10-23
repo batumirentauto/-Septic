@@ -1,0 +1,53 @@
+{
+  "name": "Dumont Septic Pumping",
+  "rating": 5,
+  "reviewCount": 26,
+  "category": "Septic system service",
+  "address": "8 Bullard Rd, North Brookfield, MA 01535, United States",
+  "phone": "+1 508-867-9353",
+  "phoneRaw": "+15088679353",
+  "website": null,
+  "plusCode": "6WVP+6M North Brookfield, Massachusetts, USA",
+  "url": "https://www.google.com/maps/place/Dumont+Septic+Pumping/@42.2430289,-72.0633142,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6af24eb22df7b:0x33aae563b4d0ab21!8m2!3d42.2430289!4d-72.0633142!16s%2Fg%2F1ttdn_x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MA",
+  "city": "Worcester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Dumont Septic Pumping",
+  "folderName": "Dumont Septic Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Scituate Cesspool, Inc.",
+  "rating": 4.7,
+  "reviewCount": 59,
+  "category": "Septic system service",
+  "address": "26 Green Hill Rd Floor 2, Johnston, RI 02919, United States",
+  "phone": "+1 401-946-0702",
+  "phoneRaw": "+14019460702",
+  "website": "https://goscituate.com/cesspool-and-septic-tank-pumping",
+  "plusCode": "QFX9+2J Johnston, Rhode Island, USA",
+  "url": "https://www.google.com/maps/place/Scituate+Cesspool,+Inc./@41.7975871,-71.5309435,17z/data=!3m1!4b1!4m6!3m5!1s0x89e449b2c6c3716d:0x10708e3fb8c86530!8m2!3d41.7975871!4d-71.5309435!16s%2Fg%2F11vtbd3bbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "RI",
+  "city": "Providence",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Scituate Cesspool, Inc.",
+  "folderName": "Scituate Cesspool, Inc.",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf79fpqG93w91l_IVk-PXnm3uZjaKbO7NxRboXmRuXN7FnvYLawztubY0zo-Vzltx5TzQguqYA0n9yUVGalc0WCsNpcFbWHBaksQeRw1irz8RdE5CEIzmmMHcTikk0Q1qMon_9y=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Nicole Ferreira",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

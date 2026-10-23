@@ -1,0 +1,59 @@
+{
+  "name": "All American Septic LLC",
+  "rating": 4.8,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "4302 Lutheran Church Rd, Germantown, OH 45327, United States",
+  "phone": "+1 937-684-3299",
+  "phoneRaw": "+19376843299",
+  "website": null,
+  "plusCode": "MMM3+56 Germantown, Ohio, USA",
+  "url": "https://www.google.com/maps/place/All+American+Septic+LLC/@39.6829012,-84.3469913,17z/data=!3m1!4b1!4m6!3m5!1s0x88407cac4b50e9fd:0x9a252c21771ddaa6!8m2!3d39.6829012!4d-84.3469913!16s%2Fg%2F1tgdd2jm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Dayton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/All American Septic LLC",
+  "folderName": "All American Septic LLC",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Gareth Hopper",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Local Septic & Environmental Services LLC",
+  "rating": 5,
+  "reviewCount": 88,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 336-613-7108",
+  "phoneRaw": "+13366137108",
+  "website": "https://localsepticnc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Local+Septic+%26+Environmental+Services+LLC/@36.152643,-79.541334,10z/data=!3m1!4b1!4m6!3m5!1s0x409915b67fc5921f:0x5cb195ad062a34c2!8m2!3d36.152643!4d-79.541334!16s%2Fg%2F11ptpl4c59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Greensboro",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Local Septic & Environmental Services LLC",
+  "folderName": "Local Septic & Environmental Services LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLlaAFgqhuGgG2RD194T2WUtLBhBOZ5dQc3Ntxxwxwl8qtE2ZqVLqdWL9safUdddj3iWBc0rQ0e_4WkRjZ_17neQebMjI0YdkjVPOgaAtc9S7iRacm6yknHBDmt2GyKw5H-1I=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "220 Exxon",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

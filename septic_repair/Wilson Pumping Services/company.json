@@ -1,0 +1,66 @@
+{
+  "name": "Wilson Pumping Services",
+  "rating": 4.7,
+  "reviewCount": 74,
+  "category": "Septic system service",
+  "address": "8322 Mccrory Rd, Stokesdale, NC 27357, United States",
+  "phone": "+1 336-643-6427",
+  "phoneRaw": "+13366436427",
+  "website": null,
+  "plusCode": "62RF+63 Stokesdale, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Wilson+Pumping+Services/@36.2405554,-79.9772531,17z/data=!3m1!4b1!4m6!3m5!1s0x8852fc2e72938bf1:0xbf236678f7df2dfc!8m2!3d36.2405554!4d-79.9772531!16s%2Fg%2F1tl9n885?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Greensboro",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wilson Pumping Services",
+  "folderName": "Wilson Pumping Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLei0lisdCZ3_EGGPSaHfzr7PV2Li3CjceTsJLyHQsKXDmtevX--sv8SbCPr2tMlN2O1_IlqH9EBsE4dIsXrbqXZ9R3z1TB_xYeLxsagMxYmYeWYgBfkVMUJuVoSLrBa6ww_lThYw6CRYLx5=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Phil Gerla",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

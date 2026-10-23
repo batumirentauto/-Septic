@@ -1,0 +1,66 @@
+{
+  "name": "Baker Services",
+  "rating": 4.9,
+  "reviewCount": 86,
+  "category": "Heating contractor",
+  "address": null,
+  "phone": "+1 910-354-9255",
+  "phoneRaw": "+19103549255",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Baker+Services/@35.0900706,-78.9269424,11z/data=!3m1!4b1!4m6!3m5!1s0x89ab6d8e9837160f:0xf7160b28ee627359!8m2!3d35.0900706!4d-78.9269424!16s%2Fg%2F11qnhgwlth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Baker Services",
+  "folderName": "Baker Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2weIES2NDHjcpxXbUiw334y9Wnlc7P4WveV5ABmfNY1TzZM3gVvOgL4Gepbd2jeCvpRuIsoVCJT_zucLq9yre14QK69KkPMcJkLQO1q-kaAwY9Lgg54hOCyAT74FoeTfzY3p16xHnbgU=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mary Parker",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

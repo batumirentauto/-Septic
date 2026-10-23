@@ -1,0 +1,88 @@
+{
+  "name": "BSKC Soil and Septic Services, LLC",
+  "rating": 4.7,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": "150 Shane Rd (also called, Chad Dr, Elmore, AL 36025, United States",
+  "phone": "+1 334-657-0363",
+  "phoneRaw": "+13346570363",
+  "website": null,
+  "plusCode": "HJ7V+99 Elmore, Alabama, USA",
+  "url": "https://www.google.com/maps/place/BSKC+Soil+and+Septic+Services,+LLC/@32.5633847,-86.3565224,17z/data=!3m1!4b1!4m6!3m5!1s0x888e9bef185f9285:0xce40b1953eae052d!8m2!3d32.5633847!4d-86.3565224!16s%2Fg%2F11c4lddxcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Montgomery",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/BSKC Soil and Septic Services, LLC",
+  "folderName": "BSKC Soil and Septic Services, LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcP7eaPbrQ5FprNwRNBXtDEtifXZ-acAv2jtcRu6AFupJ5R76t6uR0mJ4oPC3zPleI8Nw_ztoYxcy1Q6oG4FzpEIV2y30tI9Kn1Pw0lIISn2EF0rbuygLJyim0pCNmlNAZLmmAn=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb3ESaYzk9eilKJWtghRp5swO6fjIpu_pS0qiZzNWz8KDSIUJ5Up6V3Z8gBQjw2rj32uU00jBnc0wLbdm3ukuYWRgPcN6KkifJgdQ6XmgFBCj1jme7ZO_iznOO0-nyu-85G_wc=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLen5l4eRLOc2uHEbkcHZETW8w0-Un_scMbcI_iXY-jttcIATUpEuOZ9Hlu6-wZE_9L0-3yoQHCJZoN0MlqmFnvmTFbVaA4c5BPLpoIshAXVpCbkdNch8qiWFFN7z5ZJ6CUExg8=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Tim",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Tim",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Tim",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

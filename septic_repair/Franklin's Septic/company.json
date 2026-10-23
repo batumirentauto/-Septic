@@ -1,0 +1,53 @@
+{
+  "name": "Franklin's Septic",
+  "rating": 5,
+  "reviewCount": 54,
+  "category": "Septic system service",
+  "address": "4545 Bullard Rd, Monticello, GA 31064, United States",
+  "phone": "+1 706-468-9200",
+  "phoneRaw": "+17064689200",
+  "website": null,
+  "plusCode": "9CCJ+W3 Monticello, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Franklin's+Septic/@33.3723685,-83.5698401,17z/data=!3m1!4b1!4m6!3m5!1s0x88f69ddd4cbf7697:0x565452a33e43e845!8m2!3d33.3723685!4d-83.5698401!16s%2Fg%2F1tk6wrrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Athens",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Franklin's Septic",
+  "folderName": "Franklin's Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

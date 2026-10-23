@@ -1,0 +1,53 @@
+{
+  "name": "AAA All Drains Septic Cleaning Co.",
+  "rating": 4.7,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 973-296-0004",
+  "phoneRaw": "+19732960004",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/AAA+All+Drains+Septic+Cleaning+Co./@40.4828245,-74.724323,7z/data=!3m1!4b1!4m6!3m5!1s0x89c30add4f0c86bd:0xc8bab9ac6ad710b0!8m2!3d40.4828244!4d-74.724323!16s%2Fg%2F1v9gkylc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Sussex",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AAA All Drains Septic Cleaning Co.",
+  "folderName": "AAA All Drains Septic Cleaning Co.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

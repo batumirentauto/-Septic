@@ -1,0 +1,53 @@
+{
+  "name": "Tri Star Septic Pumping LLC",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "1821 State Rte 52, Portland, TN 37148, United States",
+  "phone": "+1 615-670-0704",
+  "phoneRaw": "+16156700704",
+  "website": null,
+  "plusCode": "HHH6+8G Portland, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Tri+Star+Septic+Pumping+LLC/@36.5782816,-86.43871,17z/data=!3m1!4b1!4m6!3m5!1s0x8865cdbc98749815:0xf2ce3815667eed28!8m2!3d36.5782816!4d-86.43871!16s%2Fg%2F11h553pyzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tri Star Septic Pumping LLC",
+  "folderName": "Tri Star Septic Pumping LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

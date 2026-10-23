@@ -1,0 +1,66 @@
+{
+  "name": "ADB Construction & Septic Corp.",
+  "rating": 4.7,
+  "reviewCount": 100,
+  "category": "Septic system service",
+  "address": "77 Woodland St, Manchester, CT 06042, United States",
+  "phone": "+1 860-432-5996",
+  "phoneRaw": "+18604325996",
+  "website": "https://www.adbseptic.com/",
+  "plusCode": "QFRC+3V Manchester, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/ADB+Construction+%26+Septic+Corp./@41.7902293,-72.5278327,17z/data=!3m1!4b1!4m6!3m5!1s0x89e657824616771b:0x96b41af75501c240!8m2!3d41.7902293!4d-72.5278327!16s%2Fg%2F1hc0x3thq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CT",
+  "city": "Hartford",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ADB Construction & Septic Corp.",
+  "folderName": "ADB Construction & Septic Corp.",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdraZIyPZXV8G1QKI_4Qos8S6kuXnoio5Sjp6AUE-aYoRwKIEP-5QRCAWMlPxeKnhss2SqM3fyvfmvQUP2QDHfOvcTfWhaSH53GduM6UY0Si3lPnWWuk7XRSgZ5u7Sv18mpcPWJJA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Phil Perron",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

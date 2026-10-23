@@ -1,0 +1,59 @@
+{
+  "name": "Recreational Vehicle Dump Station",
+  "rating": 4.6,
+  "reviewCount": 85,
+  "category": "Sewage disposal service",
+  "address": "2540 E Mission Bay Dr., San Diego, CA 92109, United States",
+  "phone": null,
+  "phoneRaw": null,
+  "website": null,
+  "plusCode": "QQQR+9C San Diego, California, USA",
+  "url": "https://www.google.com/maps/place/Recreational+Vehicle+Dump+Station/@32.7884693,-117.2089607,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc00287932d18f:0x30f150601b397130!8m2!3d32.7884693!4d-117.2089607!16s%2Fg%2F1q5bmm13_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "San Diego",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Recreational Vehicle Dump Station",
+  "folderName": "Recreational Vehicle Dump Station",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Sarah Twamley",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

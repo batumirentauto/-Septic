@@ -1,0 +1,88 @@
+{
+  "name": "Blue Ridge Septic Service",
+  "rating": 5,
+  "reviewCount": 36,
+  "category": "Septic system service",
+  "address": "4443 Georgia Pines Rd, Morganton, NC 28655, United States",
+  "phone": "+1 828-443-8088",
+  "phoneRaw": "+18284438088",
+  "website": "http://blueridgeseptic.net/?utm_source=gmb&utm_medium=referral",
+  "plusCode": "Q56M+PM Morganton, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Blue+Ridge+Septic+Service/@35.7618475,-81.8158056,17z/data=!3m1!4b1!4m6!3m5!1s0x2725eef4ba070969:0x897bc563363a7366!8m2!3d35.7618475!4d-81.8158056!16s%2Fg%2F11rhr5kspl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Charlotte",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Blue Ridge Septic Service",
+  "folderName": "Blue Ridge Septic Service",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3VbSDDj_Vx6bI_rPa1U8gE6g_v5or1xzsS5wD13qGaakHm_iKJyJoHzUBi2VNjBHrQXcLrQRbCeU7rtzVbn6xuQdNYc1QWTxLSpoG9EJEyZ_RVQvYjx5ubqi2RJnB5Iz_lY8P=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFO4o0u75nHdE2Z8dte4JMy6lh24OdyKD7eRH7cK1DIfLQp4PxzpvYcJBnejmvQR-JcKM8_gHLXKiu2hAsW6xVRgxhXS_05BBGIOKMr-L9JJjuwXXh61IBBq4PEn8GFkwPtWCubw=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAmV71Lun126IF9XyWMvz83cYou-aWgiE68lZR2KyyaIpsouUHQbbaHlmlPhIdrFo71-2Ij0HRGBRMWVaXyM7r62zTNp8aSwv-jE7nZg5mnVfCTDeVHejKEkHXKqAy0HPABDkR=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Michael Isaacs",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Michael Isaacs",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Michael Isaacs",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

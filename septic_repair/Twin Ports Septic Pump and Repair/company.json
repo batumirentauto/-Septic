@@ -1,0 +1,59 @@
+{
+  "name": "Twin Ports Septic Pump and Repair",
+  "rating": 4.9,
+  "reviewCount": 44,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 218-428-3552",
+  "phoneRaw": "+12184283552",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Twin+Ports+Septic+Pump+and+Repair/@46.8931635,-92.2890716,9z/data=!3m1!4b1!4m6!3m5!1s0x52ae4ba560e56a69:0xac362e5f665dd9e3!8m2!3d46.8931635!4d-92.2890716!16s%2Fg%2F11mx4py_n7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MN",
+  "city": "Duluth",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Twin Ports Septic Pump and Repair",
+  "folderName": "Twin Ports Septic Pump and Repair",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Chris Jacobson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

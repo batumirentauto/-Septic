@@ -1,0 +1,53 @@
+{
+  "name": "ASAP Pumping Inc",
+  "rating": 4.8,
+  "reviewCount": 56,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 760-365-4125",
+  "phoneRaw": "+17603654125",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/ASAP+Pumping+Inc/@34.1693721,-115.966875,8z/data=!3m1!4b1!4m6!3m5!1s0x80db2631ef704be1:0x2050d9d54a7be79b!8m2!3d34.1693721!4d-115.966875!16s%2Fg%2F1td25r45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Riverside",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ASAP Pumping Inc",
+  "folderName": "ASAP Pumping Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

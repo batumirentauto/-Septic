@@ -1,0 +1,66 @@
+{
+  "name": "Crow Creek Septic Services",
+  "rating": 4.9,
+  "reviewCount": 78,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 970-413-4791",
+  "phoneRaw": "+19704134791",
+  "website": "https://crowcreeksepticservices.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Crow+Creek+Septic+Services/data=!4m7!3m6!1s0x2132d0afcbf34bd7:0x90cf9ba958242bda!8m2!3d40.6680275!4d-104.884327!16s%2Fg%2F11md12hyj0!19sChIJ10vzy6_QMiER2iskWKmbz5A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CO",
+  "city": "Fort Collins",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Crow Creek Septic Services",
+  "folderName": "Crow Creek Septic Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2HmQnZMjqaQaXc3_v_eiL5auj8wOv-GLk-k4KRJCrvws2roFv0EMg514z2sVvi9WigJZYd16yhSOik8DsW2nnzd990mlHqlDk9GbJXBjyPrrxpAN7rhBYrp8lwN2ZpA9498-Ji_pVBhwb=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Joshua Brague",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

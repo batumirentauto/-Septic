@@ -1,0 +1,88 @@
+{
+  "name": "A Austin’s Septic Company LLC",
+  "rating": 4.9,
+  "reviewCount": 75,
+  "category": "Septic system service",
+  "address": "4612 144th Dr SE, Snohomish, WA 98290, United States",
+  "phone": "+1 425-446-1004",
+  "phoneRaw": "+14254461004",
+  "website": null,
+  "plusCode": "XX37+H5 Snohomish, Washington, USA",
+  "url": "https://www.google.com/maps/place/A+Austin%E2%80%99s+Septic+Company+LLC/@47.953904,-122.0370239,17z/data=!3m1!4b1!4m6!3m5!1s0x549aa9d752782dbf:0x294863adebeb3e12!8m2!3d47.953904!4d-122.0370239!16s%2Fg%2F11fk3_twrx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Bellingham",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A Austin’s Septic Company LLC",
+  "folderName": "A Austin’s Septic Company LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcr5s15tVZw4bL9HvERGDEeau_aCRoeJFXWjhY9WEjVIxe5wGmtdgSGUQprOc37yA7G1zin59oiOC_2y8iFAauRxwR_1kAqW2jShak69BykNKK4ViAnP3QojYAr4xn6rmPoNMs=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsirvarux60kslCotFyUWO7YkzIGWhsAhWJGhbCDaoJxIiQAjfNa6H3NggPHCgABrAQak3d8HZG20MfwaWo8htj9fX_zueihZQIbH-DMAF02GpRvuQ3lnu3Fuat6lPZxsjQpCN=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFGNEKWEqoRsCR9BJY8dPSR-DfaLU5XuZ0DoQxkSrirQ7GNYm2KGWNZUzvbphYt53ry7g9mC94RUtvuzrq8hBqSnKekplFuU3jToEIJQK187Gm1sKiEOty9Qruv-SymD2xk5zh=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Keesha Laws",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Keesha Laws",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Keesha Laws",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

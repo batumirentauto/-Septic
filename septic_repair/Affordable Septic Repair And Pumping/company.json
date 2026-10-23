@@ -1,0 +1,88 @@
+{
+  "name": "Affordable Septic Repair And Pumping",
+  "rating": 5,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 704-989-2931",
+  "phoneRaw": "+17049892931",
+  "website": "https://www.facebook.com/AffordableSepticRepairAndGrading/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Affordable+Septic+Repair+And+Pumping/@34.9943785,-80.564927,11z/data=!3m1!4b1!4m6!3m5!1s0x885430d162e9f303:0x3978c5670786f886!8m2!3d34.9943785!4d-80.564927!16s%2Fg%2F1tmg77vh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Charlotte",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Affordable Septic Repair And Pumping",
+  "folderName": "Affordable Septic Repair And Pumping",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeToVYrntRC3ElbeH_AY3zrd5KlfvbyG2Nf0psH1Z9lHSGmsK7E6Nd39U1n65_XmuVcNoNYTIi2Jkbe_KIzrr1l_s7uBvwyT0h6vMaKyAX8ea9PIZ5cJp2hCr-GFg-EyG0MH1COaw=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2i9Q9lqjWc80V17hh61Wx6fKGlDTeKufLGbZ2b1bBYx0AfYYgEzESCQcITt3aTFBDR-i0mq63kmWc5B4SLo9KOtZTkAJ8zK6fyDazys2-wiBf78NNrMZ0Fmj7XWZGxsV51q8R=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOCqqRkuLOR8wFK3XTkm_jKMJrLNZ2HJxxgBdnqM0akuFz3foabZXmzdVUxJNm624ghW-yg6ja19hMmaQOyyMJX-1DLQyD6GTCG5JJakQgtadDZz-Q_HdCJyFFlaVOWFAIZhIQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Cindy Fitzgerald",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Cindy Fitzgerald",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Cindy Fitzgerald",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

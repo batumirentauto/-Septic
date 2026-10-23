@@ -1,0 +1,77 @@
+{
+  "name": "American Drainfield Septic Service",
+  "rating": 5,
+  "reviewCount": 76,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 864-350-2606",
+  "phoneRaw": "+18643502606",
+  "website": "https://www.americandrainfieldsepticsc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/American+Drainfield+Septic+Service/@34.8749025,-82.2451499,10z/data=!3m1!4b1!4m6!3m5!1s0x885786ba859ffaf3:0x6f314f9f7231ccb9!8m2!3d34.8749024!4d-82.2451499!16s%2Fg%2F1tfk5482?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Greenville",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/American Drainfield Septic Service",
+  "folderName": "American Drainfield Septic Service",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQh5kceZc5uBRpes3v9dRzA_coIGpTGUc1STxlsVFV1OF2lhPtnsEnLabsjNUAkfcv4teekXEUED6qcJOjeKDll3pJaDQYLy8UIA3-7HiKfxVFXc6TCXEYEA-vV1sFI1WevWq3XjO8Igo=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXGFEBoNZwutVSVw6ga0DYBSO_IyiZghedt0Og9NCVONrl__xwGE6y0c7RUmLgSxXCOHF78_2CQJ-Yc_Q4ZU06EkRIRM20jpY9u_UmH0-LJtROQT9WWhkIl2u3canKL2fJfeAUPYKrdCs=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Peggy Gregg",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Peggy Gregg",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "PlumbTech",
+  "rating": 4.9,
+  "reviewCount": 82,
+  "category": "Plumber",
+  "address": "4466 New Jersey St, San Diego, CA 92116, United States",
+  "phone": "+1 800-388-8149",
+  "phoneRaw": "+18003888149",
+  "website": "https://plumbtechpros.com/",
+  "plusCode": "QR5W+9W San Diego, California, USA",
+  "url": "https://www.google.com/maps/place/PlumbTech/data=!4m7!3m6!1s0xb4e7e3733f89eaf:0xc7c211db9dec2148!8m2!3d32.7584773!4d-117.1527023!16s%2Fg%2F11yxgsfjq6!19sChIJr574Mzd-TgsRSCHsndsRwsc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "San Diego",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/PlumbTech",
+  "folderName": "PlumbTech",
+  "totalPhotosDownloaded": 3,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Abe V",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Abe V",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Abe V",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

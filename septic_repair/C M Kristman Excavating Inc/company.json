@@ -1,0 +1,53 @@
+{
+  "name": "C M Kristman Excavating Inc",
+  "rating": 4.7,
+  "reviewCount": 25,
+  "category": "Excavating contractor",
+  "address": "1099 Cannery Rd, Coatesville, PA 19320, United States",
+  "phone": "+1 610-347-0688",
+  "phoneRaw": "+16103470688",
+  "website": "http://www.cmkristman.com/",
+  "plusCode": "W75M+V3 Coatesville, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/C+M+Kristman+Excavating+Inc/@39.909672,-75.717318,17z/data=!3m1!4b1!4m6!3m5!1s0x89c65816cec73f35:0xf7d972280d2d479d!8m2!3d39.909672!4d-75.717318!16s%2Fg%2F1w666c8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "DE",
+  "city": "Newark",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/C M Kristman Excavating Inc",
+  "folderName": "C M Kristman Excavating Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

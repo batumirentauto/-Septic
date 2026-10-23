@@ -1,0 +1,99 @@
+{
+  "name": "JT Services",
+  "rating": 4.8,
+  "reviewCount": 94,
+  "category": "Plumber",
+  "address": "8022 S Memorial Dr Suite 203A, Tulsa, OK 74133, United States",
+  "phone": "+1 918-265-0220",
+  "phoneRaw": "+19182650220",
+  "website": "https://jtserviceco.com/plumbing/tulsa/?utm_source=GMB&utm_medium=organic",
+  "plusCode": "24W7+W7 Tulsa, Oklahoma, USA",
+  "url": "https://www.google.com/maps/place/JT+Services/@36.047306,-95.886799,17z/data=!3m1!4b1!4m6!3m5!1s0x87b68da4b1db2943:0x6e74418775a69cc!8m2!3d36.047306!4d-95.886799!16s%2Fg%2F11ylt05gy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Tulsa",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/JT Services",
+  "folderName": "JT Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKrjC5-VFImM9cWDWsjHp5x4NZ-_24no5PmAXcnwCteCKpV2ylLXrCvQ-aQgFzi3nO6lIfwM1hi5S_0n_a7B5aJ--kuwAZ8bgv1NdcF3arwdcG56wmOuNpDsONGx7Tj1nJ8tnd7bzN61V0=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKQLocXSMAhIAB1DlXMlacOPAsUp6rcp3hs2DqBCTlNYK_iQXMQVhu3Io0uZrm5K4Kf-zdoENl946WOIQPqmRhb4P2b1bfXfzCKnHVEj88ZBtDptto-yuF3dmwthH4QI_1LqRzCTy-riBn=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3-GW9NEEvNEKtPViRckTxCpHdPzayXaIriqdYj_qeLAYDkzUNiertKA1uEyd07EC3_xRg7WHH8vwLyPdSNg0m6IzVKELNiS6BVHOMp4T0hac6YL3nD2C2jJ24EAei35eavCfH158lqAYQ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs_M0vdKFilkp_3pIWbmrlfBP2IUdoADnQX7rAmLiNhHrQRj5Q7dvO588tPi7B6Zh_Wb8ALOESxBmEKbmTPqF9W98unzlZTgGvD5UqPVmtX5v09hvQxAQn-wH-RDi-BYZX9q9PwAYXWvfT=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "clay cherry",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "clay cherry",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Scott Glattfelder",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Scott Glattfelder",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

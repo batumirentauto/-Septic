@@ -1,0 +1,121 @@
+{
+  "name": "Warrior Pumping",
+  "rating": 5,
+  "reviewCount": 104,
+  "category": "Septic system service",
+  "address": "1100 Davis Place Road, Moundville, AL 35474, United States",
+  "phone": "+1 205-331-1825",
+  "phoneRaw": "+12053311825",
+  "website": "http://www.facebook.com/WarriorPumping/",
+  "plusCode": "X9WG+VH Moundville, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Warrior+Pumping/@32.9971627,-87.6235834,17z/data=!3m1!4b1!4m6!3m5!1s0x8885fe93ccfd8c17:0x5cb5ee64c95c7869!8m2!3d32.9971627!4d-87.6235834!16s%2Fg%2F11fz9g76j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Warrior Pumping",
+  "folderName": "Warrior Pumping",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmig6-7cFe_am9iehE2CgI3oGAbrhaCwJUyQ5PS3YJ0b_N82qCD_-vvnsipjT_rtvTiHP1Y9AXfd32dsgLMz-yxbbjYlrp9uqxehUTEgyK_G5uD0viaS112WN142hYVjyaebOWKCR5MMr6=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv-PbxIEyv0wRhOnx6G6i__q7GUtduEhz_goU6EgIY3aR7L40cH4rUAqFImKYmZ9RcXt2t5Sjfx8znFcin3zIgBEA1tziw0BIMK54r2DXJChDi-WA0gH0qTM03BziNikczaZJDxc_qnUWy=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWKNDItoZQ586qa1axE04BtGGfiVJRcp9XdvhZ0LhtW8E4BEGhOJdMvtKBYlIUo8t9ivvCgX-skvcn7matKIsON19_nODLaxi7xynPFVDxRHD4ioioS3QNbn9v15xMrbHLWHMK5qSC19k=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtncTgmrhREPlY3GEQD0tmUxV2o_d4dfpeY351AI68Dd48UX15Gr9Le00zw5p7qxshjbUwm-r9cNmhVYjENxDz5BLUOM9JwMIoEgGbu1Wy20RyQwdjISz8zZujKXG3FjZyejE=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6ho8gsrcx6864E3uyuwYuJxYhUjXD-R7sW6hlIqqAwisxH0_LzksISsI3gPGW-mOmqqsaiZSiTHIdLztHK84dYdItQGXJJFG_mv0y-NiirMmBBcnUYuBnlUBpNR3r8erBidF3wg=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0NIKdYMO-FLC6H34k_n2DRfd8onFUQBno4jbUCZ8NQM2sV5RplhBko5SSxmGSAH7Wn1CzgNVwdSdSiqzFkS6aXHZEW0PnhWOtUQwQsR84Et9nrdl8vYDmnrCyqkPFaXtndlC-=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "yuliana ruiz",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "yuliana ruiz",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "yuliana ruiz",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Jaclyn Head",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Jaclyn Head",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Jaclyn Head",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Pine Country Plumbing",
+  "rating": 5,
+  "reviewCount": 53,
+  "category": "Plumber",
+  "address": "3623 Crossings Dr Ste 228, Prescott, AZ 86305, United States",
+  "phone": "+1 928-899-1458",
+  "phoneRaw": "+19288991458",
+  "website": "https://www.pinecountryplumbing.com/",
+  "plusCode": "HGWM+9J Prescott, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Pine+Country+Plumbing/@34.5959797,-112.4659793,17z/data=!3m1!4b1!4m6!3m5!1s0x872d2f793f9b56f1:0xc2b96c031848e2fa!8m2!3d34.5959797!4d-112.4659793!16s%2Fg%2F11rzjbzpz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Prescott",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pine Country Plumbing",
+  "folderName": "Pine Country Plumbing",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfai0USAU1OeugFH8q8boFmfKMzxf6RzelzrazbEK8Uxz89vrz68HmsRsDePW0Xf2oIoKDx3of6JmfEcsTB71csfbsEyqrmBgsTuUdMLRmiN8uBv5qQow24rYarpnp6Hp5Uc_90iceDoYGe=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYtn2MY-wPAC09-1Nf_FrcGjCwjLTfgMTOdW2Sge5FOLPFMD206adkzWpE-8n0iiEU-2zVne9U1CksWK18FMr4UPKescKlXgr6-T0mX6xk5vfoAlv4f6F_7HMf2BURcSAyO5ZF=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcymqHxk62Ebx9-tN2AGb2bH9hEWTxFNbDvjo5y5HkmGHEb4gPAZVoKW-_1iwXQEAu8TPnl9haQPPsANipQR3xkrTITmghQ0ujlpVm8Fm-Zgap5fjZYQBD3pl34R8VeOQiZ27zF=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mike Anders",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Dustin Rigg",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Mike Anders",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

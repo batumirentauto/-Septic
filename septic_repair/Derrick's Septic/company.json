@@ -1,0 +1,99 @@
+{
+  "name": "Derrick's Septic",
+  "rating": 4.8,
+  "reviewCount": 146,
+  "category": "Septic system service",
+  "address": "7032 Beane Rd, High Point, NC 27263, United States",
+  "phone": "+1 336-848-9137",
+  "phoneRaw": "+13368489137",
+  "website": "https://derricksseptic.com/",
+  "plusCode": "W38Q+V7 High Point, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Derrick's+Septic/@35.9171673,-79.9118588,17z/data=!3m1!4b1!4m6!3m5!1s0x88531205eec5bab7:0x3a7cdda12e5cb15!8m2!3d35.9171673!4d-79.9118588!16s%2Fg%2F11cmv1_5y7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Charlotte",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Derrick's Septic",
+  "folderName": "Derrick's Septic",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0P71sSi8170agbQCYAk44pRRjjYrabxwDe2OMeNWpyYmcH8qynVIFC0ukvKUrB-d-kLjUSjfmS7bvUlveb4OcxWfiT2kN5Zt2xy7bmZk6V8vOcHikJa_Rjh81XvSztbTQQ_98E9asWWrY=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuOpZArv_H0jYj2GgNOLZlkNuIqlD5tHhLRJLPRdvM_65wNp_elnjIdki-kDVKeTAgMQgYTnGnBQznhJyexDqdRTYukjHnShuxOFpuI4T8y54yXJcNVAIPicxN7HeNHag7O8DVrNVaHDw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPxmOHXdzVCYUu-9Avu-Ie35L1gSdH8xfPL_TTLHWGRiNFSFja9vbb2qAldszE3RcqrB4913X0h22O6wJCSJ5Aqjy-njBbW8hwt271q6AwlNlVviuPWp3wHpK2O04zjLccqCsG0daBG0T5=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9OUuRG7vXcSkZHdRFUeWFNbY4TsEhZmsxBnYW4G_kCFlIPKC7R3nlgr2592ja0ZK8vRlpn_RZIE6VVKqVeEfsS_GG4-wE1j7T0ANDkzabqI8FP9RKnj-3Tft_aD-kg29gOhQdjq_n4q_R=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Scott McNeill",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Scott McNeill",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Scott McNeill",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Scott McNeill",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

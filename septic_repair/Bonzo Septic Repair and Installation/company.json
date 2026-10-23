@@ -1,0 +1,53 @@
+{
+  "name": "Bonzo Septic Repair and Installation",
+  "rating": 5,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": "945 PA-68, New Brighton, PA 15066, United States",
+  "phone": "+1 724-251-8513",
+  "phoneRaw": "+17242518513",
+  "website": "https://www.bonzosepticrepairandinstallation.com/",
+  "plusCode": "PQR7+4F New Brighton, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/Bonzo+Septic+Repair+and+Installation/@40.7403548,-80.2363305,17z/data=!3m1!4b1!4m6!3m5!1s0x88347bf7cda5ef4d:0x81396508921805ab!8m2!3d40.7403548!4d-80.2363305!16s%2Fg%2F11z3y545_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Pittsburgh",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bonzo Septic Repair and Installation",
+  "folderName": "Bonzo Septic Repair and Installation",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

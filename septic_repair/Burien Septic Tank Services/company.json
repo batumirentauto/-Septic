@@ -1,0 +1,53 @@
+{
+  "name": "Burien Septic Tank Services",
+  "rating": 4.6,
+  "reviewCount": 25,
+  "category": "Plumber",
+  "address": "419 S 140th St, Burien, WA 98168, United States",
+  "phone": null,
+  "phoneRaw": null,
+  "website": null,
+  "plusCode": "FMHC+2Q Burien, Washington, USA",
+  "url": "https://www.google.com/maps/place/Burien+Septic+Tank+Services/@47.4775134,-122.3280196,17z/data=!3m1!4b1!4m6!3m5!1s0x54904370a47f8503:0x36593d92147e6d97!8m2!3d47.4775134!4d-122.3280196!16s%2Fg%2F1tf0q9s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Seattle",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Burien Septic Tank Services",
+  "folderName": "Burien Septic Tank Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "SFI Environmental",
+  "rating": 5,
+  "reviewCount": 82,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 256-504-9653",
+  "phoneRaw": "+12565049653",
+  "website": "https://www.sfienvironmental.net/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/SFI+Environmental/@33.8094035,-86.3702675,9z/data=!3m1!4b1!4m6!3m5!1s0x6fa5bf30111cbf2b:0xfa0cec497a0cb1eb!8m2!3d33.8094035!4d-86.3702676!16s%2Fg%2F11vlbs1j9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/SFI Environmental",
+  "folderName": "SFI Environmental",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

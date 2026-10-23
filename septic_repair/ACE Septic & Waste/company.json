@@ -1,0 +1,66 @@
+{
+  "name": "ACE Septic & Waste",
+  "rating": 4.9,
+  "reviewCount": 194,
+  "category": "Septic system service",
+  "address": "8602 Temple Terrace Hwy C14, Tampa, FL 33637, United States",
+  "phone": "+1 813-971-8770",
+  "phoneRaw": "+18139718770",
+  "website": "https://www.acesepticandwaste.com/",
+  "plusCode": "2JMR+GC Tampa, Florida, USA",
+  "url": "https://www.google.com/maps/place/ACE+Septic+%26+Waste/data=!4m7!3m6!1s0x88c2c9bd010a8721:0x3464c300c43784d2!8m2!3d28.033804!4d-82.3589841!16s%2Fg%2F11ycf97ghw!19sChIJIYcKAb3JwogR0oQ3xADDZDQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Tampa",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 520)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ACE Septic & Waste",
+  "folderName": "ACE Septic & Waste",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcouIKMDfX4cGTE7P-Bm8Ddptvm66ZVrSpH0o5tS6GF3u9XYLzsQBhgPbyt_tmuy-06gON6-40J9LzfgClExzJ2kmeHELb7ozne8tymL-Ms43R4hbra8rlMJGjdy7ovbINQYLvKTg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "MANUEL GONZALEZ",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

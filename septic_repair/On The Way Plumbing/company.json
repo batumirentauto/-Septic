@@ -1,0 +1,99 @@
+{
+  "name": "On The Way Plumbing",
+  "rating": 4.9,
+  "reviewCount": 105,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 520-829-9842",
+  "phoneRaw": "+15208299842",
+  "website": "https://www.otwplumbing.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/On+The+Way+Plumbing/@32.183726,-110.9643165,10z/data=!3m1!4b1!4m6!3m5!1s0x86d664bee510fe55:0xed3ddc1fb709ad3c!8m2!3d32.183726!4d-110.9643165!16s%2Fg%2F1hm382s3k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Tucson",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/On The Way Plumbing",
+  "folderName": "On The Way Plumbing",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1K0hat_mteShihbi5my1Wp24Kd-WUeeWMsn4-7e8S9QoAbG-syitRHMsyBaf6k8g32ZClDluzVNg8OgzfXV5LNVi8Su59euTlMssQMTzdVEZtqKPxU9zN0m0jmDJiT9Buys4=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCsUr-70EfwHL4v-ZbVdkcYutfIGiVTU26HeyVo2wC0frnSMtgRyI_zvW0gpoUHCGDPbRWwDRzj1Vy8lanloBUg8hHv4zX5HBm9EGEkTbeNCiHuyubRIEbOudBE5hXyjnEqm14tPlVA1I=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLco7NsnvGqkWZHa0wYotL3QDbUjBiB7GxP71ZdzjvhjXpRbsv0qwJI7kK_Am6dHF2AGyA90qUrOKWHbwky5luqqJ531sEHwdpuWgeDhi2UOkvqENUQgQb2z1Oxt4TTa6Dt0GIXTPQ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefnZ4aJS7mdIUlAj5aqdcxfH1bp5d9zNO3XladIt7xb7caF3TVqX_16rOVJGxiLLt9xhR7TH2FRMutC7cTcFdj_PE-ImqCqbr35ak7vm3WfZNtcqTqKUlPEYRM01ET8FCHI8hF=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ryan McCarthy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Micah Poisal",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Karla Ronquillo",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Micah Poisal",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

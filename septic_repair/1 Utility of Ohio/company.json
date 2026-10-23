@@ -1,0 +1,53 @@
+{
+  "name": "1 Utility of Ohio",
+  "rating": 4.9,
+  "reviewCount": 64,
+  "category": "Utility contractor",
+  "address": null,
+  "phone": "+1 614-569-0083",
+  "phoneRaw": "+16145690083",
+  "website": "https://1utilityofohio.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/1+Utility+of+Ohio/@39.9981105,-83.547379,9z/data=!3m1!4b1!4m6!3m5!1s0x883889fb7312fdd9:0x23460cf7dabd715d!8m2!3d39.9981106!4d-83.547379!16s%2Fg%2F11h3ddj_bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Columbus",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/1 Utility of Ohio",
+  "folderName": "1 Utility of Ohio",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

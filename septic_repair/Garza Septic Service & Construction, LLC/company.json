@@ -1,0 +1,53 @@
+{
+  "name": "Garza Septic Service & Construction, LLC",
+  "rating": 4.7,
+  "reviewCount": 56,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 903-216-5038",
+  "phoneRaw": "+19032165038",
+  "website": "http://garzasepticservice.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Garza+Septic+Service+%26+Construction,+LLC/@32.363875,-95.4603581,9z/data=!3m1!4b1!4m6!3m5!1s0x8649cf45534ee139:0xfeaf6048a023a37f!8m2!3d32.363875!4d-95.4603581!16s%2Fg%2F1tg7sdxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Tyler",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Garza Septic Service & Construction, LLC",
+  "folderName": "Garza Septic Service & Construction, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

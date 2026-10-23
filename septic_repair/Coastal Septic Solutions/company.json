@@ -1,0 +1,53 @@
+{
+  "name": "Coastal Septic Solutions",
+  "rating": 4.8,
+  "reviewCount": 65,
+  "category": "Septic system service",
+  "address": "7846 Shiloh Rd, Willard, NC 28478, United States",
+  "phone": "+1 910-271-2008",
+  "phoneRaw": "+19102712008",
+  "website": "http://www.coastalsepticsolutions.com/",
+  "plusCode": "HVXM+GM Willard, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Coastal+Septic+Solutions/@34.5987521,-78.1157984,17z/data=!3m1!4b1!4m6!3m5!1s0x89aa32834991448d:0xa7fd6124d707113f!8m2!3d34.5987521!4d-78.1157984!16s%2Fg%2F11f3p0bczc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Coastal Septic Solutions",
+  "folderName": "Coastal Septic Solutions",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

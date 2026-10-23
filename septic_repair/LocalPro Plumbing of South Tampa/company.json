@@ -1,0 +1,53 @@
+{
+  "name": "LocalPro Plumbing of South Tampa",
+  "rating": 5,
+  "reviewCount": 74,
+  "category": "Plumber",
+  "address": "333 N Falkenburg Rd B-209, Tampa, FL 33619, United States",
+  "phone": "+1 813-797-7667",
+  "phoneRaw": "+18137977667",
+  "website": "https://local.pro/stampa/?utm_source=gmb-stampa",
+  "plusCode": "XM38+W6 Tampa, Florida, USA",
+  "url": "https://www.google.com/maps/place/LocalPro+Plumbing+of+South+Tampa/data=!4m7!3m6!1s0xa1ba363b37e20d09:0xbbcf3019e320c810!8m2!3d27.9548523!4d-82.3344335!16s%2Fg%2F11jz1r2t74!19sChIJCQ3iNzs2uqEREMgg4xkwz7s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Tampa",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/LocalPro Plumbing of South Tampa",
+  "folderName": "LocalPro Plumbing of South Tampa",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

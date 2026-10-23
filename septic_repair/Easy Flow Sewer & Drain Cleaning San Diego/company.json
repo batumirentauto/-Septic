@@ -1,0 +1,76 @@
+{
+  "name": "Easy Flow Sewer & Drain Cleaning San Diego",
+  "rating": 4.8,
+  "reviewCount": 42,
+  "category": "Plumber",
+  "address": "6910 Mission Gorge Rd, San Diego, CA 92120, United States",
+  "phone": "+1 619-478-4228",
+  "phoneRaw": "+16194784228",
+  "website": "https://trenchlessrehab.com/",
+  "plusCode": "RW24+29 San Diego, California, USA",
+  "url": "https://www.google.com/maps/place/Easy+Flow+Sewer+%26+Drain+Cleaning+San+Diego/@32.800037,-117.09406,17z/data=!3m1!4b1!4m6!3m5!1s0x80d955ef624bbdab:0x9407189648f428e0!8m2!3d32.800037!4d-117.09406!16s%2Fg%2F1260b3l38?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "San Diego",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 520)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Easy Flow Sewer & Drain Cleaning San Diego",
+  "folderName": "Easy Flow Sewer & Drain Cleaning San Diego",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6vxYCtf1u8109mPfEsUa__5wfhJeCIsI6aH6tWiB5nAlQNR8U8iTpcx1dxoOKObXYqe1Q4KqMDNMMmc31OBPvccakI-X26CBFh2YtT-7ejQHYV2_ALKpFMmJ52bqHKUYCyKDkE7hKDa0=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "JayEl Gee",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "JayEl Gee",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "JayEl Gee",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

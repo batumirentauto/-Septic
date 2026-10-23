@@ -1,0 +1,53 @@
+{
+  "name": "Pony Express Septic",
+  "rating": 5,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": "4440 Sugar Sand Trail, Las Cruces, NM 88007, United States",
+  "phone": "+1 575-649-7076",
+  "phoneRaw": "+15756497076",
+  "website": null,
+  "plusCode": "85X7+6V Las Cruces, New Mexico, USA",
+  "url": "https://www.google.com/maps/place/Pony+Express+Septic/@32.348039,-106.8353742,17z/data=!3m1!4b1!4m6!3m5!1s0x86de3fb9d7cfa659:0x54581d0e6d1e4feb!8m2!3d32.348039!4d-106.8353742!16s%2Fg%2F11scv64d0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NM",
+  "city": "Las Cruces",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pony Express Septic",
+  "folderName": "Pony Express Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

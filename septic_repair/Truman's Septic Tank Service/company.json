@@ -1,0 +1,53 @@
+{
+  "name": "Truman's Septic Tank Service",
+  "rating": 4.8,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 479-646-6627",
+  "phoneRaw": "+14796466627",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Truman's+Septic+Tank+Service/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x87ca4d5fb39cb915:0x7a7a3b1fc677618e!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F1tgf3r7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Truman's Septic Tank Service",
+  "folderName": "Truman's Septic Tank Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

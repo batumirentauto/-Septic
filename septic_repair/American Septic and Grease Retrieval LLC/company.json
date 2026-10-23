@@ -1,0 +1,53 @@
+{
+  "name": "American Septic and Grease Retrieval LLC",
+  "rating": 5,
+  "reviewCount": 32,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 361-549-2677",
+  "phoneRaw": "+13615492677",
+  "website": "https://americansgrllc.my.canva.site/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/American+Septic+and+Grease+Retrieval+LLC/@27.7900501,-97.5359548,10z/data=!3m1!4b1!4m6!3m5!1s0x66dedb99bee26ad3:0x98bc7e5c1124c2ab!8m2!3d27.7900501!4d-97.5359548!16s%2Fg%2F11y7dzq374?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Corpus Christi",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/American Septic and Grease Retrieval LLC",
+  "folderName": "American Septic and Grease Retrieval LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

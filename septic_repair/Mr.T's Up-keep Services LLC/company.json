@@ -1,0 +1,143 @@
+{
+  "name": "Mr.T's Up-keep Services LLC",
+  "rating": 5,
+  "reviewCount": 48,
+  "category": "Landscaper",
+  "address": "509 Layton Way, Gillette, WY 82716, United States",
+  "phone": "+1 307-622-0111",
+  "phoneRaw": "+13076220111",
+  "website": null,
+  "plusCode": "8G27+3Q Gillette, Wyoming, USA",
+  "url": "https://www.google.com/maps/place/Mr.T's+Up-keep+Services+LLC/@44.3001485,-105.4856152,17z/data=!3m1!4b1!4m6!3m5!1s0x5334979d9d2f61c5:0x6675c6644aabe3d9!8m2!3d44.3001485!4d-105.4856152!16s%2Fg%2F11rsbm2fpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WY",
+  "city": "Gillette",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Mr.T's Up-keep Services LLC",
+  "folderName": "Mr.T's Up-keep Services LLC",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBsWY_scaUGBKMInIfzgjN99z1cLnXEGPsa9j3gflelTKQbBwhwm00FCqtqxW4aXBz9oU1HhEV0RRpxldzvuwABtERTMehm_AFLNBsvmV5QAbK4Kw8n1LrDYIX2ygZH5AdNYlFHQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfngXoVV0wqEJGe_VnnLMLYN-f1LArKLyN6t7PAdGbL0cdBE8gplaqsiJ8oS2vdzoH5LZqHVv7Ro1UdXpsfrH-qVUxkQBYxqGkxkAq0huyBNmECK9MOMWfWGJ0YESQZhGHLNmcJzavCsQIG=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczm_me2lTnsHnAfyiKEa1vYp8ucE_ZWIiIL3574-xyh0Sq3TxAVmmY3vDvt2MoRue5p4eZPfoPsP0v8L0SnALlyQ6avS2KTPmYtOKT7kQzapyiYLcBp7YfpPaa5YvvwEa0R842=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7hE-g6Erd9DFKp12zBe9EojkqVRV_coILmfz9ZiovCYZCP-qRxE2DTB-6vrTsHXAQ2U837yfmoWtMd61V0gbF15ZqlgxMR_i3rdTkY6JYW12o1pI95aex2e3HAaMLyG_aFT0=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewbd5MIp5qetZJrybxGKiBstQXfZ3EA-tUxRsrKjxfbcPL4QhIBBr2cizILhECgk2_UqefmA-qpknIClOgeMxgiZSo5i6R4bv-JwEKvxcE-3r-0oyedGzLol25P0YOOrmlLdF1=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvg0nNeHN_hu2vpIeXky8a_iEr7Tdp0xPOZxRcGMQgNZop8sgrFNiQO8qoHsf73y3GrfA0fNfMT-2esVaIeTlpixnbT0gDZ9qOMnE_QcAFoJgUQeLPcStamqC_Mlc3M22t6tFejFG8C0dW=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetcChuJCV9nwGVjr4O9qYEkjslaUoLOqDCeIi4-IPriAovItvF_S8vAY8JZg1wUqjI-HowBBKqdDkslajtIYYAPG19DE4BqUszpnMTXG109LeaprV9Xv4qc1z1Mb5vqvkgc-r6shCuVq9I=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTDVj5BqA61jwtrJfceSsNPaqcytFJ6GnpVjSMyF-6-l-6TEAj9CV-FxDKsPIf6y1XHeq9FDO8rcBmITHTajK2ppIKzVziryPHfswvqqdqdJRjVsgHd6Gabv8H5ztKJFIofhzu-ipaW0c=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Drew Dobitz",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Dakota Spiker",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Drew Dobitz",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Drew Dobitz",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Drew Dobitz",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Joe Orban",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Dakota Spiker",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Matt Donaghe",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      }
+    ]
+  }
+}

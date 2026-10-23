@@ -1,0 +1,53 @@
+{
+  "name": "Captain Rooter Plumbing & Drain",
+  "rating": 5,
+  "reviewCount": 37,
+  "category": "Plumber",
+  "address": "2215 Lathen Wy, Eugene, OR 97408, United States",
+  "phone": "+1 541-305-7676",
+  "phoneRaw": "+15413057676",
+  "website": "https://www.oregondraincleaning.com/",
+  "plusCode": "4W4C+RQ Eugene, Oregon, USA",
+  "url": "https://www.google.com/maps/place/Captain+Rooter+Plumbing+%26+Drain/@44.107067,-123.0780677,17z/data=!3m1!4b1!4m6!3m5!1s0xa106e69a91ee67a9:0xef249c9be2ede798!8m2!3d44.107067!4d-123.0780677!16s%2Fg%2F11lztm9nbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Eugene",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Captain Rooter Plumbing & Drain",
+  "folderName": "Captain Rooter Plumbing & Drain",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

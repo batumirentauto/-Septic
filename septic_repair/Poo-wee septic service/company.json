@@ -1,0 +1,121 @@
+{
+  "name": "Poo-wee septic service",
+  "rating": 5,
+  "reviewCount": 51,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 803-577-1012",
+  "phoneRaw": "+18035771012",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Poo-wee+septic+service/@34.7710399,-80.619148,10z/data=!3m1!4b1!4m6!3m5!1s0x639ce5ff61c9dd97:0xa07a0c41899e04f5!8m2!3d34.7710398!4d-80.619148!16s%2Fg%2F11vz7kxmhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Rock Hill",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Poo-wee septic service",
+  "folderName": "Poo-wee septic service",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGQ9nKg_4Sko0nfVu_RMcMagPvEhEVQvDm2Sg9Ve-ZfI91E3_TbWT1FHY_7dGqjr432jALYUb5UZAIU2OFzbBLmL1XTlRLMcPGSwdIgQ8VV1orurnwdD9Xrt-jRQpGLRPl1FE=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrlLIHE_7b0PXGkQaBhATu3CfWfTLRO-jZ0ZEiIB11CA-IlSmKHYPUs5hn1S-hp5HVnfKdMPqx4f11q5oOINprbGpGYYGTyLiJ71cnKAiR3jC3qMDu_mgqKo3B5mU7LycZ4cgT=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKEIc-nI54qQT-_EFQGSQu1VfJm53nU462OQTeCSyqq3mg2oiQh07-Kn1N58hU-2uvCX4sI3GohrazGAG29AxVSWOOcep0tTmE7P_RJDceWgZN_gR6vJrVATtlutUXtxpZcCQHemNyJtzJ=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclw0Ls4-mC851nr5zKUzrYjkSntw39ZD6H1G9z0rRR8FgxUqYJAOB3RTin4XxwuHsHjy2GU8AlsZvhLOT5ycL5Q6CmAu-WBdQExajfRBbxavUWnVUGkgrQrGOZHcOWJZKr50BphA=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxUOZ8VymxVlJMDVswISiZuzJVuB6241XwWAKc90Jyha1NvcseJhKDW9OaDX0g36koMtnUnrxsHKzAvgJE-PAgmfcUY8nngOE37K9mjbm7RDrXceUbBFU33cfEkmwJTZklohyR=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKIR_6NJKf78RA57lTNIriVMzU-ZcriEInO8AX1BDineqdxketdzHtgPBZIQb8kNZzyoN3DKDBJGZJh8jOnm2hIkLg3hoHNFaIOoVvwzPgL-9XxhYsbYC1MexH9Nz_ATB18MzM=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Linda Farrell",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Ricky Bellue",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Ashley Roberts",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Linda Farrell",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Blake taylor",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Blake taylor",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "All Pro Enviro",
+  "rating": 4.9,
+  "reviewCount": 175,
+  "category": "Septic system service",
+  "address": "2895 Mehling Dr, Lincolnton, NC 28092, United States",
+  "phone": "+1 704-604-1735",
+  "phoneRaw": "+17046041735",
+  "website": "http://allproenviro.com/",
+  "plusCode": "FRXG+FG Lincolnton, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/All+Pro+Enviro/@35.4986712,-81.173678,17z/data=!3m1!4b1!4m6!3m5!1s0x8856bd44d901d9f5:0xebca8c2faaa6b456!8m2!3d35.4986712!4d-81.173678!16s%2Fg%2F11h3ftp1sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Winston-Salem",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/All Pro Enviro",
+  "folderName": "All Pro Enviro",
+  "totalPhotosDownloaded": 14,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAlD6mgI4I5AcO5kxmStjrxMHq-K1e_smgRMuBUySBBdsdHEl-XTjt5V75UiziwK3zLgowMknSJNjaOXNCAwoFGw63Tx6tDrQKlIti7_ksiS3VOXD7YUh2_PVPuIPg5AFWmf_crj3Rve4=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf73raiZrBgTP-rBny6SzpTIQXsQ4LMX4h9bpJVN4WdeIvU8xs2bhacrP9TS4nw4_RGmZz10BX8wcqvGLRIs15UlyjJht8OqtU5Q3pX2liE_Or8jEfS0l0K5_zhinuAIttgJyG_IEyMNNI3=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUxOlpw4gyQKrIUiFDv3ZcL3GodMfUqS9ab7He18JhZk-qbkHwtaxYeDIZmwuhGrlPN2tNRBUoWE-bTUqJ-IpZ4xRddBySIy5v3zcluf95PotvoxwTEWkKNIwbI2w-RjGcnStJa1tSSog=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPWT_FWy73F9EFcishLjpM6RyBAgiEJB6F83EaEpkxf2qt729LLKrOcQh95I5KLKRZMdv3CR-R6KGluL4ccU43o77SYJDzj_NZ26r6uvWhopgXZmYBm3ionxod2u70D1UGYZO74VBwgl9G=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3qQI5JHtmI_HS7zbDOzKnGrutN9I1v-PBxcNE15azsWU5clmc6dJZbF1iD9A1ZzfOBTS38OPLsUM6XrDqsbdZYAQRiz97miYxmYOIb15a2UD2GGadIIA3dr69mGLUxT2DAIzLlSwp_Ygt=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn3AUNwmRfSDjjwPhmqnLG_H97YnkliooDOwDu8INMdE3IIjwmiKGFZFX0aIGdZGwKxS_Vjkgj9u3gA3p0kCybOEtCnbUUJL22u7k8rExpVnP4XCP6UmkOQFTTWUmkaGtLqtjLvijcplUY=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOdolfaZtBUlbtfvfCJ0BBuYwdwWYLvquogtbtVUV5Or1cqQTU-qYsb651pM_ox2fsuHUDrON9aSobN-zac_EgIMWbmd9S4FQj-gDevht9mXvpa2dO2TJvDrtNhsvpvdnbtj-I3qpx8buU=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Timothy Bell",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Timothy Bell",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "John Yorick",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Timothy Bell",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "John Yorick",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Timothy Bell",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Liza Dellinger",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Guzman septic services",
+  "rating": 4.6,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "17914 E Hardy Rd, Houston, TX 77073, United States",
+  "phone": "+1 281-443-6757",
+  "phoneRaw": "+12814436757",
+  "website": "https://www.guzmansepticservices.com/",
+  "plusCode": "XJH5+PM Meadowview Farms, Texas, USA",
+  "url": "https://www.google.com/maps/place/Guzman+septic+services/@29.979372,-95.3908653,17z/data=!3m1!4b1!4m6!3m5!1s0x8640b58b0a5e17eb:0xdd07af06840ed763!8m2!3d29.979372!4d-95.3908653!16s%2Fg%2F11bwkzgpj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Houston",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Guzman septic services",
+  "folderName": "Guzman septic services",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqUvr_mSs2fcZwH_KyKNFZLeq83At6WNs9XQX45zzuGdhZxyBjgh_Qsj6JxKFfxb_5fOORkVx05Hu8B1AhKgkEMPfLbgSLCaUcesltllVy5JK5FxIcqXMkPrFuseiLdoeIwrSb=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcLoRO0uXadcpR-Zs2T8LHz9yRH684kyxfPC-9q5NtGOMqjzupgCMlwrD7rccy6tbusLm5cAMrTvv3OS6x0iqMtjbQCF7FdKtCKC_hEX6DCiYEEKO9GNwTlOxoyw_up0buNKmLJW9DrDlf=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeTh1MdCv7R1JrbUpRP1CHgjS3korqxnBPfGs7n7eMTR7lj3BjJiZJIKxvenSjmUuPWmp-jfSEtDPtcG9KUM0MoURrXCLbkl5oTqCdpO7F7-UenI_Vw8uDfbSt7oS_L_ud8zYODo_2aPX5=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKIg-vH-wAYbyvxSBadrxIFAz4jBS2Jj99Iy4uCjzMUP7xAz-2mROxkmkiJ0f8MIv1tZUOC9N2WzbntG7K7NeT_INw-UGJECuZcpmHjwNHdkKd7XiB1eKO8J1efGFrMgFm9479gL2OxAf_=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7V34Z3e1RqhABaQ9dHhoo2KlKKq8N0tTYj2RPYMxVCHA3pk-4QJg5izG62OhCl3fZZrNELJoQJ91KbkFQh7ELpapG3pAgBi5fmzxSeALyZJ0SPd5FZ0lcsNIPG1bUheyRzvhroz7AgXU=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mr Huffy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Mr Huffy",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "T. A.",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Mr Huffy",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Mr Huffy",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

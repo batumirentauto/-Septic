@@ -1,0 +1,53 @@
+{
+  "name": "J & S Wastewater Systems Inc",
+  "rating": 4.9,
+  "reviewCount": 158,
+  "category": "Septic system service",
+  "address": "1404 Carroll Ave, Urbana, IL 61802, United States",
+  "phone": "+1 217-328-7796",
+  "phoneRaw": "+12173287796",
+  "website": null,
+  "plusCode": "4RG4+G6 Urbana, Illinois, USA",
+  "url": "https://www.google.com/maps/place/J+%26+S+Wastewater+Systems+Inc/@40.1262784,-88.1944534,17z/data=!3m1!4b1!4m6!3m5!1s0x880cd7892b81cd1b:0xd9adbf2ba44d32a7!8m2!3d40.1262784!4d-88.1944534!16s%2Fg%2F1tjt2j24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Champaign",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/J & S Wastewater Systems Inc",
+  "folderName": "J & S Wastewater Systems Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

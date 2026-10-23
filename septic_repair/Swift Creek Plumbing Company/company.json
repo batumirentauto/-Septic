@@ -1,0 +1,53 @@
+{
+  "name": "Swift Creek Plumbing Company",
+  "rating": 4.9,
+  "reviewCount": 182,
+  "category": "Plumber",
+  "address": "14913 Badestowe Dr, Chesterfield, VA 23832, United States",
+  "phone": "+1 804-533-8203",
+  "phoneRaw": "+18045338203",
+  "website": "https://www.swiftcreekplumbingco.com/",
+  "plusCode": "98Q7+69 Chesterfield, Virginia, USA",
+  "url": "https://www.google.com/maps/place/Swift+Creek+Plumbing+Company/@37.3880004,-77.6866054,17z/data=!3m1!4b1!4m6!3m5!1s0x89b177d640455a45:0xbe10122a48334ce3!8m2!3d37.3880004!4d-77.6866054!16s%2Fg%2F11rbsvrj6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Richmond",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 403)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Swift Creek Plumbing Company",
+  "folderName": "Swift Creek Plumbing Company",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

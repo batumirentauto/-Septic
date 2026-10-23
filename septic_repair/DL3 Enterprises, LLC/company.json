@@ -1,0 +1,53 @@
+{
+  "name": "DL3 Enterprises, LLC",
+  "rating": 4.9,
+  "reviewCount": 65,
+  "category": "Septic system service",
+  "address": "N County Line Rd, Ponder, TX 76259, United States",
+  "phone": "+1 940-255-9171",
+  "phoneRaw": "+19402559171",
+  "website": null,
+  "plusCode": "6JW5+HJ Ponder, Texas, USA",
+  "url": "https://www.google.com/maps/place/DL3+Enterprises,+LLC/@33.2464396,-97.3909396,17z/data=!3m1!4b1!4m6!3m5!1s0x864dc13cb502c985:0x8fd66e07559b086f!8m2!3d33.2464396!4d-97.3909396!16s%2Fg%2F11j0sff9hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Denton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/DL3 Enterprises, LLC",
+  "folderName": "DL3 Enterprises, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

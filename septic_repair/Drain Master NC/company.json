@@ -1,0 +1,59 @@
+{
+  "name": "Drain Master NC",
+  "rating": 5,
+  "reviewCount": 69,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 910-931-1925",
+  "phoneRaw": "+19109311925",
+  "website": "https://www.facebook.com/DrainMasterSouthportNC/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Drain+Master+NC/@34.147602,-77.9880781,10z/data=!3m1!4b1!4m6!3m5!1s0xa84c8579a704092b:0x3828f4f4cafed506!8m2!3d34.147602!4d-77.9880781!16s%2Fg%2F11xg6tglwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Wilmington",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Drain Master NC",
+  "folderName": "Drain Master NC",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Browney Mascow",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

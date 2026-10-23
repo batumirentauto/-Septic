@@ -1,0 +1,53 @@
+{
+  "name": "Snipes Plumbing & Mechanical",
+  "rating": 4.8,
+  "reviewCount": 39,
+  "category": "Plumber",
+  "address": "7113 Spring Dr, Cottondale, AL 35453, United States",
+  "phone": "+1 205-553-7586",
+  "phoneRaw": "+12055537586",
+  "website": null,
+  "plusCode": "5HQ4+98 Cottondale, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Snipes+Plumbing+%26+Mechanical/@33.1884717,-87.4442104,17z/data=!3m1!4b1!4m6!3m5!1s0x8888af209811bee1:0x95ec1e9438b5f51b!8m2!3d33.1884717!4d-87.4442104!16s%2Fg%2F1w4vkpxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Tuscaloosa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Snipes Plumbing & Mechanical",
+  "folderName": "Snipes Plumbing & Mechanical",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

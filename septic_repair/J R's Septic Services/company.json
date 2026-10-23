@@ -1,0 +1,53 @@
+{
+  "name": "J R's Septic Services",
+  "rating": 5,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "824 Glebe Rd, Earleville, MD 21919, United States",
+  "phone": "+1 410-275-2647",
+  "phoneRaw": "+14102752647",
+  "website": null,
+  "plusCode": "C4X2+V6 Earleville, Maryland, USA",
+  "url": "https://www.google.com/maps/place/J+R%27s+Septic+Services/data=!4m7!3m6!1s0x89c7a2ab31e5f105:0x6fa89a91197e5cf5!8m2!3d39.449639!4d-75.89944!16s%2Fg%2F1tdxrf58!19sChIJBfHlMauix4kR9Vx-GZGaqG8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "DE",
+  "city": "Newark",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/J R's Septic Services",
+  "folderName": "J R's Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

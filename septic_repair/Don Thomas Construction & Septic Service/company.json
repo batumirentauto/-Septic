@@ -1,0 +1,64 @@
+{
+  "name": "Don Thomas Construction & Septic Service",
+  "rating": 4.9,
+  "reviewCount": 159,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 256-431-4571",
+  "phoneRaw": "+12564314571",
+  "website": "https://donthomasconstructionreviews.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Don+Thomas+Construction+%26+Septic+Service/@34.8273355,-86.7353725,11z/data=!3m1!4b1!4m6!3m5!1s0x88626174d1638c8f:0xad272212ea922d9f!8m2!3d34.8273355!4d-86.7353725!16s%2Fg%2F1hc4yp935?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Huntsville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Don Thomas Construction & Septic Service",
+  "folderName": "Don Thomas Construction & Septic Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Olandus Rice",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Hannah Perry",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

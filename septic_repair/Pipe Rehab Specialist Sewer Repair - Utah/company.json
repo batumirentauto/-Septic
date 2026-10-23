@@ -1,0 +1,53 @@
+{
+  "name": "Pipe Rehab Specialist Sewer Repair - Utah",
+  "rating": 4.8,
+  "reviewCount": 36,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 801-597-4841",
+  "phoneRaw": "+18015974841",
+  "website": "http://www.piperehabspecialists.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Pipe+Rehab+Specialist+Sewer+Repair+-+Utah/@39.4996795,-111.5472285,7z/data=!3m1!4b1!4m6!3m5!1s0x875284beae87d6a1:0xf1374ededc8e630d!8m2!3d39.4996794!4d-111.5472285!16s%2Fg%2F119t_3g59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "UT",
+  "city": "Salt Lake City",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pipe Rehab Specialist Sewer Repair - Utah",
+  "folderName": "Pipe Rehab Specialist Sewer Repair - Utah",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

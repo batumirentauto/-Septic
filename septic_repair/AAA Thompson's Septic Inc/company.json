@@ -1,0 +1,53 @@
+{
+  "name": "AAA Thompson's Septic Inc",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": "4125 Plant Ave, Pace, FL 32571, United States",
+  "phone": "+1 850-994-8221",
+  "phoneRaw": "+18509948221",
+  "website": "https://www.aaathompsonssepticinc.com/",
+  "plusCode": "JR3X+QR Pace, Florida, USA",
+  "url": "https://www.google.com/maps/place/AAA+Thompson%27s+Septic+Inc/data=!4m7!3m6!1s0x8890ec1a41755433:0x5b13ccfd71e282a2!8m2!3d30.604463!4d-87.150385!16s%2Fg%2F1tt8d10f!19sChIJM1R1QRrskIgRooLicf3ME1s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Pensacola",
+  "websiteIssue": "Сайт не открывается (EPROTO)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AAA Thompson's Septic Inc",
+  "folderName": "AAA Thompson's Septic Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

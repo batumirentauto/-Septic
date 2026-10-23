@@ -1,0 +1,53 @@
+{
+  "name": "T. Palmer Septic Service LLC",
+  "rating": 4.7,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 203-746-3637",
+  "phoneRaw": "+12037463637",
+  "website": "https://todd-palmer-septic.business.site/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/T.+Palmer+Septic+Service+LLC/@41.537751,-73.347999,10z/data=!3m1!4b1!4m6!3m5!1s0x89dd56a20639d6f9:0xae6ec8bd8e0bb315!8m2!3d41.537751!4d-73.347999!16s%2Fg%2F1vppth_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CT",
+  "city": "Danbury",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/T. Palmer Septic Service LLC",
+  "folderName": "T. Palmer Septic Service LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

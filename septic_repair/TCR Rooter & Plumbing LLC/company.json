@@ -1,0 +1,77 @@
+{
+  "name": "TCR Rooter & Plumbing LLC",
+  "rating": 4.8,
+  "reviewCount": 116,
+  "category": "Plumber",
+  "address": "5020 Departure Dr Ste J, Raleigh, NC 27616, United States",
+  "phone": "+1 919-467-2207",
+  "phoneRaw": "+19194672207",
+  "website": "https://tcrplumbing.com/",
+  "plusCode": "VC23+7R Raleigh, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/TCR+Rooter+%26+Plumbing+LLC/@35.8506274,-78.5954004,17z/data=!3m1!4b1!4m6!3m5!1s0x89ac58904da72623:0x81d8101c306745c1!8m2!3d35.8506274!4d-78.5954004!16s%2Fg%2F1hc0rj_vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Raleigh",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/TCR Rooter & Plumbing LLC",
+  "folderName": "TCR Rooter & Plumbing LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSisVUMeNaUxkaPy606Qqf34RudnbD6zEYX1TH-FwxC6pC5sbIoS3_YgtuR_QXYFFEgYf1iVhzyzZfWvw3byO-c40aSZ6wPvfxJQCQxTXDSljq5X7GJeQBvgrmg8Br3eNPb4gE=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-548mtF64HIX1SxcxrroYuk2HPv4eVF4u9OuSANoPUl1KZ8NNYXXzCg0Z-q0Z-Aia3FIaiWQv7DF6b3d2_uj7A2ixmnl87ZVRUuMuQnaxrcYWIKrRTxOjbxLMV0zn8W-Cm7BpAQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dave Malta",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Dave Malta",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

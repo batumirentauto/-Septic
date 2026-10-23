@@ -1,0 +1,88 @@
+{
+  "name": "Grice And Son Septic Tank Services Inc",
+  "rating": 4.6,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": "7560 Old US 90 Ln, Sneads, FL 32460, United States",
+  "phone": "+1 850-593-6585",
+  "phoneRaw": "+18505936585",
+  "website": null,
+  "plusCode": "P2CP+83 Sneads, Florida, USA",
+  "url": "https://www.google.com/maps/place/Grice+And+Son+Septic+Tank+Services+Inc/data=!4m7!3m6!1s0x88932b68e01185e5:0xaaf3e286b39fabe3!8m2!3d30.720862!4d-84.9648!16s%2Fg%2F11c6zx71y_!19sChIJ5YUR4Ggrk4gR46ufs4bi86o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Tallahassee",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Grice And Son Septic Tank Services Inc",
+  "folderName": "Grice And Son Septic Tank Services Inc",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyMMhUOAWlMNG-eNQC6RhS57lMnxxZrboQQniOOO7stf5jrfasdTia8ODzuoyfInafZQcuPD7d6zAHfqQioVfQuDxQgKDVv_QeS5ozn-mNFUKBaSXjcZRVLV0X2MS7yKX_kg1GSA=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZpCmlCJQYute33lZSnFvrX4I9Tb-8q4KjTfqt9BrF8L_2PvSGzpFEnp-uv01RbRJwAPDEua3iyUwjTbr0wDeJL1O1ykRfGT7fyt4gbxaayuv5pbUvM6eJxFz3yY4JrLNP69KERw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkdQHP42zFAER0wp8rXhAUIJSrPEvsW-5fpJtdAtZ6EL-T0RlaYbNbcON3X946NMrS0zUDxpV5wMUElokZjCHnkFR1IWYEh0_FSXsRlOo_0RW3UzFTOL_dJSqVNeZ_MPyrXFxL=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Liz Sims",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Liz Sims",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Liz Sims",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

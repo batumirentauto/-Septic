@@ -1,0 +1,77 @@
+{
+  "name": "Superior Septic Services",
+  "rating": 4.9,
+  "reviewCount": 67,
+  "category": "Septic system service",
+  "address": "19500 Co Rd 450, Umatilla, FL 32784, United States",
+  "phone": "+1 352-272-7247",
+  "phoneRaw": "+13522727247",
+  "website": "http://www.superiorsepticservices.net/",
+  "plusCode": "W9W8+2R Umatilla, Florida, USA",
+  "url": "https://www.google.com/maps/place/Superior+Septic+Services/@28.9450497,-81.6329839,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7a5ca73320d63:0xba9e78862335d008!8m2!3d28.9450497!4d-81.6329839!16s%2Fg%2F11jr80r8nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Orlando",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Superior Septic Services",
+  "folderName": "Superior Septic Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS02mch4-O1qB-rreNyfNXgakXASc6hfe91EmRFEOR9WA54WWTt8awUAqZNo5j2yFkNWvcO50sZxMy-eGNONbW6RwIgF-G8IC23UBBU6DB3KewDDxfB4-8THgF5zHpSvmKi1Y=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeepXXZBJnKRwZFGo9Qw_tGjIg9yyM4IkxJCRED5Pq-bxn06KuXm2-4FumxCF1CaHj20JJXRr0GpE_wkP6MkWnmmkouWyyJzPGqPLXG3Xb1i0j4NaLQBTo-sZxdLQceAgUZArc=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Kimberly Kampmann",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Kimberly Kampmann",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

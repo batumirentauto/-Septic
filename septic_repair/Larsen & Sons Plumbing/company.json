@@ -1,0 +1,110 @@
+{
+  "name": "Larsen & Sons Plumbing",
+  "rating": 4.8,
+  "reviewCount": 158,
+  "category": "Plumber",
+  "address": "21070 224th St, Spring Hill, KS 66083, United States",
+  "phone": "+1 913-669-9397",
+  "phoneRaw": "+19136699397",
+  "website": null,
+  "plusCode": "P5CC+W5 Spring Hill, Kansas, USA",
+  "url": "https://www.google.com/maps/place/Larsen+%26+Sons+Plumbing/@38.7222535,-94.8296046,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0bbdb4f10aecf:0x483a68e0ef43dbb7!8m2!3d38.7222535!4d-94.8296046!16s%2Fg%2F11kfpq706q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Overland Park",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Larsen & Sons Plumbing",
+  "folderName": "Larsen & Sons Plumbing",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU_rQ68Coy7yp8epZunoKug5hWmLKh5evcfsdepCGk_Nh30CnZun2bZ0L25GTdnkuNa0LXqduJ0bdLVEajz0eJD3NU31iwaCuBQ6C4jieuZbNwO4q0eeQB-1JfJMThnH12FGM80NPZRwLE=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzf99BLgKBm1ASgMLE_08e8wqkKEonwsLv872FU0ja2A-NLssO6ww-EgvxfjC43BaaHyQ3NkhM5imTBMq7X-9Tr4g3gTgXO59m5vD3KRBks4AXqoj_ijJ1jgOYr3C6GoOw52AF-g=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgryMe_0lP-wFGNKdeOCjp5YHv9ET0xQz745CuRzi3iZ42rKso_jQdPNRLrmnK7mBvQczre9wHOyPrEMO0nvwIq-lJtRzSqhOSf_0fK2FoNjaWUgkD4IUUsf9aNg2Q3am2f7VfpXOlaSo-=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZZuU-MrPb85dsI1hBz1uWkI0Sjpp2ByzIfrj0UEQTmVsGD6BVeqKP9XU4QuCOnBAemuFsWSqhjvw52cMr8LjgGDssUwOAyWlwzQ0MR2plGJtOexa441R7H3mIIkuWHE2fP9QU=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOwtaan2wpp9t9ocjxcL83THEjL-KZBgwrqZR19JVY1WIFg8bwH9Hqjoycbwa6Lq2nCP6E4NBowZLEWM3oTADW7F9CeMjwT538qQ_noxiCP2elcHd_N6ig1zr_SW5cxMCoEuYe=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Firebird One",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Bruce Guy",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Firebird One",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Bruce Guy",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Bruce Guy",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

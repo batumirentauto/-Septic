@@ -1,0 +1,53 @@
+{
+  "name": "Bill Dunn Sanitation LLC",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "209 Straitsville Rd, Prospect, CT 06712, United States",
+  "phone": "+1 203-758-0223",
+  "phoneRaw": "+12037580223",
+  "website": null,
+  "plusCode": "F2G3+VP Prospect, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/Bill+Dunn+Sanitation+LLC/data=!4m7!3m6!1s0x89e7c3811761221f:0x65ec17e3270125a4!8m2!3d41.4772197!4d-72.9956352!16s%2Fg%2F1tykwf0x!19sChIJHyJhF4HD54kRpCUBJ-MX7GU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "Hartford",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bill Dunn Sanitation LLC",
+  "folderName": "Bill Dunn Sanitation LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

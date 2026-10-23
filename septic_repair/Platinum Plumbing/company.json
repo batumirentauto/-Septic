@@ -1,0 +1,53 @@
+{
+  "name": "Platinum Plumbing",
+  "rating": 4.9,
+  "reviewCount": 33,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 337-257-5619",
+  "phoneRaw": "+13372575619",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Platinum+Plumbing/@33.6873186,-87.7880665,6z/data=!3m1!4b1!4m6!3m5!1s0x8623619036021ed9:0x790f97ba3d126584!8m2!3d33.6873186!4d-87.7880665!16s%2Fg%2F11j90lj8l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "LA",
+  "city": "Lafayette",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Platinum Plumbing",
+  "folderName": "Platinum Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "AZ Septic Works",
+  "rating": 4.9,
+  "reviewCount": 39,
+  "category": "Septic system service",
+  "address": "220 N 4th St Ste 2, Buckeye, AZ 85326, United States",
+  "phone": "+1 623-386-4443",
+  "phoneRaw": "+16233864443",
+  "website": "https://www.azsepticworks.com/",
+  "plusCode": "9CC7+RH Buckeye, Arizona, USA",
+  "url": "https://www.google.com/maps/place/AZ+Septic+Works/@33.3720782,-112.5860762,17z/data=!3m1!4b1!4m6!3m5!1s0x872b35cedcf47b9b:0xc8bceb517526da36!8m2!3d33.3720782!4d-112.5860762!16s%2Fg%2F11yd816fyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Mesa",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/AZ Septic Works",
+  "folderName": "AZ Septic Works",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemkAYqf2tfvvNtnqIBvCZECFIu7nx521rtAbU_eNQC1eFB5MyGFJljFnbXoSGDR01cgeAcGdKDB5m2o8FTS36WTjZzhSG4_RAuWL8ytH-zU_1E02Ujes-w3ckAGtbzd_X-upIPg3mbMpU=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepICNqd3wApiXMFnehR4Oszgl2eqfZl_GwQplerkHeh-skqTdEZpixIGV9lEC0rW8NH_PPz7dFE49k6FifCYBzno3_IKTjZHSrkZlDxs4TfxDbP9C4QQzS81DVonL47gD80obsoSPx2Ec=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcJkF53DvWgMlbkRRkaa7oNmZRw5JgDAMEMK4V-tTJhDNJQikVkVGKA2IN2NYzExlaQUJColDrC5p3ZTjvqVObufftS8LbtfxDo1PiUu1X1P7Pdwwg0gSQdJLZouZK27xpBxKEROBJMd_F=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2FkrUPcsogApNJZgOgmlTdUU5cJbyuIdoV-Pe38EzDgL_PbdirwZywVALYZlBK2uQka71ILHghaZzh5tMEzIbfKj_kWeOTLOuYZ-E2gVsW3DH6tMvbE_Y1Fs-aR2bIbZ5y3I_vrXnFrh9=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Steven Sienkiewicz",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Aalyah Grabowski",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Aalyah Grabowski",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Aalyah Grabowski",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

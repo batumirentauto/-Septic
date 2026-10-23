@@ -1,0 +1,88 @@
+{
+  "name": "RP's Sewer Services",
+  "rating": 4.8,
+  "reviewCount": 42,
+  "category": "Septic system service",
+  "address": "4803 Old La 25, New Iberia, LA 70560, United States",
+  "phone": "+1 337-367-8936",
+  "phoneRaw": "+13373678936",
+  "website": null,
+  "plusCode": "X4G5+JH New Iberia, Louisiana, USA",
+  "url": "https://www.google.com/maps/place/RP's+Sewer+Services/@29.9765164,-91.8911171,17z/data=!3m1!4b1!4m6!3m5!1s0x862379c241aa794d:0xe05ecc0dc3ce64f6!8m2!3d29.9765164!4d-91.8911171!16s%2Fg%2F1tvq4h4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "LA",
+  "city": "Baton Rouge",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/RP's Sewer Services",
+  "folderName": "RP's Sewer Services",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_yovMKrClp7fmiY2bTpWkQuqtNI-fPTSAYowy_sWc1TXxnQdsL8s87QbQqroIJxjkiEoyVscGutTxQS-TMLT1i61BpjByMiUQtGuqadqITGypXd5B9DM_UPRAXk7FTJI9Z2If=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYATNs-ixXhBKo9cwArHHoE1EDFG5iGTDjCdNmAOCDfkGRtzqshrCK9Ce2TIPcMuz5kprDRMsPRzCk5LDT6T4r7Q2U7seuSmEquZQar5oFjH0XLpEPAlD0HBtxI-TOi6h0T29Y=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbK0k74fU8khselqGuQLNOxgkl8RTKwEz-mAvYwTSKekLg7VPZKQ253tWNMeXNbbP0qTlXC4zY3SJersXgjOvDJQuHdUBdBypUWIn5nUdqjOSzc4FovL2qzHrCfjMd1prqIK4TEQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "MICKYE HEBERT",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "MICKYE HEBERT",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "MICKYE HEBERT",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

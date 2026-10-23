@@ -1,0 +1,53 @@
+{
+  "name": "Dinosaur Plumbing",
+  "rating": 4.9,
+  "reviewCount": 115,
+  "category": "Plumber",
+  "address": "450 W Cool Dr., Tucson, AZ 85704, United States",
+  "phone": "+1 520-955-7700",
+  "phoneRaw": "+15209557700",
+  "website": "http://dinosaurplumbing.com/",
+  "plusCode": "923F+PG Tucson, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Dinosaur+Plumbing/@32.3543387,-110.9762305,17z/data=!3m1!4b1!4m6!3m5!1s0x86d60cb51088579b:0x6354c59ddd922ff2!8m2!3d32.3543387!4d-110.9762305!16s%2Fg%2F11bx0jcb1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Tucson",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Dinosaur Plumbing",
+  "folderName": "Dinosaur Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Premier Septic Services",
+  "rating": 4.8,
+  "reviewCount": 73,
+  "category": "Septic system service",
+  "address": "2751 Birdsong Ln, Powhatan, VA 23139, United States",
+  "phone": "+1 804-598-1049",
+  "phoneRaw": "+18045981049",
+  "website": null,
+  "plusCode": "H4CV+F4 Powhatan, Virginia, USA",
+  "url": "https://www.google.com/maps/place/Premier+Septic+Services/@37.5712413,-77.857199,17z/data=!3m1!4b1!4m6!3m5!1s0x89b1639836cbc7a7:0xf44836b9560cfd44!8m2!3d37.5712413!4d-77.857199!16s%2Fg%2F11g6qtpnfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Richmond",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Premier Septic Services",
+  "folderName": "Premier Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Wee Bee Waste Services",
+  "rating": 5,
+  "reviewCount": 109,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 737-377-3209",
+  "phoneRaw": "+17373773209",
+  "website": "https://weebeewasteservices.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Wee+Bee+Waste+Services/@30.146616,-97.9432384,10z/data=!3m1!4b1!4m6!3m5!1s0x865b41d08ddebf45:0x447294bd422f220a!8m2!3d30.146616!4d-97.9432384!16s%2Fg%2F11xtzdj3ls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Austin",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wee Bee Waste Services",
+  "folderName": "Wee Bee Waste Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWLRFgcSwlwFzC0Z0y48kNnfRPkzTwMbvUxFV6eAlz2Jg_ETi7MJelqH1ckboMANZaJ5ViZZxbPkW863DM1lkIbX-2LbotFTL-HAVCMgSQfGmRJo2twZQriQla6v8nR_lkgBEgoiv1BXx-=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJtWkYEhchaV-QlBCYYC_tsnx89u_0ag4o7MqMSOw7dImGmOPI1GPQXeC2cmMzlH6-UzVuk3HZI4WYHRZM91tzWh9eqO21ZrAmJfog6zD-S_WJLq7UHmgJLcXbXNhSUK2epKz8UQ0d8S-4=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxNmqqiChri58DjwwlMCyINuFi-bGTOM_juKhoIBx6B9unT88UxzGmk-EgBmiZbL1-_cAER4tm7qUAS56Qbs5YtHGX85SOZfOSaZEktG1PShpLUuniB0olH_z9UH5-bqS-wyi19qhLwz7j=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyaqPBuu_JdVyDfLa9G_zZWcavgDMzQh2fgdoMiX0xTXH1S-9dAnN0va3ess9ZDtXDgG9nMpG3JcPLdiEgx_hk1_uLLU3A5JiFYUnKTowGqCqt8MC5nGFlr7fcAd0rLO0jgGKutAxX1ALn=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Kevin Zenor",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Kevin Zenor",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Kevin Zenor",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Kevin Zenor",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Ace Drain and Sewer Experts Inc.",
+  "rating": 4.9,
+  "reviewCount": 127,
+  "category": "Drainage service",
+  "address": "9300 47th St #5, Brookfield, IL 60513, United States",
+  "phone": "+1 708-334-2332",
+  "phoneRaw": "+17083342332",
+  "website": "https://acedrainandsewerexperts.com/",
+  "plusCode": "R44W+9J Brookfield, Illinois, USA",
+  "url": "https://www.google.com/maps/place/Ace+Drain+and+Sewer+Experts+Inc./@41.8058793,-87.8534591,17z/data=!3m1!4b1!4m6!3m5!1s0x880e37b9a6af8821:0xcb59514924ae4aba!8m2!3d41.8058793!4d-87.8534591!16s%2Fg%2F11rbs_qpzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Naperville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ace Drain and Sewer Experts Inc.",
+  "folderName": "Ace Drain and Sewer Experts Inc.",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlxjmz7ytX8JzDRJSwdKmMAq_NMR1x4FSiGEj8CQF4yJbRLE_XDnucvkG1nGdJ5n-bGxLQnsKmxJ93XXTgTeLM29rlalqQplmD1L6AYa9oS8xdp97L6x7g4Akab6gS0hAlTV5A=s0"
+      }
+    ],
+    "reviews": []
+  }
+}

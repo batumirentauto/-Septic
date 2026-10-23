@@ -1,0 +1,64 @@
+{
+  "name": "Bailey's Sewer & Drain, LLC",
+  "rating": 4.9,
+  "reviewCount": 80,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 719-208-2229",
+  "phoneRaw": "+17192082229",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Bailey%27s+Sewer+%26+Drain,+LLC/data=!4m7!3m6!1s0x8e70b16140095f0b:0x62277875603c55d7!8m2!3d38.846599!4d-104.7828166!16s%2Fg%2F11q84vvx64!19sChIJC18JQGGxcI4R11U8YHV4J2I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bailey's Sewer & Drain, LLC",
+  "folderName": "Bailey's Sewer & Drain, LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Shannan Glatz",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Shannan Glatz",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "SEWER SCOPE DENVER",
+  "rating": 4.6,
+  "reviewCount": 56,
+  "category": "Sanitary inspection",
+  "address": "151 Vrain St, Denver, CO 80219, United States",
+  "phone": "+1 720-280-7523",
+  "phoneRaw": "+17202807523",
+  "website": null,
+  "plusCode": "PX93+QJ Denver, Colorado, USA",
+  "url": "https://www.google.com/maps/place/SEWER+SCOPE+DENVER/@39.7193801,-105.0459176,17z/data=!3m1!4b1!4m6!3m5!1s0x876b80ba93fb192d:0x34c7a50c0f22641c!8m2!3d39.7193801!4d-105.0459176!16s%2Fg%2F11gfjbz2tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Denver",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/SEWER SCOPE DENVER",
+  "folderName": "SEWER SCOPE DENVER",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

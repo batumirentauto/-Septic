@@ -1,0 +1,53 @@
+{
+  "name": "Go Green Septic Service",
+  "rating": 4.9,
+  "reviewCount": 42,
+  "category": "Septic system service",
+  "address": "8517 Jackson Springs Rd, Tampa, FL 33615, United States",
+  "phone": "+1 813-382-6775",
+  "phoneRaw": "+18133826775",
+  "website": null,
+  "plusCode": "2C39+M7 Tampa, Florida, USA",
+  "url": "https://www.google.com/maps/place/Go+Green+Septic+Service/data=!4m7!3m6!1s0x88c2e9b0a284db6b:0xcf826113bd705c1c!8m2!3d28.0041561!4d-82.5818356!16s%2Fg%2F11nn047k4l!19sChIJa9uEorDpwogRHFxwvRNhgs8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Tampa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Go Green Septic Service",
+  "folderName": "Go Green Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

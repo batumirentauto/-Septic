@@ -1,0 +1,66 @@
+{
+  "name": "JR G's Septic",
+  "rating": 5,
+  "reviewCount": 44,
+  "category": "Septic system service",
+  "address": "1099 Co Rd 95, Florence, CO 81226, United States",
+  "phone": "+1 719-468-8499",
+  "phoneRaw": "+17194688499",
+  "website": null,
+  "plusCode": "9V8J+44 Florence, Colorado, USA",
+  "url": "https://www.google.com/maps/place/JR+G's+Septic/@38.3653098,-105.1197049,17z/data=!3m1!4b1!4m6!3m5!1s0x871481da23ff4209:0x4267141aa61089c5!8m2!3d38.3653098!4d-105.1197049!16s%2Fg%2F11kxrwrzx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/JR G's Septic",
+  "folderName": "JR G's Septic",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexQeIXega8ocL-RxBH_4m_IpcBbSEe3kabNiguNX-QS9pRKbKqt_iBjrdlJZm7vC_qC_rPRRBJnDCxOj38MppFLJ5b33UX-IB57sDhczJ5YETokbXQqn43SXKKmT_DyrdIGfspWi6wsdiI=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Danette Hiten",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

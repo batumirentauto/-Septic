@@ -1,0 +1,53 @@
+{
+  "name": "Pacific Pumping & Septic Service.LLC",
+  "rating": 4.9,
+  "reviewCount": 43,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 808-429-3811",
+  "phoneRaw": "+18084293811",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Pacific+Pumping+%26+Septic+Service.LLC/@21.4837543,-157.9652284,11z/data=!3m1!4b1!4m6!3m5!1s0x7c006b1862d677a9:0xdb0ddd79ac3dc430!8m2!3d21.4837543!4d-157.9652284!16s%2Fg%2F11bwcv2_sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "HI",
+  "city": "Honolulu",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pacific Pumping & Septic Service.LLC",
+  "folderName": "Pacific Pumping & Septic Service.LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

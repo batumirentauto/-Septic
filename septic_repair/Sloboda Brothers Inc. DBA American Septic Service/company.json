@@ -1,0 +1,88 @@
+{
+  "name": "Sloboda Brothers Inc. DBA American Septic Service",
+  "rating": 4.7,
+  "reviewCount": 46,
+  "category": "Septic system service",
+  "address": "140 St Elmo Rd, Wallkill, NY 12589, United States",
+  "phone": "+1 845-895-2501",
+  "phoneRaw": "+18458952501",
+  "website": null,
+  "plusCode": "HVQ2+45 Wallkill, New York, USA",
+  "url": "https://www.google.com/maps/place/Sloboda+Brothers+Inc.+DBA+American+Septic+Service/@41.5878024,-74.1496177,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd28967635a733:0x878fda329952391c!8m2!3d41.5878024!4d-74.1496177!16s%2Fg%2F1tgpz5xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Middletown",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sloboda Brothers Inc. DBA American Septic Service",
+  "folderName": "Sloboda Brothers Inc. DBA American Septic Service",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfS__jDlHxwF7IDDdISg2pCgf0GRht-y37_uOGiqaEeNWoj2HMSQ9OqNSTidrr47W3iOggDh5d1YdAOVvq0bwKtUqjTgiHPuPmo79gZe1ylo_01VAD7IIUf4KKRgkkezRnJOmc=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMSEflps4MzxA0lsl6Yt4iQeAKoy0LiOhO3mIQMIPRravUczTT2Dqf6KWY1_yn9sLyuZqP4_A8ELs1iZY7UQMWfwsemdteqDHF8_1tTxCcnPtdlsczqjPk8Wya-lJxayU6G7lQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrYiRoBrYrE4rgkdD9eGt3b6zOhyVyT2mWhmUB57Ko4f_E4vf84cP8z9tQw7N6tnt-1MOgmOMKSF8T0MFcgxOgSptBMB9i--VmUj9wA-4Nfl-IXNxUQsmMeXc0GSyaFtytbml7=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Izzy Defino",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Izzy Defino",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Izzy Defino",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

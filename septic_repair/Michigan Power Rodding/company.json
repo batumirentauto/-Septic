@@ -1,0 +1,53 @@
+{
+  "name": "Michigan Power Rodding",
+  "rating": 4.7,
+  "reviewCount": 142,
+  "category": "Plumber",
+  "address": "818 Phoenix Dr, Ann Arbor, MI 48108, United States",
+  "phone": "+1 734-761-7154",
+  "phoneRaw": "+17347617154",
+  "website": "https://www.michiganpowerrodding.com/",
+  "plusCode": "67JC+7R Ann Arbor, Michigan, USA",
+  "url": "https://www.google.com/maps/place/Michigan+Power+Rodding/@42.2307104,-83.7279498,17z/data=!3m1!4b1!4m6!3m5!1s0x883caf9ada513ea7:0x7928ab9c23e359c9!8m2!3d42.2307104!4d-83.7279498!16s%2Fg%2F1tmy5qrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Ann Arbor",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 520)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Michigan Power Rodding",
+  "folderName": "Michigan Power Rodding",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

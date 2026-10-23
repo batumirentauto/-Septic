@@ -1,0 +1,66 @@
+{
+  "name": "KW Septic LLC",
+  "rating": 5,
+  "reviewCount": 89,
+  "category": "Septic system service",
+  "address": "160 Cross Baptist Church Rd, Rural Hall, NC 27045, United States",
+  "phone": "+1 336-423-9425",
+  "phoneRaw": "+13364239425",
+  "website": null,
+  "plusCode": "6P67+MH Rural Hall, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/KW+Septic+LLC/@36.21164,-80.2860031,17z/data=!3m1!4b1!4m6!3m5!1s0x84527e27338c037:0x374097dbf06203f!8m2!3d36.21164!4d-80.2860031!16s%2Fg%2F11shd3189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Charlotte",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/KW Septic LLC",
+  "folderName": "KW Septic LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehSFDsZ7o2ZUxl4ZyWcWO7v43tDVJZg58WBAqA2k-kI33qyFpQHAdoHAg7Pxfw-R8wPdEFwg1j1uOxVVvJjASIAfVZc0xj1tofS8WrRLHPIDcROPCwakeKgnbnq2ddWPkS989NLeCAqu8i=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Halley Cunnea",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

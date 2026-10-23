@@ -1,0 +1,53 @@
+{
+  "name": "Texas Wastewater Environmental Solutions",
+  "rating": 4.8,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 210-286-1634",
+  "phoneRaw": "+12102861634",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Texas+Wastewater+Environmental+Solutions/@29.6266944,-98.51367,9z/data=!3m1!4b1!4m6!3m5!1s0x865c5e637f38f285:0x601059f3c21c6af0!8m2!3d29.6266944!4d-98.51367!16s%2Fg%2F11dxsq9xwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "San Antonio",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Texas Wastewater Environmental Solutions",
+  "folderName": "Texas Wastewater Environmental Solutions",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

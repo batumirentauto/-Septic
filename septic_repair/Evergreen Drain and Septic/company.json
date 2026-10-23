@@ -1,0 +1,66 @@
+{
+  "name": "Evergreen Drain and Septic",
+  "rating": 4.9,
+  "reviewCount": 36,
+  "category": "Septic system service",
+  "address": "800 Cass Mill Rd, Alexandria, NH 03222, United States",
+  "phone": "+1 603-977-9037",
+  "phoneRaw": "+16039779037",
+  "website": null,
+  "plusCode": "H5PW+VF Alexandria, New Hampshire, USA",
+  "url": "https://www.google.com/maps/place/Evergreen+Drain+and+Septic/@43.5872365,-71.803779,17z/data=!3m1!4b1!4m6!3m5!1s0x4cb3536a2ca27b59:0x82b3b9812d6828b!8m2!3d43.5872365!4d-71.803779!16s%2Fg%2F11xrlfp80w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Evergreen Drain and Septic",
+  "folderName": "Evergreen Drain and Septic",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdToKPn9vbps5UDyhDrujXw_M40CdTp7UK0YbsvK3GsNRQT3jAwUI5_AkB2z_1sVLS2TKh9pPLo_vR-A9eW18sJLp5HBN4m7KShFzidQI34ExXuH4on-9vorxKdOg9hio9Qi9FBd9h4y5FE=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Arthur LaCroix",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

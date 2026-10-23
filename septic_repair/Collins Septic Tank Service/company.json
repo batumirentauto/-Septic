@@ -1,0 +1,53 @@
+{
+  "name": "Collins Septic Tank Service",
+  "rating": 4.7,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": "317 Cedar Branch Rd, Kingsport, TN 37664, United States",
+  "phone": "+1 423-279-9500",
+  "phoneRaw": "+14232799500",
+  "website": "http://collinsseptictankservice.net/",
+  "plusCode": "GG9J+5J Kingsport, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Collins+Septic+Tank+Service/@36.5179611,-82.4684361,17z/data=!3m1!4b1!4m6!3m5!1s0x885a8e73dc6130b3:0x59c2c45a35a27f07!8m2!3d36.5179611!4d-82.4684361!16s%2Fg%2F11b6pcz5xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Johnson City",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Collins Septic Tank Service",
+  "folderName": "Collins Septic Tank Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

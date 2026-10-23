@@ -1,0 +1,110 @@
+{
+  "name": "Wolfe Septic",
+  "rating": 4.9,
+  "reviewCount": 46,
+  "category": "Septic system service",
+  "address": "8234 Co Rd 101, Lampasas, TX 76550, United States",
+  "phone": "+1 512-734-3153",
+  "phoneRaw": "+15127343153",
+  "website": "http://www.wolfesepticsystems.com/",
+  "plusCode": "2RJ6+CQ Lampasas, Texas, USA",
+  "url": "https://www.google.com/maps/place/Wolfe+Septic/@31.0310967,-98.1880566,17z/data=!3m1!4b1!4m6!3m5!1s0x865aeb52a7447839:0x2cefa0ba4cc99685!8m2!3d31.0310967!4d-98.1880566!16s%2Fg%2F11ggrgqbql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Waco",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wolfe Septic",
+  "folderName": "Wolfe Septic",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN4_5dpZ7pbz9O8UKCU3JsHppjdHTgnaU7Rwb6g9BQ7MRPupHE8weWj1gOKetCYn6sQbvIywIqJWjVVCgqzhp5vhptHEktDBsKhQfjdL3A2gg_HNvM1EIJhWXzUvvJugPI64Juww=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJM_iaXVVgXH3oVPSGr-7uOLB6hBjfU-b19LprPr4o5bngyt1jDqWMtusW3zp3vmvobl3CvFnbk79DiAg6PX5WDmZ722kKYN0YTxWmnxiMUpgwAqYl9zWqLRDz3d6RXaARu93oiA=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0L4HdlNHv2MFHB5XNLAjPRwgRZDTKtX5642vGmr_i1xVg92h9bkgTFUbIWLdRby4aFVYR8HDQvsz1mfjmyNKbv2r3DbZHODI1eUSqGnbN1AKHgvH8_DTXrrt16nUHM-IWCZ8S=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOr9klwoERaine9gffevAmijSydf426ISGORB2OkV2NugJsKcWPFSi2-exKH-Zfm8cerD8s96PQzFzziO-Z3FDD2FdSI0WgsoJVop7IvIvxSAqX0lCzBS_cYcfYhYpYBbS6udZ=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepokYjz3mZDld4SjJZnDgxBmHkVuYIAr-nf03CCi-oSBbJ5yXybLPthiOT7buXxdPmyBRHQ4h9FHrpPvHRsPEDdDuxIli3uPm80nv6zY6Sdapp76Y51W6OR02OaI8Q4jrzExzN=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Eve Tatum",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Eve Tatum",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Eve Tatum",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Eve Tatum",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "peter Muich",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

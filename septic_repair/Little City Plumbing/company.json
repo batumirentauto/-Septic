@@ -1,0 +1,59 @@
+{
+  "name": "Little City Plumbing",
+  "rating": 4.9,
+  "reviewCount": 53,
+  "category": "Plumber",
+  "address": "142 Ridgeway Dr, Wilmington, NC 28409, United States",
+  "phone": "+1 910-200-9760",
+  "phoneRaw": "+19102009760",
+  "website": "https://www.littlecityplumbing.com/",
+  "plusCode": "6428+4V Wilmington, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Little+City+Plumbing/@34.2003279,-77.8827664,17z/data=!3m1!4b1!4m6!3m5!1s0x89ac6f3b22537749:0x99ed1892d2f5768b!8m2!3d34.2003279!4d-77.8827664!16s%2Fg%2F11ny34_gsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Wilmington",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Little City Plumbing",
+  "folderName": "Little City Plumbing",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Michael Jenkins",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

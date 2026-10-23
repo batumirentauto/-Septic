@@ -1,0 +1,99 @@
+{
+  "name": "Drain King",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": "2200 N Hummingbird Ln, Fayetteville, AR 72703, United States",
+  "phone": null,
+  "phoneRaw": null,
+  "website": null,
+  "plusCode": "3VR5+J8 Fayetteville, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Drain+King/@36.0916141,-94.14164,17z/data=!3m1!4b1!4m6!3m5!1s0x87c9694f8376aaab:0xaaa4fe1564bce1e2!8m2!3d36.0916141!4d-94.14164!16s%2Fg%2F11hy9phzgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Drain King",
+  "folderName": "Drain King",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUrIoHmB4lRrwSmubxsz9yxn6eoLjG7evRigVVDnUHGuDie3nNsR7ijJ8fgo2g7pdnzVmyuV5lIJCbHqbqXwqz0Woxm3TzAbdkHmfVnCpZ9hCR0XLCIylCs4pEP58Q4pZA-f2H5g=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgLfvi6MmFolobVf850a6jAIdZ27Xys_x5FcPloMdH7uyfzSZ96Qk6RsbjH92V2P48s2Ynp8Rkx3fMgOjYdwMkK01IhcJSDIs1ewMpdPxyMTsjEinZd2PnqHEmWrG8uzzrE7Z6=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeciggyFAj5gwiMOcvxnxv-cLjSidRDOACoDMJborDT1OcM4JGshiHl9NI8xc-THPsraKzvhsptJjjtI3d17NbnnIvGnXZ-B0V1fgjwPAPP1LGXtnQusQSspAu3ZJzG_VSZPkV0=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1yuJsPfa5-tIjtuRp1S2LtsbB2K94CO-2xQPo-m5hg1Mkzc8VE6De8BIZSc77UXWd3JwxvbrUTEjustLiWX0Xm5VCrCzkEj_nnrfWRj7n2qKKpFkrq9cBoIkXroN4ET1jB3Lx=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Woody Ogden",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Woody Ogden",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Woody Ogden",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Woody Ogden",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

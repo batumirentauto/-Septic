@@ -1,0 +1,53 @@
+{
+  "name": "Big John's Septic Service LLC",
+  "rating": 4.9,
+  "reviewCount": 57,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 719-568-5215",
+  "phoneRaw": "+17195685215",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Big+John's+Septic+Service+LLC/@38.2217315,-104.5522995,9z/data=!3m1!4b1!4m6!3m5!1s0x8713baaa4d948129:0x9c5570a40b704dbf!8m2!3d38.2217315!4d-104.5522995!16s%2Fg%2F11f08mbk5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Pueblo",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Big John's Septic Service LLC",
+  "folderName": "Big John's Septic Service LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

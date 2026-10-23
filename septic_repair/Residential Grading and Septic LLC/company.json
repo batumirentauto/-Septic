@@ -1,0 +1,110 @@
+{
+  "name": "Residential Grading and Septic LLC",
+  "rating": 4.8,
+  "reviewCount": 56,
+  "category": "Septic system service",
+  "address": "517 Link Rd, Pendleton, SC 29670, United States",
+  "phone": "+1 864-710-9158",
+  "phoneRaw": "+18647109158",
+  "website": null,
+  "plusCode": "M79P+GJ Pendleton, South Carolina, USA",
+  "url": "https://www.google.com/maps/place/Residential+Grading+and+Septic+LLC/@34.6687686,-82.7134689,17z/data=!3m1!4b1!4m6!3m5!1s0x88584388387e3de9:0x8cbc2f1a8163bd55!8m2!3d34.6687686!4d-82.7134689!16s%2Fg%2F11ll9kddx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Greenville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Residential Grading and Septic LLC",
+  "folderName": "Residential Grading and Septic LLC",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2phy7N0KtdBPFMzFaMc3-7HJPtCw6Xbn_cD_cf9p_lZKojQ3K7LQJwi3i5Hm2_MQ0ucvx7hXfDpY2c4ZYrLdUm31wR8jcylPNx4w0Y8lOhFYBFbRRCLAi1Cr7HeP8YMcfmY5IqA=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtIsDbiCeIMlKws6_Twji1pn7t_uv2rPPRVwnw97V2ebWxjGvxuyzEQGlmBbnqTiRSSdTDO4NsiNqYIp5vMCpSl7YTlhOgFETWoD64UaKoERB7rx3wSycyz5SwzX7eWafZVxIL=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRdr0iKbjuoPRwbkmtJ3h_MIOPdr_MBrJlQAxUyPiEgrx7_fWGStWs4RbAQ7KLfat6RBCy7RQ3lOhSc5k3lf8g_AY6DEJaqLL2EAL0RRpVgIVXvOfiYnDk672_dktNmRm1NGSpXA=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEHzUjje-JFQpgVC2HrC_h-w8dYk-jAhuIcVai8RSdrXd7txzQqWFtWCSfRbq3o_p8vYv5UlXOVWq6JOWtcyB5hSnZ5DDJebwZ_OcTykydrtDfvC8q_0RMncUmc7nmuqKFeeyt=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiXcYm6eQCRILOEkciTa5urCKFoifObhV6Q0SwRtlxjACBtf0z_HEwrqBON1AZapZm-GAjcUrbmeHRSSY1TZoa4zjXHn1EhQhdlPPUD1nVU-_gs8f_6D0bqFasXYxECbGyJhw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Julia Jaworski",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Julia Jaworski",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Julia Jaworski",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Andrew Gilbert",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Julia Jaworski",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

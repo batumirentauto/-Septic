@@ -1,0 +1,53 @@
+{
+  "name": "Gut Busters Septic Tank Service LLC",
+  "rating": 4.9,
+  "reviewCount": 32,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 910-587-6086",
+  "phoneRaw": "+19105876086",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Gut+Busters+Septic+Tank+Service+LLC/@35.2089095,-79.0323616,9z/data=!3m1!4b1!4m6!3m5!1s0x89ab6b7aa08753d5:0x24ff6f9eb5fc0ce9!8m2!3d35.2089095!4d-79.0323616!16s%2Fg%2F11ljsx3cbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gut Busters Septic Tank Service LLC",
+  "folderName": "Gut Busters Septic Tank Service LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

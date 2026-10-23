@@ -1,0 +1,37 @@
+{
+  "name": "Crane Sewer & Drain Cleaning",
+  "rating": 4.7,
+  "reviewCount": 29,
+  "category": "Plumber",
+  "address": "110 Deckertown Turnpike, Montague, NJ 07827, United States",
+  "phone": "+1 973-293-3270",
+  "phoneRaw": "+19732933270",
+  "website": null,
+  "plusCode": "76QQ+2F Montague, New Jersey, USA",
+  "url": "https://www.google.com/maps/place/Crane+Sewer+%26+Drain+Cleaning/@41.2875284,-74.7612895,17z/data=!3m1!4b1!4m6!3m5!1s0x89c3435ce95d185d:0x86a274a8147cde82!8m2!3d41.2875284!4d-74.7612895!16s%2Fg%2F1tk9rpzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Sussex",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Crane Sewer & Drain Cleaning",
+  "folderName": "Crane Sewer & Drain Cleaning",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcm5SrTc9vagk2b6VBeKwaD5s0nQ1EHmT7O2bXl6xEyS4NYQvJMjQoZHA7x-UO6dCIcBow1wnQk8ewfY--8RaCu2Va_Nf9ZDfd-FCrv910l8wdUDPJAwzGEF0sumXwAC7JJQrSyXQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "craig hannigan",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

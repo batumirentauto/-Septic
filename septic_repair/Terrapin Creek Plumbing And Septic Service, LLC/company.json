@@ -1,0 +1,53 @@
+{
+  "name": "Terrapin Creek Plumbing And Septic Service, LLC",
+  "rating": 4.6,
+  "reviewCount": 42,
+  "category": "Plumber",
+  "address": "785 County Rd 473, Centre, AL 35960, United States",
+  "phone": "+1 256-523-1555",
+  "phoneRaw": "+12565231555",
+  "website": null,
+  "plusCode": "4989+J7 Centre, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Terrapin+Creek+Plumbing+And+Septic+Service,+LLC/@34.1165849,-85.6317954,17z/data=!3m1!4b1!4m6!3m5!1s0x888a63d9a0625a01:0x6926f9389378a7e7!8m2!3d34.1165849!4d-85.6317954!16s%2Fg%2F11b7818vy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Huntsville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Terrapin Creek Plumbing And Septic Service, LLC",
+  "folderName": "Terrapin Creek Plumbing And Septic Service, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

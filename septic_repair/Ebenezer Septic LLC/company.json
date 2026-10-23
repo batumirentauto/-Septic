@@ -1,0 +1,88 @@
+{
+  "name": "Ebenezer Septic LLC",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "18027 Carbridge Dr, Houston, TX 77084, United States",
+  "phone": "+1 832-867-4371",
+  "phoneRaw": "+18328674371",
+  "website": "https://www.ebenezersepticandgreasetrap.com/",
+  "plusCode": "V85G+F7 Windsong, Texas, USA",
+  "url": "https://www.google.com/maps/place/Ebenezer+Septic+LLC/@29.8587315,-95.6742893,17z/data=!3m1!4b1!4m6!3m5!1s0x8640d92033e9e079:0xde0a913fbeff4009!8m2!3d29.8587315!4d-95.6742893!16s%2Fg%2F11nnqj16t4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Houston",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ebenezer Septic LLC",
+  "folderName": "Ebenezer Septic LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpgxxwt-EdgZnNNASjVIVb8XB0y-6MywSQpFNI9s65B-SRWlm1u_AmBg0cyUi3RLkk8nthBJRifEsTp5SOGVzLrRk8dgWvCHWosO-3Eumz7nXVSz_BvctxXjl4_6gmZgVLjrwuAQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdu4tHOc1GA0DaZ793s7Wgrt-T5OX4gkyvDD-ZEyfMVIKew0LW3oIz_mZvZya3d3DtJNZMPEBXk8sqv9eNYv82zsvuTly4gydNsyTMO49bY5vSvNWX_sibZcllqNWokibuzFZ4=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXoXzlTRuphQbewWn5hcbfYQS0NzWiv50tFwR_w-uwAnjkHs6arm2uApOJAKqe5JnvWGSMF_uAS0YDOdo--RJCQnw6SjPUXUKG15-iC9sheAvCZ_2p8pkGvHDan_bRFPrc9Bc0UQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "shipking texas 2",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "shipking texas 2",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "shipking texas 2",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

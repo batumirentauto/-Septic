@@ -1,0 +1,66 @@
+{
+  "name": "Reliable Sewer and Drain",
+  "rating": 4.9,
+  "reviewCount": 41,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 815-670-6176",
+  "phoneRaw": "+18156706176",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Reliable+Sewer+and+Drain/@42.240939,-89.0680644,11z/data=!3m1!4b1!4m6!3m5!1s0x8808c779c07e9389:0x1d483e67eca2c0ce!8m2!3d42.240939!4d-89.0680644!16s%2Fg%2F11ql_346p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Rockford",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Reliable Sewer and Drain",
+  "folderName": "Reliable Sewer and Drain",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz0FNQYH_NkXrv0WCof6E7R1L9NN8pAf1o9mHWJ5I8ghFTrhz3ztiR-Kg_51QW2jxjTO5Hx1EvsaMzjMEAw368VvGp5_e7OLkI-BVg0-8D-dg1HHpQBQixNfx4Lr_nm3OLrY6CEtHko5Gj=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jacquie Anyu",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

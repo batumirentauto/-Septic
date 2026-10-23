@@ -1,0 +1,53 @@
+{
+  "name": "Stine-Nichols Plumbing Inc.",
+  "rating": 4.9,
+  "reviewCount": 129,
+  "category": "Plumber",
+  "address": "318 E 16th Ave, North Kansas City, MO 64116, United States",
+  "phone": "+1 816-348-3481",
+  "phoneRaw": "+18163483481",
+  "website": "/aclk?sa=L&ai=DChsSEwiameW_686XAxXZqYMHHUiQJ-wYACICCAEQABoCZWY&co=1&ase=2&gclid=EAIaIQobChMImpnlv-vOlwMV2amDBx1IkCfsEBAYAiAAEgLx5_D_BwE&cid=CAASugHkaII9LcS3KflSJtvr8-x6iJhXIALoguGXyfCoDVwQID8NJfCZbcptexlRZ4wi1sb6gN1w1lj1c9pTF-Bsawr3GWWvsYR070BBxw5eGDnNHudIN2c5DJxsLsT382QFBbmsehQsK5hhdOORIzYMDwwbXI_gewNLgHKrymjDxMGEzOvrLhUwwaerjMZu_wi7F-7FMPjEwRg6hsWZBghrmy9JDAF3gnT6gnMwAABaYwiIbT2GzvQ-Lyrhm7E&cce=2&category=acrcp_v1_32&sig=AOD64_1kxbJuUHMLCuqzIRDgBA4Lh-_Qqg&adurl&q&ctype=99&nis=5",
+  "plusCode": "4CQF+6C North Kansas City, Missouri, USA",
+  "url": "https://www.google.com/maps/place/Stine-Nichols+Plumbing+Inc./@39.1380035,-94.5764277,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0f13427eea66d:0x71bc2b748eddb9f8!8m2!3d39.1380035!4d-94.5764277!16s%2Fg%2F11f9zs7_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Kansas City",
+  "websiteIssue": "Сайт не открывается (ERR_INVALID_URL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stine-Nichols Plumbing Inc.",
+  "folderName": "Stine-Nichols Plumbing Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

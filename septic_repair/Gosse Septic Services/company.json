@@ -1,0 +1,53 @@
+{
+  "name": "Gosse Septic Services",
+  "rating": 4.6,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": "311 Shackford Corner Rd, Center Barnstead, NH 03225, United States",
+  "phone": "+1 603-269-3441",
+  "phoneRaw": "+16032693441",
+  "website": "https://gosseseptic.com/",
+  "plusCode": "9Q26+CW Center Barnstead, Barnstead, NH, USA",
+  "url": "https://www.google.com/maps/place/Gosse+Septic+Services/@43.3510177,-71.2376653,17z/data=!3m1!4b1!4m6!3m5!1s0x89e27c45b8eb6a8d:0xe7746685636aac87!8m2!3d43.3510177!4d-71.2376653!16s%2Fg%2F1tjbt529?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gosse Septic Services",
+  "folderName": "Gosse Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

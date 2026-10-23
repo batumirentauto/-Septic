@@ -1,0 +1,88 @@
+{
+  "name": "Mulyca Septic",
+  "rating": 4.9,
+  "reviewCount": 56,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 518-377-5172",
+  "phoneRaw": "+15183775172",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Mulyca+Septic/@42.8541336,-74.0514539,11z/data=!3m1!4b1!4m6!3m5!1s0x89de70002fd66db1:0x459cc23c1dcf7b3!8m2!3d42.8541336!4d-74.051454!16s%2Fg%2F1tsjfn28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Mulyca Septic",
+  "folderName": "Mulyca Septic",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEAmnr43WoCwAvdJGzCns4JiQghS4VQIuQ5RV-5D0fhpF8St--OMhvqhXJBYiQvDCA5Wg8lR0-hzLLQ2L0U0FncLbwOf_F-1NSB9vTgtV84LzqQg6VosWc5s9ShCkUdtZxXEYm=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCqNexn68KPy3OHEuFzVbbtOtZQD0ClenRz2sA4I7FvIlrWAw6iyWi6YInTyAuDIEzgG42N3NNGwwYaqM3VqRrK9s0Hy9Qqqf62-JLl_OU59lAahhJAmKU1-KxIW8cOwZvrXES=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLecQFa0VBGWBF8GYNewKaZ08wEhtGw1HdbcIQ710wKkF2H4hfjch-H9e_4uxIl1y111UhJWI4BCsKKGvFgtd4qcCo2wOZRJnZV6Vd0Eh3i1xS300igrD4uPMxqntFWz_kYou2xwMA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "kramille",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Guillermo Trujillo",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "kramille",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

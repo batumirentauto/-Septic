@@ -1,0 +1,53 @@
+{
+  "name": "Elevation Septic & Excavating, LLC",
+  "rating": 4.9,
+  "reviewCount": 31,
+  "category": "Septic system service",
+  "address": null,
+  "phone": null,
+  "phoneRaw": null,
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Elevation+Septic+%26+Excavating,+LLC/@40.8842454,-89.6906235,9z/data=!3m1!4b1!4m6!3m5!1s0x6145127f0939317:0x6b852a9231906da6!8m2!3d40.8842454!4d-89.6906235!16s%2Fg%2F11q9tz1ch3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IL",
+  "city": "Peoria",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Elevation Septic & Excavating, LLC",
+  "folderName": "Elevation Septic & Excavating, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

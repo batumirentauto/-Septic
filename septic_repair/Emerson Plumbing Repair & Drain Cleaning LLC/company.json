@@ -1,0 +1,77 @@
+{
+  "name": "Emerson Plumbing Repair & Drain Cleaning LLC",
+  "rating": 5,
+  "reviewCount": 110,
+  "category": "Plumber",
+  "address": "1960 Madison St Suite 293, Clarksville, TN 37043, United States",
+  "phone": "+1 931-320-1937",
+  "phoneRaw": "+19313201937",
+  "website": "http://www.emersonplumbingrepairs.com/",
+  "plusCode": "GP73+5X Clarksville, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Emerson+Plumbing+Repair+%26+Drain+Cleaning+LLC/@36.5129368,-87.2950197,17z/data=!3m1!4b1!4m6!3m5!1s0x8864deb639405df1:0x80ebf5b169677c6b!8m2!3d36.5129368!4d-87.2950197!16s%2Fg%2F11dxqb5qrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Clarksville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Emerson Plumbing Repair & Drain Cleaning LLC",
+  "folderName": "Emerson Plumbing Repair & Drain Cleaning LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeF355qgBNlylAHYmFOfZgVfvXSkMexTcf8TJnAA-IljPZgKMnb2SS2ICOrv_dDUOTOOdp7azaWHTzpoJ1Xig-UEfbug7edg-Ey9auOO5catN_s-admUv2yWO4uG6clE3Ri4AV47-cgrE3B=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf14rSHeYEjroU-9mTvGslbzlZkzthIRwVInSRQCEDDbXzMcrYMusg9iV7awREK0GNkbs0bJQIF084NMYbCuTJ4h-LdPi95J8qlYlu_MwO2hGImt57q-Seu3Cd8IPlc0FGZe5jQGKPUCZA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Vickie Smith",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Vickie Smith",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

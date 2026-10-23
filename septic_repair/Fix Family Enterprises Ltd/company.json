@@ -1,0 +1,53 @@
+{
+  "name": "Fix Family Enterprises Ltd",
+  "rating": 4.9,
+  "reviewCount": 79,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 518-784-2781",
+  "phoneRaw": "+15187842781",
+  "website": "http://www.fixfamilyseptic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Fix+Family+Enterprises+Ltd/@42.468315,-73.9010685,9z/data=!3m1!4b1!4m6!3m5!1s0x89ddefebdba5ec7d:0x168a5022d029c127!8m2!3d42.468315!4d-73.9010685!16s%2Fg%2F1thl_fpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 403)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Fix Family Enterprises Ltd",
+  "folderName": "Fix Family Enterprises Ltd",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Jernan Septic & Rainwater Solutions",
+  "rating": 4.6,
+  "reviewCount": 67,
+  "category": "Septic system service",
+  "address": "7101 Bosque Blvd, Waco, TX 76710, United States",
+  "phone": "+1 254-848-4848",
+  "phoneRaw": "+12548484848",
+  "website": "http://www.jernan.com/",
+  "plusCode": "GQGR+33 Waco, Texas, USA",
+  "url": "https://www.google.com/maps/place/Jernan+Septic+%26+Rainwater+Solutions/@31.5251838,-97.2098663,17z/data=!3m1!4b1!4m6!3m5!1s0x864f8fdb9b792daf:0x41d93ebaf45f7baa!8m2!3d31.5251838!4d-97.2098663!16s%2Fg%2F11cm0j6yk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Waco",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jernan Septic & Rainwater Solutions",
+  "folderName": "Jernan Septic & Rainwater Solutions",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

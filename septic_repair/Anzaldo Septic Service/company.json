@@ -1,0 +1,66 @@
+{
+  "name": "Anzaldo Septic Service",
+  "rating": 4.6,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "17521 US-441 #30, Mt Dora, FL 32757, United States",
+  "phone": "+1 407-556-7306",
+  "phoneRaw": "+14075567306",
+  "website": "http://www.anzaldoseptic.com/",
+  "plusCode": "R8FM+29 Mt Dora, Florida, USA",
+  "url": "https://www.google.com/maps/place/Anzaldo+Septic+Service/data=!4m7!3m6!1s0x6c1b59e098f331b7:0x2529035e53cb23d9!8m2!3d28.8225761!4d-81.6665208!16s%2Fg%2F11rwcnsfsh!19sChIJtzHzmOBZG2wR2SPLU14DKSU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Ocala",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Anzaldo Septic Service",
+  "folderName": "Anzaldo Septic Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhX8nNBEPkooLEIce3SCx_xQfeBPNX6F808o7fyv7JhcBFTn6z_qzERDzFS1hXZTZpS61R2tYts0B3Jw-we7-19Xt0OjJL66qbGAeEV5kMWVnr231gkl2EvKZ43KqB0GKh4czCJ7NhMttD=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Michael Wilson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

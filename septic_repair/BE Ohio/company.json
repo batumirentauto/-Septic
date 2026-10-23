@@ -1,0 +1,132 @@
+{
+  "name": "BE Ohio",
+  "rating": 5,
+  "reviewCount": 37,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 614-695-0933",
+  "phoneRaw": "+16146950933",
+  "website": "https://beohio.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/BE+Ohio/@40.253863,-83.0874735,9z/data=!3m1!4b1!4m6!3m5!1s0xae3e24598eef56e7:0x18e96b4b8f0a8e24!8m2!3d40.253863!4d-83.0874735!16s%2Fg%2F11m6ckstpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Columbus",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/BE Ohio",
+  "folderName": "BE Ohio",
+  "totalPhotosDownloaded": 14,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2PjUiK0s3BNRn3t0aSGDVagL4rP5KSQtrRs6fEPovXCKIRSO2LLQbbAsU-l5u4DRxI6QUdFBkb0M3kN_D_cIiB1fHqnieLDctg3WZ6D9vFhzbq6OQAyhcoyWaoDAc9g7qZ1zrAXK2-mra=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLFAxtZIzoK96qXIx6TOgDXcz55-WcX_dzenjeWbJaa1TI63ybwYi7zARcCEomRr2HRtax49HlnRgbq_bkeMqzCY1P9lzIDF7DpwDPi23-MTd5fF8ZNdYEei-PzLDX4adJklbJCsCd34ln=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfndpQ7Ul6QlvELXi7NVebtD1sjq2XPzhJamdBgjqc-oX9kPLRdiL9_j0UhUTWw0LV__zAuxJMQ0bY7OVklIqFkbFOCrEky-ulNVp6bdvI7P7P6tJVhnlKwLN3nqQ25N_Il2AA5ePN7snyJ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbau3IfRQ_ox8c-MIAa8zstMCG787lJJk2sTpJ4AP7XEhq1LF9-PvcRT3LhIDRl7KzeDd3_lMeuXoUqMIyzlr0FHanNr0O0nL0BkZnmt_E5nvzo9r3l-HhVsYLSsf9FAXkwIAuBLp9NbFu=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDKCn0VpBX-nODOwgEViyFItpJFFCUj6uAPy7G_KUKV5W6re48lgkqV5KBN5dO5NhSk4phwFdxafCV3tNiDABhmn1EXOQnvirk7a0sTNR7aVA7f2ClD7bu4uA0k_1Oot4pamKjgmmCylw0=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4-QY4f7BuEc-qOBru1VSmuKQzA8-gBd_GwPsv0epWnoI0JAWJtRZQpKK4WFoNcZzdliH9IcKr4olbO09DX1bPzLyEFhsn1hTOdg3orkQNFu6lfMTfYTW2XKL_7-GfLn87qgP_0jSzkhs=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6EOMZQK-GDUnzg0gyil91M6kqAYG8dDBAcL3GcAB8DpKiQmriv4QFnLm-dYUryk1BLwQquVYw7h3jMb0jRRbj-sS57cmKjoBdoe6tVQ0whjDVnNEGeJwPec6NgN4ppMm7q0EZiIXUa9s=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Christopher Tudor",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Christopher Tudor",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Christopher Tudor",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Dylan Blair",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Dylan Blair",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Kyle Joos",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Dylan Blair",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

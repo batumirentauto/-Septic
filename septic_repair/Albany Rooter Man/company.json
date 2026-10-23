@@ -1,0 +1,53 @@
+{
+  "name": "Albany Rooter Man",
+  "rating": 4.6,
+  "reviewCount": 104,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 518-458-1148",
+  "phoneRaw": "+15184581148",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Albany+Rooter+Man/@42.7119886,-73.83342,11z/data=!3m1!4b1!4m6!3m5!1s0x89de0ba71a51978f:0x6b9c23d6f908cff6!8m2!3d42.7119886!4d-73.83342!16s%2Fg%2F1td_j7pm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Albany Rooter Man",
+  "folderName": "Albany Rooter Man",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "G & G Pumping LLC",
+  "rating": 4.9,
+  "reviewCount": 52,
+  "category": "Septic system service",
+  "address": "104 Alphin Rd, Richlands, NC 28574, United States",
+  "phone": "+1 910-915-9322",
+  "phoneRaw": "+19109159322",
+  "website": "https://m.facebook.com/GandGPumpingLLC/?tsid=0.7514254323710199&source=result",
+  "plusCode": "X88J+CG Richlands, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/G+%26+G+Pumping+LLC/@34.9660753,-77.6687323,17z/data=!3m1!4b1!4m6!3m5!1s0x813d6d2d928915b:0xe422c9288bfeacdd!8m2!3d34.9660753!4d-77.6687323!16s%2Fg%2F11pzh3r3dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Wilmington",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/G & G Pumping LLC",
+  "folderName": "G & G Pumping LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9SyzO2Ux8Y639jnCkCGYpqCRbwmfh9O9KmWUOVhFnIRIxRyhVvowQi3vew8W-xoAQ8_c-IB0e9XS-JuMwNYc09cGAiqyFrWfBH9DnxnPRfdL_FUiqMMrX2aau7nsiG6hh1iPB9HO_Ovqm=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH85cLonZ6jLyMfuBtQSAvyr7RPD-Z3lsOG2fX130irEi3OiGHVmwSwlB0wV_UYBXKNq0aMeGWl89XmT8MT5XW1o3oEMt3PWcNVs1_7Sfsmw_DKLZ_g3lzxsktP6nqpK-9kZIPQvX2Sn-A=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Milexis Nina",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Milexis Nina",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

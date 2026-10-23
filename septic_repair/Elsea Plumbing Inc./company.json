@@ -1,0 +1,53 @@
+{
+  "name": "Elsea Plumbing Inc.",
+  "rating": 5,
+  "reviewCount": 90,
+  "category": "Plumber",
+  "address": "3255 State Rte 89, Prescott, AZ 86301, United States",
+  "phone": "+1 928-848-0189",
+  "phoneRaw": "+19288480189",
+  "website": "https://elseaplumbing.com/",
+  "plusCode": "HHXG+V6 Prescott, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Elsea+Plumbing+Inc./@34.5997134,-112.42442,17z/data=!3m1!4b1!4m6!3m5!1s0x872d2024f0700001:0xa0c49e223c5effb2!8m2!3d34.5997134!4d-112.42442!16s%2Fg%2F11d_7882hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Prescott",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Elsea Plumbing Inc.",
+  "folderName": "Elsea Plumbing Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

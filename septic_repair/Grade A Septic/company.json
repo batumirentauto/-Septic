@@ -1,0 +1,99 @@
+{
+  "name": "Grade A Septic",
+  "rating": 4.8,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "4066 NC-55 e, Dunn, NC 28334, United States",
+  "phone": "+1 910-729-9004",
+  "phoneRaw": "+19107299004",
+  "website": null,
+  "plusCode": "984M+7G Dunn, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Grade+A+Septic/@35.3556428,-78.666238,17z/data=!3m1!4b1!4m6!3m5!1s0x89ab7fbffad9fd4f:0x60e0bf8f8d1fb3a0!8m2!3d35.3556428!4d-78.666238!16s%2Fg%2F11j0sl7j25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Raleigh",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Grade A Septic",
+  "folderName": "Grade A Septic",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdl9Az3kbw6GYqPxW1u9szYPXSp618VUuJ8uffoPl499_L9DK7DeEkb8kjgnpQLxMRdJjoT9TOoeyn0AG2vDXzT7aRCvPnsKKHD2Fx_0VID5pouEvuhCAp5KNzjfgFrG_JrOW5nKw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehwA9yo3QVCimM4R-zBhc_94lXg2Z9jjSNHJKX0SFWj2-zZ-qX8UDEwVPyZ9Nv2Kb7EvK1EEqFQ5icD94XpCLNNJ2VCE3wV31nNBe2SKJGUzR9rwMylOn8EyormMFmLr7leNSj=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTph0t4b3acvDiRKGLbozKL0OsihaLAOVVLZPdh4CSd0pKbvLtEErxW8iGWK8t_GZYiZlilDWv0w1refW8gau_h4xXH5wyQ5XTrC4-1stcrPW55cBrS9hxwY9C_2NEw_ZX4WM=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfw8FNNsZnbWrVSTqyQoea6FHlOJA1CiQuO_nEqYaPkG84gA06C4-_PDdcUDYVatZCuzkNXaLqx2fmhy1lwjkeXvIm8TQYiYJ_Kbs7MR-YP50xONdfnaimXUduYx8v5Bbn2qIW=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "E M",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "E M",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "E M",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "E M",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

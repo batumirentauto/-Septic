@@ -1,0 +1,53 @@
+{
+  "name": "Chambliss Construction Co",
+  "rating": 5,
+  "reviewCount": 36,
+  "category": "Contractor",
+  "address": "3680 US-27, Cataula, GA 31804, United States",
+  "phone": "+1 706-323-0168",
+  "phoneRaw": "+17063230168",
+  "website": null,
+  "plusCode": "J4XG+G5 Cataula, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Chambliss+Construction+Co/@32.6488435,-84.874586,17z/data=!3m1!4b1!4m6!3m5!1s0x88f34a38041eab85:0x248ef2ac0c47cc95!8m2!3d32.6488435!4d-84.874586!16s%2Fg%2F1vxvjpnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Columbus",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Chambliss Construction Co",
+  "folderName": "Chambliss Construction Co",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

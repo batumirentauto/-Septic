@@ -1,0 +1,110 @@
+{
+  "name": "Mathews Septic Service",
+  "rating": 5,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 816-589-5127",
+  "phoneRaw": "+18165895127",
+  "website": "https://mathewssepticservice.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Mathews+Septic+Service/@38.8069349,-94.0000475,10z/data=!3m1!4b1!4m6!3m5!1s0x87c1471e9e92c8e1:0xb4c99fef54572d81!8m2!3d38.806935!4d-94.0000475!16s%2Fg%2F11lszzjxp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Kansas City",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Mathews Septic Service",
+  "folderName": "Mathews Septic Service",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRzb1ZDhcqv_DdYLHNbkGjves_2DjXIK9kQpH9e5cSHgJEMLqVDI8xayKuxHd_QJQnDbzLudPOOmYRs2_vaGk5yb60Z9HPyjxQayt9duQWysHG4C9SrWMnChoqxPINtd1bYx2-=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTVZzcTAnStp8h9xeZTA0SqrNPA4_BnUhmUKkFi9Yb9fTIkdCyf1ZYc4BXEudCA9CBl8rk6nedY7DaHh8lOXG0qXT8qoPhCLxlgOg7svgGum_FpYECMVQS77HuvK5RoFGjm8wZ3g=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUJaywyJvxl5cw0vV-FJsjqR1R4kWff1vn8uiGq1gEgCkQr1OtTEsyY5qwGeZi4owtDzSj_2CnuhA9MDHEIpMuwqqqqHkBFQSNFpW_yecCiTx5arfUjs1APDiUFbKQ_509FxvB=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3L3phfIX0khhxncz-neMOrpdd1bpuakbu0ftXd1-DMKbJ6qm8XA_lZa7F5SNrb97tYYb9c59tWhzXGzrk2MT0ukvuj00pSuExkLUcrlbSE3bxadmi8ssOt3_g-GVFHOeJ51A=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7DWsjn7IzDGGMDc0fJsP7sKPWin2YhSFWCxfHn7qLjofSFGPxfAfa2BrCtqXSVO7zWOoE-V-eHOZF2U04eLU03da7VHUTeJla2rp0S97K1sihQ5Sc8Zq2OqL9nrfzjGus0ickbQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jason Bundy",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Jason Bundy",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Jason Bundy",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Jeffrey Rodriguez",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Jeffrey Rodriguez",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

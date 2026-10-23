@@ -1,0 +1,59 @@
+{
+  "name": "Amy's Sewer",
+  "rating": 4.7,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "1320 E Gauthier Rd, Lake Charles, LA 70607, United States",
+  "phone": "+1 337-478-1075",
+  "phoneRaw": "+13374781075",
+  "website": null,
+  "plusCode": "4QQR+MV Lake Charles, Louisiana, USA",
+  "url": "https://www.google.com/maps/place/Amy's+Sewer/@30.1392107,-93.2078528,17z/data=!3m1!4b1!4m6!3m5!1s0x863b876d88dcbd71:0x221627c22203198b!8m2!3d30.1392107!4d-93.2078528!16s%2Fg%2F11clydckfq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "LA",
+  "city": "Lake Charles",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Amy's Sewer",
+  "folderName": "Amy's Sewer",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Michael Green",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

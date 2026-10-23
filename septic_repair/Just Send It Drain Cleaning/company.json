@@ -1,0 +1,53 @@
+{
+  "name": "Just Send It Drain Cleaning",
+  "rating": 5,
+  "reviewCount": 120,
+  "category": "Drainage service",
+  "address": null,
+  "phone": "+1 971-218-1068",
+  "phoneRaw": "+19712181068",
+  "website": "http://senditdraincleaning.com/?utm_source=omg-gbp&utm_medium=webclick",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Just+Send+It+Drain+Cleaning/@45.0196545,-123.0498005,10z/data=!3m1!4b1!4m6!3m5!1s0x54bff979465cd7c1:0xd4f338298fc0e3bd!8m2!3d45.0196545!4d-123.0498005!16s%2Fg%2F11j4j_r23j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Salem",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Just Send It Drain Cleaning",
+  "folderName": "Just Send It Drain Cleaning",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

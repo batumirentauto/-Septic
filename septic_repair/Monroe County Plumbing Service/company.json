@@ -1,0 +1,53 @@
+{
+  "name": "Monroe County Plumbing Service",
+  "rating": 5,
+  "reviewCount": 30,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 585-355-1900",
+  "phoneRaw": "+15853551900",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Monroe+County+Plumbing+Service/@42.9238605,-77.5844195,9z/data=!3m1!4b1!4m6!3m5!1s0x89d14a9917114887:0x11b092b8a8158853!8m2!3d42.9238605!4d-77.5844195!16s%2Fg%2F11csszr5lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Rochester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Monroe County Plumbing Service",
+  "folderName": "Monroe County Plumbing Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

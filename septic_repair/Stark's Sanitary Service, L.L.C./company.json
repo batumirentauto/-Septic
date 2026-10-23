@@ -1,0 +1,53 @@
+{
+  "name": "Stark's Sanitary Service, L.L.C.",
+  "rating": 5,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "5 Hampton Way, Norwalk, OH 44857, United States",
+  "phone": "+1 419-668-1422",
+  "phoneRaw": "+14196681422",
+  "website": "https://starkssanitary.com/",
+  "plusCode": "6CG3+P7 Norwalk, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Stark's+Sanitary+Service,+L.L.C./@41.2267649,-82.5968603,17z/data=!3m1!4b1!4m6!3m5!1s0x883a3d19a71f97f7:0xe81de6bcb2889895!8m2!3d41.2267649!4d-82.5968603!16s%2Fg%2F1vg4kgkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Cleveland",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Stark's Sanitary Service, L.L.C.",
+  "folderName": "Stark's Sanitary Service, L.L.C.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

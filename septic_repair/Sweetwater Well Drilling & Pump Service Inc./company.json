@@ -1,0 +1,81 @@
+{
+  "name": "Sweetwater Well Drilling & Pump Service Inc.",
+  "rating": 4.6,
+  "reviewCount": 37,
+  "category": "Well drilling contractor",
+  "address": "82 Locust Dr, Ocala, FL 34472, United States",
+  "phone": "+1 352-402-9355",
+  "phoneRaw": "+13524029355",
+  "website": "http://sweetwaterwell.org/",
+  "plusCode": "327Q+CG Ocala, Florida, USA",
+  "url": "https://www.google.com/maps/place/Sweetwater+Well+Drilling+%26+Pump+Service+Inc./data=!4m7!3m6!1s0x88e7cf0d335099bf:0x37dce620affd27fb!8m2!3d29.0635176!4d-81.9611981!16s%2Fg%2F11rpzc6lfn!19sChIJv5lQMw3P54gR-yf9ryDm3Dc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Ocala",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sweetwater Well Drilling & Pump Service Inc.",
+  "folderName": "Sweetwater Well Drilling & Pump Service Inc.",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEirPoYt6DzwMFjiUp1r3XqXAGoq0ICWNyS1uS_VG27Hr8mox2lKL48U_eN9gZKssMCTyX4GyBEbr5ni96c86ZQL-fHsRt-ahLRjH5i7a1tBCitRkdDQjJrGLmiw2Q3tdtAdPJ7g=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWlY1PJVLNKee3ynTYoxZNdQiQxzMInrHdf3wtjRFLjC8K4IJXTTlfCT5faxFtAw9SvoP7IeGESS4iB-lDbXFaankpgvvAQjhCcCakjERlNg562dCkAw2Y9G_6dXVUKzKTpQjv=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWdoWVJ8mid_s03Jxx7JXl42Hos9JzQLqq4tqp_bVTE_aaoSG4hiUNLQdaA0VTSgt3Ur8Drc1kp5rAqFddDYcJ8rs5VOx9Z2LMotgT952Ejmo2u7s46zobNv5HTl68x75teQiH=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDHjJOsFTPnr9g7k59Gkdv3ixPIE2ri8js3AhdHMYm7NjIk7gGCTU0GCEuyiFaQ5Y1TzgEeKpMxVrJvOkHqcQA4opiK-glAMxldvgK0jEAf1v3kTKCEHEcXEptknkzHpumlFg7=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdieuJYCAEqm2KQeJkPk6Gkv2g71n2KtwNtnouR9K5seSWFrcZ_aZYM-gQKhpSFAefMrSZcreWSAohoCD40RDPAdV4d-krgHFn9FQBQGPFh-bPPA6huHN6Dc70IipNhDoEcBnPr_C8ZNgeD=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "D “Alex” H",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "D “Alex” H",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "D “Alex” H",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Nichole Gencarelli",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Kathy Schulte",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

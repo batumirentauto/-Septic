@@ -1,0 +1,53 @@
+{
+  "name": "Best Plumbing Services, Inc.",
+  "rating": 4.9,
+  "reviewCount": 166,
+  "category": "Plumber",
+  "address": "5055 Canyon Crest Dr Unit 204, Riverside, CA 92507, United States",
+  "phone": "+1 951-788-1321",
+  "phoneRaw": "+19517881321",
+  "website": "http://bestplumbingservices.com/",
+  "plusCode": "XM59+CC Riverside, California, USA",
+  "url": "https://www.google.com/maps/place/Best+Plumbing+Services,+Inc./data=!4m7!3m6!1s0x80dcaf1470b8c0d5:0x1f51b852dc6fef3c!8m2!3d33.9585298!4d-117.3314501!16s%2Fg%2F11gh_kfkjl!19sChIJ1cC4cBSv3IARPO9v3FK4UR8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "Riverside",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Best Plumbing Services, Inc.",
+  "folderName": "Best Plumbing Services, Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

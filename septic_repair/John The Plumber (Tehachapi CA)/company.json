@@ -1,0 +1,53 @@
+{
+  "name": "John The Plumber (Tehachapi CA)",
+  "rating": 4.7,
+  "reviewCount": 99,
+  "category": "Plumber",
+  "address": "103 W J St, Tehachapi, CA 93561, United States",
+  "phone": "+1 661-823-8031",
+  "phoneRaw": "+16618238031",
+  "website": "https://www.facebook.com/JohnThePlumber.CalCityPlumbing",
+  "plusCode": "4HP3+45 Tehachapi, California, USA",
+  "url": "https://www.google.com/maps/place/John+The+Plumber+(Tehachapi+CA)/@35.1353156,-118.4470727,17z/data=!3m1!4b1!4m6!3m5!1s0x80c1f7cd0a401a71:0xd16ca91c1ddb93d1!8m2!3d35.1353156!4d-118.4470727!16s%2Fg%2F11cpjgn3_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Bakersfield",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/John The Plumber (Tehachapi CA)",
+  "folderName": "John The Plumber (Tehachapi CA)",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

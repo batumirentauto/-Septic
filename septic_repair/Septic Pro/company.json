@@ -1,0 +1,53 @@
+{
+  "name": "Septic Pro",
+  "rating": 5,
+  "reviewCount": 167,
+  "category": "Septic system service",
+  "address": "5492 Grass Lake Rd, White Lake, MI 48383, United States",
+  "phone": null,
+  "phoneRaw": null,
+  "website": "https://septicpromi.com/",
+  "plusCode": "MF76+M9 White Lake, White Lake Township, MI, USA",
+  "url": "https://www.google.com/maps/place/Septic+Pro/@42.6641865,-83.5390262,17z/data=!3m1!4b1!4m6!3m5!1s0x64a44e467c8c7b13:0xf7e16c92bf25326a!8m2!3d42.6641865!4d-83.5390262!16s%2Fg%2F11vz3ynf5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 429)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic Pro",
+  "folderName": "Septic Pro",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

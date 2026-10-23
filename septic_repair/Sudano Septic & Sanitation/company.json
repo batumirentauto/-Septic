@@ -1,0 +1,53 @@
+{
+  "name": "Sudano Septic & Sanitation",
+  "rating": 4.9,
+  "reviewCount": 68,
+  "category": "Septic system service",
+  "address": "12 Amber Dr, New Fairfield, CT 06812, United States",
+  "phone": "+1 203-309-6264",
+  "phoneRaw": "+12033096264",
+  "website": "http://www.sudanoseptic.com/",
+  "plusCode": "FFJC+VX New Fairfield, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/Sudano+Septic+%26+Sanitation/@41.4821934,-73.5275033,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd57d3adff55af:0xfe4701af907ba6dc!8m2!3d41.4821934!4d-73.5275033!16s%2Fg%2F11ng0w6rrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CT",
+  "city": "Danbury",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sudano Septic & Sanitation",
+  "folderName": "Sudano Septic & Sanitation",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

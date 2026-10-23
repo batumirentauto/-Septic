@@ -1,0 +1,53 @@
+{
+  "name": "Trade Pro Plumbing",
+  "rating": 4.9,
+  "reviewCount": 60,
+  "category": "Plumber",
+  "address": "13465 Puppy Creek Rd B, Springdale, AR 72762, United States",
+  "phone": "+1 479-309-8448",
+  "phoneRaw": "+14793098448",
+  "website": "https://www.tradeproplumbing.com/",
+  "plusCode": "6RJC+7X Springdale, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Trade+Pro+Plumbing/@36.230701,-94.1775647,17z/data=!3m1!4b1!4m6!3m5!1s0x87c913f4835a7b7f:0x1b1a29857c069412!8m2!3d36.230701!4d-94.1775647!16s%2Fg%2F11w49sjqg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Trade Pro Plumbing",
+  "folderName": "Trade Pro Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

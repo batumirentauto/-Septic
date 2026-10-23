@@ -1,0 +1,99 @@
+{
+  "name": "BDS Septic Service",
+  "rating": 5,
+  "reviewCount": 53,
+  "category": "Septic system service",
+  "address": "16209 Hollow Brook Rd, Fort Smith, AR 72916, United States",
+  "phone": "+1 479-414-2153",
+  "phoneRaw": "+14794142153",
+  "website": null,
+  "plusCode": "6JJQ+V6 Fort Smith, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/BDS+Septic+Service/@35.2321535,-94.3619125,17z/data=!3m1!4b1!4m6!3m5!1s0x45bf686a08659de5:0x21a3d08d8ff44f2f!8m2!3d35.2321535!4d-94.3619125!16s%2Fg%2F11v12tfx2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fort Smith",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/BDS Septic Service",
+  "folderName": "BDS Septic Service",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrBjZmiv_MSZLIoY8ETJUjYczS3nNK47ZFkkwrEjcB0TRa4lV_GHKxJdmLN832zfyYSxbCbp_1PQtMiG8lDag36wW8WL8s-UV7VpEud3_xC642GqlYM0wto6oTgzvjvp80J0bU=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6aMXhRHYHCm13XA-g_23GL-rnXmxWFap0MrBCXvTi_CVoNoFJB2RbHkGQ1-ACK44_bHFJRA_4m7nO9RBNZCgPB1pP-y_Pk7O2XyAp6KthP9UVAjc49JbekUtTsRVqVT_CvMBcDA=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZGuxhF9-iEZQGi9UmlgYbjOwP_6TLfHfg-TMVbgMevL17zZ8E-bvde5nLhqoUI9Qar4D7UwNy3M2nBvLu-K45krBgPMKv39TEFfcuJqf9DwkEwjWuaPETSYXmHsISnu4fbmTp_g=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5Mi5gPgBXNeq1RWpE-v6sFLFIqghqVKfuMJ4nsFU1CIoCPtslLVdpFOS_gA4RT8049kQ2xW6Wv0L2k0E4HLS8UzNBI6Hx4Y-ZNrTF0Wyv_JmHYLsutviWZFE4-5ZuO-u_cnM=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "heather wharff",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "heather wharff",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "heather wharff",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "heather wharff",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

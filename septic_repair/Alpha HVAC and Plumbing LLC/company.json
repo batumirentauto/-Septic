@@ -1,0 +1,53 @@
+{
+  "name": "Alpha HVAC and Plumbing LLC",
+  "rating": 5,
+  "reviewCount": 131,
+  "category": "HVAC contractor",
+  "address": "3101 W Harry St, Wichita, KS 67213, United States",
+  "phone": "+1 316-260-5775",
+  "phoneRaw": "+13162605775",
+  "website": "/aclk?sa=L&ai=DChsSEwjfmOqh4M6XAxU2QZEFHQkDLSgYACICCAEQABoCbHI&co=1&ase=2&gclid=EAIaIQobChMI35jqoeDOlwMVNkGRBR0JAy0oEBAYASAAEgKVPfD_BwE&cid=CAASugHkaCK49FW-dpgJkmhrp1-pCosyGwkBR0wgp15mGDcy-yvbvP6aenZPScaF0BWy-rt1FynUIbGBitpYTvt9tkd3dfclDQv66cWdhRl2rBjZKq-ZYlijn_cATF5K8MijAVXG2ylwrEdHKfHSnO4jnTHy9h4pY_SCDGQnra7ATpsu-xpBQRhwz2z_2Tg8jIYGo_7C1zpv7r-kXIQObLcjFV8r03ReEV2C-76iL-q5PJNhuqdgakNPJHFceCc&cce=2&category=acrcp_v1_32&sig=AOD64_0BssTQb9A3VOCuK8eKFdlxKHCeRA&adurl&q&ctype=99&nis=5",
+  "plusCode": "MJ8C+75 Wichita, Kansas, USA",
+  "url": "https://www.google.com/maps/place/Alpha+HVAC+and+Plumbing+LLC/@37.6656746,-97.3795632,17z/data=!3m1!4b1!4m6!3m5!1s0x87badf74b8f944af:0x11dde620267846b4!8m2!3d37.6656746!4d-97.3795632!16s%2Fg%2F11ft_6vlt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Wichita",
+  "websiteIssue": "Сайт не открывается (ERR_INVALID_URL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Alpha HVAC and Plumbing LLC",
+  "folderName": "Alpha HVAC and Plumbing LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

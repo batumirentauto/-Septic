@@ -1,0 +1,53 @@
+{
+  "name": "Bub's Inc",
+  "rating": 4.8,
+  "reviewCount": 46,
+  "category": "Plumber",
+  "address": "625 Wc Rd 903, Springdale, AR 72762, United States",
+  "phone": "+1 479-621-0300",
+  "phoneRaw": "+14796210300",
+  "website": "http://www.bubsinc.com/",
+  "plusCode": "5MPX+6Q Springdale, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Bub's+Inc/@36.1856131,-94.3006061,17z/data=!3m1!4b1!4m6!3m5!1s0x87c9734cb2434665:0x5766d212ce0abfdc!8m2!3d36.1856131!4d-94.3006061!16s%2Fg%2F1tdzm2g9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Springdale",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bub's Inc",
+  "folderName": "Bub's Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Rick's Pump and Water Service",
+  "rating": 4.9,
+  "reviewCount": 171,
+  "category": "Water pump supplier",
+  "address": "614 Redding Rd, Redding, CT 06896, United States",
+  "phone": "+1 203-544-9052",
+  "phoneRaw": "+12035449052",
+  "website": "https://www.rickswaterservice.com/",
+  "plusCode": "8H9H+75 Redding, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/Rick%27s+Pump+and+Water+Service/data=!4m7!3m6!1s0x89e7f853a541a64b:0xbad3b7f65ddb201c!8m2!3d41.3182461!4d-73.4220804!16s%2Fg%2F11b6bssm1h!19sChIJS6ZBpVP454kRHCDbXfa307o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "Danbury",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Rick's Pump and Water Service",
+  "folderName": "Rick's Pump and Water Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeCK3md37JiTlkLWuAIeSS2rYKVWQWSdD7Hu-81tDKo-UeAZJrYVrSTMCpE_rkFmpMmCpoLC8OSCqiJAcdXE_wdLar9k7FZM3272QoqdmCMB1viqiWQ2bN8nI2iRnOO4lMX5yfN2U206Vj=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "chris Mecozzi",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

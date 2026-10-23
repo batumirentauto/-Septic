@@ -1,0 +1,202 @@
+{
+  "name": "Bonzo Excavating",
+  "rating": 5,
+  "reviewCount": 100,
+  "category": "Excavating contractor",
+  "address": null,
+  "phone": "+1 724-544-4979",
+  "phoneRaw": "+17245444979",
+  "website": "http://www.bonzoexcavating.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Bonzo+Excavating/@41.077958,-79.8613014,9z/data=!3m1!4b1!4m6!3m5!1s0x88347bd6ff252dd3:0x24028c6bacdb7257!8m2!3d41.077958!4d-79.8613014!16s%2Fg%2F11kznsdwbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Pittsburgh",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bonzo Excavating",
+  "folderName": "Bonzo Excavating",
+  "totalPhotosDownloaded": 32,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetdF1iFcZ1bewSc0777N6s95oJBEN_Oqfd8wTAIfQASDA_JWWbP6IW_qVPm_N5PnadNNTdcY7hwb0qfJQvJitCVp1WY5-Ew6f7ZrRJGJHLBzwOY-ibTFyt53hjy0WEAEYyEi0ySNKs-_U=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9Fla_EAj4FZSA7Yidk6BLGpDnQLn7XGAd8JIa612Ba19rwljIp4Zle6cL9YOiOWAjMavfhuq8TNmGMlixE_MlA-yHyJfYuPRocI2bHjA5DM9wieHrsbJgi4ZDmW0gVIWGm0xSGXH2c2Wl=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRXtgjjGLLFTzWwuz6ajPLGxcySzJRl5M1igsD3EMMowQ6fGLSS8QYLzsnRoK9N1RtzpHQJRtbZIz1GwexsnkLllyPvQ9V7e69q6a81JALp69DtscOr_D2kHOQwWGVwulYVShb53rsBOM=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexknDn0NI5j3wnqvu6hPu6FfZqVXPE3iC9BAW_0ICcjPenb1E28yI6ufyQSXc_GMPWD6uI8P2fNqXiATH3_vqyneq0s_7Ao6IHni8pjNTmHynTXCAOpr9VLaibbOwfb0Lb-9Xbd03RNMpv=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO9RQ2P-CmBeJreGKbGyrroD_NcZKupkmuqK311tKcLSO92TqQwd8RS9c510CfL2WWZEXMxt-NysYy8wkPEIIBFrVWiw-axjmUdWFuCFPEpDs60EH4m6m20vjNvpot9jeA-mNidg=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDOlWoKHzuD0ksQbe8fV44SczoIg0Kcd2KuHA8NZ5QXQjYHg8fXVScKPa9hdCr1a7RiGcRg35bKpButAeyuhcdmjFtebRvMICAdRfs4LWaLk-oLyju2wCWaLz7Cr6BvHgGhasJ=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUIvUihER6Cvg5GJiQoIO7YRYf-411wNsnVRta8aaQED_qnRXnNYFeOEviQ8GCiaF2rLotC5cbIrw2qInBBbhEcSq-tnf5a-ZshUP8G_zzGaano-PxJ7HurmQ_DhANNLUawOihng=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEpZSMqmaQUUhFfhh5tgA5TywVGFvA-u4tbYUs4ll8xKBWyx8738TbKIJKmlODAdLsmPNYDhb2dmW1kSVUcvaAT7Uk12z5_kKs7_M5lbBv4MPKnlRIHjHHkmMV8H4SkD1td09M=s0"
+      },
+      {
+        "index": 15,
+        "file": "photo_015.jpg",
+        "relativePath": "photos/owner/photo_015.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekEIqOJHFGhLsCrcgo_EvqoPXXcBp44g34UHpJglZX6fJkdHQzge0uj-91_VydzOfOl7_I-IkkTYMnC0Xz9mp79HmgdOi4vGmjuURiVW5O_12JCoO7Z_KmHTbpm_cmWdHxtzh88g=s0"
+      },
+      {
+        "index": 10,
+        "file": "photo_010.jpg",
+        "relativePath": "photos/owner/photo_010.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0jOOgckr3j1THxfXIl01sTsyrUy393EzNYwNU8bcawO9eV-q6DnVkl2kbE5c0Nd_hf5c0JMbaux91vyD__eXlYTeaaQNo8gm5rxqb4ePlCyQal6ktshC2B2VpGm60qmHaVXfF=s0"
+      },
+      {
+        "index": 13,
+        "file": "photo_013.jpg",
+        "relativePath": "photos/owner/photo_013.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeClyeQPg6amwhjwdYbFayNfitYcf3ZulSBVxhaEGLvUYJoBfppxV0LVZTSlQVm7GP-gllXNzKCCmBXnY8mAMcU6gmn00Hzx9iaKEki7HFPGixYC9i3R_EBj8x0B7pwN3LwZRkTDA=s0"
+      },
+      {
+        "index": 16,
+        "file": "photo_016.jpg",
+        "relativePath": "photos/owner/photo_016.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciKfDzuJ6gGn_NjzA7B5TmtSQ6fyp5cpShGtW6uXCZQdVt0QddlUor603gvhKQm3yHUt790k6KeHjS5RwQyL1jiHxLqbyfZ2tcOU95RfoiUZZUDGIzVSOMgFJMSuYvaalknR3usw=s0"
+      },
+      {
+        "index": 9,
+        "file": "photo_009.jpg",
+        "relativePath": "photos/owner/photo_009.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdydmHMjBmJmiKO-zN68dlB-f_Y_85xN5gkpRf179ZoNCM2ECgb1w1ZNCrKXaIVYbGYwArArLizlvevRAvIc5SlDo6Z86HO3gc7FLKh-xjbXcr74d_fdk0PAz3XhxuplSCQHAaE=s0"
+      },
+      {
+        "index": 14,
+        "file": "photo_014.jpg",
+        "relativePath": "photos/owner/photo_014.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxhVdXlLzAkNwea_58D8iCahYwoMQiXKWG7eyhcVcoHUn1hLyi7wI_9_6CN3GOpAIUBBmOmfp-uJpmYlmyWWWKqbOUFAXzXSeN_AOpXPr2Y6i3TkGg7ghGAwk7ojK85QWMX4o=s0"
+      },
+      {
+        "index": 12,
+        "file": "photo_012.jpg",
+        "relativePath": "photos/owner/photo_012.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFXOS8ddwY-pGTTg5MnJEJt2oO_YVlFgZW-sIVpKEh1bZXesg4GxMRTeqsEhYJEOKTiv5b8RaNL4A1WGgCZFmkmfh8xbuBx-iE-kKVz90dz7BP2bbx4xEaQOWUJgwwLPp2by71mQ=s0"
+      },
+      {
+        "index": 11,
+        "file": "photo_011.jpg",
+        "relativePath": "photos/owner/photo_011.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcY2aEVoKb22hu5ez84XfPkh_-P1Z6KsikPCXVyrj8ZWq2yqCuD8881L0axJgADDqghT9L8iiTvzsQ3BphtGmdVa4Uhep0qWoDDigbkObbAsY9QykDhmT-LvGfO1FqdFANanhA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Michelle Schoedel",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Michelle Schoedel",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Michelle Schoedel",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Michelle Schoedel",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "tessa",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "tessa",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "tessa",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "tessa",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Daniel Umstead",
+        "file": "review_photo_015.jpg",
+        "relativePath": "photos/reviews/review_photo_015.jpg"
+      },
+      {
+        "author": "Daniel Umstead",
+        "file": "review_photo_013.jpg",
+        "relativePath": "photos/reviews/review_photo_013.jpg"
+      },
+      {
+        "author": "Heather Knapp",
+        "file": "review_photo_009.jpg",
+        "relativePath": "photos/reviews/review_photo_009.jpg"
+      },
+      {
+        "author": "Daniel Umstead",
+        "file": "review_photo_016.jpg",
+        "relativePath": "photos/reviews/review_photo_016.jpg"
+      },
+      {
+        "author": "Heather Knapp",
+        "file": "review_photo_011.jpg",
+        "relativePath": "photos/reviews/review_photo_011.jpg"
+      },
+      {
+        "author": "Daniel Umstead",
+        "file": "review_photo_014.jpg",
+        "relativePath": "photos/reviews/review_photo_014.jpg"
+      },
+      {
+        "author": "Heather Knapp",
+        "file": "review_photo_010.jpg",
+        "relativePath": "photos/reviews/review_photo_010.jpg"
+      },
+      {
+        "author": "Heather Knapp",
+        "file": "review_photo_012.jpg",
+        "relativePath": "photos/reviews/review_photo_012.jpg"
+      }
+    ]
+  }
+}

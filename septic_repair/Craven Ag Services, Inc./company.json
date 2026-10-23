@@ -1,0 +1,66 @@
+{
+  "name": "Craven Ag Services, Inc.",
+  "rating": 4.6,
+  "reviewCount": 92,
+  "category": "Septic system service",
+  "address": "2115 NC-55, New Bern, NC 28562, United States",
+  "phone": "+1 252-633-5334",
+  "phoneRaw": "+12526335334",
+  "website": "http://cravenag.com/",
+  "plusCode": "5R8Q+86 New Bern, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Craven+Ag+Services,+Inc./@35.1658027,-77.1619378,17z/data=!3m1!4b1!4m6!3m5!1s0x89a8d5b82a1cb801:0x70202f6461bfe5fa!8m2!3d35.1658027!4d-77.1619378!16s%2Fg%2F1v6l8bwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Wilmington",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Craven Ag Services, Inc.",
+  "folderName": "Craven Ag Services, Inc.",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdC3xXNSdtAvB6_MKlvSlJZ3zrF87s0ryBlhznHfB5-creG88NltSrnQStBJHESkXDV0NHLrHwyAH1s1Cq0etRFbPdkM8xHngdfYs6N3EK8cxACpwCnjf4UFybuabfiZ83zZev=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Hao Weinmann",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

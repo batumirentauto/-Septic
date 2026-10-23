@@ -1,0 +1,99 @@
+{
+  "name": "Lakeshore Pumping Service",
+  "rating": 4.8,
+  "reviewCount": 45,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 801-794-9530",
+  "phoneRaw": "+18017949530",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Lakeshore+Pumping+Service/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x874da3d74f987983:0xe6d25a2179cce259!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11pxm3x1pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "UT",
+  "city": "Salt Lake City",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lakeshore Pumping Service",
+  "folderName": "Lakeshore Pumping Service",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctShpPimd6wrC6PcUzE-6HJ0D5xReITdrzO0X_02dFrGl0EOAmeh_gtRGjy7LbPf4JrlBwN6kC9fsSg3uchwghq8Zr6jOUbGLoA_uoLOi4G1DELfTyKa8spjTlChewWeTfjiUeojrNzf2J=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdldoWjJMYZO-u8FIbDkfx3uPEwjUqc_lVikj4bJqkPXKqd6tf5xWsmGPYI_mqBobrb8pIcAigcTfrf6yNcO1qes13TBzx3su6alGAX_J--1U1rBPObnsfO8bBEApTdUpj0Eg1P=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesWOceG9Q07Wllx1cjYxIm6yUfLf-acN3_2S9mrf7AYS3j69muO7PDZqxh9WwHwWPCBBG6MNOQm2qOr0VqP79mzXYVkpiGv60mqog3H59Pqw5sD_xs_gvDjo4gdcw7a0yHRNQ-eg=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5bDuw41FVjpKoZrO6HCWIxCEcD1DXauLHArOcIsTfs1tgMJepjW9tH-Dnzy9idID9gcD9_xweJfpz0tOdBV69t9tN2ghx82kAnTt21p-P7Tq9ccRZ12OUuGqrkQBHCW45CuOgpWE4Yfij=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "E. Jeffrey Hill",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Melany Fausto",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "E. Jeffrey Hill",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Andra Stowe",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

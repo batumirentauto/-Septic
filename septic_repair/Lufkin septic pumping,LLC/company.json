@@ -1,0 +1,53 @@
+{
+  "name": "Lufkin septic pumping,LLC",
+  "rating": 5,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "153251, Lufkin, TX 75915, United States",
+  "phone": "+1 936-414-6047",
+  "phoneRaw": "+19364146047",
+  "website": null,
+  "plusCode": "979M+H4 Lufkin, Texas, USA",
+  "url": "https://www.google.com/maps/place/Lufkin+septic+pumping,LLC/@31.3689259,-94.7171256,17z/data=!3m1!4b1!4m6!3m5!1s0x2fde08bd50766f6f:0xc22c477b83beecaa!8m2!3d31.3689259!4d-94.7171256!16s%2Fg%2F11qh838hbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Tyler",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lufkin septic pumping,LLC",
+  "folderName": "Lufkin septic pumping,LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

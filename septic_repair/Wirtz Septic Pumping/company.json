@@ -1,0 +1,48 @@
+{
+  "name": "Wirtz Septic Pumping",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "4338 Kruegers Quarry Rd, Oconto, WI 54153, United States",
+  "phone": "+1 920-834-2151",
+  "phoneRaw": "+19208342151",
+  "website": null,
+  "plusCode": "R2QC+97 Oconto, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Wirtz+Septic+Pumping/@44.838492,-87.979255,17z/data=!3m1!4b1!4m6!3m5!1s0x88029a8469b4e4d3:0x45455dc1e51924c9!8m2!3d44.838492!4d-87.979255!16s%2Fg%2F1tdf1y53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Appleton",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wirtz Septic Pumping",
+  "folderName": "Wirtz Septic Pumping",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGcTY6zltrpGpKULeJCc75NAbj23c2cSzn2AT13M-wHa-w0SMNwNw0cARDrgwfVV1i03LFIMKI9Rhvbiekq3UGZrkcqcemzuBddYKqrOENgjTtkQO8biDYm2hiqMGNh64lXML6=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl0A6hjR8hjhmCJ20nP9IcTx4SVPhlL6HFbKfUT_9dBBOEyWzxrABiINE0poNzKMao6gwV3A-32qtXSHh7iR-7Apfqw1WJGFQVQbB9ix6c3sh8bOEfvUJRrQqpZfBsVG__d-w=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Scott Gorski",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Scott Gorski",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

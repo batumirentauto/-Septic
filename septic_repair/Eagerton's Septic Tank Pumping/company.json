@@ -1,0 +1,83 @@
+{
+  "name": "Eagerton's Septic Tank Pumping",
+  "rating": 4.7,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "1093 N McDuff Ave Ste B, Jacksonville, FL 32254, United States",
+  "phone": "+1 904-645-7090",
+  "phoneRaw": "+19046457090",
+  "website": "http://www.eagertonseptic.com/",
+  "plusCode": "87QV+QW Robinson's Addition, Jacksonville, FL, USA",
+  "url": "https://www.google.com/maps/place/Eagerton's+Septic+Tank+Pumping/@30.3393924,-81.7051622,17z/data=!3m1!4b1!4m6!3m5!1s0x88e5b92e2b0562dd:0x2d3b71b7875f2c16!8m2!3d30.3393924!4d-81.7051622!16s%2Fg%2F11rwjc1t5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Jacksonville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Eagerton's Septic Tank Pumping",
+  "folderName": "Eagerton's Septic Tank Pumping",
+  "totalPhotosDownloaded": 5,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVYu_1k27Xgf3z_YuPkH5DucTY1R3uTUZ6fQ_iEt49fE5o6aBUVjcxNDpMMJcx5mUvdW65BlXFqFU2k8fHL5DSoBEXCXZKvoiMCs8_D_LQBofosYhcN9BdfxUVrwgOTvhjrd1FcA=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgQHoZZKDy3Lj6rRrCmz0Y174zy-g-JY0O6de0sqI1SMLmh7FpD0XXV4HywqQDWoyuKGXUoiubru7Xkx8Q4GT4inf2zLz8LYFnDtGmqQegMPKJbCTaLQgR6uyjSvhX0ML_mrUkyw=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRmvu5BhhT_x-Fc8a53Qubx4MmVUraAz3brnv1jnO4UQ8mfoGwopugKscbRtcpfNp6OYO77YwzP8gkKZjBbZyDUzkGEc23L-EavcSByi9ejZVfCt-2Kkxs731VFFnKJRDwjpQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Charity Clark",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Katherine Berry",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

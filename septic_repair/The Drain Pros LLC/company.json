@@ -1,0 +1,53 @@
+{
+  "name": "The Drain Pros LLC",
+  "rating": 5,
+  "reviewCount": 40,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 970-619-0724",
+  "phoneRaw": "+19706190724",
+  "website": "https://thedrainprofessionals.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/The+Drain+Pros+LLC/@40.5374255,-105.0609745,11z/data=!3m1!4b1!4m6!3m5!1s0x4d5ba46a526cea21:0x13246c0113ab5a9f!8m2!3d40.5374255!4d-105.0609746!16s%2Fg%2F11kpp8fv1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Fort Collins",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/The Drain Pros LLC",
+  "folderName": "The Drain Pros LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

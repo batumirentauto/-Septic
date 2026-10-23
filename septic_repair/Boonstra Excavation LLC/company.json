@@ -1,0 +1,107 @@
+{
+  "name": "Boonstra Excavation LLC",
+  "rating": 5,
+  "reviewCount": 101,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 970-278-6151",
+  "phoneRaw": "+19702786151",
+  "website": "https://boonstraexcavation.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Boonstra+Excavation+LLC/@40.3413981,-105.1041584,10z/data=!3m1!4b1!4m6!3m5!1s0xab823ed7c4c53abf:0x3fbee50c3bc47d84!8m2!3d40.3413981!4d-105.1041584!16s%2Fg%2F11pv6hc5zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Fort Collins",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Boonstra Excavation LLC",
+  "folderName": "Boonstra Excavation LLC",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLca2582EgZ8LHV2utMN4IAgomRKi54QRtjjVcCGdjDYb-H6wUF4IOzLVumgEN70H0FAOUkamf_5mKnm2Va0h6Lccxrgi9Rg7-1ZlHoBYdrw88zSFCXQEiNKxxLafoaIRewduZZEbxoX6QMN=s0"
+      },
+      {
+        "index": 9,
+        "file": "photo_009.jpg",
+        "relativePath": "photos/owner/photo_009.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXD8N9VYn-Qnjr9ovXWsRTuKWvfiFBDb52Uj4l_LayxrdARAzqLMM__cFk2TW8HoFM_niwLy1G0a2utzzmNU4MtWis_u5-KBN5KWGnDRPpqVpm8RLVIS3CQY1ITa_SRYpsHNxoZd3P7d9d=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "David Tyner",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Diana Precht",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Michael Goshorn",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Michael Goshorn",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "David Tyner",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "David Tyner",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Rob Rose",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Rob Rose",
+        "file": "review_photo_009.jpg",
+        "relativePath": "photos/reviews/review_photo_009.jpg"
+      }
+    ]
+  }
+}

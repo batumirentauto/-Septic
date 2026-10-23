@@ -1,0 +1,66 @@
+{
+  "name": "Alabama Septic Services, LLC",
+  "rating": 4.8,
+  "reviewCount": 66,
+  "category": "Septic system service",
+  "address": "6576 Pumpkin Rd, Montgomery, AL 36108, United States",
+  "phone": "+1 334-657-5527",
+  "phoneRaw": "+13346575527",
+  "website": "https://www.alabamasepticservices.com/",
+  "plusCode": "9G4R+WM Montgomery, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Alabama+Septic+Services,+LLC/@32.357337,-86.458268,17z/data=!3m1!4b1!4m6!3m5!1s0x888e83e6aaaaaaab:0x7a593eed0e8aafd9!8m2!3d32.357337!4d-86.458268!16s%2Fg%2F1tj8b5xj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Montgomery",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Alabama Septic Services, LLC",
+  "folderName": "Alabama Septic Services, LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8JU5BpAVRkCOgQjl_5uhE2NGzqJqU3HGoEI9vYRWpMKTor60pGV3VqK1hXhiehpzZ76Fi5WW-qcJWQ0nFNRU4FTndiqnD4GxDFzHXdHU7N--HFY-rzM8b8NlpFxri1Zc1shjp=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Travis McGowin",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

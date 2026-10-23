@@ -1,0 +1,53 @@
+{
+  "name": "Valley Septic Services",
+  "rating": 5,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "4535 117th St, Chippewa Falls, WI 54729, United States",
+  "phone": "+1 715-723-2474",
+  "phoneRaw": "+17157232474",
+  "website": null,
+  "plusCode": "WH59+V8 Chippewa Falls, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Valley+Septic+Services/@44.9097099,-91.431706,17z/data=!3m1!4b1!4m6!3m5!1s0x87f8a41b040346bf:0x3a1fce76ce29939a!8m2!3d44.9097099!4d-91.431706!16s%2Fg%2F1vkxmv0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Eau Claire",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Valley Septic Services",
+  "folderName": "Valley Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Johnson's Septic Service, Inc.",
+  "rating": 4.6,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 321-231-1190",
+  "phoneRaw": "+13212311190",
+  "website": "http://johnsonsepticservices.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Johnson's+Septic+Service,+Inc./@28.5665395,-81.26076,10z/data=!3m1!4b1!4m6!3m5!1s0x88e777b8cf715ec3:0xf7d922f83b72c54e!8m2!3d28.5665396!4d-81.26076!16s%2Fg%2F1wk4dwnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Orlando",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Johnson's Septic Service, Inc.",
+  "folderName": "Johnson's Septic Service, Inc.",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesFt2NPSsYcBKiaIqO5YVBUDaA7MNpiX4zmpq6pDwTxDvOzUwaZoCCU6O_8Y6v9Wx0i85wwJw3Nw383YTmF1O_5cM91kPtCX-NAHU0OIYtZgGky8mKFf3nPGbTwmeNBN6HocjdGA=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFqy6q2BL2qHBaOZ--0nJa1PuzwhUvmdCKxgQaGD4lipff8P0655cq1WOR7hv0xubHKOCBu6y69bP2sUaxBsaH02vGXCosJeFvohd_fOis3ALcrILD_JSF7KaxUzeZGMsaQSmo=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Shawn Meece",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Shawn Meece",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "M & K Septic Tank Pumping",
+  "rating": 4.8,
+  "reviewCount": 48,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 828-294-4063",
+  "phoneRaw": "+18282944063",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/M+%26+K+Septic+Tank+Pumping/@35.722865,-81.4560596,10z/data=!3m1!4b1!4m6!3m5!1s0x8851295a2d07fcef:0xfaf25561e08fff4e!8m2!3d35.722865!4d-81.4560596!16s%2Fg%2F1tg3bt17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Hickory",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/M & K Septic Tank Pumping",
+  "folderName": "M & K Septic Tank Pumping",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjsXfs6MzQhrr0Zz6ZCqnqvTa9vMGXvCVx_2UyV9y4Mw5CmHThCIEr241xDv2XbJsc0PtS51lrpBxy1n1qILf6e3oLjkNPU0G7Sb2Odn4mwY4MpG7brvrN_cZNm96UqmfZzKgGpg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Julie Cordora",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

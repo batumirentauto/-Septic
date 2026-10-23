@@ -1,0 +1,53 @@
+{
+  "name": "Donahue Septic Tank Services",
+  "rating": 4.6,
+  "reviewCount": 37,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 336-621-7560",
+  "phoneRaw": "+13366217560",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Donahue+Septic+Tank+Services/@35.445166,-79.86097,7z/data=!3m1!4b1!4m6!3m5!1s0x88531f8a157efad7:0x794a0ec263365729!8m2!3d35.445166!4d-79.86097!16s%2Fg%2F1td2c0vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Greensboro",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Donahue Septic Tank Services",
+  "folderName": "Donahue Septic Tank Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

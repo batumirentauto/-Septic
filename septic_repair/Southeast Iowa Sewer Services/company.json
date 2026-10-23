@@ -1,0 +1,53 @@
+{
+  "name": "Southeast Iowa Sewer Services",
+  "rating": 5,
+  "reviewCount": 92,
+  "category": "Drainage service",
+  "address": "1639 Nebraska Ave, Mt Union, IA 52644, United States",
+  "phone": "+1 319-931-4219",
+  "phoneRaw": "+13199314219",
+  "website": null,
+  "plusCode": "3G9R+WR Mt Union, Iowa, USA",
+  "url": "https://www.google.com/maps/place/Southeast+Iowa+Sewer+Services/@41.0697853,-91.457944,17z/data=!3m1!4b1!4m6!3m5!1s0x87e6bda5993edbdd:0xd71e98763d5e6b2b!8m2!3d41.0697853!4d-91.457944!16s%2Fg%2F11thft25t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IA",
+  "city": "Iowa City",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Southeast Iowa Sewer Services",
+  "folderName": "Southeast Iowa Sewer Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

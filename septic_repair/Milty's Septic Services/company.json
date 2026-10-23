@@ -1,0 +1,99 @@
+{
+  "name": "Milty's Septic Services",
+  "rating": 4.9,
+  "reviewCount": 59,
+  "category": "Septic system service",
+  "address": "105 Hidden Ridge Rd, Stigler, OK 74462, United States",
+  "phone": "+1 918-451-4362",
+  "phoneRaw": "+19184514362",
+  "website": null,
+  "plusCode": "7GF6+WP Longtown, Oklahoma, USA",
+  "url": "https://www.google.com/maps/place/Milty's+Septic+Services/@35.2747642,-95.4882291,17z/data=!3m1!4b1!4m6!3m5!1s0x87b5bb8345ea957d:0x857d22c26a6227bc!8m2!3d35.2747642!4d-95.4882291!16s%2Fg%2F11ghp5mmxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Tulsa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Milty's Septic Services",
+  "folderName": "Milty's Septic Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLejInK9YaK5XipTTitgtICrDstHlmz8spD05VwT6EwImo052fxOh0GETwBjgQ5pfkK2-f4iRTSALVr3xn69zr3TyhiGK_m0sQj90mVI0vpdnDwzxQUMgx_IQeZYK39kYSdbHIKS=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc38eQlnPNreuj3U8KOZ5GQQ2rgSK5iF0Okw9xUXTnnGHaLhfM19Su2QwXKMctiuAMPk1jzNCEdVMUTgyjE6gX-f0Py-PbslXfn97G498FWVSb-yYxU7aZwGqrO_AR35qJEhLvP=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3Vi7gQZYAoAZyqPRf5oDqIyVZher3pTxw5UTJO26gDvOrwew63YmAzQv7MwmcnfY0DEgFtM3jzxKqlLBYlohTv9os0w1zevNAVk15nGAHpeipl013m7QwgAAtph_nb4EiMIUgLA=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetJbf23X5qL6_iWpaS2F5TXRt8LMCJGFD8dVBqZDd9G6FVTQrppxQfhfeP09TtmA1zLR3Pg6WyNxvFXzEFG4QKUbtDw8-psYEXRYdlGDiJGt9shSL90P6_G17NCmRRo8DuzOdL=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mark Weigt",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Mark Weigt",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Mark Weigt",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Michael",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

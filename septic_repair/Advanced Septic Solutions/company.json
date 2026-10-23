@@ -1,0 +1,53 @@
+{
+  "name": "Advanced Septic Solutions",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "1133 Gum Rd, Seneca, MO 64865, United States",
+  "phone": "+1 417-438-7970",
+  "phoneRaw": "+14174387970",
+  "website": null,
+  "plusCode": "X94M+3X Seneca, Missouri, USA",
+  "url": "https://www.google.com/maps/place/Advanced+Septic+Solutions/@36.9551722,-94.6151235,17z/data=!3m1!4b1!4m6!3m5!1s0x87c8692a4bc5a997:0x3c347e6708ae201d!8m2!3d36.9551722!4d-94.6151235!16s%2Fg%2F1tftlr56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Springdale",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Advanced Septic Solutions",
+  "folderName": "Advanced Septic Solutions",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Fatboy Grease Trap Services",
+  "rating": 5,
+  "reviewCount": 86,
+  "category": "Waste management service",
+  "address": "2479 San Marcos Dr, Forney, TX 75126, United States",
+  "phone": "+1 214-892-3733",
+  "phoneRaw": "+12148923733",
+  "website": "http://www.fatboygreasetrap.com/",
+  "plusCode": "QGV6+2V Forney, Texas, USA",
+  "url": "https://www.google.com/maps/place/Fatboy+Grease+Trap+Services/@32.7925181,-96.4878351,17z/data=!3m1!4b1!4m6!3m5!1s0x2b53481e459682a5:0xf98b653a977a5cac!8m2!3d32.7925181!4d-96.4878351!16s%2Fg%2F11qgl8rj6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Dallas",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Fatboy Grease Trap Services",
+  "folderName": "Fatboy Grease Trap Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

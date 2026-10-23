@@ -1,0 +1,53 @@
+{
+  "name": "Gross Family Plumbing LLC",
+  "rating": 4.8,
+  "reviewCount": 183,
+  "category": "Plumber",
+  "address": "1750 Research Way #3600, Salt Lake City, UT 84119, United States",
+  "phone": "+1 385-331-1988",
+  "phoneRaw": "+13853311988",
+  "website": null,
+  "plusCode": "P366+H2 Salt Lake City, Utah, USA",
+  "url": "https://www.google.com/maps/place/Gross+Family+Plumbing+LLC/@40.7113897,-111.9398829,17z/data=!3m1!4b1!4m6!3m5!1s0x87528bfd4cee9397:0xf3a6e7d713e6ecbe!8m2!3d40.7113897!4d-111.9398829!16s%2Fg%2F11kn802gy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "UT",
+  "city": "Salt Lake City",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gross Family Plumbing LLC",
+  "folderName": "Gross Family Plumbing LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

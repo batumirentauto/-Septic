@@ -1,0 +1,77 @@
+{
+  "name": "Chuckanut Plumbing, LLC",
+  "rating": 4.8,
+  "reviewCount": 32,
+  "category": "Plumber",
+  "address": "2423 Old Lakeway Dr, Bellingham, WA 98229, United States",
+  "phone": "+1 360-603-8199",
+  "phoneRaw": "+13606038199",
+  "website": "https://www.chuckanutplumbing.com/",
+  "plusCode": "PHW4+2P Bellingham, Washington, USA",
+  "url": "https://www.google.com/maps/place/Chuckanut+Plumbing,+LLC/@48.7450575,-122.4432446,17z/data=!3m1!4b1!4m6!3m5!1s0x5485a3e197ddd9cf:0xa275f1434dae70f3!8m2!3d48.7450575!4d-122.4432446!16s%2Fg%2F11r75qyqct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Bellingham",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Chuckanut Plumbing, LLC",
+  "folderName": "Chuckanut Plumbing, LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRGDzQWf1GgNXHWuYiEr7cRPG-mODznJc0qjc7rSTJzwtH6EttsjiZKLTitqbLeiWU_XjR5Z-E5U1mBuwOHIIuX5CU0S2yXs1FrkhFlATnNAzq02La1stBWsT0SMdHAcEduhA=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiOR-TONiLdU2OK3V1aOq52TvKZYlsPQFwA4P16-kKM4mZhv1lJ7GVcPlbDFm61CzQTznc_b_TGuQBaYF1UIl0R7NratFThoLubvcN3jcwPzyYTYjkSZZyoR_V4oq3Qv1WLcJTdw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dianne Burr",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Dianne Burr",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

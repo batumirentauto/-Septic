@@ -1,0 +1,66 @@
+{
+  "name": "Garside Sewer & Septic Service LLC",
+  "rating": 4.8,
+  "reviewCount": 55,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 603-432-9300",
+  "phoneRaw": "+16034329300",
+  "website": "http://www.garsideseptic.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Garside+Sewer+%26+Septic+Service+LLC/@42.8017605,-71.4871779,11z/data=!3m1!4b1!4m6!3m5!1s0x89e3ad925d42d759:0x886542b7add5a2c1!8m2!3d42.8017605!4d-71.4871779!16s%2Fg%2F1thqhs61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Nashua",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Garside Sewer & Septic Service LLC",
+  "folderName": "Garside Sewer & Septic Service LLC",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuta6tx83ccDmfS5bN8prmqJ1GfSVIu8pIsu2mYUSo0YLgg7qgu3vkHSKxyM5fBO3NuWQOItzaLT01XaHZJg8yoZAhFtxC8_HVQnLI2nQHot28GZC92tqKwYkNcbUSo2d2BLceHw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Stephen Punzak",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

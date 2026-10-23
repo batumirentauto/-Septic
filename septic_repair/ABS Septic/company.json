@@ -1,0 +1,77 @@
+{
+  "name": "ABS Septic",
+  "rating": 4.7,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 570-955-6698",
+  "phoneRaw": "+15709556698",
+  "website": "https://abssepticpa.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/ABS+Septic/@41.3408709,-75.0243725,10z/data=!3m1!4b1!4m6!3m5!1s0x89c4a61de052c369:0x4a9b7ee9f10c2735!8m2!3d41.3408709!4d-75.0243724!16s%2Fg%2F11dxs1476v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Sussex",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 520)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ABS Septic",
+  "folderName": "ABS Septic",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8_I6o8rMr_H1uwz-ySktUq0PLeJB_gaJ11IR4HwsdLtouxBou7YQss4LSewnewfLOKUbm0EmmNeKzgAFBYuNlVTeQhly1c3uJkaYreQQsza9zSifyz_LseOW5VSav4LZ4OERn3Yqv1R4=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf73l7-nN4UWXkj9H5YAD8y-rsqRdrjF5iGrJ-SlGRiPkuf9XEs-I0tV8f6aJgMFuapv5--x4gcz63NdtmnLcnMrjIrq1hKN_9yhNB2FqdsEsgi8KoA-aOsmJ5jW9r_6J75EJcTlg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mary Muscari",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "William Jara",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

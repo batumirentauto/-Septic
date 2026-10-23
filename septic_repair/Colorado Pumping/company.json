@@ -1,0 +1,88 @@
+{
+  "name": "Colorado Pumping",
+  "rating": 5,
+  "reviewCount": 111,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 303-278-1884",
+  "phoneRaw": "+13032781884",
+  "website": "http://coloradopumping.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Colorado+Pumping/@39.74308,-104.9328559,10z/data=!3m1!4b1!4m6!3m5!1s0x876b85964f820625:0x4d4f114ab0a3a927!8m2!3d39.74308!4d-104.9328559!16s%2Fg%2F11bxds8zh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Denver",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Colorado Pumping",
+  "folderName": "Colorado Pumping",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf35tqpk5IFxm37JlQBTDw3NRKMqnomsG9cnx9IF1Kjl8b83dqKFuBY17hFws5I69DCMzItmhm42gXh3yytJTy_BaWicCMoMQuH1PXVPzD9AWeKhOSEfAoJvzjYjBqm8hnSmPp60w=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcccjUWwdVd4yIml1x2GjEV6H8P16JlC4A3egekgfX1AxMn9fTQD4jol0KARWU68drYXHsNztiVyULqOHdz9ATVH_UDAMwfD-Bt0rKqD_-w78GemWRwv5ifqVsu1AWXNXvuQ8pfXw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezAFtAjkLZBRxNSW3NZS0Zo5T2ohCXmGhXX7s0lLEpuhro69WVTpAdQ1N4P_i88EODGHNU938KLckFPJMn40k-2NhZGUzJc8eXdacnIjFEiqeKqGuZLeyoWZWGqmnVVL6Pf8kq=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Daniel Cofrades",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Daniel Cofrades",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Daniel Cofrades",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

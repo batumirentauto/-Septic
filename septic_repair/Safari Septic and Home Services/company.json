@@ -1,0 +1,71 @@
+{
+  "name": "Safari Septic and Home Services",
+  "rating": 4.9,
+  "reviewCount": 40,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 321-221-0300",
+  "phoneRaw": "+13212210300",
+  "website": "https://safarisepticandhomeservicesllc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Safari+Septic+and+Home+Services/@28.481232,-81.3427941,11z/data=!3m1!4b1!4m6!3m5!1s0x88e743250766e585:0x7e1770bbf73117d6!8m2!3d28.481232!4d-81.3427941!16s%2Fg%2F1hhkvsnpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Orlando",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Safari Septic and Home Services",
+  "folderName": "Safari Septic and Home Services",
+  "totalPhotosDownloaded": 3,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlBWkYWeYZdGVDzCrLmIdAGGex45NXym5d3gp9Sm-sYJUrj4-r56jkZgk1ydhuLaiSCl3kQXUrYflvtZpqWc4SOzNxjt3WhuWgqqbaU8uwnemrjvira-xJjRrJIRzILaV_dY-coOaMzmex=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Julie Dimaiwat",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Julie Dimaiwat",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "CD Services",
+  "rating": 4.8,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": "3647 E Fairview Rd, McAlester, OK 74501, United States",
+  "phone": "+1 918-429-6866",
+  "phoneRaw": "+19184296866",
+  "website": "http://facebook.com/cdservices13",
+  "plusCode": "48WH+2V McAlester, Oklahoma, USA",
+  "url": "https://www.google.com/maps/place/CD+Services/@35.1450245,-95.6703669,17z/data=!3m1!4b1!4m6!3m5!1s0x87b4fd1d1e9960f3:0xad45ee4ed1b18252!8m2!3d35.1450245!4d-95.6703669!16s%2Fg%2F1262mcbwk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Tulsa",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/CD Services",
+  "folderName": "CD Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHXrVrI7LRuCdb_vICLSj4JVI3K2ly1iO8Rum7vbffBrGZjd7_SFkub_qD0xw48_L16yuJdfqa1nXBEXbO6KKimqsWBqxLx4vAp0xMdNZd3NdFaFDwE2bPbJcZOKirwv2jZBMnmDA9rRKl=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfkdXQk2XseOvWqeGg73EYGWmpb8-FTESpWHsoMdYOFCVztZ6WUtYzQyu63tpX6VK-Da6TU8_rx6bicDSNUQUbfVR1cjV7xglO1Q4m0mlvyUV28F4CO-dsLduAkOK28r2ThfQ-=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_DSUQbZhLTlai3cs2DmukF7imkWTk1XhDcfLRYnyKPuvoSvC8KfYBya3G0LZPMwhMGWvsooBiA8kAuSccBDPcLe73EPT_03MAaSrOBmwbROGq37UNjTIRTrb5bpFfDpawpWH8pw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPxGiSffLWn9vfjYOidlE9SUJkijaVJ3Q2Ja9HxHrbnj4EzK-mmjuh3VPZoPC0vhqfSmR8niLrnCqVIHHJB0Xv2KOOJ9-bmvDcc1on8zNy7txJVXIVDaw5lWkY23qIGg7U6M89=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Lilly Steece",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Fred M.",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Fred M.",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Fred M.",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

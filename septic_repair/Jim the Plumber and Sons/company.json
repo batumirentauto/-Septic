@@ -1,0 +1,66 @@
+{
+  "name": "Jim the Plumber and Sons",
+  "rating": 4.9,
+  "reviewCount": 65,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 803-518-5608",
+  "phoneRaw": "+18035185608",
+  "website": "https://jimtheplumbersc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Jim+the+Plumber+and+Sons/@33.6057195,-80.9266145,8z/data=!3m1!4b1!4m6!3m5!1s0x88f8bd53bb974653:0x7f2c3779d3d7b0bd!8m2!3d33.6057194!4d-80.9266144!16s%2Fg%2F11gtc0yxfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Columbia",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jim the Plumber and Sons",
+  "folderName": "Jim the Plumber and Sons",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduJb3xsgpf_9EOYeG1BQ3YbxibUZ1B5HKNCMDL7oBhasNLZAPXL2xy9nFItizP9NAVjl-NmNBmXepVJfOqU980v_DfA2E1FVhc8f4-GNxDusuunR6mbTLQYdeypeluSkSznUFm=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jeffery Myers",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

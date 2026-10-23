@@ -1,0 +1,53 @@
+{
+  "name": "Hills Septic Service",
+  "rating": 4.8,
+  "reviewCount": 67,
+  "category": "Septic system service",
+  "address": "3880 SE 59th Pl, Ocala, FL 34480, United States",
+  "phone": "+1 352-648-2654",
+  "phoneRaw": "+13526482654",
+  "website": "http://www.hillsseptic.biz/",
+  "plusCode": "4WG9+X2 Ocala, Florida, USA",
+  "url": "https://www.google.com/maps/place/Hills+Septic+Service/@29.1274559,-82.0823841,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7d3be8c4adf47:0x5aacc993fc6ef571!8m2!3d29.1274559!4d-82.0823841!16s%2Fg%2F11pgylzpl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "FL",
+  "city": "Orlando",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hills Septic Service",
+  "folderName": "Hills Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

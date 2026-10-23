@@ -1,0 +1,110 @@
+{
+  "name": "Nest & Sons Inc",
+  "rating": 4.8,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "2 Boulder Dr, Kennebunk, ME 04043, United States",
+  "phone": "+1 207-985-2581",
+  "phoneRaw": "+12079852581",
+  "website": "http://www.nestseptic.com/",
+  "plusCode": "CCV4+P9 Kennebunk, Maine, USA",
+  "url": "https://www.google.com/maps/place/Nest+%26+Sons+Inc/@43.4442663,-70.5940424,17z/data=!3m1!4b1!4m6!3m5!1s0x4cb2b04ae5fc006f:0x6de239b2828f7544!8m2!3d43.4442663!4d-70.5940424!16s%2Fg%2F1tcy8h94?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NH",
+  "city": "Manchester",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Nest & Sons Inc",
+  "folderName": "Nest & Sons Inc",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp_8QeF2tVagsZyJrRz2dYVHrjggei8D8fOLt9HQKSn-QOz24zM9qY_0QIUIWqlepPAOYBlzmJydoXS98RVG_ROLQFOiTV1AC0z5gX2mqRMof421p9l9p_FgNQgPxcV4_jYN0ItjgQQ9fu=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdm6DU7dj2hQLEXy_-2jYjk0A5mFXuIOrURdEdRN-Mxtws1aGD9mYXNWyJFNWcCLXKqEncFlK1Ze2CrGWJw3lKupZjgxMtJ5g8vDZQ8AvhTG3v7_4xDDB3xcjTv5-aO885XXcVf9C6r6yJq=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehw2Tdg0dxRuU9Ko6aUI_KaXTOeXnmGxis9tnhFa0mKMBL17ygBolthKJOezsW_6TguKCBM_m8KC-5UWepL9FaqwW2OPartZerUbG3M9t57xIGK4XUeESQLuMcwWzIYedyl5PEvgKqXYc=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebB2w5uevYYpRWGYzBNcuJbIOtaqZIkZTUoEh2Wd03nq8zQi1j4foS69nnD35ybV3Veqog9e3uiWJY3eNcKau1czGUEOKY54TqxOtfpafO-nzLALW6ykSNA-wnEx_FSsUI6yT0UhaRAto_=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBYMOeWLkrVCzCDWPZjp04DhFoZLktictNUI8mbcrpoY6NGpVL_lDwZOPbsjIA_H42WbIALEMRqAePGbAsgU4vzKXLfrqlv-kuYoQVVn4hO9FsQi51fUUcceeXR8FCgiuXgKZLHnBS0CY=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sam Knowlton",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Sam Knowlton",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Sam Knowlton",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Tim Chu",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Sam Knowlton",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

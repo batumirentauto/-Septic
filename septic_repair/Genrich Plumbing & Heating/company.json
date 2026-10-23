@@ -1,0 +1,53 @@
+{
+  "name": "Genrich Plumbing & Heating",
+  "rating": 5,
+  "reviewCount": 43,
+  "category": "Plumber",
+  "address": "5415 Roger Dr, Wausau, WI 54401, United States",
+  "phone": "+1 715-675-2000",
+  "phoneRaw": "+17156752000",
+  "website": "https://www.genrichplumbing.com/",
+  "plusCode": "X75W+Q7 Wausau, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Genrich+Plumbing+%26+Heating/@44.9594213,-89.7043494,17z/data=!3m1!4b1!4m6!3m5!1s0x880020b9606f1053:0xa3253b5a5f894827!8m2!3d44.9594213!4d-89.7043494!16s%2Fg%2F1td65wv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Wausau",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Genrich Plumbing & Heating",
+  "folderName": "Genrich Plumbing & Heating",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

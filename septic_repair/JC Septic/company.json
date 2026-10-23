@@ -1,0 +1,88 @@
+{
+  "name": "JC Septic",
+  "rating": 5,
+  "reviewCount": 174,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 443-521-6606",
+  "phoneRaw": "+14435216606",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/JC+Septic/@38.5742124,-75.7240555,9z/data=!3m1!4b1!4m6!3m5!1s0x67c2929893a32a1f:0xc2bfd8b3a3b18594!8m2!3d38.5742124!4d-75.7240555!16s%2Fg%2F11y2l8vkm5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MD",
+  "city": "Salisbury",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/JC Septic",
+  "folderName": "JC Septic",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxD_13tE-gytEXLCYwpjurAOcCQ7C9gKZuahtKLKistEGekfhNI3IKRd_NCxv_IY8PvSX9B9JVLRn2b8ZP6yI9h175J0VijZV5by6h9jdXEoA9fu6-nST8wv_V4Ki7uAtX0k5WAJz4WPFQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSYt2x2cUKy9Mh4qV4VG_vWjwigbUlTiHkWu41fqnwPVSyt-seKkLlD7iCr7WE83NhpDQfWVUxwna2NfPHpDude-CRxwMUq5NZERScxFWwUE6-wAPRZySzV_ykmaF4tJmekPHsrAFO_YQ=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdClHOC-h55ZZTfqGmk77cNAyRrRlMqtRJykx6eOUbpqW_DO_T8pf9TQgIlKS0sRiMgSn9qUa4ELaWCrY5mMl6uCDXEUIVlK8GfffNlBuVvVlL9rxo8hSKN3Hh6ko08KCa3wmljT6vhYhBW=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Fred Garrity",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Fred Garrity",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Christa Schafer",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

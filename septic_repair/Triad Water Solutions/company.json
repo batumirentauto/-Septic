@@ -1,0 +1,88 @@
+{
+  "name": "Triad Water Solutions",
+  "rating": 5,
+  "reviewCount": 34,
+  "category": "Water pump supplier",
+  "address": "1857 Cirrus St, Redding, CA 96002, United States",
+  "phone": "+1 530-247-5034",
+  "phoneRaw": "+15302475034",
+  "website": "https://www.triadwatersolutions.com/",
+  "plusCode": "HM27+MJ Redding, California, USA",
+  "url": "https://www.google.com/maps/place/Triad+Water+Solutions/@40.5517027,-122.3359581,17z/data=!3m1!4b1!4m6!3m5!1s0x8f655e702535ad37:0x48d3a820e8972d04!8m2!3d40.5517027!4d-122.3359581!16s%2Fg%2F11vc9nrzhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Redding",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Triad Water Solutions",
+  "folderName": "Triad Water Solutions",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLen8ZUnnxcAtAwpeGXb-G44VVXkB1dEA99c5s15LcTQPpicRXHE3bzTe3KH4YMBoW3_kga5ahC732ToqavvdwaK9mhLfttdDJe9VbV8jnQiTIpyTmY6EVKXSl03ewJ6I2C7O68=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_BVNBQ_IZs51kzQnjt4uu0tdEVnFNOkwCXbv0fSX_8H1Z8oa8_FA6noVN56dNgDesmYOsAgqWk15CuyjlN0OMYn-ZADtlr-1JpF9HBUiwrhCCqjXxBqgHNUu9ufVeayGQokHg=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9uWg_IJr5T9lM869-8SqXliu5Q6w7nHOhohbv8e57-V2LmRf7gO0p_v3x5f5e56sl3mVuzEn_urWf6rIafNB2AoktGN-xIswVQE1CVQcTUXS80U_dsCP1uhZQ6SkgznQVcSnC=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Alisha Noe",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Noah Miranda",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Alisha Noe",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Grant’s Drain Care",
+  "rating": 5,
+  "reviewCount": 113,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 864-247-7727",
+  "phoneRaw": "+18642477727",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Grant%E2%80%99s+Drain+Care/@34.764193,-82.940946,10z/data=!3m1!4b1!4m6!3m5!1s0x8858f1d4376dcf65:0x64b460032251ac0b!8m2!3d34.764193!4d-82.940946!16s%2Fg%2F11p3hn6lyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Greenville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Grant’s Drain Care",
+  "folderName": "Grant’s Drain Care",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

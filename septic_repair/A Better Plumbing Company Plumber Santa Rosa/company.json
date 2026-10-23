@@ -1,0 +1,77 @@
+{
+  "name": "A Better Plumbing Company | Plumber Santa Rosa",
+  "rating": 5,
+  "reviewCount": 53,
+  "category": "Plumber",
+  "address": "1410 Neotomas Ave, Santa Rosa, CA 95405, United States",
+  "phone": "+1 707-949-3149",
+  "phoneRaw": "+17079493149",
+  "website": "https://abetterplumbingcompany.com/",
+  "plusCode": "C8M7+74 Santa Rosa, California, USA",
+  "url": "https://www.google.com/maps/place/A+Better+Plumbing+Company+%7C+Plumber+Santa+Rosa/@38.4331998,-122.687209,17z/data=!3m1!4b1!4m6!3m5!1s0x80844901f1eb1a55:0x4534b345b7e9d2fb!8m2!3d38.4331998!4d-122.687209!16s%2Fg%2F11w4l4hrrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Santa Rosa",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A Better Plumbing Company Plumber Santa Rosa",
+  "folderName": "A Better Plumbing Company Plumber Santa Rosa",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6tRxgh04HpoQl6yP_9AMzNnfDJeto__wOLM6mzMToUjNA5Tiud5_8GkcNqVykQgxoZF6KPx8F91kt-bvks58mac4UEfjfpcgGIjfiwP5RbHd3jFTWgXdjkIL4sH8EJjHLlING-W9mMaZo=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcw6gvaO9sYyntyNkWjYyOAcmpOX6IzYyXqCRKDjIXUaifxJr3kekworST_rBwMbvcBpHmgPAQhxpb-eJ0zcAuZDZdxfh8xbrO_c5Ttt5_00F0kyGRTN9gvIW8N3YgRrOQPefKmiGILxzI=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Steve Koenig",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Bud Schroeder",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

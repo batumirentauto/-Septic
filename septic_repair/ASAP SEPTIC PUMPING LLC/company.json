@@ -1,0 +1,59 @@
+{
+  "name": "ASAP SEPTIC PUMPING LLC",
+  "rating": 5,
+  "reviewCount": 167,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 208-390-7559",
+  "phoneRaw": "+12083907559",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/ASAP+SEPTIC+PUMPING+LLC/@43.9210931,-111.733982,9z/data=!3m1!4b1!4m6!3m5!1s0x53546fc9d90eeb67:0xff32d57c9f80c51e!8m2!3d43.9210931!4d-111.733982!16s%2Fg%2F11hfsjlvbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ID",
+  "city": "Idaho Falls",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/ASAP SEPTIC PUMPING LLC",
+  "folderName": "ASAP SEPTIC PUMPING LLC",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Russ Hanson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

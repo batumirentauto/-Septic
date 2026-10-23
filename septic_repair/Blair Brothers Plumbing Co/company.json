@@ -1,0 +1,53 @@
+{
+  "name": "Blair Brothers Plumbing Co",
+  "rating": 4.9,
+  "reviewCount": 130,
+  "category": "Plumber",
+  "address": "7300 N Western Ave #4270, Oklahoma City, OK 73116, United States",
+  "phone": "+1 405-544-4843",
+  "phoneRaw": "+14055444843",
+  "website": null,
+  "plusCode": "GFWC+87 Central Oklahoma City, Oklahoma City, OK, USA",
+  "url": "https://www.google.com/maps/place/Blair+Brothers+Plumbing+Co/@35.545825,-97.5292769,17z/data=!3m1!4b1!4m6!3m5!1s0x87b21b401bc75bfd:0x2ada9d3edb6595f2!8m2!3d35.545825!4d-97.5292769!16s%2Fg%2F11hlzyl29d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OK",
+  "city": "Oklahoma City",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Blair Brothers Plumbing Co",
+  "folderName": "Blair Brothers Plumbing Co",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

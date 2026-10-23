@@ -1,0 +1,53 @@
+{
+  "name": "Bryner's Septic Services",
+  "rating": 4.8,
+  "reviewCount": 52,
+  "category": "Septic system service",
+  "address": "3185 E Spicerville Hwy, Charlotte, MI 48813, United States",
+  "phone": "+1 517-543-6576",
+  "phoneRaw": "+15175436576",
+  "website": null,
+  "plusCode": "F6VH+W3 Charlotte, Michigan, USA",
+  "url": "https://www.google.com/maps/place/Bryner's+Septic+Services/@42.4948158,-84.7723614,17z/data=!3m1!4b1!4m6!3m5!1s0x8822adf58dfdc40b:0x6d895aab2db6057e!8m2!3d42.4948158!4d-84.7723614!16s%2Fg%2F1tk63r45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MI",
+  "city": "Lansing",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bryner's Septic Services",
+  "folderName": "Bryner's Septic Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

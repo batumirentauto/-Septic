@@ -1,0 +1,66 @@
+{
+  "name": "Rozell's septic services",
+  "rating": 4.9,
+  "reviewCount": 65,
+  "category": "Septic system service",
+  "address": "3510 US-79 south, Henderson, TX 75654, United States",
+  "phone": "+1 903-658-0243",
+  "phoneRaw": "+19036580243",
+  "website": null,
+  "plusCode": "459C+Q4 Henderson, Texas, USA",
+  "url": "https://www.google.com/maps/place/Rozell's+septic+services/@32.1194287,-94.8297463,17z/data=!3m1!4b1!4m6!3m5!1s0x8637cb3508b3b37b:0x11873e2192a335f9!8m2!3d32.1194287!4d-94.8297463!16s%2Fg%2F11g4dfm5t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Tyler",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Rozell's septic services",
+  "folderName": "Rozell's septic services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8LEj2-QctF6FecsnN8KZw0wt4mnbn2OkfUrkEtZgPsvGNBhhUIfNJxmlVIPAptYGQdFv-kn_WYRbS7PvELzjXPvwmB-sXXJoM0R7TqirR3wZEPthxhbR-j2WYhEdtrEQN=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jarod Hogan",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

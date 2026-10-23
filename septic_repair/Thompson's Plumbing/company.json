@@ -1,0 +1,77 @@
+{
+  "name": "Thompson's Plumbing",
+  "rating": 4.9,
+  "reviewCount": 118,
+  "category": "Plumber",
+  "address": "102 Corvette Dr, Bowling Green, KY 42103, United States",
+  "phone": "+1 270-777-6857",
+  "phoneRaw": "+12707776857",
+  "website": "https://thompsonsplumbingky.com/",
+  "plusCode": "XJX9+MX Bowling Green, Kentucky, USA",
+  "url": "https://www.google.com/maps/place/Thompson's+Plumbing/@36.9991779,-86.3800338,17z/data=!3m1!4b1!4m6!3m5!1s0x2c2f388bca66395b:0xc56c9c2115b98ffe!8m2!3d36.9991779!4d-86.3800338!16s%2Fg%2F11vyn6rx6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Bowling Green",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Thompson's Plumbing",
+  "folderName": "Thompson's Plumbing",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpoVfSEmX4z0GMpfIv0OTuuOtUkHIGDrnbZrJCs-vaizdwe30F4j4Q3EqBT0b5tNAo1iYrdUEx-g9mlNiFTVoxYvXBni9AHOSclKDBj8CfQ2N33Oz7BWWWeJFHNU3I0Z7kKvpJB4am9_c=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyqkYSOki9HJ4ty3K7J8GV_V-gjGbM_p8bzDpPCTln6e6MJuO11paP_1NBtGoepZa8sOCEhXAG2clei4PYlOvf6TOJB7JOcZ7KfXi-zrnD1kxrDixRMBHsx1HOF0YdWEyNkSQB7w6WGTZp=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Luke Morrow",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Tuss Taylor",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

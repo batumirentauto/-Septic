@@ -1,0 +1,53 @@
+{
+  "name": "Septic Experts",
+  "rating": 4.8,
+  "reviewCount": 101,
+  "category": "Septic system service",
+  "address": "411 N Grove St, Dahlonega, GA 30533, United States",
+  "phone": "+1 706-300-4264",
+  "phoneRaw": "+17063004264",
+  "website": "https://www.callsepticexperts.com/",
+  "plusCode": "G2Q6+5Q Dahlonega, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Septic+Experts/@34.5379832,-83.9880126,17z/data=!3m1!4b1!4m6!3m5!1s0x885f6839592e433f:0x17a2b3767572a279!8m2!3d34.5379832!4d-83.9880126!16s%2Fg%2F11b6vbcgk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Gainesville",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 520)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic Experts",
+  "folderName": "Septic Experts",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

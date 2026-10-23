@@ -1,0 +1,53 @@
+{
+  "name": "A + Onsite, LLC",
+  "rating": 4.8,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": "8465 NW Wildcat Lake Rd, Bremerton, WA 98312, United States",
+  "phone": "+1 360-830-4765",
+  "phoneRaw": "+13608304765",
+  "website": "https://septicrepairservice.com/",
+  "plusCode": "H6VP+CF Bremerton, Washington, USA",
+  "url": "https://www.google.com/maps/place/A+%2B+Onsite,+LLC/@47.5935878,-122.763761,17z/data=!3m1!4b1!4m6!3m5!1s0x549033cac8223647:0x230bf53c24acea31!8m2!3d47.5935878!4d-122.763761!16s%2Fg%2F1tgdhppf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Tacoma",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A + Onsite, LLC",
+  "folderName": "A + Onsite, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

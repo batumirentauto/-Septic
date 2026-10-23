@@ -1,0 +1,88 @@
+{
+  "name": "Jesse Pigeon Plumbing LLC",
+  "rating": 4.9,
+  "reviewCount": 47,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 479-256-1139",
+  "phoneRaw": "+14792561139",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Jesse+Pigeon+Plumbing+LLC/@36.2584931,-94.031963,9z/data=!3m1!4b1!4m6!3m5!1s0x2281b3398cb12355:0xbfd8c90c22b82513!8m2!3d36.2584931!4d-94.031963!16s%2Fg%2F11r_cmrhd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Jesse Pigeon Plumbing LLC",
+  "folderName": "Jesse Pigeon Plumbing LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYNUpFrBVyPIIwosXu9ijof1aFPRKkDIV79tO8xMr8zoY276zXpJfwZPbhSb-F8ZNJSVmnb1eA8W1rLfVrCUQPXbDffK7ghp8jQTU8tVmuYFUYD1C8S9h2rckox0g5z1JM_VYU=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEl8zoukirJwgj81M4aoYdcgmkW_vHcSbSs6elujTyfwUyqnD_pcoEaRQmjjjLo2Als9kp65FLLuT9tbygkkovOH2wo2utbDH54X2_Oi3LG3a-saNXQOlh9rF877x6z8sbRqsD=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfekhBALxo_YhTXbKa0dm1WFl1sBDBxbaWotmlis3obzeYvWM8JJ3CM2U70tbDyro0yVYND5w47WBa4k2P-wDcskwRVP77yOxSChTGs0AFagZVJrCf-whgTAndxYzQ9hb7kzW8IqQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Holly H",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Holly H",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Holly H",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

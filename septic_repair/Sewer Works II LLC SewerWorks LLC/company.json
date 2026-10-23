@@ -1,0 +1,53 @@
+{
+  "name": "Sewer Works II LLC /SewerWorks LLC",
+  "rating": 4.7,
+  "reviewCount": 28,
+  "category": "Septic system service",
+  "address": "17725 Nowthen Blvd NW, Ramsey, MN 55303, United States",
+  "phone": "+1 763-286-6609",
+  "phoneRaw": "+17632866609",
+  "website": null,
+  "plusCode": "7HV4+5Q Ramsey, Minnesota, USA",
+  "url": "https://www.google.com/maps/place/Sewer+Works+II+LLC+%2FSewerWorks+LLC/@45.2929535,-93.4430856,17z/data=!3m1!4b1!4m6!3m5!1s0x52b314dd1e1fc6c7:0x5cf0261e3b3c10e0!8m2!3d45.2929535!4d-93.4430856!16s%2Fg%2F1tlvp54b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MN",
+  "city": "Saint Cloud",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sewer Works II LLC SewerWorks LLC",
+  "folderName": "Sewer Works II LLC SewerWorks LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

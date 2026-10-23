@@ -1,0 +1,74 @@
+{
+  "name": "New Milford Septic Services",
+  "rating": 4.7,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "180 Pickett District Rd, New Milford, CT 06776, United States",
+  "phone": "+1 860-350-8265",
+  "phoneRaw": "+18603508265",
+  "website": "https://newmilfordseptic.com/?utm_source=google&utm_medium=GMB",
+  "plusCode": "HH2Q+F3 New Milford, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/New+Milford+Septic+Services/@41.5511618,-73.4123313,17z/data=!3m1!4b1!4m6!3m5!1s0x89e7f70ddaa6040d:0x3c635508f005b3f7!8m2!3d41.5511618!4d-73.4123313!16s%2Fg%2F1tfsjfpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CT",
+  "city": "New Haven",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/New Milford Septic Services",
+  "folderName": "New Milford Septic Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Martin J Coffey",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Vebe Nyc",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Martin J Coffey",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Vebe Nyc",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

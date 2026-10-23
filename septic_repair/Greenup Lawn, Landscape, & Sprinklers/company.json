@@ -1,0 +1,77 @@
+{
+  "name": "Greenup Lawn, Landscape, & Sprinklers",
+  "rating": 4.7,
+  "reviewCount": 159,
+  "category": "Lawn care service",
+  "address": "1701 33rd Ave NE, Black Eagle, MT 59414, United States",
+  "phone": "+1 406-452-6146",
+  "phoneRaw": "+14064526146",
+  "website": "/aclk?sa=L&ai=DChsSEwipsovM7M6XAxXRD6IDHUHDJ_oYACICCAEQABoCbGU&co=1&ase=2&gclid=EAIaIQobChMIqbKLzOzOlwMV0Q-iAx1Bwyf6EBAYASAAEgITZ_D_BwE&cid=CAASugHkaJMALmeyDPUjecRGzlqMCLPGQbpGV0fyPLgflWjzW3L1dyxVZ3pMcfIcOu4xatgNtHHLui9lL2GhDuQ0yo1ub8uE6AA7QhrVtV9UUnxM8A73TmUTY5_nQlZDtc79HVZ-ykNSEhpxhhANXH4YsOUP2KHR2WmytZkFGCQG1Q9zlMG9KXlUy2B5dnnkwQ19hs2DMneFg8z5GTN-_FBL8tb9TV9nWPZyvnOA2Xm1pLnpkosQRjmQxDFZxBc&cce=2&category=acrcp_v1_33&sig=AOD64_0JiWghzun8KAJrncryhbnaIki9qQ&adurl&q&ctype=99&nis=5",
+  "plusCode": "GPPC+CG Black Eagle, Montana, USA",
+  "url": "https://www.google.com/maps/place/Greenup+Lawn,+Landscape,+%26+Sprinklers/@47.5360297,-111.2787293,17z/data=!3m1!4b1!4m6!3m5!1s0x534239cecce44075:0x85e550cd7ce10f97!8m2!3d47.5360297!4d-111.2787293!16s%2Fg%2F1hc8b00tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MT",
+  "city": "Great Falls",
+  "websiteIssue": "Сайт не открывается (ERR_INVALID_URL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Greenup Lawn, Landscape, & Sprinklers",
+  "folderName": "Greenup Lawn, Landscape, & Sprinklers",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfScwxf2aWBDXnJXigzNRKlT2vgPow-n1AqOHlH9-Y_Wk-9lV3-YODt96C8diqWrUE_3zCZ1xIjXu4-OvDTrhUmKh_DZ6gLn2n04GxusVqNadBsOLV8nFMCLMoR-i-b2CMX3G0DOr2d838V=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIP0mxehNKTPvnFyAzkSqwRbmmFKhTr0IsGPLS0C1Jdj7lZWswRqMTVZCzbHbUs7W9tBAx2Bu0aL688b4KSSNvu5JDgcA3FAsZn1lHlnYsEltnLH_tjHOaviJXu8K0cO65LWTVPtlEenjz=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Kim Holzer",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Executive Director",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

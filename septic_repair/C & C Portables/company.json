@@ -1,0 +1,53 @@
+{
+  "name": "C & C Portables",
+  "rating": 4.9,
+  "reviewCount": 29,
+  "category": "Waste management service",
+  "address": "5222 US-60, Vine Grove, KY 40175, United States",
+  "phone": "+1 270-828-9473",
+  "phoneRaw": "+12708289473",
+  "website": "https://candcportables.com/",
+  "plusCode": "VWMJ+8M Vine Grove, Kentucky, USA",
+  "url": "https://www.google.com/maps/place/C+%26+C+Portables/@37.8832506,-86.0683711,17z/data=!3m1!4b1!4m6!3m5!1s0x8868d981f9cf6195:0x96cdf55e6099917c!8m2!3d37.8832506!4d-86.0683711!16s%2Fg%2F11s5g_l1ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Louisville",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/C & C Portables",
+  "folderName": "C & C Portables",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

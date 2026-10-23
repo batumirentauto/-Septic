@@ -1,0 +1,77 @@
+{
+  "name": "Affordable Septic Services",
+  "rating": 5,
+  "reviewCount": 72,
+  "category": "Septic system service",
+  "address": "4570 Bentz Rd, Spring Grove, PA 17362, United States",
+  "phone": "+1 717-881-4365",
+  "phoneRaw": "+17178814365",
+  "website": "https://www.affordableseptic-services.com/",
+  "plusCode": "V53V+X2 Spring Grove, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/Affordable+Septic+Services/@39.8549842,-76.8074352,17z/data=!3m1!4b1!4m6!3m5!1s0x257db7f48890e249:0x365b18bd13d17870!8m2!3d39.8549842!4d-76.8074352!16s%2Fg%2F11wgf6mpg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Lancaster",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Affordable Septic Services",
+  "folderName": "Affordable Septic Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHkmBNk8YbXgM3tdJZ54WN_sjTBa852nFDObS-1o3vK2Ew7z98-yERbx7CluPsFGULsnKLNmfYUe4x95zwLYI_E4eC8SbJ5s4ntrqPUzzd_E-Ph96VT5q4tN3bdNWeUkNdmVrDM8l-5_g=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu5CP8m6m26Vdnf8jvuZeJNRqxXRG5y2fqJ5qjG0QEz-KRBxTOdGXaqF1WbMpSrAZhKJRutbrrP-JA8HItTzkSq-r0-tI2a80Pfev81FKMZIhz1PAwbr9E9QFMR9if_fNUq1r339vWcMAp=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Doug Errickson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Doug Errickson",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

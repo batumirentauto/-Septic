@@ -1,0 +1,53 @@
+{
+  "name": "Ace Sewer & Water",
+  "rating": 4.7,
+  "reviewCount": 26,
+  "category": "Plumber",
+  "address": "2735 He Nis Ra Ln, Green Bay, WI 54304, United States",
+  "phone": "+1 920-497-0717",
+  "phoneRaw": "+19204970717",
+  "website": null,
+  "plusCode": "GV8V+3G Green Bay, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Ace+Sewer+%26+Water/@44.5152474,-88.1062295,17z/data=!3m1!4b1!4m6!3m5!1s0x8802f994c8a526b3:0x9c202ae5df9a602c!8m2!3d44.5152474!4d-88.1062295!16s%2Fg%2F1td4f3fw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Green Bay",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ace Sewer & Water",
+  "folderName": "Ace Sewer & Water",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

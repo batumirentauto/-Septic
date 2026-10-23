@@ -1,0 +1,70 @@
+{
+  "name": "Rowland Enviro Septic Services",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "category": "Septic system service",
+  "address": "2538 Kimrey Rd, Mebane, NC 27302, United States",
+  "phone": "+1 336-516-6627",
+  "phoneRaw": "+13365166627",
+  "website": null,
+  "plusCode": "3M3J+QH Mebane, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/Rowland+Enviro+Septic+Services/@36.0544524,-79.3185008,17z/data=!3m1!4b1!4m6!3m5!1s0x89acd4718bbd5c69:0x830ee78064f0bbde!8m2!3d36.0544524!4d-79.3185008!16s%2Fg%2F1tczr6rz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Greensboro",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Rowland Enviro Septic Services",
+  "folderName": "Rowland Enviro Septic Services",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0zC9QsfAIE9v9mQ4d6Aa2_QTsM1YeDXWrkOg0CSqmOwGGguQEM2L1Wil74-L00f2GZQ0bgQIF7nqoBb_MSdk4mnmXOr4Z1vskZ0OhL9oGQ4mc9Wb6rhGZakWRac0_y97DRHI=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQxmpaCb21ht5j-620B1gjDYAXpTmTkag5x3a2FN8h8FJeDTFGzc1enrAnNLJPunvYn_GgqqN8KT_ZjrpJ0ijliZzkd38jMh4a_5-flYySZRhHJYturFc1mEQpfuCjcQowXZrfCg=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerBvQrvHDczGIjkTHBFDt7ReQyKREnSHwmWgOFfxRFRl-fgwz24o2ZPSCdaiTrxzUzdMWEdSV7dSWY0dNV1KY23OcehgBaYtNo38p_Oojww7D9zYO964lhuQXM-yhoGz0YXOxf=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetA5g7ojtY-JeoL2ENeTjg4EGZTK5rPUvXfDWKtq06GwNOApAu_J1BPhG288rJSRQ0BnXp1046i-igmwpwDqcp0DyE_SLyMFeeCEmPmZlvKtE2n9Bxe4xScERuQcoefiw8uG9V_w=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Matthew Smith",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Matthew Smith",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Matthew Smith",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Matthew Smith",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

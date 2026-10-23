@@ -1,0 +1,66 @@
+{
+  "name": "Drain Pros Plumbing and Sewer Inc.",
+  "rating": 4.8,
+  "reviewCount": 196,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 916-907-3101",
+  "phoneRaw": "+19169073101",
+  "website": "http://drainprossacramento.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Drain+Pros+Plumbing+and+Sewer+Inc./@38.6589713,-121.262551,10z/data=!3m1!4b1!4m6!3m5!1s0x809adfe57d58576d:0x787168ca77252bf1!8m2!3d38.6589713!4d-121.262551!16s%2Fg%2F11tt0lx_gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Sacramento",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Drain Pros Plumbing and Sewer Inc.",
+  "folderName": "Drain Pros Plumbing and Sewer Inc.",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7pn2AIIDZJYP0nOTTvWO3bOkt1Jzj6SJ5UxD5Hh3MZqKWmGeyunREK_z-oQHZF_3D23_gCu4t65f5Wn-wkogfg6q9iz6k73hbT_cL9RyemKYZHgVYi6WWVwg-0ngnV1VkBq3PVo62p18=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Joel Reagan",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

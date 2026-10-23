@@ -1,0 +1,53 @@
+{
+  "name": "Fehl Safe Plumbing",
+  "rating": 4.7,
+  "reviewCount": 55,
+  "category": "Plumber",
+  "address": "420 Erie Ct, Sarasota, FL 34237, United States",
+  "phone": "+1 941-263-1941",
+  "phoneRaw": "+19412631941",
+  "website": "https://fehlsafewatersystems.com/locations/sarasota-fl/",
+  "plusCode": "8FQH+WC Sarasota, Florida, USA",
+  "url": "https://www.google.com/maps/place/Fehl+Safe+Plumbing/data=!4m7!3m6!1s0x2c7151bdd25c2fff:0x6adaddb6f10f889a!8m2!3d27.3398141!4d-82.521414!16s%2Fg%2F11nph7rs8v!19sChIJ_y9c0r1RcSwRmogP8bbd2mo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Sarasota",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Fehl Safe Plumbing",
+  "folderName": "Fehl Safe Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

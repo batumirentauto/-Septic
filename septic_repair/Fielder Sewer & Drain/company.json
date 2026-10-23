@@ -1,0 +1,66 @@
+{
+  "name": "Fielder Sewer & Drain",
+  "rating": 4.9,
+  "reviewCount": 58,
+  "category": "Plumber",
+  "address": "501 Spring Valley Pkwy, Spring Creek, NV 89815, United States",
+  "phone": "+1 775-397-6746",
+  "phoneRaw": "+17753976746",
+  "website": "https://fielderseweranddrain.com/",
+  "plusCode": "R83F+7J Spring Creek, Nevada, USA",
+  "url": "https://www.google.com/maps/place/Fielder+Sewer+%26+Drain/@40.8031472,-115.6759704,17z/data=!3m1!4b1!4m6!3m5!1s0x80a5ff9218c6e9b5:0x9fa9ba0add096368!8m2!3d40.8031472!4d-115.6759704!16s%2Fg%2F1td2v4ls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NV",
+  "city": "Elko",
+  "websiteIssue": "Сайт не открывается (EPROTO)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Fielder Sewer & Drain",
+  "folderName": "Fielder Sewer & Drain",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetohKvDdFOWyq0aMTYboHcXqe9ZK-st1PWcwGzCyqipRo-awqJfn1gPKPEn7wrVRCpbrRuPproHBD-ZrnV_GHIgr2PdgDpnwSEnT7m9rkKrqDZmz7ClmsSxt7w0gkiPw2YS-Sa=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Marquis Edward",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

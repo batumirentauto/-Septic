@@ -1,0 +1,99 @@
+{
+  "name": "Trade Pro Construction",
+  "rating": 4.7,
+  "reviewCount": 75,
+  "category": "Construction company",
+  "address": "13465 Puppy Creek Rd A, Springdale, AR 72762, United States",
+  "phone": "+1 479-309-8111",
+  "phoneRaw": "+14793098111",
+  "website": "https://www.tradeproconstruction.com/?utm_source=Google&utm_medium=GBP&utm_campaign=GBP",
+  "plusCode": "6RJC+9X Springdale, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Trade+Pro+Construction/@36.2309628,-94.177535,17z/data=!3m1!4b1!4m6!3m5!1s0x87c913aaa37d0f5f:0x523d1bdff204bcc2!8m2!3d36.2309628!4d-94.177535!16s%2Fg%2F11j6wf3qpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Trade Pro Construction",
+  "folderName": "Trade Pro Construction",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvPfWpurFJqiaKSXwxkr-QnUjNYOuyUiTfjDiZTsnl4CXZX9U5ZrbHMAwQ5lIVkfZkz13jm1ReNxPjN-JMnIQb91nSJmUTnybXaJMgXuDKJyeao5m0X3WSVACFL6kjeLo1Oi2Fbw=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6q8ZfFGIw-OZXT_o6EIUKU_qGoIGIIHgB6x3y7lQxYrYcakEb3rw7h5c_TNQFtzsoDb4YuI2u73BiYEmAphqqVxKclGUQ5xc0MWnTliWKZVZA5mFyCSKPzfQl6va4swG1oVTH=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLecpdGVW3aXLbcMXAux96tUlzDZbYiZsA1Mr7fB5xQAkqwnf12jLk5QRfGATcfMVb9ha8oI-vSXHVHsUUBUYkCtWuRVqWFgjRx_JnY4gGrbJbBJ_Dzoxq4__zvZsUIWt5ng-YrI=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdncem2HWM0_EZP2b1FILPyzFuDaodUKC5G0FcgLLUA4uCUY_zVGYCbk8KoNpBzTOos0HhIzFt_OIVmfs7h6pStWsC14DpHTPLM_5xQm7AmZpD8R3v9L4bzcbJI4NBrYqd257h3=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Valerie Core",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Valerie Core",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Valerie Core",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Valerie Core",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

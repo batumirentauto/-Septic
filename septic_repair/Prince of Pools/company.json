@@ -1,0 +1,53 @@
+{
+  "name": "Prince of Pools",
+  "rating": 5,
+  "reviewCount": 42,
+  "category": "Septic system service",
+  "address": "488 Northern Blvd, Bayville, NJ 08721, United States",
+  "phone": "+1 732-905-7400",
+  "phoneRaw": "+17329057400",
+  "website": "https://princeofpoolsnj.com/",
+  "plusCode": "WQ3X+C5 Bayville, Berkeley Township, NJ, USA",
+  "url": "https://www.google.com/maps/place/Prince+of+Pools/@39.9035481,-74.2020312,17z/data=!3m1!4b1!4m6!3m5!1s0x89c19f1c5391b8bf:0xf25795d62f99a8c6!8m2!3d39.9035481!4d-74.2020312!16s%2Fg%2F11ywp3gd9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NJ",
+  "city": "Toms River",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Prince of Pools",
+  "folderName": "Prince of Pools",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

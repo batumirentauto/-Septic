@@ -1,0 +1,77 @@
+{
+  "name": "Big Dog Septic",
+  "rating": 4.9,
+  "reviewCount": 90,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 731-318-2830",
+  "phoneRaw": "+17313182830",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Big+Dog+Septic/@35.8515245,-88.7444486,10z/data=!3m1!4b1!4m6!3m5!1s0x887c015c95384eab:0x5a52bd4f6a955aa1!8m2!3d35.8515245!4d-88.7444486!16s%2Fg%2F11pt_x6h0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Memphis",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Big Dog Septic",
+  "folderName": "Big Dog Septic",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefJSD1SWShaEMaQgFjuzD6N1nGqa0gpGOC8fXlswAkI9FMkjN_O0_c1Vt8n4c1jwies4_HjqnRJ8-oBrmq6ARbhyG50I2cuxovr6HkrdGp_S8U2WekB54uB8M-LhQ_V6iIniveAZSlA3Em=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfuN1javgZ0Y6mW9w4hyOgfmZdjt9BYXm3Adxic5lC54urDSkWXXap_A8B3xgacG4J3znBpqsfd-_1QFOLfyZDd1qrbVkCWKg88jWFttpYhY2U-ubuXwl-_JGf2HWpnykK8qHI3Tw0qRg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Max Williams",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Max Williams",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

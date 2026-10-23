@@ -1,0 +1,53 @@
+{
+  "name": "Drain King Royal Flush",
+  "rating": 4.8,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 413-315-1640",
+  "phoneRaw": "+14133151640",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Drain+King+Royal+Flush/@42.151043,-72.5119804,14z/data=!3m1!4b1!4m6!3m5!1s0x89e6c2cf5f56cd51:0x3a32de6dbee4c5cc!8m2!3d42.151043!4d-72.5119804!16s%2Fg%2F1tjxgpb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MA",
+  "city": "Worcester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Drain King Royal Flush",
+  "folderName": "Drain King Royal Flush",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

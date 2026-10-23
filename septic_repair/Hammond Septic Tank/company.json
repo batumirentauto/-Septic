@@ -1,0 +1,77 @@
+{
+  "name": "Hammond Septic Tank",
+  "rating": 5,
+  "reviewCount": 162,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 770-536-0034",
+  "phoneRaw": "+17705360034",
+  "website": "http://facebook.com/HammondSepticTank",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Hammond+Septic+Tank/@34.344315,-83.8387025,10z/data=!3m1!4b1!4m6!3m5!1s0x6d29a671b6dca05f:0x6510cffbed5f70!8m2!3d34.344315!4d-83.8387025!16s%2Fg%2F11vjh_st2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Gainesville",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hammond Septic Tank",
+  "folderName": "Hammond Septic Tank",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcr_LLbtKCMYgQv6dt5mAkXce1akkGovIrQHOmVIn6DZlWRZwD28xImDHJEVdcUATwgHuLPpproIv5IvVOb1XoGytJNpwx0SLhzpksyh9MYkF-k6917Nvz0UtVYfnqLTdAklA889XondqN7=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdN3e3BN1FZKyYCVsAGbe0AmNh_xaNGFnvT2KbZGX4JD3qz2oF0XNkSpoIX_abhSyUcFKjZxZxa9roY7KpO-GbEfKDk7zh4PRsiGbUO_vQM0kJL63Xw01-9xImvaIcNGLjLYXUro6Qlvaw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jack Fullerton",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Jeff Blume",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

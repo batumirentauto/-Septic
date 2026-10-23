@@ -1,0 +1,66 @@
+{
+  "name": "Reynolds Pumping and Septic Services",
+  "rating": 5,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": "6 Amazing Grace Ln, Liberty, MS 39645, United States",
+  "phone": "+1 601-551-0837",
+  "phoneRaw": "+16015510837",
+  "website": "https://www.facebook.com/ReynoldsPumps/?view_public_for=108303280797327",
+  "plusCode": "58VR+H3 Liberty, Mississippi, USA",
+  "url": "https://www.google.com/maps/place/Reynolds+Pumping+and+Septic+Services/@31.193972,-90.6598145,17z/data=!3m1!4b1!4m6!3m5!1s0x86264b2138bae2d5:0x9d83b84f8540f84a!8m2!3d31.193972!4d-90.6598145!16s%2Fg%2F11hfpgp7vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "LA",
+  "city": "Baton Rouge",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Reynolds Pumping and Septic Services",
+  "folderName": "Reynolds Pumping and Septic Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4Ewbb4mEhXdfYGIoR4DJ3FuoIN6WFYPe7XdQ5DD1Fu4jioWYN5mkUAO4qiIknBhHS4b5_aR0_83PmNxqco5GJEbthRYZP0WPB_GYOA9Qiw4pa34puv4gI0qjvMsLuHI32wrRw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Skylar",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

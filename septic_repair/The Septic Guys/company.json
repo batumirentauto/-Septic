@@ -1,0 +1,77 @@
+{
+  "name": "The Septic Guys",
+  "rating": 5,
+  "reviewCount": 71,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 559-579-9920",
+  "phoneRaw": "+15595799920",
+  "website": "https://septic-guys.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/The+Septic+Guys/@36.8218559,-119.5868234,8z/data=!3m1!4b1!4m6!3m5!1s0xa0c111348f1289d:0x9d5c835f81caa4f9!8m2!3d36.821856!4d-119.5868234!16s%2Fg%2F11vxthf_xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Fresno",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/The Septic Guys",
+  "folderName": "The Septic Guys",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMV3LIDSo5qr0KSM-vI0yx_lrpjoBUiGCwZHq8xQYzr6LY0Q72Nl_pxCZvdqXqaza66sJbdgiqODVs7kno7KYyDzg8JXvFX4q8vj_utvDkSJVMdW13hJu9KYLW6TfE4TrOBJ3X=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsxTQgScMUvYow1VZfPuS5rfiiJCSXh_fVwrTTDCJqv1BwCh4plIBjHQmWBEvvAFjNBqMXrvRUbAnQMdf0oYf2ZsRRfbKOOj7SucaOSWRxNggOEs9DVv3y_bSjFx3RJ_-rlOEgeQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Connie Sanford",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Connie Sanford",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

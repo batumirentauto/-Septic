@@ -1,0 +1,143 @@
+{
+  "name": "A Broke Girl Plumbing LLC",
+  "rating": 4.6,
+  "reviewCount": 35,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 801-833-3992",
+  "phoneRaw": "+18018333992",
+  "website": "http://girlsplumb2.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/A+Broke+Girl+Plumbing+LLC/@40.924022,-111.956948,9z/data=!3m1!4b1!4m6!3m5!1s0x8ea834c4a371cc5:0x46af0e71093b0644!8m2!3d40.924022!4d-111.956948!16s%2Fg%2F11yf55xdc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "UT",
+  "city": "Salt Lake City",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 429)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/A Broke Girl Plumbing LLC",
+  "folderName": "A Broke Girl Plumbing LLC",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIQX7Yj5pr73OHW_ih5PWbhgnpa3sohM56gqE9k4qspVfoR5OqhnTpbrPvPlW_iyRX5_vMeNylK2JFuqcWN9X133474a8iVQ9-BavbLeqPPcDHsxo-PilOjkDPO_6KnoNLeLOIUhMaO9Vb=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT4yZlGlnVfoI7sP0FWU9TnBUv33CvL_71A1vS74xAShKehqyu-3ax7-hu6YKJudxEC-F5rYPXMhgPX_OS8bcL2_-2gvjfWbudEIaI1aBbdSVBkq8uN6MfxwBGGhX57O7IO-GvJO7Ut5vH=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrHCNwo_mXOcOgwEupOebFByhNfi8J0wnogdq1D4NJ_Ob8S6r7hQU1Ljaq_nZvXElXB7ioG6xxl7cW8KpWSj2VaNSpeLgVYTVJACQipFqYbSsbaxPPh4ymMKrK8m1BplGt2OSKVL29Lkih=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxFUlaWJ117QSqRnbKPnb9MOvxI7MMHxnd_qTy_9f_p2Fc_sMsfAFFwpFRgxcrNIUyqDOea_gcY_gzzB9fjcD8hfRzfR_VbTCfv_KawtUqviYukYiUEOmRiVcupACwzkBX8ZPRA6pyvoA-=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrN-ZBTmTSbyuFhBFIzhwxAqF8On_bPZqBprNkpb20Q5fOg1tVpXlDOtetI5N5NEOcOyOY5bb5T4GnhircT2vnspH-F8oPaqU85Ly4XuVh776ch5l3tD72l41cfnSR8YY3ycfEXO5YZfpU=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGOU-tcQyDFwNCXdrkzsvSJhCIK-mrM8HEAfLSmppN8UboT3-qImxv5LHt9CtrfyhlSH_IRe3OeAgrTCT2oUA1cWFht9mJOVI_xd9-qbcY55O9y4DIbWCCgNkb3SHjbYuY9CthyJtwSJxj=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Qz8hlv_lBYWylwZRnjArRjLM_GiRivNEnw9NW869t7MslmuCb7xABt6hSrA6JXJtQbOZRK4SxZ54G_gUhIcKNpmYCgXqDvETa0wHASQusFtQ6469HSTX3L7uMPWJyD279EQhbeXSxdHe=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2KryXVJhAuRQBq-AEeVM0sY1Ev6LRcHrDmOoMpZ_Pt6fQQZunaIGnVnN9njeC7R5INanLw6zV4XHWQRQzqx321OoYTjR47MBs35FxbfJbzPCLstdjPFe15repORaGSPXrWER6i7A1cuY=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Nic Park",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "C T",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "C T",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "john hammer",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "john hammer",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "C T",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "john hammer",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "john hammer",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      }
+    ]
+  }
+}

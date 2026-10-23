@@ -1,0 +1,53 @@
+{
+  "name": "Richard Barrett Septic",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "2180 Diamond Hill Neese Rd, Hull, GA 30646, United States",
+  "phone": "+1 706-353-1351",
+  "phoneRaw": "+17063531351",
+  "website": "https://www.facebook.com/share/1Jivf2HSGe/?mibextid=wwXIfr",
+  "plusCode": "3MFQ+FF Hull, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Richard+Barrett+Septic/@34.0736827,-83.3112606,17z/data=!3m1!4b1!4m6!3m5!1s0x88f617a01d49f94f:0x6c8639f39756383c!8m2!3d34.0736827!4d-83.3112606!16s%2Fg%2F11yx7yp6fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Athens",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Richard Barrett Septic",
+  "folderName": "Richard Barrett Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

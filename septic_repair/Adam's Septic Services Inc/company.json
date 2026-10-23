@@ -1,0 +1,66 @@
+{
+  "name": "Adam's Septic Services Inc",
+  "rating": 4.8,
+  "reviewCount": 85,
+  "category": "Septic system service",
+  "address": "6504 E 25th Ave, Tampa, FL 33619, United States",
+  "phone": "+1 813-927-7789",
+  "phoneRaw": "+18139277789",
+  "website": null,
+  "plusCode": "XJF8+9R Tampa, Florida, USA",
+  "url": "https://www.google.com/maps/place/Adam%27s+Septic+Services+Inc/data=!4m7!3m6!1s0x88c2cc3b2222dacb:0xe0f4d4e9edb82458!8m2!3d27.9734388!4d-82.3828807!16s%2Fg%2F1tdwwgrr!19sChIJy9oiIjvMwogRWCS47enU9OA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "FL",
+  "city": "Tampa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Adam's Septic Services Inc",
+  "folderName": "Adam's Septic Services Inc",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLIR85yKsmBe_u5eSfdI5ZiSsZGxuX4-K_LApdadV4p0eWSvkRl-40I3m7kK9yEhzd6dDqILRkNz408Y0DnWuXjW7ffwV3VQgjqYC6OgBJial52KCP8NYpyNPpdbMq0ADa3tEd=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Cook's Creative Corner",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

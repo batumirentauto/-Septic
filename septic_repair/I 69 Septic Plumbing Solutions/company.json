@@ -1,0 +1,99 @@
+{
+  "name": "I 69 Septic Plumbing Solutions",
+  "rating": 4.7,
+  "reviewCount": 154,
+  "category": "Septic system service",
+  "address": "12490 US-59, Shepherd, TX 77371, United States",
+  "phone": "+1 281-223-0034",
+  "phoneRaw": "+12812230034",
+  "website": "https://www.i-69septic.com/",
+  "plusCode": "CX72+M2 Shepherd, Texas, USA",
+  "url": "https://www.google.com/maps/place/I+69+Septic+Plumbing+Solutions/@30.4141994,-95.0499708,17z/data=!3m1!4b1!4m6!3m5!1s0x8638a0127581ccc9:0x88514110ca9abc7f!8m2!3d30.4141994!4d-95.0499708!16s%2Fg%2F11gb3tcdm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Houston",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/I 69 Septic Plumbing Solutions",
+  "folderName": "I 69 Septic Plumbing Solutions",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLca3WiL4_3uJy5E-mq8NjuJ6Or9PExgpPbUir0Ee2RcdEZX5SQ1Du9-5ulXYzWKRs575rBZ45GXlBtgWEq-WCdAQJqhuVGCpNXpX2HJjQt2xHlKZY5cZJlENRes5JHry9pFRydtsF3Zyaxx=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvjdnzRx7ptvgbRJxuph7jLSw995EUBwz-FkqtAuxr1z11f-uB5izexHIUUXHuVIcTmBn3ugiajlAOqKTm_MhR-0BSvRWeUIIlGTx0FIj_g5EwF7xEtPIafjebzfvFR_ukaGtG2TXpqlCe=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNrZHSaM9wKKOhWP_pC5vJQSoj7uwyWQkupTR5ekEvxV8V-AmnAueMT0PBzxhERMJXG-ld0JkGhSJvOUpiDkWng85e0V_tCoSqtw9_--idT-jumx3o4tGeVlFAm4lmtY-x6g25sOcA8O2E=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCNbUBNy1iczj9WXijV833Oaex0EJa29d3Tv9f2Z9ftOhLPTY2H4GXPL6ZXgRU6D-Pd9D6Ks6p1pW_iZm3lNtctXgT6JU2j60wi9aOMdPUkBNG3NRqoK03uyP7_JvZBVoJI02K3xCktMY=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "K H",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "K H",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "K H",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "K H",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

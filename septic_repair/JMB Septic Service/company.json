@@ -1,0 +1,99 @@
+{
+  "name": "JMB Septic Service",
+  "rating": 5,
+  "reviewCount": 136,
+  "category": "Septic system service",
+  "address": "306 Falmouth Rd Unit 5, Hyannis, MA 02601, United States",
+  "phone": "+1 508-524-5129",
+  "phoneRaw": "+15085245129",
+  "website": "http://www.joshmbsepticservice.com/",
+  "plusCode": "MP72+PH Hyannis, Barnstable, MA, USA",
+  "url": "https://www.google.com/maps/place/JMB+Septic+Service/@41.6642926,-70.298593,17z/data=!3m1!4b1!4m6!3m5!1s0x89fb31a876f5f571:0xbcd1a977f130dafd!8m2!3d41.6642926!4d-70.298593!16s%2Fg%2F1pzrnvjqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MA",
+  "city": "Barnstable",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 404)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/JMB Septic Service",
+  "folderName": "JMB Septic Service",
+  "totalPhotosDownloaded": 8,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7a5KXrNrU-6xBjayHuiJ21VrCgFg7gLDaAPD31HmfUFaG_lNlgJw9jbvT9dattXG5ipaEEG5zxV-uKEpAuJiep0v-07mK9XJKoYmGrXpRwUf6saM7ysRvhr3mVLv9nPWSJ5qt=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ2lEDRJMHb4DJbCvG8PGiiuKF7ylbcbHvdIE3Q82-w_hZmaPsruPkyDfaIqEteSvwGIKVrK8HPgo-O1pkI82r4NZA552MA2W4UluBm-aQjLpNesZXcZT7u0T7n9W3BKOzTWRY=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoRDif2zd1VvUdTqUVniQHIHYTscOa9CpYYWSru5AcH75jOnjA3_j8LA4e7nL1DSqLWncOmJ-4_o4kfqgDmTB9nedyGKOJbfHK8g0CQ7hHuTkPsYNvJIepFwuRKwPeljyL3pUl=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJPRTuITvKHpZByVxmCQho8EfJTwYZ6pKPkNyDRbumhzPBfXYiHOl3t8Ou2O9RHqiojfG2bmh-6nq70hk44rjHim3-Khf5rLxpKTAFByNN5COGgD2CNtjtOu82xs1e822ZTzWDrQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Amy Raffa",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Amy Raffa",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Amy Raffa",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Amy Raffa",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

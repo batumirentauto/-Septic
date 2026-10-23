@@ -1,0 +1,53 @@
+{
+  "name": "Maine Septic & Pumping",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "category": "Septic system service",
+  "address": "650 Old Greene Rd, Lewiston, ME 04240, United States",
+  "phone": "+1 207-782-5940",
+  "phoneRaw": "+12077825940",
+  "website": "http://www.maineseptic.com/",
+  "plusCode": "4VJ2+G3 Lewiston, Maine, USA",
+  "url": "https://www.google.com/maps/place/Maine+Septic+%26+Pumping/@44.1312623,-70.1498694,17z/data=!3m1!4b1!4m6!3m5!1s0x4cb26ca263470187:0x8454f88aa6e1f76e!8m2!3d44.1312623!4d-70.1498694!16s%2Fg%2F1td0g2q4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ME",
+  "city": "Lewiston",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Maine Septic & Pumping",
+  "folderName": "Maine Septic & Pumping",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "24/7 Plumbing Birmingham AL",
+  "rating": 4.7,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 205-942-3747",
+  "phoneRaw": "+12059423747",
+  "website": "http://247plumbingbirminghamal.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/24%2F7+Plumbing+Birmingham+AL/@33.4309505,-86.8413175,10z/data=!3m1!4b1!4m6!3m5!1s0x88891edcea85da7d:0xa223cbaa02ffb10!8m2!3d33.4309505!4d-86.8413176!16s%2Fg%2F11b70p5_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт не открывается (ENETUNREACH)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/247 Plumbing Birmingham AL",
+  "folderName": "247 Plumbing Birmingham AL",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

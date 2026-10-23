@@ -1,0 +1,66 @@
+{
+  "name": "Pacific Sanitation Services",
+  "rating": 4.9,
+  "reviewCount": 76,
+  "category": "Dumpster rental service",
+  "address": "5952 Manchester Trafficway Terrace, Kansas City, MO 64130, United States",
+  "phone": "+1 816-774-8329",
+  "phoneRaw": "+18167748329",
+  "website": "http://www.pacificsanitationservices.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
+  "plusCode": "2F9F+2H Kansas City, Missouri, USA",
+  "url": "https://www.google.com/maps/place/Pacific+Sanitation+Services/@39.0175105,-94.526125,17z/data=!3m1!4b1!4m6!3m5!1s0x87c11785864e2be3:0xca8ea18f3c134576!8m2!3d39.0175105!4d-94.526125!16s%2Fg%2F11c6w3my5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Overland Park",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pacific Sanitation Services",
+  "folderName": "Pacific Sanitation Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVbRnvZiaITF8WTNRdqewhgWb0u4WTm1mMkHhOIYxGReuYjMrXJomKFX6CST-7giqKskEZXZQ08jUE3YR6QxCVkQt-PrGRNpgxT41r7TwXt_TcH7fTUdYdK2jhnZF9u2GNh-OlIFhkSnRn=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Aaron Makings",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

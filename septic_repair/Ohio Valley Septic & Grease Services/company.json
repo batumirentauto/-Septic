@@ -1,0 +1,53 @@
+{
+  "name": "Ohio Valley Septic & Grease Services",
+  "rating": 5,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 270-903-3800",
+  "phoneRaw": "+12709033800",
+  "website": "https://ohiovalleysepticandgreaseservices.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Ohio+Valley+Septic+%26+Grease+Services/@37.6058676,-87.2517655,10z/data=!3m1!4b1!4m6!3m5!1s0x441b4e51e9fe83b:0x7791c87cb14bb02a!8m2!3d37.6058676!4d-87.2517655!16s%2Fg%2F11l6xmqvlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Owensboro",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Ohio Valley Septic & Grease Services",
+  "folderName": "Ohio Valley Septic & Grease Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

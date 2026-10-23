@@ -1,0 +1,119 @@
+{
+  "name": "4 Mile Septic",
+  "rating": 5,
+  "reviewCount": 82,
+  "category": "Septic system service",
+  "address": "County Rd 1, Cripple Creek, CO 80813, United States",
+  "phone": "+1 719-600-8010",
+  "phoneRaw": "+17196008010",
+  "website": "https://www.facebook.com/profile.php?id=100084838143256",
+  "plusCode": "QR33+QM Cripple Creek, Colorado, USA",
+  "url": "https://www.google.com/maps/place/4+Mile+Septic/@38.7544655,-105.195753,17z/data=!3m1!4b1!4m6!3m5!1s0x8714a582dd632c3b:0xbc802fede27b368e!8m2!3d38.7544655!4d-105.195753!16s%2Fg%2F11txj3p69p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/4 Mile Septic",
+  "folderName": "4 Mile Septic",
+  "totalPhotosDownloaded": 12,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWG3w7eASjktHZPCfRAN7fH6ini_jwNe1Dbe8PKhH_nmsT9zJ4azzJXZ7juNbn_8ngCpjqQuqeN1vPJAoxd4z7VfEQ6dcxidyXAzY26qJ2iFX1Ke5pzcIVrD8m_XNCOn-vOYIAwDsrMRGK=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7EzfNkGKI-viegpP3jRBokSXVupUdWUTPQSRUSqKXgFFy4PcQZqcHx0wEDMNxRYU4WhLaLOTrabpPrObUstkJo56xS7PklXrRIwfqcuMmZuloqZZYx301Q-hHTi5ZV025LM01E4m_9ac=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduaAhv7wAPFXqPRnwU4Jp_ksT1etcFPddAmpZF9EX1IVPRFnGgIgI2JnnwVHTAu_HoJa8ao_dzuTuMWAjOL94F1cPLsw_VTWab6BAosXWB6yzNxcUp8S0mpBIseyIqDJHpkK5ZrBc_lxb6=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVRpxVGhqMAMg0a_7pMRhmb_wfU-x3dP8yy3tjU-sQZdWcomqiAOd3StbiMK90TE8i1MwgAWW7cyq_m7rzmDSIqNGy0Y1_ZLIQowzuR8snG04uJPcTbD-UIBhmAE7Or9sWxXUn4PEhZoE=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "John Arellano",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "John Arellano",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "John Snider",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "John Snider",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "John Arellano",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "John Snider",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "John Snider",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Aaron S",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

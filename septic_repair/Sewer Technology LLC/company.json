@@ -1,0 +1,110 @@
+{
+  "name": "Sewer Technology LLC",
+  "rating": 5,
+  "reviewCount": 160,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 216-408-3851",
+  "phoneRaw": "+12164083851",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Sewer+Technology+LLC/@40.5274515,-82.669505,7z/data=!3m1!4b1!4m6!3m5!1s0x8830ff1c193c3c8f:0x88cb4272fa512f!8m2!3d40.5274515!4d-82.669505!16s%2Fg%2F1tfbjcgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Cleveland",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sewer Technology LLC",
+  "folderName": "Sewer Technology LLC",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuniPe5YkpWVjThbmwkW6N5z5-HLS4GlkZLcqOgU3IiwzHwhZY1f-L2eKUN-KUJD3_RXeE5-t2JQWGqjq9hsVIPwNDpj_083dxxNProDJr0Mt-a70XnZO5gcA08LGPkeBgnswDAg=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1JJjRqCyzQMyeR32CLt7rR-7MLKMkvZ6Q8xZLhbngKz8Bk-dj2IgcnYsg06sVdxb9je52xItKUWM4V6BnFcDsGMXtH13YA-LrLSDrDhKnh5Qr5_pIIpcBEdUpY6vG80_LVeiD=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGDeT4KeHpl1sAQN0MzuKMlbxF2dY-VEhTtV62NKdogxmLusy8cCLwesu4yoiplPEcbK0ypVt9uNl_3bg_0KsCOAAePkphwb_m2j3jAcVFpcKtc9pdVLN07U5WABcYTyjE09OqFA=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczzrp4j2Ww3oOyI6eKyEPRDpF2Z9hKug7p8CO6QiRGU92n5RHgi3_2t4rBGThNj142BZIL3YU2YXtguh5uM8gsFCdKyAOSY0b5Zuy8XbagBDcKu_CdokxmVsPeDEvIqXaZHsAg=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Xbbk9Ui5E5JFygwZfNPG1NA20zdmRd_laDRzQrEGWZ65zuaFthri2wcT8Qeo3MAoYFzYmtHTPSirYnFdmMSPb8z_iyDP4UKkUlO3sl8wKy11b6L6k9k5EAaR8NAAEiTkK7XWyg8PyMG7=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Keri Heard-Mcalister",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Dena Mooty",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Dena Mooty",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Dena Mooty",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Dena Mooty",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      }
+    ]
+  }
+}

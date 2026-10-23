@@ -1,0 +1,53 @@
+{
+  "name": "Septic iQ",
+  "rating": 5,
+  "reviewCount": 43,
+  "category": "Septic system service",
+  "address": "772 Aloe Rd N, Victoria, TX 77905, United States",
+  "phone": "+1 361-571-8329",
+  "phoneRaw": "+13615718329",
+  "website": "https://septiciq.com/",
+  "plusCode": "PWXJ+HV Victoria, Texas, USA",
+  "url": "https://www.google.com/maps/place/Septic+iQ/@28.7489824,-97.0677888,17z/data=!3m1!4b1!4m6!3m5!1s0x864263eae8e8af03:0x6584f11552a905d2!8m2!3d28.7489824!4d-97.0677888!16s%2Fg%2F11fdx6vtvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Corpus Christi",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Septic iQ",
+  "folderName": "Septic iQ",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

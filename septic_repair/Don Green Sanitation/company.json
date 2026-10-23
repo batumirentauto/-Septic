@@ -1,0 +1,53 @@
+{
+  "name": "Don Green Sanitation",
+  "rating": 4.7,
+  "reviewCount": 36,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 814-774-8668",
+  "phoneRaw": "+18147748668",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Don+Green+Sanitation/@41.9972768,-80.3102374,9z/data=!3m1!4b1!4m6!3m5!1s0x88327018cf5dbd75:0xe8ecade3a024e4a8!8m2!3d41.9972768!4d-80.3102374!16s%2Fg%2F1tjjq07k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Erie",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Don Green Sanitation",
+  "folderName": "Don Green Sanitation",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

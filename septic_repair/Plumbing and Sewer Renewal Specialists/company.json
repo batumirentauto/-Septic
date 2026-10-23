@@ -1,0 +1,59 @@
+{
+  "name": "Plumbing and Sewer Renewal Specialists",
+  "rating": 4.8,
+  "reviewCount": 32,
+  "category": "Plumber",
+  "address": "2715 SE 8th Ave #2, Portland, OR 97202, United States",
+  "phone": "+1 971-232-0249",
+  "phoneRaw": "+19712320249",
+  "website": "https://plumbingrenewal.com/",
+  "plusCode": "G83R+9M Portland, Oregon, USA",
+  "url": "https://www.google.com/maps/place/Plumbing+and+Sewer+Renewal+Specialists/@45.5034337,-122.658365,17z/data=!3m1!4b1!4m6!3m5!1s0x54950b6fe97d76a3:0x816cd00331778805!8m2!3d45.5034337!4d-122.658365!16s%2Fg%2F11z12c1czz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Portland",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Plumbing and Sewer Renewal Specialists",
+  "folderName": "Plumbing and Sewer Renewal Specialists",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Theresa Demma",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

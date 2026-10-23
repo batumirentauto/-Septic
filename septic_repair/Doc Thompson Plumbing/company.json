@@ -1,0 +1,53 @@
+{
+  "name": "Doc Thompson Plumbing",
+  "rating": 4.6,
+  "reviewCount": 144,
+  "category": "Plumber",
+  "address": "735 Cross Pointe Rd Ste E, Columbus, OH 43230, United States",
+  "phone": "+1 614-502-6563",
+  "phoneRaw": "+16145026563",
+  "website": "https://docthompsonplumbingllc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-profile-columbus",
+  "plusCode": "X5X8+5R Columbus, Ohio, USA",
+  "url": "https://www.google.com/maps/place/Doc+Thompson+Plumbing/@39.9979561,-82.8329156,17z/data=!3m1!4b1!4m6!3m5!1s0x8838611d5b0434c9:0xaf14b01d5f6b5561!8m2!3d39.9979561!4d-82.8329156!16s%2Fg%2F1hd_8gdnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OH",
+  "city": "Columbus",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Doc Thompson Plumbing",
+  "folderName": "Doc Thompson Plumbing",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

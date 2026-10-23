@@ -1,0 +1,53 @@
+{
+  "name": "Chippewa Septic Service",
+  "rating": 5,
+  "reviewCount": 30,
+  "category": "Septic system service",
+  "address": "6280 US-53, Eau Claire, WI 54701, United States",
+  "phone": "+1 715-723-2295",
+  "phoneRaw": "+17157232295",
+  "website": null,
+  "plusCode": "PJR6+V8 Eau Claire, Wisconsin, USA",
+  "url": "https://www.google.com/maps/place/Chippewa+Septic+Service/@44.7421472,-91.3891674,17z/data=!3m1!4b1!4m6!3m5!1s0x87f8b9a2bce30857:0xb2abcd7998925fb5!8m2!3d44.7421472!4d-91.3891674!16s%2Fg%2F1tf660t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WI",
+  "city": "Eau Claire",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Chippewa Septic Service",
+  "folderName": "Chippewa Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

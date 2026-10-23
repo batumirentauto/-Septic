@@ -1,0 +1,77 @@
+{
+  "name": "Tidy Septic LLC",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "TX-198, Gun Barrel City, TX 75156, United States",
+  "phone": "+1 903-887-3168",
+  "phoneRaw": "+19038873168",
+  "website": null,
+  "plusCode": "8VMQ+QG Gun Barrel City, Texas, USA",
+  "url": "https://www.google.com/maps/place/Tidy+Septic+LLC/@32.3343761,-96.1112105,17z/data=!3m1!4b1!4m6!3m5!1s0x864923ad3f636011:0x3835d1432a5c744b!8m2!3d32.3343761!4d-96.1112105!16s%2Fg%2F1261sj871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Fort Worth",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Tidy Septic LLC",
+  "folderName": "Tidy Septic LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyBlqVf5a1a8FUfrm6aXFQ_HbLoG96IbfwnlERZVw_IPqI8YnKgiQ6R0dm2EX6PBk8p9PSuy1hEIAJP82zOMgZfupOzml7PwD3UWhBGXgp5sVqwy6lihZlQU6M00SR0Su-9xw=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKO_TZYrV0VIEqRzReRUNlQOg2LyDyOS9mxCfbdsEuSVrnnR0XOedb45cdMU2ef_Q66QwsAtQqxF8_lRY_41L_pNl8r2Yp7eQGij5IJgFn-Os8V7oaCpt0Esh_1L5tqCb43lX6vccjm12g=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Gloria Barraza",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Alisha Molina",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

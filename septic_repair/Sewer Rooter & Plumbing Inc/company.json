@@ -1,0 +1,53 @@
+{
+  "name": "Sewer Rooter & Plumbing Inc",
+  "rating": 4.6,
+  "reviewCount": 74,
+  "category": "Plumber",
+  "address": "816 S Eddy St, Grand Island, NE 68801, United States",
+  "phone": "+1 308-384-2726",
+  "phoneRaw": "+13083842726",
+  "website": null,
+  "plusCode": "WM75+J6 Grand Island, Nebraska, USA",
+  "url": "https://www.google.com/maps/place/Sewer+Rooter+%26+Plumbing+Inc/@40.9141151,-98.3419574,17z/data=!3m1!4b1!4m6!3m5!1s0x879986661c30ed0f:0x8fe7c1654e2ae067!8m2!3d40.9141151!4d-98.3419574!16s%2Fg%2F1tgdp1hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NE",
+  "city": "Grand Island",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sewer Rooter & Plumbing Inc",
+  "folderName": "Sewer Rooter & Plumbing Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

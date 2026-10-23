@@ -1,0 +1,59 @@
+{
+  "name": "Proflow Plumbing and Drain Solutions, LLC",
+  "rating": 4.9,
+  "reviewCount": 61,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 910-929-7449",
+  "phoneRaw": "+19109297449",
+  "website": "https://www.proflowplumbingsolutions.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Proflow+Plumbing+and+Drain+Solutions,+LLC/@35.0897779,-78.9130315,9z/data=!3m1!4b1!4m6!3m5!1s0x89ab0d4cdbaa1227:0x8f212f68eacdbbdc!8m2!3d35.0897779!4d-78.9130315!16s%2Fg%2F11rvfz5f0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Fayetteville",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Proflow Plumbing and Drain Solutions, LLC",
+  "folderName": "Proflow Plumbing and Drain Solutions, LLC",
+  "totalPhotosDownloaded": 1,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": [
+      {
+        "author": "Tj Fraticelli",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

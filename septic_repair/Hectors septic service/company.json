@@ -1,0 +1,77 @@
+{
+  "name": "Hectors septic service",
+  "rating": 5,
+  "reviewCount": 47,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 512-321-2660",
+  "phoneRaw": "+15123212660",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Hectors+septic+service/@30.1785955,-97.5396565,10z/data=!3m1!4b1!4m6!3m5!1s0xa631d488dace59db:0x290a1e59f1e4a261!8m2!3d30.1785955!4d-97.5396565!16s%2Fg%2F11vjrcdm9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Austin",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Hectors septic service",
+  "folderName": "Hectors septic service",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg2MCos5RmNZItNTlNy8tOEcR6zA9HAkuZoyU6hAgn9bS-f5QcvVZbcMV2b3ZtZqUwH8Hkv8rR8dH2Q6ZuzD3AxWuw1qSS7r6ZA2YBynr8oZu1PqDYrfAGh6WjcqTgNJn8aURR=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrcYVqMe_Zdtp40jROHQctDMJ4Q5mY_4yDeR-gwYElr5-dMZf0fcHMLSbuUCzWMQd_QWZrkey0TBmMrYwU5RXkCjUSI5NgXWFGzx5ECNbjchvBbR7OrfTYOP9YqBjAPMcrPsMm=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Levi Hatano Filardo",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Levi Hatano Filardo",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

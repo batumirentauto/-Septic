@@ -1,0 +1,53 @@
+{
+  "name": "Blue Star Septic Service",
+  "rating": 4.7,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": "25 Silverdale Ave, Wrightsville, PA 17368, United States",
+  "phone": "+1 717-449-4844",
+  "phoneRaw": "+17174494844",
+  "website": "http://www.bluestarseptic.com/",
+  "plusCode": "WGQ6+R7 Wrightsville, Pennsylvania, USA",
+  "url": "https://www.google.com/maps/place/Blue+Star+Septic+Service/@39.9395099,-76.4892683,17z/data=!3m1!4b1!4m6!3m5!1s0x89c88239ac313a4d:0xbbc61fc827434714!8m2!3d39.9395099!4d-76.4892683!16s%2Fg%2F11c492pfpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "PA",
+  "city": "Lancaster",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Blue Star Septic Service",
+  "folderName": "Blue Star Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Bradley's Septic Services",
+  "rating": 4.8,
+  "reviewCount": 32,
+  "category": "Septic system service",
+  "address": "47 Hack Rd, Corinth, NY 12822, United States",
+  "phone": "+1 518-654-6318",
+  "phoneRaw": "+15186546318",
+  "website": null,
+  "plusCode": "66C4+42 Corinth, New York, USA",
+  "url": "https://www.google.com/maps/place/Bradley's+Septic+Services/@43.220258,-73.794886,17z/data=!3m1!4b1!4m6!3m5!1s0x89de35200098fff5:0x34499ad18e26e9c4!8m2!3d43.220258!4d-73.794886!16s%2Fg%2F1td0tw_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Albany",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bradley's Septic Services",
+  "folderName": "Bradley's Septic Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2dORz1zZjqZYn20ae7uJicGk9xZ71b2OGcg0QZ7AIEbL1etLsx7ZAfiF9RP4Pb2MkQW9Zu2OZ3WbpGdUgXH2huDrX0yHOq1ze_R5OSk1pJoN-BQIyk-mXW_CJqDCfGuBpeiSgwZHmUk8z=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKU6GdpmdDqn5HhfSbDyuox2wNkvAIoMdZjWXUwgzFG_nqBDzO9LdSfBf-QU8W09VO8OYEBLK6QYzqVUYwgkHc9dVNyPU7xLft4QVZjJV1xwPbfght1Bzd45geuTAYYJkrzh4uYPANLisC=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Jim",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Jim",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

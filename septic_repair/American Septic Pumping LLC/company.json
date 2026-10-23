@@ -1,0 +1,110 @@
+{
+  "name": "American Septic Pumping LLC",
+  "rating": 5,
+  "reviewCount": 54,
+  "category": "Septic system service",
+  "address": "5960 Guys Chewalla Rd, Ramer, TN 38367, United States",
+  "phone": "+1 662-415-2920",
+  "phoneRaw": "+16624152920",
+  "website": null,
+  "plusCode": "29CG+XP Ramer, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/American+Septic+Pumping+LLC/@35.0224798,-88.6232103,17z/data=!3m1!4b1!4m6!3m5!1s0x887dc55a6c39a943:0x58474d3f6910e6ff!8m2!3d35.0224798!4d-88.6232103!16s%2Fg%2F11jytsprp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Memphis",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/American Septic Pumping LLC",
+  "folderName": "American Septic Pumping LLC",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPW33a_wqfDwZMjvrf_PTzkX0RGF2Tjx9_gRVgoWn_TDTy74Swxa4KnhWuIfF-dtRDwyX3uqwQF6Mspp45WRDNQybJ_d4kfelCXiFjWEIQ-LN07PkPJ66EBMNUFQJOHVxcnXDZ=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1T5bqJHldxxaYBuWarxmnvshN5r6SaCddf49SbAxaHqF4mE5_xVbZndftPvbuFt9aNMGcQLr9n6LuIIi2EokEGE_39eiDFYijf36Xk5o9xKc4xrYzsvpe6JxZ4Me_K270YHM6=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0YFsw6YYHHFrqu17gzefZQl5-IwHSUnLFm473pu4zXCoZHmrFgxdIgkDy7eAe2wXuknAia7mvv4GkDNil9z2qmFLPauXne6Ihokg9O96tbKTUdbQ2zR2Rtu9IEJ2NDTpmWZAe=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrCH5HfwabjuyIsdXGWkis16IFGNYg0fFFWyrrW8dCDbhSPKIVEITfxcgAbjoOj1kKsoPtXM6f8HGCvxNXwADvYKKrJBp80gs45XDVunaWz8Jk08P79pnv5OrlJ7iUs1CH6_iLMA=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddaMbVHVUIQPlRJQp-Q43gI5rhcOP1Q-7l23tSA0kC412UVgIEGephkti8BoFn2AMl69sifvXc0veO9iBtVeATkZPnQb12NYRWwEkpR6w5_vRPijW9yVUFOMHhKck8En_e_Jg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "D Day",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "D Day",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "D Day",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "D Day",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Tiffany Williams",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      }
+    ]
+  }
+}

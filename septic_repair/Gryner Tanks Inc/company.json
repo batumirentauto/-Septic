@@ -1,0 +1,48 @@
+{
+  "name": "Gryner Tanks Inc",
+  "rating": 4.7,
+  "reviewCount": 33,
+  "category": "Excavating contractor",
+  "address": "2341 Gryner Wy, Van Buren, AR 72956, United States",
+  "phone": "+1 479-632-2115",
+  "phoneRaw": "+14796322115",
+  "website": "http://www.1grynertanks.com/",
+  "plusCode": "FP9M+QV Van Buren, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Gryner+Tanks+Inc/@35.4694513,-94.2653693,17z/data=!3m1!4b1!4m6!3m5!1s0x87cbb7c78753a479:0x2a7699e544a3508d!8m2!3d35.4694513!4d-94.2653693!16s%2Fg%2F1tfz0n1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Springdale",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Gryner Tanks Inc",
+  "folderName": "Gryner Tanks Inc",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePPP5Um8bIOecQWCOO4VfjqQ4YkoNBBRtIp_t3P18FlETYexO0PA46i91EO49pbAezbW2Vq7QE4aM4_ykICMkfEzTQtV5Blvdxv6-4U0fE0spkQJ_6dryhTOJL7Yk-mk0wMtyeYYAiLUve=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPpWVZ-odyUl9NN1YlXRDD4sQsAChw6leiVmzBI_wIugRYchprQd1YSS25CGYpSVLzSw8mXUyDHz_YQFtJhk-UPsVOmhp5fHtbuGt84F_lxET25VkcXO1jAHfbMlDBpu1uxxfwJUXLWsw=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Levi Gould",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Levi Gould",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

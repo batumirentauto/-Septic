@@ -1,0 +1,110 @@
+{
+  "name": "Davis Concrete Products Inc.",
+  "rating": 5,
+  "reviewCount": 177,
+  "category": "Septic system service",
+  "address": "15 Sanders Rd, Phenix City, AL 36869, United States",
+  "phone": "+1 334-298-4620",
+  "phoneRaw": "+13342984620",
+  "website": null,
+  "plusCode": "CVP3+G3 Phenix City, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Davis+Concrete+Products+Inc./@32.4362516,-85.1472516,17z/data=!3m1!4b1!4m6!3m5!1s0x888cce7fe6161b0d:0x7da0c9245dbf988!8m2!3d32.4362516!4d-85.1472516!16s%2Fg%2F1tkby_f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Columbus",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Davis Concrete Products Inc.",
+  "folderName": "Davis Concrete Products Inc.",
+  "totalPhotosDownloaded": 10,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsvnnni7WxNYKGUfhJG3awKuJciqmLqRcmmb_0-10UCM03FKHrpF5nPdrCtfTj9vfhumsgy7I8irkOPG-Ndi2_7_sXlmA6yjI_XZ8u1Zj7iQkjbBhsNRPtKzwnr3w_gasnIX6L8_xbyEw=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_aGeNshSdpvSlqCYm-PKZxueN6kWXrGfh8CzHLEa_sQPWwYPklGjP_EnH_bn93DF1Qf9i5GeXG_2sEqxDoz1NemHIJhn7uIUq0iDxgh_rVug_xW157QhzsyNHsGc2ZytxD5fLjkRNTqM=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcp7nxz0Hb3S-MOFn2oVSncPvtP8FmOEJYtGxrEqhEWN9RMdR0JfBtr1849jFndvGDYGoFnf1ir_fXH0dmwhnO01c-Faz-PqTi8BnSDkfuR-y6VI8D3FTWiXJbb-Oc1T-XW7dE3fA=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPbruPfsCsWaiy2kV3c_A4qhCGu094vM8gkNdT-uhpDvBXpJbhKoahL67QCSHBfrKI6vyY7GhPkfq8ibbv4w0co-6RINeAJ6nZQp1XFlPpkaLrDrZXBodssU6ke1U_aiTumoCGY4xNaUf1=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqWBHB9X15UQZpzonQ7KJOjDPhO3CzpaBjv54j7jFIWroUqqNO7bJ-t8c5U8DhHZStsY3h33Vqnd2Pnhcbiy_6_ausgpWxduAHWuIk5uugBk5pK5mBIgxWoH1e3D1d3tF2dJY=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ycel Bartlett",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Ycel Bartlett",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Kuwanda Ruffin",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "R Randolph",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Kuwanda Ruffin",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

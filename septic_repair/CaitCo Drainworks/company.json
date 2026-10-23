@@ -1,0 +1,53 @@
+{
+  "name": "CaitCo Drainworks",
+  "rating": 4.8,
+  "reviewCount": 71,
+  "category": "Plumber",
+  "address": "1589 San Mateo Ln, Santa Fe, NM 87505, United States",
+  "phone": "+1 505-424-9191",
+  "phoneRaw": "+15054249191",
+  "website": "https://caitcocares.com/",
+  "plusCode": "M27Q+6F Santa Fe, New Mexico, USA",
+  "url": "https://www.google.com/maps/place/CaitCo+Drainworks/@35.6630533,-105.9612808,17z/data=!3m1!4b1!4m6!3m5!1s0x8718514f89b889d1:0x7adfd993d9b2e872!8m2!3d35.6630533!4d-105.9612808!16s%2Fg%2F11yp8nnnn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NM",
+  "city": "Santa Fe",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/CaitCo Drainworks",
+  "folderName": "CaitCo Drainworks",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

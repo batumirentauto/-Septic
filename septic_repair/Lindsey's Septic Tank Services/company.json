@@ -1,0 +1,53 @@
+{
+  "name": "Lindsey's Septic Tank Services",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "category": "Septic system service",
+  "address": "910 Stone Chapel Rd, Leitchfield, KY 42754, United States",
+  "phone": "+1 270-879-8761",
+  "phoneRaw": "+12708798761",
+  "website": null,
+  "plusCode": "GJ75+WG Leitchfield, Kentucky, USA",
+  "url": "https://www.google.com/maps/place/Lindsey's+Septic+Tank+Services/@37.5147952,-86.3912147,17z/data=!3m1!4b1!4m6!3m5!1s0x886f48c47fa542cf:0x31e8e5fc94c550c3!8m2!3d37.5147952!4d-86.3912147!16s%2Fg%2F1td2vn5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KY",
+  "city": "Louisville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Lindsey's Septic Tank Services",
+  "folderName": "Lindsey's Septic Tank Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

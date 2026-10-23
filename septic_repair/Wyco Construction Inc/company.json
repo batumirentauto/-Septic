@@ -1,0 +1,53 @@
+{
+  "name": "Wyco Construction Inc",
+  "rating": 4.8,
+  "reviewCount": 28,
+  "category": "Excavating contractor",
+  "address": "3308 Hermitage Rd, Warsaw, NY 14569, United States",
+  "phone": "+1 585-786-2571",
+  "phoneRaw": "+15857862571",
+  "website": null,
+  "plusCode": "PQFX+F6 Warsaw, New York, USA",
+  "url": "https://www.google.com/maps/place/Wyco+Construction+Inc/@42.723724,-78.2019377,17z/data=!3m1!4b1!4m6!3m5!1s0x89d3c58c2ea6ac69:0x721d8ca8b45f8033!8m2!3d42.723724!4d-78.2019377!16s%2Fg%2F1tppsz19?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NY",
+  "city": "Rochester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wyco Construction Inc",
+  "folderName": "Wyco Construction Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Busy D Pumping",
+  "rating": 4.6,
+  "reviewCount": 87,
+  "category": "Septic system service",
+  "address": "3255 E District St, Tucson, AZ 85714, United States",
+  "phone": "+1 520-751-7765",
+  "phoneRaw": "+15207517765",
+  "website": "http://www.busydpumping.com/",
+  "plusCode": "53FG+XQ Tucson, Arizona, USA",
+  "url": "https://www.google.com/maps/place/Busy+D+Pumping/@32.1749941,-110.9230174,17z/data=!3m1!4b1!4m6!3m5!1s0x86d67abcf0282209:0xde3e650bd360cc7e!8m2!3d32.1749941!4d-110.9230174!16s%2Fg%2F1tgnmj48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AZ",
+  "city": "Tucson",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Busy D Pumping",
+  "folderName": "Busy D Pumping",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmlmNyisJA74BJQlkhgY39E27YaSu_6FyMXKzqV4gSiY3pBhmM0cV8pDz5VFr6sRQQTmQ7wd59dCIgVOuG-ey-dMI_UMBi7yLSmzAy77CmQyaDjIB6Uci_bs1rBpXMAtLy9L1B=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0PLp_e0emI6Iqi94ChvmmTlLiGAjmG27i2uk4dwphwHpeAV9bCgp9GC0CUAH3JG8OrOidJd6GJU6eP1mEBEkKCxVu6dluuPyO9iT_Klyxz-QoN2aZ89DmJah_urBO2Ci5PXES4Q=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclCy90dnkZIPwCJXFHl0RJxOXppDH4IfTmP0sXVpkBrtxHo92wrq6jfRdVDM09WxHrqDq42D61lCDOq4EMw0B_4HV7Ud3g6ohmxEDbMI7Ejgpte8g7AZ5rV9wgwQ7vFcZw9pLc=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Phillip Skene",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Phillip Skene",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Phillip Skene",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

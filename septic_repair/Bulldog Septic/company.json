@@ -1,0 +1,88 @@
+{
+  "name": "Bulldog Septic",
+  "rating": 4.8,
+  "reviewCount": 63,
+  "category": "Septic system service",
+  "address": "1675 NW Odem Ave, Terrebonne, OR 97760, United States",
+  "phone": "+1 541-306-9974",
+  "phoneRaw": "+15413069974",
+  "website": null,
+  "plusCode": "8RR7+RC Terrebonne, Oregon, USA",
+  "url": "https://www.google.com/maps/place/Bulldog+Septic/@44.3421135,-121.1864472,17z/data=!3m1!4b1!4m6!3m5!1s0x54bed606ee6bca51:0x255e79efc47e777b!8m2!3d44.3421135!4d-121.1864472!16s%2Fg%2F11c5ggzd5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "OR",
+  "city": "Bend",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bulldog Septic",
+  "folderName": "Bulldog Septic",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsX1AZSy_ct9fjpppNuoeyK6N6iZPr5aj2sXXMgfFn79ScENOCu1sDynNSP6oKuXeH5S9PMD2itjOO-UxGaXJqOc_BUKtE_ObrXXu_ZlzMfbi0I1IsKJrJVJtVW7-9bVjBCIQ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiy5vEAR2LHBCxBl2ktMkjrHUay1ENlTkRlCTMvb53YZU56yPqbLSRgdmAjkJve1EbiJM6eF7sy9vfNZ_rOo0iiGPPtm7UT_OQZmQBoV4BeCAM9haXheg18WfqHvMYkH_NlZ2QBA=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpoaDY5Bcxrq0OBWtA9B5aeoOD01S5qSVbKR_h1gHyracko5UROeHvuHlcDgmMjoeqkQbXOGLKFecwSlL0Xi3UfCRDKYKo4PsqYIPlzyHt4LCXsIp5JZyXt3Cx4jZ01nRACgpvTg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Amanda Henkel",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Lee Lawrence blanco",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Amanda Henkel",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

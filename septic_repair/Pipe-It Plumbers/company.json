@@ -1,0 +1,66 @@
+{
+  "name": "Pipe-It Plumbers",
+  "rating": 4.7,
+  "reviewCount": 29,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 540-678-0226",
+  "phoneRaw": "+15406780226",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Pipe-It+Plumbers/@39.2394095,-78.1318505,10z/data=!3m1!4b1!4m6!3m5!1s0x89b5f01db758e893:0xf8b57cf77ccf335d!8m2!3d39.2394095!4d-78.1318505!16s%2Fg%2F1hhwhdzfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "VA",
+  "city": "Winchester",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Pipe-It Plumbers",
+  "folderName": "Pipe-It Plumbers",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLHq5iXdedJf6zwrTOr4o20Xb0b4DkKMRnvdLKDMME7g-sW5v9lCQZGHM3rxm1VkvH2oVF5lW1OiQJpHRuHXD7szkFImRoIAJgGpaNCxOnj5gKksl4JLSxC9jUDJVEOiqzLN_4ng=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Dick Taylor",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

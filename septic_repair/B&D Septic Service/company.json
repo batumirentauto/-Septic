@@ -1,0 +1,53 @@
+{
+  "name": "B&D Septic Service",
+  "rating": 4.9,
+  "reviewCount": 41,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 615-809-4634",
+  "phoneRaw": "+16158094634",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/B%26D+Septic+Service/@36.086816,-85.9786955,7z/data=!3m1!4b1!4m6!3m5!1s0x886425596d8e625b:0x799153cdd48554c3!8m2!3d36.086816!4d-85.9786956!16s%2Fg%2F11g0wyd6_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/B&D Septic Service",
+  "folderName": "B&D Septic Service",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

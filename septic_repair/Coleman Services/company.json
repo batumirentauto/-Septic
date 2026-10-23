@@ -1,0 +1,77 @@
+{
+  "name": "Coleman Services",
+  "rating": 5,
+  "reviewCount": 28,
+  "category": "Plumber",
+  "address": "130 Henry Miller St, Harlem, GA 30814, United States",
+  "phone": "+1 706-556-1966",
+  "phoneRaw": "+17065561966",
+  "website": "/aclk?sa=L&ai=DChsSEwjbko3z2M6XAxWZ1bEHHXDtIfEYACICCAEQABoCbHI&co=1&ase=2&gclid=EAIaIQobChMI25KN89jOlwMVmdWxBx1w7SHxEBAYASAAEgJkAvD_BwE&cid=CAASugHkaDcQCgH_hJ9A9EmAM6pTkGJ9O5fPyT1ijwam_5sx2ikiOw-8YSq5YkHDb2y-iG4Qem4q-BvR2ELVvR2yj2ZgTfovM8PTGl2xFBXZYR4Mjr_I51yv9WMnmTLgc355AHQSIN5Wjebr1yK2cHV5g8D6fvkGyHKmQLoLAIO_zzLl_DhIlC-ax-1aPvi_cR9S2VTHS7wIoCTDYK_U_UhAo_Nn4RLW7rrioy_GiHRY_BfWcVY5Y9OvieLEjls&cce=2&category=acrcp_v1_32&sig=AOD64_340TGxvBIUXAHd7lfcaYQUOjQNdQ&adurl&q&ctype=99&nis=5",
+  "plusCode": "CM8F+JX Harlem, Georgia, USA",
+  "url": "https://www.google.com/maps/place/Coleman+Services/@33.4165313,-82.3250954,17z/data=!3m1!4b1!4m6!3m5!1s0x88f77b0ce1dfd559:0xcd4323f47436d40!8m2!3d33.4165313!4d-82.3250954!16s%2Fg%2F11f26wh2j9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "GA",
+  "city": "Augusta",
+  "websiteIssue": "Сайт не открывается (ERR_INVALID_URL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Coleman Services",
+  "folderName": "Coleman Services",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedY_ybAZfDnXzkbtVw0clkHJNwlKy0OXjBYC0vtEMRg3S6mmf1p2XXfr-FgxzX8-RAJOzGrQv1Tuh5dW1ILHLrXm1ZtHdnh5KBIvZIKZEJka8V3vNuGgUSMKrfhewrdpx8jcrJN16Mdxo=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLce5X8Hm33THSAMCleaYG6J7d-lJGZY1rLHxQFLWf7P4irfqVyvkAwhd7Iy24GcT-dWcXqlhELny0MHFCFnbvPelZNUR-3myGVmAFDM1RRW7Fs6mEJnTGU7yxmoYqC4OQOAS6-TypVdv_g3=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Alan Millan",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Alan Millan",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "RPM Septic Systems LLC",
+  "rating": 5,
+  "reviewCount": 136,
+  "category": "Septic system service",
+  "address": "7 Corn Tassle Rd, Danbury, CT 06811, United States",
+  "phone": "+1 203-942-2100",
+  "phoneRaw": "+12039422100",
+  "website": "https://rpmseptic.com/",
+  "plusCode": "CHP6+HX Danbury, Connecticut, USA",
+  "url": "https://www.google.com/maps/place/RPM+Septic+Systems+LLC/data=!4m7!3m6!1s0x89e7f651c1b51a7b:0xe05a67ec85e92c87!8m2!3d41.4363773!4d-73.4375435!16s%2Fg%2F1tfmjvyw!19sChIJexq1wVH254kRhyzphexnWuA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "Hartford",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/RPM Septic Systems LLC",
+  "folderName": "RPM Septic Systems LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

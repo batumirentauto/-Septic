@@ -1,0 +1,53 @@
+{
+  "name": "R & W Septic Tank Services",
+  "rating": 4.6,
+  "reviewCount": 27,
+  "category": "Septic system service",
+  "address": "126 Holly Springs Rd, Newport, NC 28570, United States",
+  "phone": "+1 252-726-7390",
+  "phoneRaw": "+12527267390",
+  "website": null,
+  "plusCode": "R32W+9P Newport, North Carolina, USA",
+  "url": "https://www.google.com/maps/place/R+%26+W+Septic+Tank+Services/@34.8009069,-76.9032428,17z/data=!3m1!4b1!4m6!3m5!1s0x89a8ebc568139a7b:0x3f22dc37134fdf3e!8m2!3d34.8009069!4d-76.9032428!16s%2Fg%2F11b6bplg9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Wilmington",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/R & W Septic Tank Services",
+  "folderName": "R & W Septic Tank Services",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

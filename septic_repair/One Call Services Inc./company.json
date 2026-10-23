@@ -1,0 +1,53 @@
+{
+  "name": "One Call Services Inc.",
+  "rating": 4.9,
+  "reviewCount": 149,
+  "category": "Plumber",
+  "address": "1001 30th Ave, Northport, AL 35476, United States",
+  "phone": "+1 205-758-6237",
+  "phoneRaw": "+12057586237",
+  "website": null,
+  "plusCode": "6CC7+XV Northport, Alabama, USA",
+  "url": "https://www.google.com/maps/place/One+Call+Services+Inc./@33.2223818,-87.5853708,17z/data=!3m1!4b1!4m6!3m5!1s0x88861ec390998cbd:0xe2d62bd58c9c99f7!8m2!3d33.2223818!4d-87.5853708!16s%2Fg%2F11b7g1hg2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Tuscaloosa",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/One Call Services Inc.",
+  "folderName": "One Call Services Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Michael Lee Septic Services",
+  "rating": 4.7,
+  "reviewCount": 53,
+  "category": "Septic system service",
+  "address": "819 Bird Rd, Livingston, TX 77351, United States",
+  "phone": "+1 936-327-7095",
+  "phoneRaw": "+19363277095",
+  "website": null,
+  "plusCode": "J576+65 Livingston, Texas, USA",
+  "url": "https://www.google.com/maps/place/Michael+Lee+Septic+Services/@30.613019,-94.839583,17z/data=!3m1!4b1!4m6!3m5!1s0x863891dafb1d9661:0x879651a79fdcb321!8m2!3d30.613019!4d-94.839583!16s%2Fg%2F1tkc719g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Houston",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Michael Lee Septic Services",
+  "folderName": "Michael Lee Septic Services",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWuhxOZbRRYm3qePv19aoeB7aPGmjQZ9WqEX4Vu7srdk4EXw-WjIx44nuJr603YcXSotEEt7tJW2EgmcDTwylE16YgzR0SJW7KbLa1Qmn4CEMgJFzyR__kDoGZOXwsM-E7xjplYaByp__H=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "AnthJack",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "New Era Plumbing, Inc.",
+  "rating": 4.7,
+  "reviewCount": 70,
+  "category": "Plumber",
+  "address": "2900 Reverend Abraham Woods Jr Boulevard, Birmingham, AL 35203, United States",
+  "phone": "+1 205-208-0100",
+  "phoneRaw": "+12052080100",
+  "website": "https://newera-plumbing.com/",
+  "plusCode": "G6H2+3Q Birmingham, Alabama, USA",
+  "url": "https://www.google.com/maps/place/New+Era+Plumbing,+Inc./@33.5277148,-86.7980631,17z/data=!3m1!4b1!4m6!3m5!1s0x88891bcd59de54e1:0x238440395f0e4c03!8m2!3d33.5277148!4d-86.7980631!16s%2Fg%2F11j7dn9dt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/New Era Plumbing, Inc.",
+  "folderName": "New Era Plumbing, Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

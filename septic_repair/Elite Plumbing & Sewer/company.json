@@ -1,0 +1,53 @@
+{
+  "name": "Elite Plumbing & Sewer",
+  "rating": 4.7,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": "707 96th Ave SE, Lake Stevens, WA 98258, United States",
+  "phone": "+1 425-446-9136",
+  "phoneRaw": "+14254469136",
+  "website": "http://eliteplumbingandsewerwa.com/",
+  "plusCode": "XVQX+V9 Lake Stevens, Washington, USA",
+  "url": "https://www.google.com/maps/place/Elite+Plumbing+%26+Sewer/@47.9896523,-122.1016177,17z/data=!3m1!4b1!4m6!3m5!1s0x2263a6d348ef3c8d:0xa8d01f969ee0d133!8m2!3d47.9896523!4d-122.1016177!16s%2Fg%2F11wvvwpcjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "WA",
+  "city": "Snohomish",
+  "websiteIssue": "Сайт не открывается (Ошибка HTTP 403)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Elite Plumbing & Sewer",
+  "folderName": "Elite Plumbing & Sewer",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

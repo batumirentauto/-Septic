@@ -1,0 +1,53 @@
+{
+  "name": "Multi-Craft Contractors, Inc.",
+  "rating": 5,
+  "reviewCount": 26,
+  "category": "Construction company",
+  "address": "2300 N Lowell Rd, Springdale, AR 72764, United States",
+  "phone": "+1 479-751-4330",
+  "phoneRaw": "+14797514330",
+  "website": "https://www.multi-craft.net/",
+  "plusCode": "6V38+W9 Springdale, Arkansas, USA",
+  "url": "https://www.google.com/maps/place/Multi-Craft+Contractors,+Inc./@36.204865,-94.1341095,17z/data=!3m1!4b1!4m6!3m5!1s0x87c914b9bd04b2bf:0x65ad45514b1bb691!8m2!3d36.204865!4d-94.1341095!16s%2Fg%2F1tfmcr_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AR",
+  "city": "Fayetteville",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Multi-Craft Contractors, Inc.",
+  "folderName": "Multi-Craft Contractors, Inc.",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 0,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

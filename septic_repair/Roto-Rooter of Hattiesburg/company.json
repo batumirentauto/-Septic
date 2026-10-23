@@ -1,0 +1,77 @@
+{
+  "name": "Roto-Rooter of Hattiesburg",
+  "rating": 4.9,
+  "reviewCount": 174,
+  "category": "Plumber",
+  "address": "602 Adeline St D6, Hattiesburg, MS 39401, United States",
+  "phone": "+1 601-215-8626",
+  "phoneRaw": "+16012158626",
+  "website": "https://rotorooterse.com/?utm_source=organic&utm_medium=gbp_listing",
+  "plusCode": "8PF2+MX Hattiesburg, Mississippi, USA",
+  "url": "https://www.google.com/maps/place/Roto-Rooter+of+Hattiesburg/@31.32421,-89.2975745,17z/data=!3m1!4b1!4m6!3m5!1s0x889cdd578fd331cb:0x2c9a5525bf1eb377!8m2!3d31.32421!4d-89.2975745!16s%2Fg%2F11ldwp6jch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MS",
+  "city": "Hattiesburg",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Roto-Rooter of Hattiesburg",
+  "folderName": "Roto-Rooter of Hattiesburg",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeK8GowOp8fbdLgRpBxIYDKgIttxcAsQRWfXhwBx3P1ZCpG_SXVHZ2MY3ZtJ0hC49IH2pWQs8B6EvrAB_8Co3S77owYl5O08MKKISqxeGauUr7-X5xIJuHEID5LecXlzwIqPXyhXsw68BcI=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ2r72lfoTg3P0XWckIWMXUwNKFMc8tjKmKhqzDVs8V55TlNkGnTe_HlGZFyuhE5uW1aGiJGIKEGiXrop5kGDUzSQi6ekekVBAkjDiexDBmSl6SnjYZBwWFdz2btVyzOoRoNBpKw_Uqnlg=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Syed Naqvi",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Gk Severe",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

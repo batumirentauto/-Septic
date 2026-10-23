@@ -1,0 +1,143 @@
+{
+  "name": "Brian's Septic Service",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 336-491-1470",
+  "phoneRaw": "+13364911470",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Brian's+Septic+Service/@35.8806624,-80.009998,10z/data=!3m1!4b1!4m6!3m5!1s0x85c5f2889970722f:0x56e8189b695f4622!8m2!3d35.8806624!4d-80.009998!16s%2Fg%2F11nxqmgffz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NC",
+  "city": "Greensboro",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Brian's Septic Service",
+  "folderName": "Brian's Septic Service",
+  "totalPhotosDownloaded": 16,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-KOzTrLtPn1lUFYawSMumVLg5VSqR3kbLmyUjJmQMiJMyQL9wstBH7gyQ1_P3ejzDrT9yExOAGCZzKHqOlL8vlILcxG3illd9a3I9oFcyCH1BwPEZ7y4rSuDhIzQUMwnoDjFD=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEtuRtiW3a_CVLZqkQ3BgmqywtPIFjJ3orkTfnr05iY8Ew2fKsTR5DtD3Hgd2iLelvhL8Edzevg0l7K7sW33RKOrIELG61ESV3LGWHUjTWam0wiMQNRundabyDP8diedFw20A4hA=s0"
+      },
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHVhvtyDF7x99_E38F5w-ufEU2F92g9ghkP9-9vAutw_ELXHSDBwZ6bU0n2U1RKirBIJemle-tny3Rq6yAodo0sRFZtAPQJUK0oc_Xd5O0DvY-YaU9_GTbg01d9ztQAEi1YnUMyQ=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4P5jMRhtx_YHWPYid7uLIN42fy428_W7mOTI-WBfQ1ESlfMMuQJnsZa3_vFi-Srm0evtH2rMEFHYO0T1SNND51r6vK5LOeqt_9E7Sqt5r6WhsKIiHC0Ku1_rF6jFCHW10jhcc=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerFyv4MRtJfqvqw6CA6P8SrEWdHd7Qj4qUva66dBzcBwWo12uwfAIV2YsY4nKnGAhR61HDsYy7SdG7MC35UPisJ-iItBp6dRozMhGAvreuDaU65gI5FM8laCJWcwp8xCZ-tWaD=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR8UsTLHRXYaj5Rp-3_tTAGcDXcOF68eRx8LsRPyWVFsqcDSnPYrE5FroPUkkfjOSkedlWUg609XSjZyLeaVxRy4EiD8i0vldcwJbJrgHw18BKyLpLR8FrUTQlMJouyNOj7E3vtgO59Pg=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiFkWD8GweyiMiICGgHApi5x0EZp38r5CrRlR4ZsHtMekPbHLfhZtjVD40aYja-ZTw7300WrcTJL0VkkJr_qthfYMB-XUTkYMQ2AOM9NVcpyhmegxPzWIPNXLbnIp-lQRpslnR=s0"
+      },
+      {
+        "index": 8,
+        "file": "photo_008.jpg",
+        "relativePath": "photos/owner/photo_008.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLecKrOhe2X9oQDUsVSgptjGqsFGcu8ShKQvfGr2GjwXHDPtTlcPUH4OJw9sCvWkEBZKe6tUSNz3dQJAgXAO0kCcPmUTz_xiVzDiIi_-L5nFPKmXuLpveyY43L0QklIgThoisPV5=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Susie Hill",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      },
+      {
+        "author": "Susie Hill",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Susie Hill",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Stephanie Robertson",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Josh Bryant",
+        "file": "review_photo_008.jpg",
+        "relativePath": "photos/reviews/review_photo_008.jpg"
+      },
+      {
+        "author": "Kirby Graves",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Kirby Graves",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Susie Hill",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      }
+    ]
+  }
+}

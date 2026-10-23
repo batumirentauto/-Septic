@@ -1,0 +1,66 @@
+{
+  "name": "Wald Septic Service",
+  "rating": 5,
+  "reviewCount": 25,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 417-437-6723",
+  "phoneRaw": "+14174376723",
+  "website": "https://www.facebook.com/Wald-Septic-Service-1244605312358622/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Wald+Septic+Service/@37.1498321,-94.203248,10z/data=!3m1!4b1!4m6!3m5!1s0x87c87bd869c4809d:0xe86d51037d74d6f2!8m2!3d37.149832!4d-94.203248!16s%2Fg%2F11fkzwq7fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Joplin",
+  "websiteIssue": "Страница Facebook вместо сайта",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Wald Septic Service",
+  "folderName": "Wald Septic Service",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2CwEoT8E-ejHz__Hi2L-qtNqPp-JOoqK9vfw179yvJpdLQKF6oEdoFrf5IZIFkeYgzpJyivVNI3-WIlByh3ipewSDKCrFEgm1YMPHDk5RmzMvgVeCCXRtAUEHJ5ChQwmppVBy=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Bubba Hyde",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

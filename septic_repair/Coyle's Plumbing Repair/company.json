@@ -1,0 +1,24 @@
+{
+  "name": "Coyle's Plumbing Repair",
+  "rating": 4.7,
+  "reviewCount": 30,
+  "category": "Plumber",
+  "address": "1126 E Burlington St, Iowa City, IA 52240, United States",
+  "phone": "+1 319-339-7841",
+  "phoneRaw": "+13193397841",
+  "website": null,
+  "plusCode": "MF5J+6H Iowa City, Iowa, USA",
+  "url": "https://www.google.com/maps/place/Coyle's+Plumbing+Repair/@41.6580283,-91.5185511,17z/data=!3m1!4b1!4m6!3m5!1s0x87e44209b2a22935:0x5af4ef97a3e092e7!8m2!3d41.6580283!4d-91.5185511!16s%2Fg%2F1td0tflp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "IA",
+  "city": "Iowa City",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Coyle's Plumbing Repair",
+  "folderName": "Coyle's Plumbing Repair",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

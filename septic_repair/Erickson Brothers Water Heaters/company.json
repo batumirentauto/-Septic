@@ -1,0 +1,53 @@
+{
+  "name": "Erickson Brothers Water Heaters",
+  "rating": 4.8,
+  "reviewCount": 179,
+  "category": "Plumber",
+  "address": "15625 E Williams Rd, Conroe, TX 77303, United States",
+  "phone": "+1 832-937-7038",
+  "phoneRaw": "+18329377038",
+  "website": null,
+  "plusCode": "9MVF+M6 Conroe, Texas, USA",
+  "url": "https://www.google.com/maps/place/Erickson+Brothers+Water+Heaters/@30.394134,-95.3269367,17z/data=!3m1!4b1!4m6!3m5!1s0x864741c745d7dd25:0x44b07a9693c01eac!8m2!3d30.394134!4d-95.3269367!16s%2Fg%2F11hk5z2_r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TX",
+  "city": "Conroe",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Erickson Brothers Water Heaters",
+  "folderName": "Erickson Brothers Water Heaters",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

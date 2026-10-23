@@ -1,0 +1,77 @@
+{
+  "name": "Chris' Rooter",
+  "rating": 5,
+  "reviewCount": 58,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 559-222-4262",
+  "phoneRaw": "+15592224262",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Chris%27+Rooter/data=!4m7!3m6!1s0x809467eb137fbabb:0x974a75570429b4e0!8m2!3d36.8236545!4d-119.8564669!16s%2Fg%2F11g86lppx_!19sChIJu7p_E-tnlIAR4LQpBFd1Spc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CA",
+  "city": "Fresno",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Chris' Rooter",
+  "folderName": "Chris' Rooter",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcq9sZqw0LHZCVQGRqdtekEZp2Jq_OVIOeIjjFGk-jkye7md89jUupYoTQLoR-vUEJqZYqbSzDb2-x8fjJWOSVaOtjK4WpaW7d61GV_YsS4nJaul-XYxzNG473JKo4oAQWS_sUxTT1JZFI=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfILwo-s5CVsuYvRzHas2ckOglM4BbJtGXKf367VaZ7s5Q8LHKEosQmUlOqiArndeRn-_h1afhy_z-_rRof_5cFGiz8lsACmhaiZ-8XKfkIz2V9fpYMESYCWSZ4SXIJ0PwtebTtyD4xZlwi=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Joel August",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Joel August",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      }
+    ]
+  }
+}

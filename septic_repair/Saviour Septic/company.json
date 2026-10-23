@@ -1,0 +1,87 @@
+{
+  "name": "Saviour Septic",
+  "rating": 4.8,
+  "reviewCount": 133,
+  "category": "Septic system service",
+  "address": "4 N 5th Ave, Taftville, CT 06380, United States",
+  "phone": "+1 860-608-5806",
+  "phoneRaw": "+18606085806",
+  "website": "https://www.saviourseptic.com/",
+  "plusCode": "HW9W+VG Taftville, Norwich, CT, USA",
+  "url": "https://www.google.com/maps/place/Saviour+Septic/data=!4m7!3m6!1s0x89e670ce733cda4b:0xd464426cc2cd172!8m2!3d41.5696772!4d-72.0536474!16s%2Fg%2F1tjh0d78!19sChIJS9o8c85w5okRctEszCZERg0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "state": "CT",
+  "city": "Waterbury",
+  "websiteIssue": "Ошибка безопасности (Истёк или недействителен SSL)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Saviour Septic",
+  "folderName": "Saviour Septic",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGSn_Xlr2-dVL4JTIjq3Ej7o-xOt5-v7WomQVFPzLo0WumNUMSaWalbSDixJqHFtyh37-N1QR2lpC9V8osLIQUA3oKN8DL0Cg3-PSmRuLTz3JYOeTSYOrcsKg8krnghKy7BjE=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLculizQrhQ2pl2k317Xk80og9vjhtOIoX28at56moz_ik3y0z_IOlrjK1HV4XtBuuLecmGWX8gyxtsU0l5xnYqMAUkW4-MkNAVD_ymVIlzZ0zqwbbFi3ZjHLRjtim_s7y-rIQlLTO8XtgES=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Quinn Tong",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "DV Mountain",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Quinn Tong",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "DV Mountain",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

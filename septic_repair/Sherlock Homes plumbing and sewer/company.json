@@ -1,0 +1,53 @@
+{
+  "name": "Sherlock Homes plumbing and sewer",
+  "rating": 4.9,
+  "reviewCount": 127,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 913-954-2185",
+  "phoneRaw": "+19139542185",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Sherlock+Homes+plumbing+and+sewer/@38.7259021,-94.8367115,10z/data=!3m1!4b1!4m6!3m5!1s0x87c0ec64b335a033:0x48d88efbae0759b0!8m2!3d38.7259021!4d-94.8367115!16s%2Fg%2F11f3vls98s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "KS",
+  "city": "Olathe",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Sherlock Homes plumbing and sewer",
+  "folderName": "Sherlock Homes plumbing and sewer",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

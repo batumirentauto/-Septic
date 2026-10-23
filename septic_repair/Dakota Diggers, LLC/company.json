@@ -1,0 +1,88 @@
+{
+  "name": "Dakota Diggers, LLC",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "category": "Trucking company",
+  "address": "21065 Bill Stephens Dr, Chugiak, AK 99567, United States",
+  "phone": "+1 907-688-2889",
+  "phoneRaw": "+19076882889",
+  "website": "http://dakotadiggers.com/",
+  "plusCode": "CH64+5G Chugiak, Anchorage, AK, USA",
+  "url": "https://www.google.com/maps/place/Dakota+Diggers,+LLC/@61.410489,-149.4436471,17z/data=!3m1!4b1!4m6!3m5!1s0x56c8e8d888182235:0x843d15271cd340fc!8m2!3d61.410489!4d-149.4436471!16s%2Fg%2F1tdfswdz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AK",
+  "city": "Anchorage",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Dakota Diggers, LLC",
+  "folderName": "Dakota Diggers, LLC",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLek6QHVheeqGxOP9h7-LAeuDweQIwuCm7mH0Y7JIETqTOAYCyyGh83MsFoupsVzM_VcNzd7BH9O3dnhOllknphqadf67O7VO4H3cDPI5I69ypGKIQPtbXmPnjb43hh3hVXk03cwdQ=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduWpJRP9OJoKcHfpMgXgZ9eErTRuPVptIimGFEQSezjdijvUuSr4yF8asE9KMCRNfBvy-E__lv2PZCpbBfslOZMk0nmXvbsCfcUrR9f_lBY2DP9xOIfVm42zUTccIMQuGPkdG_UnutBh2t=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeA4u8tO0sJheUC9wGU-oYrZdcz_UXGI5DAxX-PIZmQGp98TmqowNFT8iwxq_Sh_nCxlwiSjd77rYdzORwLbfo--8YLZZitXbMXUv2kGJqKgFJOOo-3gwkFrYdLhyYQvJKmYe6Q=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "1993 whispering D",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Ginnette Navas",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Ginnette Navas",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      }
+    ]
+  }
+}

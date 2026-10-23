@@ -1,0 +1,66 @@
+{
+  "name": "KD Services Excavation & Septic",
+  "rating": 5,
+  "reviewCount": 26,
+  "category": "Excavating contractor",
+  "address": null,
+  "phone": "+1 615-815-0229",
+  "phoneRaw": "+16158150229",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/KD+Services+Excavation+%26+Septic/@36.1256539,-87.5679395,9z/data=!3m1!4b1!4m6!3m5!1s0x3f3e5132a92f0f5:0xdf3f392fadff00bd!8m2!3d36.1256539!4d-87.5679395!16s%2Fg%2F11wjkrh72y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Nashville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/KD Services Excavation & Septic",
+  "folderName": "KD Services Excavation & Septic",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea8brlKflZY8yVvWpwpTI4f03_Y5izDswJxeufKZ-6D6AIPGt75aVxZdgTCZbTtTYxA1mXlSeC7cMs8ltkgJq-1YLb6u7c4TFOBmz2asgKVumgXABSmJRD3NxIyXcFQgvLkDhstWVUtvfn=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Bill Gann",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

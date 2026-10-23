@@ -1,0 +1,88 @@
+{
+  "name": "Bobby's Septic Tank Pumping",
+  "rating": 4.9,
+  "reviewCount": 34,
+  "category": "Septic system service",
+  "address": "198 W Larsen Ave, Fresno, CA 93706, United States",
+  "phone": "+1 559-264-6412",
+  "phoneRaw": "+15592646412",
+  "website": null,
+  "plusCode": "J6W4+J2 Fresno, California, USA",
+  "url": "https://www.google.com/maps/place/Bobby's+Septic+Tank+Pumping/@36.6465705,-119.7949003,17z/data=!3m1!4b1!4m6!3m5!1s0x80948ace064dcd2f:0x79a97b2e648860b2!8m2!3d36.6465705!4d-119.7949003!16s%2Fg%2F1wf38v_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "CA",
+  "city": "Fresno",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Bobby's Septic Tank Pumping",
+  "folderName": "Bobby's Septic Tank Pumping",
+  "totalPhotosDownloaded": 6,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9KJBXgPti6IMKY1RfXaP8ZoT_7PCvwsWWN9c7X5hTFWa-CkBBHgGcrYN2FJFgSlI5Ut_vq3Z2lrnbJ53MwfNzEFcjuXVjUnbLqIXtqY6ndp5R2dQA3vxXSuNFx_s-lZ0lM3mk=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoplfL0Aa55cx3iwhVx8_v9puLocYUgShLpznPRVNXit-u0EelV93LY39DybTYJ_f1Wr0K_h7Dw59j9iP43U-E4Bll8f9UEGKDMK910DOT-MibfRWhkJgTFQ9q25LYSPOjiEsm=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLecgIbYmy_QOT1SJ0tPtTuxdTiYYK1iAQ9K3NtdalIvDx4kwA5jTU003VIWN6x7N5kjhmIzNSOpWx7ryPWzI3iq3GRiJkXcVWRGtYMwTckXCrz0w5bh_wNy_HxTaUAo4T4hlRVcTA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "John Pestorich",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Kristen Rodriguez",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Kristen Rodriguez",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

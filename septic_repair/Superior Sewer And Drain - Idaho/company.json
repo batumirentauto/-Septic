@@ -1,0 +1,53 @@
+{
+  "name": "Superior Sewer And Drain - Idaho",
+  "rating": 5,
+  "reviewCount": 27,
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 208-539-8345",
+  "phoneRaw": "+12085398345",
+  "website": "http://www.superiorseweranddrain.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Superior+Sewer+And+Drain+-+Idaho/@46.423669,-129.9427085,3z/data=!3m1!4b1!4m6!3m5!1s0x54aca3b743c7bb99:0x108f57275f30ed0c!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11c3kdh0xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ID",
+  "city": "Idaho Falls",
+  "websiteIssue": "Сайт не открывается (Домен не найден / DNS ошибка)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Superior Sewer And Drain - Idaho",
+  "folderName": "Superior Sewer And Drain - Idaho",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

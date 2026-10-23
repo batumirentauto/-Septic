@@ -1,0 +1,66 @@
+{
+  "name": "Fred Naillon & Sons Septic Tanks",
+  "rating": 4.7,
+  "reviewCount": 52,
+  "category": "Septic system service",
+  "address": "232 E Main St, Newport, TN 37821, United States",
+  "phone": "+1 423-625-3631",
+  "phoneRaw": "+14236253631",
+  "website": null,
+  "plusCode": "XR96+5R Newport, Tennessee, USA",
+  "url": "https://www.google.com/maps/place/Fred+Naillon+%26+Sons+Septic+Tanks/@35.967942,-83.1879683,17z/data=!3m1!4b1!4m6!3m5!1s0x885bc3c26a8fb98b:0x75a07e8eb5fd7b6e!8m2!3d35.967942!4d-83.1879683!16s%2Fg%2F1td18km8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "TN",
+  "city": "Knoxville",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Fred Naillon & Sons Septic Tanks",
+  "folderName": "Fred Naillon & Sons Septic Tanks",
+  "totalPhotosDownloaded": 2,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaqxNnKHUS-5FxW8bCFXZpzLlBMe-I0C_DtI8mS9vBEXR-QYd3zcwEYya_PUBGxcg-H79VM7mOrIbJcpzSTUu1VacKf86gxqJIvhn9C751oGeOWtIDwzjz3lAjT-Saf_D18K8i0ElUsIL9=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Nichole Wheeler",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}

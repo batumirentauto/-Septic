@@ -1,0 +1,53 @@
+{
+  "name": "East Mountain Pumping and Septic Services Inc",
+  "rating": 4.9,
+  "reviewCount": 104,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 505-281-3513",
+  "phoneRaw": "+15052813513",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/East+Mountain+Pumping+and+Septic+Services+Inc/@35.0986495,-106.2912455,11z/data=!3m1!4b1!4m6!3m5!1s0x8718bf4fb23bb20f:0x46be1f0bac97fa67!8m2!3d35.0986496!4d-106.2912455!16s%2Fg%2F11fb0hn1xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "NM",
+  "city": "Albuquerque",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/East Mountain Pumping and Septic Services Inc",
+  "folderName": "East Mountain Pumping and Septic Services Inc",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

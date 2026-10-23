@@ -1,0 +1,132 @@
+{
+  "name": "St. Louis Excavation",
+  "rating": 4.9,
+  "reviewCount": 121,
+  "category": "Excavating contractor",
+  "address": null,
+  "phone": "+1 314-709-6219",
+  "phoneRaw": "+13147096219",
+  "website": "https://stlexcavation.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/St.+Louis+Excavation/@38.6780335,-90.5367879,10z/data=!3m1!4b1!4m6!3m5!1s0x87d8b458ac2d7bd1:0x937c59e25a3e1ece!8m2!3d38.6780335!4d-90.5367879!16s%2Fg%2F11hbqbt9m5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "MO",
+  "city": "Saint Louis",
+  "websiteIssue": "Сайт не открывается (ECONNRESET)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/St. Louis Excavation",
+  "folderName": "St. Louis Excavation",
+  "totalPhotosDownloaded": 14,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 4,
+        "file": "photo_004.jpg",
+        "relativePath": "photos/owner/photo_004.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLceH_HhRZP6jZZ3AbR_4p27SayzT1vc_znc49OORW-m9AbyDMxPzfL2P3eEOuRdnsc_9JH28QAiGqzKqAzKIsxvfJROz-ShtsWLDXFFnWSEe-Nnqfo6_XxCxd1eoBGdUAE80kBU1qdZY98=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddCTvKIlBgUGwh-LUbhg2WuLsoaQnqafiQXHKGavgvX0XsN0ZXKoKJ38gX1NrSD1r1QJPm1gQq_NP5zW4l5FmzG2WaclPjuL8Q-72SVdeQx-B7qV9oETWw_yuquCsgV2TwFwQ6KpWM1Yw=s0"
+      },
+      {
+        "index": 3,
+        "file": "photo_003.jpg",
+        "relativePath": "photos/owner/photo_003.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYu94IGyfEbAAqnbi4Mjwa-aVwH6EhEdAgq6mqbYsxaKtij8YsdgEPVxxZST8PMBrLiKAdAtdrGxFdKM50FsKTyccnrZXSLjrRgbuZwWFyCJABO8pLYCsOcq5mvyxR3eayw2-LB_n8StCb=s0"
+      },
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMXnGsqJ_eMUonLjLQrLTqQqDKhMJ_FJ3zj4ffi4i2nk4AKnLzx1J5RadMZZBMA5y02eG8cnpnM3KhGtHQVShWWRSjhnrbqAVftEuApY2qU2nHb5EpbMJjFuoB87yaE732CdXo=s0"
+      },
+      {
+        "index": 7,
+        "file": "photo_007.jpg",
+        "relativePath": "photos/owner/photo_007.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctO0d9uGPoNnYeB9OpXt9GCn4uMk_eC6xFyXQSCsCY6Yxgygd5H8aIfjGM-ZEgxGyulSi2U5nw7AtRm_Aa9MRtYss89fc3xmJh1ZjrniYlocdo6IEtk1TRkeMQ_IxNISqnnBLi=s0"
+      },
+      {
+        "index": 5,
+        "file": "photo_005.jpg",
+        "relativePath": "photos/owner/photo_005.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_W7d8dIVQyapUhGCx-Lk8bKSiy0bbbagtzTLL0ofdEFXMeW3idBxqbM4oGp8qLLPOb4FtWG_rBKQ7SueQHWKEaSJOyVG6UtaM7SUKnLKUmZzkRhtSBbW9pxaNS5EC8kzrjA=s0"
+      },
+      {
+        "index": 6,
+        "file": "photo_006.jpg",
+        "relativePath": "photos/owner/photo_006.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVtr1APdfT_FOTalvoo1yeL09003vUypZ-DKp__ZzaR1-gOMEgb6DCgF1eIPvy4MiedF0n8RWFI9TuHZVEBV1VSekR3Dw-SmEN47h9D2Wqfd0GIrrzB2Qgs6ETdxlnP1PLbhmRcA=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Katlyn S",
+        "file": "review_photo_003.jpg",
+        "relativePath": "photos/reviews/review_photo_003.jpg"
+      },
+      {
+        "author": "Katlyn S",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Katlyn S",
+        "file": "review_photo_004.jpg",
+        "relativePath": "photos/reviews/review_photo_004.jpg"
+      },
+      {
+        "author": "Khrystyna Tymofii",
+        "file": "review_photo_005.jpg",
+        "relativePath": "photos/reviews/review_photo_005.jpg"
+      },
+      {
+        "author": "Michael Wood",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      },
+      {
+        "author": "Khrystyna Tymofii",
+        "file": "review_photo_006.jpg",
+        "relativePath": "photos/reviews/review_photo_006.jpg"
+      },
+      {
+        "author": "Khrystyna Tymofii",
+        "file": "review_photo_007.jpg",
+        "relativePath": "photos/reviews/review_photo_007.jpg"
+      }
+    ]
+  }
+}

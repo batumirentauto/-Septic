@@ -1,0 +1,53 @@
+{
+  "name": "Brag’s Sewer & Septic",
+  "rating": 5,
+  "reviewCount": 56,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 207-417-1434",
+  "phoneRaw": "+12074171434",
+  "website": null,
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Brag%E2%80%99s+Sewer+%26+Septic/@45.1884795,-68.9846725,7z/data=!3m1!4b1!4m6!3m5!1s0x87b4ae090963fbd3:0xb70716a34cd1d6d3!8m2!3d45.1884795!4d-68.9846725!16s%2Fg%2F11rzln1j4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "state": "ME",
+  "city": "Augusta",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Brag’s Sewer & Septic",
+  "folderName": "Brag’s Sewer & Septic",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

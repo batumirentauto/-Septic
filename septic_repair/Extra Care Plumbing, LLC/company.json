@@ -1,0 +1,53 @@
+{
+  "name": "Extra Care Plumbing, LLC",
+  "rating": 4.9,
+  "reviewCount": 48,
+  "category": "Plumber",
+  "address": "4000 Eagle Point Corporate Dr, Birmingham, AL 35242, United States",
+  "phone": "+1 205-567-3816",
+  "phoneRaw": "+12055673816",
+  "website": null,
+  "plusCode": "C82P+24 Birmingham, Alabama, USA",
+  "url": "https://www.google.com/maps/place/Extra+Care+Plumbing,+LLC/@33.4000316,-86.6647414,17z/data=!3m1!4b1!4m6!3m5!1s0x888905d88266772b:0xd901955367247e92!8m2!3d33.4000316!4d-86.6647414!16s%2Fg%2F11fy4n44tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "AL",
+  "city": "Birmingham",
+  "websiteIssue": "Сайт отсутствует в карточке",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Extra Care Plumbing, LLC",
+  "folderName": "Extra Care Plumbing, LLC",
+  "totalPhotosDownloaded": 0,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [],
+    "reviews": []
+  }
+}

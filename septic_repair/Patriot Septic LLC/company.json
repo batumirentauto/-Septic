@@ -1,0 +1,77 @@
+{
+  "name": "Patriot Septic LLC",
+  "rating": 5,
+  "reviewCount": 33,
+  "category": "Septic system service",
+  "address": null,
+  "phone": "+1 864-982-8421",
+  "phoneRaw": "+18649828421",
+  "website": "https://patriotsepticsc.com/",
+  "plusCode": null,
+  "url": "https://www.google.com/maps/place/Patriot+Septic+LLC/@34.8438444,-82.534011,9z/data=!3m1!4b1!4m6!3m5!1s0xd3685ef4ac900ad:0x66abba2256a2b5e5!8m2!3d34.8438444!4d-82.534011!16s%2Fg%2F11ywnqvkr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "state": "SC",
+  "city": "Spartanburg",
+  "websiteIssue": "Сайт не открывается (Таймаут соединения)",
+  "hours": [
+    {
+      "day": "Thursday",
+      "hours": ""
+    },
+    {
+      "day": "Friday",
+      "hours": ""
+    },
+    {
+      "day": "Saturday",
+      "hours": ""
+    },
+    {
+      "day": "Sunday",
+      "hours": ""
+    },
+    {
+      "day": "Monday",
+      "hours": ""
+    },
+    {
+      "day": "Tuesday",
+      "hours": ""
+    },
+    {
+      "day": "Wednesday",
+      "hours": ""
+    }
+  ],
+  "companyDir": "/Users/workpc/Documents/Ремонт септиков/septic_repair/Patriot Septic LLC",
+  "folderName": "Patriot Septic LLC",
+  "totalPhotosDownloaded": 4,
+  "totalReviewsScraped": 5,
+  "photos": {
+    "owner": [
+      {
+        "index": 1,
+        "file": "photo_001.jpg",
+        "relativePath": "photos/owner/photo_001.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAYOI1vNWkJEkqfeqwkF-0FThH14VMfoq_ThXjTZp46NRzGCyav87gKSxyIUH6HSXUnNpSrbqtASS1bJGmNWghRmynV_OkbRC6yM7vUa-4JzsQPyXZ2dmNrmIXmv5KGIuCJfhlsTAitVgZ=s0"
+      },
+      {
+        "index": 2,
+        "file": "photo_002.jpg",
+        "relativePath": "photos/owner/photo_002.jpg",
+        "originalUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGu4qnlPRuVCRDHTNj3HR6WTodxxOFQ0sQ4piZfzyys-2srvsaVi81_aLT4ThSU8LJ3goPCNqPiQPPRJnN_msoGOV7sXiRv9m8x-QLObmT3hivbbhZia-Ut4Trt8arGd716V-RG0j2FnQ=s0"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Gary January",
+        "file": "review_photo_002.jpg",
+        "relativePath": "photos/reviews/review_photo_002.jpg"
+      },
+      {
+        "author": "Troy Crites",
+        "file": "review_photo_001.jpg",
+        "relativePath": "photos/reviews/review_photo_001.jpg"
+      }
+    ]
+  }
+}
