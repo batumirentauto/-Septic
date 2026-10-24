@@ -131,13 +131,25 @@ async function executeTool(name: string, args: any): Promise<string> {
 // System prompt tailored for Septic Project
 const SYSTEM_INSTRUCTION = `Ты — ведущий AI-разработчик и аналитик проекта по ремонту септиков в США (Septic Repair, Drain Field Restoration, Excavation).
 Ты запущен прямо на Mac в рабочей папке проекта: ${WORKSPACE_DIR}.
-Стек проекта: Next.js 16 (App Router, React 19, TypeScript), Tailwind CSS, Railway, Playwright для парсинга Google Maps, скрипты анализа рынка.
+Стек проекта: Next.js 16 (App Router, React 19, TypeScript), Tailwind CSS, Railway.
 
-Пользователь отправляет тебе команды через Telegram (текстом или голосом).
-Твоя задача:
-1. Внимательно понимать задачу пользователя.
-2. Использовать инструменты (read_file, write_file, run_command, list_directory), чтобы исследовать код/данные, вносить изменения, запускать скрипты и проверять результат.
-3. Отвечать на русском языке кратко, по делу и структурированно: что было сделано или какой ответ на вопрос.`;
+ВАЖНЫЕ ЗНАНИЯ О ПРОЕКТЕ:
+- Локальный веб-сервер сейчас запущен и доступен на порту 3000.
+- Разработанные пробные посадочные страницы (пилоты):
+  1. Bolt Septic & Excavation (Greenville, SC — 4.9★, 44 отзыва, специализация Drain Field / Excavation):
+     • Английская версия: http://localhost:3000/bolt-septic-excavation
+     • Русская версия: http://localhost:3000/bolt-septic-excavation/ru
+  2. Bonzo Excavating (Pittsburgh, PA — 5.0★, 100 отзывов, тяжелая техника, замена баков):
+     • Английская версия: http://localhost:3000/bonzo-excavating
+     • Русская версия: http://localhost:3000/bonzo-excavating/ru
+- Главный каталог всех 597 компаний: http://localhost:3000/
+- GitHub репозиторий: https://github.com/batumirentauto/-Septic.git
+
+ПРАВИЛА ОТВЕТА:
+1. Если пользователь просит ссылку на пробную страницу, сайт или проект — СРАЗУ давай прямые ссылки на обе пробные страницы: http://localhost:3000/bolt-septic-excavation (и /ru) и http://localhost:3000/bonzo-excavating (и /ru)! Не пытайся искать их через файловые утилиты.
+2. Для ответов на вопросы, советов и справок отвечай сразу текстом без лишнего вызова инструментов.
+3. Вызывай инструменты (read_file, write_file, run_command, list_directory) только когда нужно реально изменить код, запустить скрипт или проверить файлы.
+4. Отвечай на русском языке четко, дружелюбно и по существу.`;
 
 // Resilient file downloader for Telegram
 async function downloadTelegramFile(fileUrl: string): Promise<Buffer> {
@@ -255,8 +267,26 @@ bot.command("help", async (ctx) => {
     `🛠 **Команды и возможности:**\n\n` +
     `• Отправьте **голосовое сообщение** с задачей — я расшифрую его и выполню в проекте.\n` +
     `• Отправьте **текстовое сообщение** с любой задачей по коду, данным или лендингам.\n` +
-    `• Доступные действия: чтение/редактирование файлов, запуск команд (git, pnpm build, node scripts), проверка таблиц и анализ отзывов.\n` +
-    `• /status — статус проекта и сервера.`
+    `• /pages — прямые ссылки на пробные посадочные страницы.\n` +
+    `• /status — статус проекта и git.\n` +
+    `• Доступные действия: чтение/редактирование файлов, запуск команд (git, pnpm build, node scripts), проверка таблиц и анализ отзывов.`
+  );
+});
+
+// Pages command
+bot.command("pages", async (ctx) => {
+  await ctx.reply(
+    `🌐 **Ссылки на разработанные страницы проекта:**\n\n` +
+    `🚜 **1. Bolt Septic & Excavation (Greenville, SC):**\n` +
+    `• EN: http://localhost:3000/bolt-septic-excavation\n` +
+    `• RU: http://localhost:3000/bolt-septic-excavation/ru\n\n` +
+    `🏗️ **2. Bonzo Excavating (Pittsburgh, PA):**\n` +
+    `• EN: http://localhost:3000/bonzo-excavating\n` +
+    `• RU: http://localhost:3000/bonzo-excavating/ru\n\n` +
+    `📋 **3. Главный портал (597 компаний):**\n` +
+    `• http://localhost:3000/\n\n` +
+    `🐙 **GitHub:**\n` +
+    `• https://github.com/batumirentauto/-Septic.git`
   );
 });
 
@@ -389,9 +419,12 @@ bot.on(["message:text", "message:voice"], async (ctx) => {
           role: "user",
           parts: functionResponseParts,
         });
+
+        // Short cooldown between turns to stay safely within RPM limits
+        await new Promise((r) => setTimeout(r, 1200));
       } else {
         const textFromParts = modelContent.parts?.filter((p: any) => p.text).map((p: any) => p.text).join("\n");
-        finalAnswer = textFromParts || response.text || "Задача выполнена успешно.";
+        finalAnswer = textFromParts || response.text || "Задача выполнена.";
         break;
       }
     }
@@ -401,7 +434,7 @@ bot.on(["message:text", "message:voice"], async (ctx) => {
     } catch (_) {}
 
     if (!finalAnswer || !finalAnswer.trim()) {
-      finalAnswer = "✅ Задача выполнена! Изменения применены к кодовой базе.";
+      finalAnswer = "✅ Задача обработана в кодовой базе. Если вам нужен конкретный результат или ссылка — уточните вопрос!";
     }
 
     if (finalAnswer.length > 4000) {
