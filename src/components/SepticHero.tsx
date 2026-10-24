@@ -16,6 +16,7 @@ import {
   AlertTriangle,
   Award,
   CheckCircle2,
+  Truck,
 } from 'lucide-react'
 
 interface SepticHeroProps {
@@ -64,8 +65,12 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
           {/* Main Left Column (7 cols) */}
           <div className="lg:col-span-7 flex flex-col justify-between space-y-6">
             
-            {/* Top Badges */}
+            {/* Top Badges & Company Eyebrow */}
             <div className="flex flex-wrap items-center gap-2 text-xs font-semibold">
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-800 text-slate-100 border border-slate-700 font-bold shadow-sm">
+                <Truck className="w-3.5 h-3.5 text-emerald-400" />
+                <span>{lead.name}</span>
+              </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
                 <ShieldCheck className="w-3.5 h-3.5" />
                 {isRu ? 'Лицензированные специалисты по септикам' : 'Licensed Septic Specialist'}
@@ -80,15 +85,21 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
               </span>
             </div>
 
-            {/* Headline & Subtitle */}
+            {/* Powerful Commercial Offer Headline & Subtitle */}
             <div className="space-y-3">
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-                {lead.name}
+                {isRu
+                  ? (lead.primaryFocus
+                      ? `${lead.primaryFocus}, ремонт септиков и земляные работы в г. ${lead.city || lead.state}`
+                      : `Капитальный монтаж, ремонт септиков и восстановление полей фильтрации в г. ${lead.city || lead.state}`)
+                  : (lead.primaryFocus
+                      ? `${lead.primaryFocus.replace(/\s*\(.*?\)\s*/g, '')}, Septic Tank Repair & Excavation in ${lead.city || lead.state}`
+                      : `Heavy-Duty Septic Installation, Drain Field Restoration & Precision Excavation in ${lead.city || lead.state}`)}
               </h1>
               <p className="text-base sm:text-lg text-slate-300 font-medium leading-relaxed max-w-2xl">
                 {isRu
-                  ? `Капитальный монтаж и замена септиков, разработка плотных грунтов мини-экскаватором, замена выпусков на ПВХ и восстановление полей фильтрации в ${lead.city || 'вашем районе'}, ${lead.state}.`
-                  : `Heavy-duty septic installations, drain field restorations, bedrock mini-excavation, and rapid sewer line upgrades across ${lead.city || 'your area'}, ${lead.state}.`}
+                  ? `Собственный парк тяжелой и мини-спецтехники в ${lead.city || 'вашем районе'}, ${lead.state}. Честные сметы напрямую от владельца без посредников, лазерный контроль уклона труб и 100% защита вашего участка.`
+                  : `Direct owner-operated heavy machinery and mini-excavator fleet serving ${lead.city || 'your area'}, ${lead.state}. Upfront fixed pricing with zero broker markup, laser-level slope grading, and 100% lawn protection pledge.`}
               </p>
             </div>
 
