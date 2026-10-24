@@ -1,5 +1,6 @@
 import { Bot } from "grammy";
 import { GoogleGenAI } from "@google/genai";
+import axios from "axios";
 import * as fs from "fs";
 import * as path from "path";
 import { exec } from "child_process";
@@ -23,7 +24,7 @@ if (!BOT_TOKEN) {
 const bot = new Bot(BOT_TOKEN);
 
 // Primary & fallback models verified for coding tasks
-const CODING_MODELS = ["gemini-3.5-flash", "gemini-3.8-flash", "gemini-flash-latest"];
+const CODING_MODELS = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-flash-latest"];
 
 // Audio transcription models
 const TRANSCRIBE_MODELS = ["gemini-3.5-transcribe", "gemini-3.5-flash", "gemini-3.8-flash"];
@@ -126,6 +127,38 @@ const SYSTEM_INSTRUCTION = `Ты — ведущий AI-разработчик и
 1. Внимательно понимать задачу пользователя.
 2. Использовать инструменты (read_file, write_file, run_command, list_directory), чтобы исследовать код/данные, вносить изменения, запускать скрипты и проверять результат.
 3. Отвечать на русском языке кратко, по делу и структурированно: что было сделано или какой ответ на вопрос.`;
+
+// Resilient file downloader for Telegram
+async function downloadTelegramFile(fileUrl: string): Promise<Buffer> {
+  // Strategy 1: Axios with explicit headers and no keepAlive
+  try {
+    const res = await axios.get(fileUrl, {
+      responseType: "arraybuffer",
+      timeout: 20000,
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Connection": "close",
+      },
+    });
+    return Buffer.from(res.data);
+  } catch (err: any) {
+    console.warn(`Axios download failed (${err.message}), falling back to curl...`);
+  }
+
+  // Strategy 2: macOS system curl (100% resilient across resets)
+  try {
+    const { stdout } = await execAsync(`curl -sL --max-time 30 "${fileUrl}" | base64`);
+    const buf = Buffer.from(stdout.trim(), "base64");
+    if (buf.length > 0) return buf;
+  } catch (err: any) {
+    console.warn(`Curl fallback failed (${err.message}), trying fetch...`);
+  }
+
+  // Strategy 3: Native fetch
+  const res = await fetch(fileUrl, { headers: { "Connection": "close" } });
+  const arrayBuffer = await res.arrayBuffer();
+  return Buffer.from(arrayBuffer);
+}
 
 // Transcribe audio using dedicated transcription models
 async function transcribeAudio(ai: GoogleGenAI, base64Audio: string): Promise<string> {
@@ -256,9 +289,8 @@ bot.on(["message:text", "message:voice"], async (ctx) => {
     try {
       const voiceFile = await ctx.getFile();
       const fileUrl = `https://api.telegram.org/file/bot${BOT_TOKEN}/${voiceFile.file_path}`;
-      const audioRes = await fetch(fileUrl);
-      const audioBuffer = await audioRes.arrayBuffer();
-      const base64Audio = Buffer.from(audioBuffer).toString("base64");
+      const audioBuffer = await downloadTelegramFile(fileUrl);
+      const base64Audio = audioBuffer.toString("base64");
 
       // Transcribe audio using dedicated transcription pool
       const recognized = await transcribeAudio(ai, base64Audio);
