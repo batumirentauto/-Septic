@@ -23,11 +23,22 @@ if (!BOT_TOKEN) {
 
 const bot = new Bot(BOT_TOKEN);
 
-// Primary & fallback models verified for coding tasks
-const CODING_MODELS = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-flash-latest"];
+// Primary & fallback models verified for coding tasks with generous quotas
+const CODING_MODELS = [
+  "gemini-3.5-flash-lite",
+  "gemini-flash-lite-latest",
+  "gemini-3.1-flash-lite",
+  "gemini-3.5-flash",
+  "gemini-3.8-flash",
+];
 
 // Audio transcription models
-const TRANSCRIBE_MODELS = ["gemini-3.5-transcribe", "gemini-3.5-flash", "gemini-3.8-flash"];
+const TRANSCRIBE_MODELS = [
+  "gemini-3.5-transcribe",
+  "gemini-3.5-flash-lite",
+  "gemini-3.5-flash",
+  "gemini-3.8-flash",
+];
 
 // Agent Tools Declaration for Gemini
 const toolsDeclarations: any[] = [
