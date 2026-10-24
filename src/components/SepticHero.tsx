@@ -13,6 +13,9 @@ import {
   Wrench,
   ZoomIn,
   Users,
+  AlertTriangle,
+  Award,
+  CheckCircle2,
 } from 'lucide-react'
 
 interface SepticHeroProps {
@@ -24,38 +27,48 @@ interface SepticHeroProps {
 export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps) {
   const cleanPhone = lead.phone ? lead.phone.replace(/[^\d+]/g, '') : ''
 
+  const photoCaption = isRu
+    ? lead.primaryFocus || 'Реальный объект и монтаж септической системы'
+    : lead.primaryFocus
+    ? `${lead.primaryFocus} — Verified Site Capture`
+    : 'On-site septic installation & excavation'
+
   const handleHeroPhotoClick = () => {
     if (lead.heroImage && onOpenPhoto) {
       onOpenPhoto({
         src: lead.heroImage,
-        title: isRu
-          ? `${lead.name} — Монтаж дренажного поля и защита газона`
-          : `${lead.name} — Precision Leach Field Trench & Lawn Protection`,
+        title: `${lead.name} — ${photoCaption}`,
         description: isRu
-          ? `Реальный снимок бригады во время восстановления дренажной системы в г. ${lead.city}, ${lead.state}. Газон сохранен, траншея подготовлена под лазерный уровень.`
-          : `Actual jobsite documentation during leach field restoration in ${lead.city}, ${lead.state}. Clean turf edges, laser-graded trench, zero structural yard damage.`,
+          ? `Реальный снимок бригады во время выполнения работ в г. ${lead.city}, ${lead.state}. Подтвержденный объект с сохранением участка и соблюдением стандартов округа.`
+          : `Actual jobsite documentation captured during field operations in ${lead.city}, ${lead.state}. Verified residential project completed to local county health code.`,
         tag: `${lead.city}, ${lead.state}`,
       })
     }
   }
 
+  const crewLead = lead.crewMembers && lead.crewMembers.length > 0 ? lead.crewMembers[0] : null
+
   return (
-    <section className="relative overflow-hidden pt-8 pb-16 lg:pt-12 lg:pb-20 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
+    <section className="relative overflow-hidden pt-8 pb-12 lg:pt-12 lg:pb-16 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
       {/* Background ambient lighting */}
       <div className="pointer-events-none absolute inset-0">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[700px] h-[350px] bg-emerald-500/10 blur-[130px] rounded-full" />
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[700px] h-[350px] bg-emerald-500/10 blur-[140px] rounded-full" />
         <div className="absolute top-20 right-10 w-[400px] h-[250px] bg-cyan-500/10 blur-[100px] rounded-full" />
       </div>
 
-      <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
-          {/* Main Left Column */}
-          <div className="lg:col-span-7 space-y-6">
-            {/* Badges row */}
-            <div className="flex flex-wrap items-center gap-2.5 text-xs font-semibold">
+      <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 space-y-8">
+        
+        {/* Main 2-Column Hero Grid */}
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 items-stretch">
+          
+          {/* Main Left Column (7 cols) */}
+          <div className="lg:col-span-7 flex flex-col justify-between space-y-6">
+            
+            {/* Top Badges */}
+            <div className="flex flex-wrap items-center gap-2 text-xs font-semibold">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
                 <ShieldCheck className="w-3.5 h-3.5" />
-                {isRu ? 'Лицензированные специалисты по септикам' : 'Licensed & Insured Septic Specialist'}
+                {isRu ? 'Лицензированные специалисты по септикам' : 'Licensed Septic Specialist'}
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">
                 <MapPin className="w-3.5 h-3.5" />
@@ -63,35 +76,34 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/15 text-amber-300 border border-amber-500/30">
                 <Clock className="w-3.5 h-3.5" />
-                {isRu ? 'Срочный выезд при засоре' : 'Emergency Priority Dispatch'}
+                {isRu ? 'Срочный выезд при аварии' : '24/7 Emergency Priority Dispatch'}
               </span>
             </div>
 
-            {/* Headline */}
-            <div>
+            {/* Headline & Subtitle */}
+            <div className="space-y-3">
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
                 {lead.name}
               </h1>
-              <p className="mt-3 text-lg text-slate-300 font-medium leading-relaxed">
+              <p className="text-base sm:text-lg text-slate-300 font-medium leading-relaxed max-w-2xl">
                 {isRu
-                  ? `Откачка септиков без повреждения газона, лазерная укладка полей фильтрации, замена чугунных выпусков на ПВХ и срочный аварийный ремонт в ${lead.city || 'вашем районе'}, ${lead.state}.`
-                  : `Heavy-duty septic pumping with zero yard damage, laser-graded leach field installations, cast-iron-to-PVC sewer upgrades, and 24/7 backup relief across ${lead.city || 'your area'}, ${lead.state}.`}
+                  ? `Капитальный монтаж и замена септиков, разработка плотных грунтов мини-экскаватором, замена выпусков на ПВХ и восстановление полей фильтрации в ${lead.city || 'вашем районе'}, ${lead.state}.`
+                  : `Heavy-duty septic installations, drain field restorations, bedrock mini-excavation, and rapid sewer line upgrades across ${lead.city || 'your area'}, ${lead.state}.`}
               </p>
             </div>
 
-            {/* Google Maps Verified Rating Banner */}
+            {/* Google Maps Verified Rating Card */}
             <div className="p-4 rounded-xl bg-slate-900/90 border border-slate-800 shadow-xl flex flex-wrap items-center justify-between gap-4">
               <div className="flex items-center gap-3.5">
-                <div className="flex flex-col">
-                  <div className="flex items-center gap-2">
-                    <span className="text-2xl font-black text-white">{lead.rating.toFixed(1)}</span>
-                    <StarRating rating={lead.rating} starClassName="w-5 h-5" />
-                  </div>
-                  <span className="text-xs text-slate-400 mt-0.5">
-                    {isRu ? 'Официальный рейтинг в Google Maps' : 'Verified Google Maps Reputation'} ({lead.reviewCount}{' '}
-                    {isRu ? 'отзыва' : 'reviews'})
-                  </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-2xl font-black text-white">{lead.rating.toFixed(1)}</span>
+                  <StarRating rating={lead.rating} starClassName="w-5 h-5" />
                 </div>
+                <div className="h-6 w-px bg-slate-800 hidden sm:block" />
+                <span className="text-xs text-slate-400">
+                  {isRu ? 'Официальный рейтинг в Google Maps' : 'Verified Google Maps Rating'} ({lead.reviewCount}{' '}
+                  {isRu ? 'отзывов' : 'reviews'})
+                </span>
               </div>
 
               {lead.mapsUrl && (
@@ -99,59 +111,91 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                   href={lead.mapsUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 text-xs text-cyan-400 hover:text-cyan-300 transition underline underline-offset-4"
+                  className="inline-flex items-center gap-1.5 text-xs text-cyan-400 hover:text-cyan-300 transition underline underline-offset-4 font-semibold"
                 >
-                  <span>{isRu ? 'Открыть карточку в Google Maps' : 'View Verified Google Profile'}</span>
+                  <span>{isRu ? 'Открыть в Google Maps' : 'View on Google Maps'}</span>
                   <ExternalLink className="w-3.5 h-3.5" />
                 </a>
               )}
             </div>
 
             {/* Call to Action Buttons */}
-            <div className="flex flex-wrap items-center gap-4 pt-2">
+            <div className="flex flex-wrap items-center gap-3.5 pt-1">
               {cleanPhone && (
                 <a
                   href={`tel:${cleanPhone}`}
-                  className="inline-flex items-center justify-center gap-2.5 px-6 py-3.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-base shadow-lg shadow-emerald-500/20 transition-all hover:scale-[1.02] active:scale-[0.98]"
+                  className="inline-flex items-center justify-center gap-2.5 px-6 py-3.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-sm sm:text-base shadow-lg shadow-emerald-500/20 transition-all hover:scale-[1.02] active:scale-[0.98]"
                 >
-                  <Phone className="w-5 h-5 fill-current" />
+                  <Phone className="w-4 h-4 sm:w-5 sm:h-5 fill-current" />
                   <span>{isRu ? `Позвонить мастеру: ${lead.phone}` : `Call Field Crew: ${lead.phone}`}</span>
                 </a>
               )}
 
               <a
                 href="#estimator"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-semibold text-base border border-slate-700 transition-all"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-semibold text-sm sm:text-base border border-slate-700 transition-all"
               >
                 <Wrench className="w-4 h-4 text-cyan-400" />
                 <span>{isRu ? 'Рассчитать смету за 10 сек' : '10-Second Price Estimator'}</span>
               </a>
             </div>
 
-            {/* Iron Facts / Zero-Fluff Guarantees */}
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 pt-3 text-xs text-slate-400 border-t border-slate-800/60">
-              <div className="flex items-center gap-1.5">
-                <span className="text-emerald-400 font-bold">✓</span>
-                <span>{isRu ? 'Защитные полимерные трапы' : 'Turf Protection Mats'}</span>
+            {/* 3 Key Trust Metrics Strip (Balances the height naturally!) */}
+            <div className="grid grid-cols-3 gap-3 pt-2">
+              <div className="rounded-xl bg-slate-900/80 border border-slate-800/90 p-3 text-center space-y-0.5">
+                <div className="text-base sm:text-lg font-black text-white">
+                  {lead.rating.toFixed(1)} ★
+                </div>
+                <div className="text-[11px] text-slate-400 font-medium truncate">
+                  {isRu ? '100% честные отзывы' : '100% Top Reviews'}
+                </div>
               </div>
-              <div className="flex items-center gap-1.5">
-                <span className="text-emerald-400 font-bold">✓</span>
-                <span>{isRu ? 'Без скрытых сборов за утилизацию' : 'Zero Hidden Dump Fees'}</span>
+
+              <div className="rounded-xl bg-slate-900/80 border border-slate-800/90 p-3 text-center space-y-0.5">
+                <div className="text-base sm:text-lg font-black text-cyan-400">
+                  {lead.ticketRange || '$3K–$18K'}
+                </div>
+                <div className="text-[11px] text-slate-400 font-medium truncate">
+                  {isRu ? 'Монтаж & Дренаж' : 'Full Systems & Line'}
+                </div>
               </div>
-              <div className="flex items-center gap-1.5">
-                <span className="text-emerald-400 font-bold">✓</span>
-                <span>{isRu ? 'Видеокамера до и после' : 'Video Diagnostic Before Digging'}</span>
+
+              <div className="rounded-xl bg-slate-900/80 border border-slate-800/90 p-3 text-center space-y-0.5">
+                <div className="text-base sm:text-lg font-black text-emerald-400">
+                  45–60 {isRu ? 'мин' : 'min'}
+                </div>
+                <div className="text-[11px] text-slate-400 font-medium truncate">
+                  {isRu ? 'Аварийный выезд' : 'Emergency Arrival'}
+                </div>
               </div>
             </div>
+
+            {/* Micro guarantees */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2.5 pt-1 text-xs text-slate-400 border-t border-slate-800/60">
+              <div className="flex items-center gap-1.5">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+                <span>{isRu ? 'Защитные настилы газона' : 'Turf Protection Mats'}</span>
+              </div>
+              <div className="flex items-center gap-1.5">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+                <span>{isRu ? 'Фиксированная смета' : 'Zero Hidden Dump Fees'}</span>
+              </div>
+              <div className="flex items-center gap-1.5">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+                <span>{isRu ? 'Видеокамера до и после' : 'Video Line Inspection'}</span>
+              </div>
+            </div>
+
           </div>
 
-          {/* Right Column: Authentic Visual Showcase Card */}
-          <div className="lg:col-span-5">
-            <div className="relative rounded-2xl bg-gradient-to-br from-slate-900 to-slate-950 border border-slate-800 overflow-hidden shadow-2xl space-y-4">
-              {/* Photo Container */}
+          {/* Right Column: Clean, Proud Photo & Dispatch Card (5 cols) */}
+          <div className="lg:col-span-5 flex flex-col justify-between">
+            <div className="h-full rounded-2xl bg-gradient-to-br from-slate-900 to-slate-950 border border-slate-800 overflow-hidden shadow-2xl flex flex-col justify-between">
+              
+              {/* Photo Showcase Container */}
               {lead.heroImage ? (
                 <div
-                  className="relative group cursor-pointer overflow-hidden aspect-[4/3] bg-slate-950"
+                  className="relative group cursor-pointer overflow-hidden flex-1 min-h-[280px] bg-slate-950"
                   onClick={handleHeroPhotoClick}
                 >
                   {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -163,8 +207,8 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent" />
 
-                  {/* Top Badge */}
-                  <div className="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-950/80 backdrop-blur-md text-emerald-400 border border-emerald-500/30 text-xs font-semibold">
+                  {/* Top Verified Badge */}
+                  <div className="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-950/85 backdrop-blur-md text-emerald-400 border border-emerald-500/30 text-xs font-semibold">
                     <ShieldCheck className="w-3.5 h-3.5" />
                     <span>{isRu ? 'Реальное фото объекта' : '100% Real Jobsite Photo'}</span>
                   </div>
@@ -174,92 +218,93 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                     <ZoomIn className="w-4 h-4" />
                   </div>
 
-                  {/* Bottom Caption Overlay */}
+                  {/* Photo Caption Overlay at bottom of image */}
                   <div className="absolute bottom-3 left-3 right-3 text-left">
-                    <span className="text-xs uppercase tracking-wider font-mono text-cyan-400 font-bold">
+                    <span className="text-[11px] uppercase tracking-wider font-mono text-cyan-400 font-bold">
                       {lead.city}, {lead.state}
                     </span>
                     <p className="text-sm font-bold text-white leading-tight drop-shadow-md">
-                      {isRu
-                        ? 'Лазерная укладка дренажной траншеи с сохранением дерна'
-                        : 'Laser-Graded Drain Field Installation & Turf Preservation'}
+                      {photoCaption}
                     </p>
                   </div>
                 </div>
               ) : null}
 
-              {/* Crew & Specs Summary Container */}
-              <div className="p-5 sm:p-6 pt-2 space-y-4">
-                <div className="flex items-center justify-between border-b border-slate-800 pb-3">
+              {/* Bottom Integrated Dispatch & Field Crew Bar */}
+              <div className="p-4 sm:p-5 bg-slate-950 border-t border-slate-800 space-y-3">
+                
+                {/* Active Duty Status */}
+                <div className="flex items-center justify-between text-xs">
                   <div className="flex items-center gap-2">
                     <div className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse" />
-                    <span className="text-xs font-bold uppercase tracking-wider text-emerald-400">
-                      {isRu ? 'Дежурные мастера на линии' : 'Active Crew Dispatch'}
+                    <span className="font-bold uppercase tracking-wider text-emerald-400">
+                      {isRu ? 'Дежурные мастера на линии' : 'Active Duty Dispatch'}
                     </span>
                   </div>
-                  <span className="text-xs text-slate-400 font-mono">
+                  <span className="text-slate-400 font-mono text-[11px]">
                     {lead.state}-{lead.city ? lead.city.substring(0, 3).toUpperCase() : 'USA'}
                   </span>
                 </div>
 
-                {/* Crew Members if available */}
-                {lead.crewMembers && lead.crewMembers.length > 0 && (
-                  <div className="rounded-xl bg-slate-950/80 border border-slate-800/80 p-3 space-y-1.5 text-xs">
-                    <div className="flex items-center gap-1.5 text-slate-400 font-semibold">
-                      <Users className="w-3.5 h-3.5 text-cyan-400" />
-                      <span>{isRu ? 'Состав бригады на объектах:' : 'On-Site Field Operators:'}</span>
-                    </div>
-                    <div className="flex flex-wrap gap-1.5 pt-0.5">
-                      {lead.crewMembers.map((member, mIdx) => (
-                        <span
-                          key={mIdx}
-                          className="px-2 py-0.5 rounded-md bg-slate-800/80 text-slate-200 font-medium"
-                        >
-                          {member}
-                        </span>
-                      ))}
-                    </div>
+                {/* Lead operator / Crew line */}
+                {crewLead && (
+                  <div className="flex items-center gap-2 text-xs text-slate-300 bg-slate-900/80 px-3 py-2 rounded-xl border border-slate-800">
+                    <Users className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
+                    <span className="truncate">
+                      {isRu ? `Бригадир: ` : `Field Lead: `}
+                      <strong className="text-white font-semibold">{crewLead}</strong>
+                    </span>
                   </div>
                 )}
 
-                {/* Specs list */}
-                <div className="space-y-2 text-xs">
-                  <div className="flex justify-between items-center text-slate-400">
-                    <span>{isRu ? 'Зона обслуживания:' : 'Service Coverage:'}</span>
-                    <span className="font-semibold text-slate-200">
-                      {lead.city}, {lead.state} & Upstate
-                    </span>
-                  </div>
-                  <div className="flex justify-between items-center text-slate-400">
-                    <span>{isRu ? 'Срочный выезд:' : 'Emergency Dispatch:'}</span>
-                    <span className="font-semibold text-emerald-400">
-                      {isRu ? 'В течение 45–60 мин' : 'Within 45–60 mins'}
-                    </span>
-                  </div>
-                  <div className="flex justify-between items-center text-slate-400">
-                    <span>{isRu ? 'Прямой контакт:' : 'Direct Dispatch Line:'}</span>
-                    <span className="font-mono text-cyan-300 font-bold">{lead.phone}</span>
-                  </div>
+                {/* Quick area & response summary */}
+                <div className="flex items-center justify-between text-[11px] text-slate-400 pt-1">
+                  <span>
+                    📍 {lead.city}, {lead.state}
+                  </span>
+                  <span className="text-emerald-400 font-semibold">
+                    {isRu ? 'Выезд 45–60 мин' : '45–60m dispatch'}
+                  </span>
                 </div>
 
-                {/* Emergency prompt */}
-                <div className="rounded-xl bg-rose-500/10 border border-rose-500/20 p-3 text-xs text-rose-300 flex items-start gap-2.5">
-                  <span className="text-base leading-none">⚠️</span>
-                  <div>
-                    <strong className="block text-rose-200 font-semibold mb-0.5">
-                      {isRu ? 'Запах или застой воды на участке?' : 'Wastewater Pooling in Yard or Backing Up?'}
-                    </strong>
-                    <span>
-                      {isRu
-                        ? 'Перекройте воду и звоните дежурному мастеру для приоритетного выезда экскаватора и цистерны.'
-                        : 'Shut off main water supply and call immediately to halt wastewater overflow and arrange priority inspection.'}
-                    </span>
-                  </div>
-                </div>
               </div>
+
             </div>
           </div>
+
         </div>
+
+        {/* Emergency Triage Callout Banner (Full-Width, Sleek & Urgent!) */}
+        <div className="rounded-2xl bg-gradient-to-r from-rose-950/40 via-slate-900 to-amber-950/40 border border-rose-500/30 p-4 sm:p-5 shadow-xl flex flex-col md:flex-row items-center justify-between gap-4">
+          <div className="flex items-start sm:items-center gap-3.5">
+            <div className="p-2.5 rounded-xl bg-rose-500/20 text-rose-400 shrink-0">
+              <AlertTriangle className="w-5 h-5" />
+            </div>
+            <div className="space-y-0.5">
+              <h4 className="text-sm font-bold text-white">
+                {isRu
+                  ? 'Аварийный засор или стоки поднимаются в сантехнику?'
+                  : 'Emergency Sewage Backup or Surface Wastewater Pooling?'}
+              </h4>
+              <p className="text-xs text-slate-300 leading-relaxed">
+                {isRu
+                  ? 'Перекройте подачу воды в дом. Дежурная бригада готова к приоритетному выезду со спецтехникой.'
+                  : 'Shut off your main water valve immediately. Priority dispatch is available for same-day heavy line clearance.'}
+              </p>
+            </div>
+          </div>
+
+          {cleanPhone && (
+            <a
+              href={`tel:${cleanPhone}`}
+              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-rose-600 hover:bg-rose-500 text-white font-bold text-xs uppercase tracking-wider shrink-0 shadow-lg shadow-rose-600/20 transition hover:scale-[1.02]"
+            >
+              <Phone className="w-3.5 h-3.5 fill-current" />
+              <span>{isRu ? 'Экстренный вызов' : 'Priority Emergency Line'}</span>
+            </a>
+          )}
+        </div>
+
       </div>
     </section>
   )
