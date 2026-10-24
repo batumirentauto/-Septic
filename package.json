@@ -7,18 +7,23 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "bot": "tsx src/bot/agent-bot.ts",
     "scrape": "node src/index.js",
     "compile-data": "node scripts/compileLeads.js"
   },
   "dependencies": {
+    "@google/genai": "^2.31.0",
     "axios": "^1.20.0",
     "commander": "^14.0.3",
+    "dotenv": "^18.0.9",
     "fs-extra": "^11.4.1",
+    "grammy": "^1.46.0",
     "lucide-react": "^1.16.0",
     "next": "16.3.3",
     "playwright": "^1.64.1",
     "react": "19.2.6",
     "react-dom": "19.2.6",
+    "tsx": "^4.23.15",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
