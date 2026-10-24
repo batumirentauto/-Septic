@@ -1,0 +1,21 @@
+COMPANY: Martinez Septic Tank Services
+RATING: 3.8★ (10 reviews in Google)
+CITY/STATE: Fresno, CA
+PHONE: 
++1 559-275-6235
+ADDRESS: 
+7037 N Weber Ave, Fresno, CA 93722, United States
+WEBSITE: N/A
+GOOGLE MAPS: https://www.google.com/maps/place/Martinez+Septic+Tank+Services/data=!4m7!3m6!1s0x80946f0276ee529f:0xd38ac5f0f923706f!8m2!3d36.8375593!4d-119.9200433!16s%2Fg%2F1tdxfjhc!19sChIJn1LudgJvlIARb3Aj-fDFitM?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1
+
+TOTAL REVIEWS SCRAPED: 5
+NEGATIVE REVIEWS (<=2★): 2
+
+TOP COMPLAINTS PREVIEW:
+[#1] Eduardo Garcia (1★, 9 years ago):
+"I wouldnt recommend him to anyone I didn't like his service"
+
+----------------------------------------
+[#2] Rusty Nails. (1★, 5 years ago):
+"How would I know? They've never been here, or returned my calls.✌🏽🤷‍♂️ …"
+

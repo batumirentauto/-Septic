@@ -1,0 +1,24 @@
+COMPANY: John Burke Plumbing, Inc.
+RATING: 3.2★ (13 reviews in Google)
+CITY/STATE: Montgomery, AL
+PHONE: 
++1 334-657-1627
+ADDRESS: N/A
+WEBSITE: http://johnburkeplumbinginc.com/
+GOOGLE MAPS: https://www.google.com/maps/place/John+Burke+Plumbing,+Inc./data=!4m7!3m6!1s0x888c32396da62dd3:0x752ee32977299d02!8m2!3d32.2333775!4d-86.208554!16s%2Fg%2F1tls3m08!19sChIJ0y2mbTkyjIgRAp0pdynjLnU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1
+
+TOTAL REVIEWS SCRAPED: 5
+NEGATIVE REVIEWS (<=2★): 3
+
+TOP COMPLAINTS PREVIEW:
+[#1] Crystal M (1★, 9 months ago):
+"3 times he has told my husband he will come by for a quote and he has yet to show up. We sit around waiting on him and he never messages or calls. Wish he would just tell us he can't do it."
+
+----------------------------------------
+[#2] Jeremy Glickman (1★, 7 years ago):
+"Terrible service, I wish there was a 0 star. Made an appointment for him to come by 5 one day and he shows up at my business at 730 without calling or letting me know. I gave him a second chance the next morning, he said that he would be there in the AM and by 1230 still never showed up. When I asked when he would be there, he said by 5 that day too and when I told him that it was urgent, he said that I should find someone else to do the work and hung up. Terrible service"
+
+----------------------------------------
+[#3] Bosslady V44 (1★, a year ago):
+"Told me he was not coming out to help me.. he was tooooo busy!!!!"
+
