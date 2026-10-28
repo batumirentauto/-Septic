@@ -11,6 +11,9 @@
     "scrape": "node src/index.js",
     "compile-data": "node scripts/compileLeads.js"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "dependencies": {
     "@google/genai": "^2.31.0",
     "axios": "^1.20.0",
