@@ -40,9 +40,12 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
     { label: isRu ? 'Зона выезда' : 'Service Area', href: '#coverage', icon: MapPin },
   ]
 
+  const rawFocus = lead.primaryFocus || ''
+  const cleanFocus = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
+
   const serviceTagline = isRu
-    ? lead.primaryFocus || 'Монтаж, ремонт и восстановление полей фильтрации'
-    : lead.primaryFocus || 'Septic Installation, Drain Field Restoration & Excavation'
+    ? (cleanFocus ? `${cleanFocus} • Земляные работы` : 'Монтаж, ремонт септиков и земляные работы')
+    : (cleanFocus ? `${cleanFocus} & Precision Excavation` : 'Septic Installation, Drain Field Restoration & Excavation')
 
   return (
     <header className="sticky top-0 z-50 bg-slate-950/95 backdrop-blur-md border-b border-slate-800/80 text-white shadow-xl transition-all">

@@ -49,6 +49,22 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
 
   const crewLead = lead.crewMembers && lead.crewMembers.length > 0 ? lead.crewMembers[0] : null
 
+  // Clean primary focus without english brackets and prevent repetitions
+  const rawFocus = lead.primaryFocus || ''
+  const cleanFocus = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
+  const locationLabel = lead.city ? `${lead.city}, ${lead.state}` : lead.state
+
+  let headlineRu = `Капитальный монтаж, ремонт септиков и восстановление полей фильтрации в г. ${locationLabel}`
+  let headlineEn = `Complete Septic System Installation, Drain Field Restoration & Excavation in ${locationLabel}`
+
+  if (cleanFocus.toLowerCase().includes('монтаж') || cleanFocus.toLowerCase().includes('установк')) {
+    headlineRu = `Капитальный монтаж и замена септических систем, земляные работы в г. ${locationLabel}`
+    headlineEn = `Complete Septic System Installation, Tank Replacement & Excavation in ${locationLabel}`
+  } else if (cleanFocus.toLowerCase().includes('дренаж') || cleanFocus.toLowerCase().includes('фильтрац')) {
+    headlineRu = `Восстановление полей фильтрации, капитальный ремонт септиков и земляные работы в г. ${locationLabel}`
+    headlineEn = `Drain Field Restoration, Heavy Septic Repair & Precision Excavation in ${locationLabel}`
+  }
+
   return (
     <section className="relative overflow-hidden pt-8 pb-12 lg:pt-12 lg:pb-16 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
       {/* Background ambient lighting */}
@@ -65,19 +81,19 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
           {/* Main Left Column (7 cols) */}
           <div className="lg:col-span-7 flex flex-col justify-between space-y-6">
             
-            {/* Top Badges & Company Eyebrow */}
+            {/* Top Badges & Value Props (no company name duplicate) */}
             <div className="flex flex-wrap items-center gap-2 text-xs font-semibold">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-800 text-slate-100 border border-slate-700 font-bold shadow-sm">
                 <Truck className="w-3.5 h-3.5 text-emerald-400" />
-                <span>{lead.name}</span>
+                <span>{isRu ? 'Собственная спецтехника • Без посредников' : 'Owner-Operated Fleet • Direct Pricing'}</span>
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
                 <ShieldCheck className="w-3.5 h-3.5" />
-                {isRu ? 'Лицензированные специалисты по септикам' : 'Licensed Septic Specialist'}
+                {isRu ? 'Лицензированные мастера' : 'Licensed Septic Specialist'}
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">
                 <MapPin className="w-3.5 h-3.5" />
-                {lead.city ? `${lead.city}, ${lead.state}` : lead.state}
+                {locationLabel}
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/15 text-amber-300 border border-amber-500/30">
                 <Clock className="w-3.5 h-3.5" />
@@ -88,18 +104,12 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
             {/* Powerful Commercial Offer Headline & Subtitle */}
             <div className="space-y-3">
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-                {isRu
-                  ? (lead.primaryFocus
-                      ? `${lead.primaryFocus}, ремонт септиков и земляные работы в г. ${lead.city || lead.state}`
-                      : `Капитальный монтаж, ремонт септиков и восстановление полей фильтрации в г. ${lead.city || lead.state}`)
-                  : (lead.primaryFocus
-                      ? `${lead.primaryFocus.replace(/\s*\(.*?\)\s*/g, '')}, Septic Tank Repair & Excavation in ${lead.city || lead.state}`
-                      : `Heavy-Duty Septic Installation, Drain Field Restoration & Precision Excavation in ${lead.city || lead.state}`)}
+                {isRu ? headlineRu : headlineEn}
               </h1>
               <p className="text-base sm:text-lg text-slate-300 font-medium leading-relaxed max-w-2xl">
                 {isRu
-                  ? `Собственный парк тяжелой и мини-спецтехники в ${lead.city || 'вашем районе'}, ${lead.state}. Честные сметы напрямую от владельца без посредников, лазерный контроль уклона труб и 100% защита вашего участка.`
-                  : `Direct owner-operated heavy machinery and mini-excavator fleet serving ${lead.city || 'your area'}, ${lead.state}. Upfront fixed pricing with zero broker markup, laser-level slope grading, and 100% lawn protection pledge.`}
+                  ? `Собственный парк тяжелой и мини-спецтехники в ${locationLabel}. Честные сметы напрямую от владельца без посредников, лазерный контроль уклона труб и 100% защита вашего участка.`
+                  : `Direct owner-operated heavy machinery and mini-excavator fleet serving ${locationLabel}. Upfront fixed pricing with zero broker markup, laser-level slope grading, and 100% lawn protection pledge.`}
               </p>
             </div>
 
