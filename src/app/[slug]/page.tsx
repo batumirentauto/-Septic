@@ -8,8 +8,13 @@ interface Props {
   params: Promise<{ slug: string }>
 }
 
+export const dynamicParams = true
+
 export async function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ slug }))
+  return [
+    { slug: 'bolt-septic-excavation' },
+    { slug: 'bonzo-excavating' }
+  ]
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

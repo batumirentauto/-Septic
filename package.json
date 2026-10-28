@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -H 0.0.0.0",
+    "start": "next start -H 0.0.0.0 -p ${PORT:-3000}",
     "bot": "tsx src/bot/agent-bot.ts",
     "scrape": "node src/index.js",
     "compile-data": "node scripts/compileLeads.js"
