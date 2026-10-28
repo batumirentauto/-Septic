@@ -134,20 +134,20 @@ const SYSTEM_INSTRUCTION = `Ты — ведущий AI-разработчик и
 Стек проекта: Next.js 16 (App Router, React 19, TypeScript), Tailwind CSS, Railway.
 
 ВАЖНЫЕ ЗНАНИЯ О ПРОЕКТЕ:
-- Публичный HTTPS домен в интернете (открывается на любых телефонах и компьютерах): https://yen-reflections-notebook-delayed.trycloudflare.com
+- Публичный HTTPS домен в интернете (открывается на любых телефонах и компьютерах): https://shore-demonstrates-essays-observer.trycloudflare.com
 - Локальный порт: http://localhost:3000
 - Разработанные пробные посадочные страницы (пилоты):
   1. Bolt Septic & Excavation (Greenville, SC — 4.9★, 44 отзыва, специализация Drain Field / Excavation):
-     • Английская версия: https://yen-reflections-notebook-delayed.trycloudflare.com/bolt-septic-excavation
-     • Русская версия: https://yen-reflections-notebook-delayed.trycloudflare.com/bolt-septic-excavation/ru
+     • Английская версия: https://shore-demonstrates-essays-observer.trycloudflare.com/bolt-septic-excavation
+     • Русская версия: https://shore-demonstrates-essays-observer.trycloudflare.com/bolt-septic-excavation/ru
   2. Bonzo Excavating (Pittsburgh, PA — 5.0★, 100 отзывов, тяжелая техника, замена баков):
-     • Английская версия: https://yen-reflections-notebook-delayed.trycloudflare.com/bonzo-excavating
-     • Русская версия: https://yen-reflections-notebook-delayed.trycloudflare.com/bonzo-excavating/ru
-- Главный каталог всех 597 компаний: https://yen-reflections-notebook-delayed.trycloudflare.com/
+     • Английская версия: https://shore-demonstrates-essays-observer.trycloudflare.com/bonzo-excavating
+     • Русская версия: https://shore-demonstrates-essays-observer.trycloudflare.com/bonzo-excavating/ru
+- Главный каталог всех 597 компаний: https://shore-demonstrates-essays-observer.trycloudflare.com/
 - GitHub репозиторий: https://github.com/batumirentauto/-Septic.git
 
 ПРАВИЛА ОТВЕТА:
-1. Если пользователь просит ссылку на пробную страницу, сайт или проект — СРАЗУ давай публичные ссылки https://yen-reflections-notebook-delayed.trycloudflare.com/bolt-septic-excavation и https://yen-reflections-notebook-delayed.trycloudflare.com/bonzo-excavating! Не используй localhost для пользователя.
+1. Если пользователь просит ссылку на пробную страницу, сайт или проект — СРАЗУ давай публичные ссылки https://shore-demonstrates-essays-observer.trycloudflare.com/bolt-septic-excavation и https://shore-demonstrates-essays-observer.trycloudflare.com/bonzo-excavating! Не используй localhost для пользователя.
 2. Для ответов на вопросы, советов и справок отвечай сразу текстом без лишнего вызова инструментов.
 3. Вызывай инструменты (read_file, write_file, run_command, list_directory) только когда нужно реально изменить код, запустить скрипт или проверить файлы.
 4. Отвечай на русском языке четко, дружелюбно и по существу.`;
@@ -279,13 +279,13 @@ bot.command("pages", async (ctx) => {
   await ctx.reply(
     `🌐 **Публичные ссылки на разработанные сайты (работают на любом телефоне и ПК):**\n\n` +
     `🚜 **1. Bolt Septic & Excavation (Greenville, SC):**\n` +
-    `• 🇺🇸 EN: https://yen-reflections-notebook-delayed.trycloudflare.com/bolt-septic-excavation\n` +
-    `• 🇷🇺 RU: https://yen-reflections-notebook-delayed.trycloudflare.com/bolt-septic-excavation/ru\n\n` +
+    `• 🇺🇸 EN: https://shore-demonstrates-essays-observer.trycloudflare.com/bolt-septic-excavation\n` +
+    `• 🇷🇺 RU: https://shore-demonstrates-essays-observer.trycloudflare.com/bolt-septic-excavation/ru\n\n` +
     `🏗️ **2. Bonzo Excavating (Pittsburgh, PA):**\n` +
-    `• 🇺🇸 EN: https://yen-reflections-notebook-delayed.trycloudflare.com/bonzo-excavating\n` +
-    `• 🇷🇺 RU: https://yen-reflections-notebook-delayed.trycloudflare.com/bonzo-excavating/ru\n\n` +
+    `• 🇺🇸 EN: https://shore-demonstrates-essays-observer.trycloudflare.com/bonzo-excavating\n` +
+    `• 🇷🇺 RU: https://shore-demonstrates-essays-observer.trycloudflare.com/bonzo-excavating/ru\n\n` +
     `📋 **3. Главный каталог (все 597 компаний):**\n` +
-    `• https://yen-reflections-notebook-delayed.trycloudflare.com/\n\n` +
+    `• https://shore-demonstrates-essays-observer.trycloudflare.com/\n\n` +
     `🐙 **GitHub:**\n` +
     `• https://github.com/batumirentauto/-Septic.git`
   );
@@ -459,10 +459,21 @@ bot.on(["message:text", "message:voice"], async (ctx) => {
   }
 });
 
-// Launch bot
+// Launch bot with connection reset
 console.log("🚀 Starting Septic Telegram Coding Agent (@Septic_usa_bot)...");
-bot.start({
-  onStart: (info) => {
-    console.log(`✅ Bot @${info.username} (id: ${info.id}) is successfully running!`);
-  },
-});
+
+async function startBotSafely() {
+  try {
+    await bot.api.deleteWebhook({ drop_pending_updates: false });
+  } catch (err: any) {
+    console.warn("deleteWebhook warning:", err.message);
+  }
+
+  bot.start({
+    onStart: (info) => {
+      console.log(`✅ Bot @${info.username} (id: ${info.id}) is successfully running!`);
+    },
+  });
+}
+
+startBotSafely();
