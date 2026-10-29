@@ -44,24 +44,41 @@ const FIRST_NAMES = new Set([
   'Todd', 'Tom', 'Tommy', 'Tony', 'Tracey', 'Tracy', 'Travis', 'Trent', 'Trevor', 'Trey',
   'Tristan', 'Troy', 'Tucker', 'Ty', 'Tyler', 'Tyrone', 'Vance', 'Vernon', 'Vic', 'Victor',
   'Vince', 'Vincent', 'Virgil', 'Vito', 'Wade', 'Wallace', 'Walt', 'Walter', 'Warren', 'Wayne',
-  'Wes', 'Wesley', 'Will', 'Willard', 'William', 'Willie', 'Wyatt', 'Zac', 'Zach', 'Zachary', 'Zane'
+  'Wes', 'Wesley', 'Will', 'Willard', 'William', 'Willie', 'Wyatt', 'Zac', 'Zach', 'Zachary', 'Zane',
+  'Sara', 'Sarah', 'Stephanie', 'Jessica', 'Amanda', 'Amber', 'Amy', 'Andrea', 'Angela', 'ashley',
+  'Becky', 'Beth', 'Brenda', 'cheyenne', 'Christina', 'Cindy', 'Crystal', 'Dana', 'Dawn', 'Debbie',
+  'Denise', 'Diana', 'Donna', 'Erin', 'Heather', 'Holly', 'Jackie', 'Jamie', 'Jen', 'Jennifer',
+  'Jill', 'Julie', 'Karen', 'Katie', 'Kelly', 'Kim', 'Krystal', 'Laura', 'Lauren', ' Leslie', 'Linda',
+  'Lisa', 'Lori', 'Mary', 'Megan', 'Melissa', 'Michelle', 'Mindy', 'Monica', 'Nancy', 'Nichole',
+  'Nicole', 'Pam', 'Patricia', 'Rachel', 'Rebecca', 'Renee', 'Robin', 'Samantha', 'Sandra', 'Shannon',
+  'Sharon', 'Shelly', 'Sherry', 'Stacey', 'Stacy', 'Susan', 'Tammy', 'Tara', 'Teresa', 'Terri',
+  'Tiffany', 'Tina', 'Tonya', 'Tracy', 'Valerie', 'Vanessa', 'Vicki', 'Wendy', 'Spud', 'Dee', 'Kip',
+  'Chet', 'Dirk', 'Duke', 'Hank', 'Jed', 'Judd', 'Mitch', 'Monty', 'Ned', 'Sonny', 'Zeke', 'Hector'
 ])
 
 function extractOwnerName(companyName, reviews) {
-  // 1. Check company name first (e.g. "Jesse Pigeon Plumbing" or "Chris' Rooter" or "Luke's Septic")
-  const cleanCo = companyName.replace(/['’]s\b/gi, '').replace(/[^a-zA-Z\s]/g, ' ')
+  // 1. Check company name first (e.g. "Jesse Pigeon Plumbing" or "Chris' Rooter" or "Hectors septic")
+  const cleanCo = companyName
+    .replace(/['’]s\b/gi, '')
+    .replace(/\bhectors\b/i, 'Hector')
+    .replace(/[^a-zA-Z\s]/g, ' ')
   const coWords = cleanCo.split(/\s+/).filter(Boolean)
-  if (coWords.length > 0 && FIRST_NAMES.has(coWords[0])) {
-    return coWords[0]
+  if (coWords.length > 0) {
+    const firstCap = coWords[0].charAt(0).toUpperCase() + coWords[0].slice(1).toLowerCase()
+    if (FIRST_NAMES.has(firstCap)) {
+      return firstCap
+    }
   }
 
   // 2. Scan positive reviews for thanked/praised technicians/owners
   const nameCounts = {}
   const contextPatterns = [
-    /\b(?:thank you|thanks|thank)\s+([A-Z][a-z]{2,11})\b/g,
-    /\b([A-Z][a-z]{2,11})\s+(?:and his|& his|came out|arrived|showed up|was great|was awesome|was very|was honest|was professional|is the best|did a|fixed|installed|pumped|explained|helped|saved|took care|quoted)\b/g,
-    /\b(?:owner|operator|tech|technician|master)\s+([A-Z][a-z]{2,11})\b/g,
-    /\b(?:ask for|called|spoke with|talked to)\s+([A-Z][a-z]{2,11})\b/g,
+    /\b(?:thank you|thanks|thank|recommend|appreciate)\s+([A-Z][a-z]{2,11})\b/g,
+    /\b([A-Z][a-z]{2,11}),?\s+(?:thank you|thanks)\b/g,
+    /\b([A-Z][a-z]{2,11})\s*\(\s*owner\s*\)/gi,
+    /\b([A-Z][a-z]{2,11})\s+(?:and his|& his|and the|& the|and [A-Z][a-z]+|& [A-Z][a-z]+|came|arrived|showed|was|is|did|fixed|installed|pumped|explained|helped|saved|took|quoted|provided|answered|returned|called|worked|went|gave|has|had|made|located|found|repaired|dug|cleared|walked)\b/g,
+    /\b(?:owner|operator|tech|technician|master)\s+\(?([A-Z][a-z]{2,11})\)?\b/g,
+    /\b(?:ask for|called|spoke with|talked to|dealt with|met with)\s+([A-Z][a-z]{2,11})\b/g,
   ]
 
   for (const rev of reviews) {
