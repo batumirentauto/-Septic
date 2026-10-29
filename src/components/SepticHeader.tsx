@@ -53,17 +53,19 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
       <div className="bg-slate-900/90 border-b border-slate-800/80 text-xs py-1.5 px-3 sm:px-6">
         <div className="mx-auto max-w-7xl flex items-center justify-between gap-3">
           
-          {/* Left: Back to directory + Active Status */}
+          {/* Left: Back to directory (only in RU mode) + Active Status */}
           <div className="flex items-center gap-3 min-w-0">
-            <a
-              href="/"
-              className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white font-medium transition text-[11px] border border-slate-700/80 shrink-0"
-              title={isRu ? 'Вернуться в каталог всех бригад' : 'Back to all crews'}
-            >
-              <ArrowLeft className="w-3 h-3" />
-              <span className="hidden sm:inline">{isRu ? 'Все бригады' : 'All Crews'}</span>
-              <span className="sm:hidden">{isRu ? 'Каталог' : 'All'}</span>
-            </a>
+            {isRu && (
+              <a
+                href="/"
+                className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white font-medium transition text-[11px] border border-slate-700/80 shrink-0"
+                title="Вернуться в каталог всех бригад"
+              >
+                <ArrowLeft className="w-3 h-3" />
+                <span className="hidden sm:inline">Все бригады</span>
+                <span className="sm:hidden">Каталог</span>
+              </a>
+            )}
 
             <div className="flex items-center gap-2 min-w-0">
               <span className="flex h-2 w-2 relative shrink-0">
@@ -100,32 +102,35 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
               </a>
             )}
 
-            <span className="text-slate-700 hidden sm:inline">|</span>
-
-            {/* Language Switcher */}
-            <div className="flex items-center gap-1 text-[11px] font-bold bg-slate-900 border border-slate-700/80 rounded-md p-0.5">
-              <Globe className="w-3 h-3 text-slate-400 ml-1 hidden xs:inline" />
-              <a
-                href={enUrl}
-                className={`px-1.5 py-0.5 rounded transition ${
-                  !isRu
-                    ? 'bg-emerald-500 text-slate-950 font-black'
-                    : 'text-slate-400 hover:text-white'
-                }`}
-              >
-                EN
-              </a>
-              <a
-                href={ruUrl}
-                className={`px-1.5 py-0.5 rounded transition ${
-                  isRu
-                    ? 'bg-emerald-500 text-slate-950 font-black'
-                    : 'text-slate-400 hover:text-white'
-                }`}
-              >
-                RU
-              </a>
-            </div>
+            {/* Language Switcher (Internal / RU only) */}
+            {isRu && (
+              <>
+                <span className="text-slate-700 hidden sm:inline">|</span>
+                <div className="flex items-center gap-1 text-[11px] font-bold bg-slate-900 border border-slate-700/80 rounded-md p-0.5">
+                  <Globe className="w-3 h-3 text-slate-400 ml-1 hidden xs:inline" />
+                  <a
+                    href={enUrl}
+                    className={`px-1.5 py-0.5 rounded transition ${
+                      !isRu
+                        ? 'bg-emerald-500 text-slate-950 font-black'
+                        : 'text-slate-400 hover:text-white'
+                    }`}
+                  >
+                    EN
+                  </a>
+                  <a
+                    href={ruUrl}
+                    className={`px-1.5 py-0.5 rounded transition ${
+                      isRu
+                        ? 'bg-emerald-500 text-slate-950 font-black'
+                        : 'text-slate-400 hover:text-white'
+                    }`}
+                  >
+                    RU
+                  </a>
+                </div>
+              </>
+            )}
           </div>
         </div>
       </div>

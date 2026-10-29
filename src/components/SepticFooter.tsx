@@ -85,12 +85,14 @@ export function SepticFooter({ lead, isRu = false }: SepticFooterProps) {
           </div>
 
           <div className="flex items-center gap-4">
-            <a
-              href="/"
-              className="text-cyan-400 hover:text-cyan-300 transition font-medium"
-            >
-              ← {isRu ? 'Каталог всех бригад септиков' : 'All Septic Crews Directory'}
-            </a>
+            {isRu && (
+              <a
+                href="/"
+                className="text-cyan-400 hover:text-cyan-300 transition font-medium"
+              >
+                ← Каталог всех бригад септиков
+              </a>
+            )}
 
             <button
               onClick={scrollToTop}

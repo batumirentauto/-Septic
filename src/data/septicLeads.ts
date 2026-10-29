@@ -72,3 +72,9 @@ export function getLeadBySlug(slug: string): SepticLead | undefined {
 export function getAllSlugs(): string[] {
   return septicLeads.map((l) => l.slug)
 }
+
+export function getHighTicketSlugs(): string[] {
+  return septicLeads
+    .filter((l) => l.ticketTier === 'HIGH_TICKET')
+    .map((l) => l.slug)
+}

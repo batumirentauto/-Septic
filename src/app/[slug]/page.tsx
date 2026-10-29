@@ -1,7 +1,7 @@
 import React from 'react'
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { getLeadBySlug, getAllSlugs } from '../../data/septicLeads'
+import { getLeadBySlug, getHighTicketSlugs } from '../../data/septicLeads'
 import { UniversalSepticPage } from '../../components/UniversalSepticPage'
 
 interface Props {
@@ -11,10 +11,7 @@ interface Props {
 export const dynamicParams = true
 
 export async function generateStaticParams() {
-  return [
-    { slug: 'bolt-septic-excavation' },
-    { slug: 'bonzo-excavating' }
-  ]
+  return getHighTicketSlugs().map((slug) => ({ slug }))
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
