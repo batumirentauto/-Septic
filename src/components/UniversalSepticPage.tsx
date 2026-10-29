@@ -14,6 +14,7 @@ import { SepticCoverage } from './SepticCoverage'
 import { SepticFooter } from './SepticFooter'
 import { SepticMobileBar } from './SepticMobileBar'
 import { SepticPhotoModal, ActivePhoto } from './SepticPhotoModal'
+import { SepticVisitorRadar } from './SepticVisitorRadar'
 import { ArrowLeft, Globe } from 'lucide-react'
 
 interface UniversalSepticPageProps {
@@ -67,6 +68,13 @@ export function UniversalSepticPage({ lead, isRu = false }: UniversalSepticPageP
         activePhoto={activePhoto}
         onClose={() => setActivePhoto(null)}
         isRu={isRu}
+      />
+
+      {/* Real-Time Contractor Visitor Radar (Active on English Contractor Pages) */}
+      <SepticVisitorRadar
+        slug={lead.slug}
+        isRu={isRu}
+        activePhotoTitle={activePhoto?.title || null}
       />
     </div>
   )

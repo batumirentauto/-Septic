@@ -9,7 +9,13 @@
     "start": "next start",
     "bot": "tsx src/bot/agent-bot.ts",
     "scrape": "node src/index.js",
-    "compile-data": "node scripts/compileLeads.js"
+    "compile-data": "node scripts/compileLeads.js",
+    "outreach": "node scripts/sendOutreachSms.js",
+    "outreach:status": "node scripts/sendOutreachSms.js --status",
+    "outreach:east": "node scripts/sendOutreachSms.js --slot=EAST",
+    "outreach:central": "node scripts/sendOutreachSms.js --slot=CENTRAL",
+    "outreach:mountain": "node scripts/sendOutreachSms.js --slot=MOUNTAIN",
+    "outreach:west": "node scripts/sendOutreachSms.js --slot=WEST"
   },
   "engines": {
     "node": ">=20.0.0"
