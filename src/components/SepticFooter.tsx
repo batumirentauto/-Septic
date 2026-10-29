@@ -72,7 +72,9 @@ export function SepticFooter({ lead, isRu = false }: SepticFooterProps) {
               <span>{isRu ? 'По запросу на сайте' : 'Available upon inquiry'}</span>
             )}
             <p className="text-slate-500 text-[11px]">
-              {lead.hours}
+              {!isRu && (!lead.hours || /[а-яА-ЯёЁ]/.test(lead.hours))
+                ? 'Mon–Sat: 7:00 AM – 7:00 PM • 24/7 Emergency Dispatch'
+                : lead.hours}
             </p>
           </div>
 
