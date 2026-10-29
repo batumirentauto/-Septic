@@ -25,7 +25,7 @@ export function SepticCoverage({ lead, isRu = false }: SepticCoverageProps) {
   const cleanPhone = lead.phone ? lead.phone.replace(/[^\d+]/g, '') : ''
 
   return (
-    <section className="py-16 sm:py-20 bg-slate-900 border-b border-slate-800">
+    <section id="coverage" className="py-16 sm:py-20 bg-slate-900 border-b border-slate-800">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           {/* Left Column: Service Details */}

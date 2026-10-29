@@ -107,7 +107,7 @@ export function SepticEquipment({ lead, isRu = false, onOpenPhoto }: SepticEquip
     : defaultSpecs
 
   return (
-    <section className="py-16 sm:py-20 bg-slate-900 border-b border-slate-800">
+    <section id="equipment" className="py-16 sm:py-20 bg-slate-900 border-b border-slate-800">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-14">
           <span className="text-xs font-bold tracking-widest text-cyan-400 uppercase">

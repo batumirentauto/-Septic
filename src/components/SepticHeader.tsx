@@ -41,11 +41,16 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
   ]
 
   const rawFocus = lead.primaryFocus || ''
-  const cleanFocus = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
+  const cleanFocusRu = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
+  const cleanFocusEn = lead.primaryFocusEn || (rawFocus.toLowerCase().includes('дренаж')
+    ? 'Drain Field Restoration & Septic Repair'
+    : rawFocus.toLowerCase().includes('монтаж')
+    ? 'Septic System Installation & Excavation'
+    : 'Septic Installation, Drain Field Restoration & Excavation')
 
   const serviceTagline = isRu
-    ? (cleanFocus ? `${cleanFocus} • Земляные работы` : 'Монтаж, ремонт септиков и земляные работы')
-    : (cleanFocus ? `${cleanFocus} & Precision Excavation` : 'Septic Installation, Drain Field Restoration & Excavation')
+    ? (cleanFocusRu ? `${cleanFocusRu} • Земляные работы` : 'Монтаж, ремонт септиков и земляные работы')
+    : cleanFocusEn
 
   return (
     <header className="sticky top-0 z-50 bg-slate-950/95 backdrop-blur-md border-b border-slate-800/80 text-white shadow-xl transition-all">
@@ -77,7 +82,7 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
               </span>
               <span className="text-slate-700 hidden md:inline shrink-0">•</span>
               <span className="text-slate-400 hidden lg:inline text-[11px] truncate">
-                {lead.city ? `${lead.city}, ${lead.state}` : lead.state} (выезд 45–60 мин)
+                {lead.city ? `${lead.city}, ${lead.state}` : lead.state} ({isRu ? 'выезд 45–60 мин' : '45–60 min dispatch'})
               </span>
             </div>
           </div>

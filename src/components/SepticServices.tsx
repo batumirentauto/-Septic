@@ -88,8 +88,27 @@ export function SepticServices({ lead, isRu = false }: SepticServicesProps) {
         },
       ]
 
+  const iconMap: Record<string, typeof Wrench> = {
+    Droplet,
+    Video,
+    Activity,
+    Sparkles,
+    Filter,
+    Wrench,
+  }
+
+  const finalServices =
+    lead.customServices && lead.customServices.length > 0
+      ? lead.customServices.map((cs, idx) => ({
+          icon: (cs.iconName && iconMap[cs.iconName]) || [Activity, Wrench, Video, Filter, Sparkles, Droplet][idx % 6],
+          title: isRu ? cs.titleRu : cs.title,
+          desc: isRu ? cs.descRu : cs.desc,
+          specs: isRu ? cs.specsRu : cs.specs,
+        }))
+      : services
+
   return (
-    <section className="py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
+    <section id="services" className="py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-14">
@@ -97,17 +116,17 @@ export function SepticServices({ lead, isRu = false }: SepticServicesProps) {
             {isRu ? 'Полный спектр услуг' : 'Comprehensive Scope of Work'}
           </span>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white">
-            {isRu ? 'Регламентные работы и капитальный ремонт септиков' : 'Engineered Septic Maintenance & System Repair'}
+            {isRu ? 'Капитальный монтаж, ремонт и обслуживание септиков' : 'Engineered Septic Installation, Restoration & Maintenance'}
           </h2>
           <p className="text-slate-400 text-sm sm:text-base">
             {isRu
-              ? `Все выезды бригады ${lead.name} выполняются в строгом соответствии с экологическими нормами штата ${lead.state} и санитарными правилами округа.`
-              : `All dispatches by ${lead.name} adhere strictly to ${lead.state} environmental codes, health department guidelines, and county disposal standards.`}
+              ? `Все выезды бригады ${lead.name} в г. ${lead.city}, ${lead.state} выполняются в строгом соответствии с экологическими нормами штата и санитарными правилами округа.`
+              : `All dispatches by ${lead.name} in ${lead.city}, ${lead.state} adhere strictly to state environmental codes, health department guidelines, and county disposal standards.`}
           </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
-          {services.map((s, idx) => {
+          {finalServices.map((s, idx) => {
             const Icon = s.icon
             return (
               <div

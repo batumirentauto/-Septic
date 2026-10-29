@@ -65,7 +65,7 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
   const cleanPhone = lead.phone ? lead.phone.replace(/[^\d+]/g, '') : ''
 
   return (
-    <section id="estimator" className="py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
+    <section id="calculator" className="py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-12">

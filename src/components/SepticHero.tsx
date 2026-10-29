@@ -28,11 +28,20 @@ interface SepticHeroProps {
 export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps) {
   const cleanPhone = lead.phone ? lead.phone.replace(/[^\d+]/g, '') : ''
 
+  // Clean primary focus without english brackets and prevent repetitions
+  const rawFocus = lead.primaryFocus || ''
+  const cleanFocus = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
+  const cleanFocusEn =
+    lead.primaryFocusEn ||
+    (rawFocus.toLowerCase().includes('дренаж')
+      ? 'Drain Field Restoration & Septic Repair'
+      : rawFocus.toLowerCase().includes('монтаж')
+      ? 'Septic System Installation & Excavation'
+      : 'Septic Installation, Drain Field Restoration & Excavation')
+
   const photoCaption = isRu
-    ? lead.primaryFocus || 'Реальный объект и монтаж септической системы'
-    : lead.primaryFocus
-    ? `${lead.primaryFocus} — Verified Site Capture`
-    : 'On-site septic installation & excavation'
+    ? cleanFocus || 'Реальный объект и монтаж септической системы'
+    : `${cleanFocusEn} — Verified Site Capture`
 
   const handleHeroPhotoClick = () => {
     if (lead.heroImage && onOpenPhoto) {
@@ -48,10 +57,6 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
   }
 
   const crewLead = lead.crewMembers && lead.crewMembers.length > 0 ? lead.crewMembers[0] : null
-
-  // Clean primary focus without english brackets and prevent repetitions
-  const rawFocus = lead.primaryFocus || ''
-  const cleanFocus = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
   const locationLabel = lead.city ? `${lead.city}, ${lead.state}` : lead.state
 
   let headlineRu = `Капитальный монтаж, ремонт септиков и восстановление полей фильтрации в г. ${locationLabel}`
@@ -66,7 +71,7 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
   }
 
   return (
-    <section className="relative overflow-hidden pt-8 pb-12 lg:pt-12 lg:pb-16 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
+    <section id="hero" className="relative overflow-hidden pt-8 pb-12 lg:pt-12 lg:pb-16 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
       {/* Background ambient lighting */}
       <div className="pointer-events-none absolute inset-0">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[700px] h-[350px] bg-emerald-500/10 blur-[140px] rounded-full" />
@@ -191,20 +196,27 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
               </div>
             </div>
 
-            {/* Micro guarantees */}
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2.5 pt-1 text-xs text-slate-400 border-t border-slate-800/60">
-              <div className="flex items-center gap-1.5">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
-                <span>{isRu ? 'Защитные настилы газона' : 'Turf Protection Mats'}</span>
-              </div>
-              <div className="flex items-center gap-1.5">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
-                <span>{isRu ? 'Фиксированная смета' : 'Zero Hidden Dump Fees'}</span>
-              </div>
-              <div className="flex items-center gap-1.5">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
-                <span>{isRu ? 'Видеокамера до и после' : 'Video Line Inspection'}</span>
-              </div>
+            {/* Competitive Advantages / Micro guarantees */}
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-2.5 pt-2 text-xs text-slate-300 border-t border-slate-800/60">
+              {(isRu
+                ? lead.competitiveAdvantages?.ru || [
+                    'Защитные настилы газона',
+                    'Фиксированная смета',
+                    'Видеокамера до и после',
+                  ]
+                : lead.competitiveAdvantages?.en || [
+                    'Turf Protection Mats',
+                    'Upfront Quoted Pricing',
+                    'Video Line Inspection',
+                  ]
+              )
+                .slice(0, 3)
+                .map((adv, idx) => (
+                  <div key={idx} className="flex items-center gap-1.5">
+                    <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+                    <span className="truncate font-medium">{adv}</span>
+                  </div>
+                ))}
             </div>
 
           </div>
@@ -213,7 +225,7 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
           <div className="lg:col-span-5 flex flex-col justify-between">
             <div className="h-full rounded-2xl bg-gradient-to-br from-slate-900 to-slate-950 border border-slate-800 overflow-hidden shadow-2xl flex flex-col justify-between">
               
-              {/* Photo Showcase Container */}
+              {/* Photo Showcase Container OR Verified Reputation Card */}
               {lead.heroImage ? (
                 <div
                   className="relative group cursor-pointer overflow-hidden flex-1 min-h-[280px] bg-slate-950"
@@ -249,7 +261,51 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                     </p>
                   </div>
                 </div>
-              ) : null}
+              ) : (
+                <div className="p-6 flex-1 flex flex-col justify-between bg-gradient-to-br from-slate-900 via-slate-950 to-slate-900 space-y-4">
+                  <div className="flex items-center justify-between">
+                    <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30 text-xs font-bold">
+                      <Award className="w-3.5 h-3.5" />
+                      <span>{isRu ? 'Почему выбирают нас' : 'Why Homeowners Choose Us'}</span>
+                    </span>
+                    <span className="text-xs font-mono text-cyan-400 font-bold">
+                      {lead.rating.toFixed(1)}★ ({lead.reviewCount})
+                    </span>
+                  </div>
+
+                  {lead.reviewsSample && lead.reviewsSample.length > 0 && (
+                    <div className="p-4 rounded-xl bg-slate-900/90 border border-slate-800/90 space-y-2">
+                      <StarRating rating={5} starClassName="w-3.5 h-3.5" />
+                      <p className="text-xs text-slate-300 italic line-clamp-4 leading-relaxed">
+                        &ldquo;{lead.reviewsSample[0].text}&rdquo;
+                      </p>
+                      <div className="text-[11px] font-bold text-emerald-400">
+                        — {lead.reviewsSample[0].author} ({isRu ? 'Проверенный отзыв Google' : 'Verified Google Review'})
+                      </div>
+                    </div>
+                  )}
+
+                  <div className="space-y-2 pt-1">
+                    {(isRu
+                      ? lead.competitiveAdvantages?.ru || [
+                          'Выезд дежурной бригады в день обращения',
+                          'Прозрачная смета до начала земельных работ',
+                          'Аккуратная работа без разрушения газона',
+                        ]
+                      : lead.competitiveAdvantages?.en || [
+                          'Same-Day Priority Field Dispatch',
+                          'Upfront Fixed Estimate Before Digging',
+                          'Zero Mess & Complete Turf Preservation',
+                        ]
+                    ).map((item, i) => (
+                      <div key={i} className="flex items-center gap-2 text-xs text-slate-200">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
+                        <span>{item}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
 
               {/* Bottom Integrated Dispatch & Field Crew Bar */}
               <div className="p-4 sm:p-5 bg-slate-950 border-t border-slate-800 space-y-3">

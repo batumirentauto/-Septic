@@ -30,6 +30,16 @@ export interface GalleryPhotoItem {
   image: string
 }
 
+export interface CustomServiceItem {
+  title: string
+  titleRu: string
+  desc: string
+  descRu: string
+  specs: string
+  specsRu: string
+  iconName?: string
+}
+
 export interface SepticLead {
   slug: string
   name: string
@@ -54,13 +64,20 @@ export interface SepticLead {
   equipmentPhotos?: EquipmentPhotoItem[]
   galleryPhotos?: GalleryPhotoItem[]
   crewMembers?: string[]
+  ownerName?: string
   serviceAreaList?: string[]
   ticketTier?: 'HIGH_TICKET' | 'LOW_TICKET'
   ticketTierLabel?: string
   ticketTierLabelRu?: string
   ticketRange?: string
   primaryFocus?: string
+  primaryFocusEn?: string
   highTicketServices?: string[]
+  competitiveAdvantages?: {
+    en: string[]
+    ru: string[]
+  }
+  customServices?: CustomServiceItem[]
 }
 
 export const septicLeads: SepticLead[] = rawLeads as SepticLead[]
