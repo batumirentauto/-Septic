@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://septic.up.railway.app'),
   title: 'US Septic Pro | National Septic System & Drain Field Network',
   description:
     'Comprehensive directory and verified showcases for top-rated, licensed septic tank pumping, drain field repair, and sewer line diagnostic specialists across all 50 US states.',
