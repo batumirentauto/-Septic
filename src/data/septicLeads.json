@@ -64349,8 +64349,8 @@
     "slug": "stones-pumping",
     "name": "Stone's Pumping",
     "state": "TN",
-    "city": "Knoxville",
-    "address": "Knoxville, TN (Service Area)",
+    "city": "Rockwood & Kingston",
+    "address": "Rockwood, Kingston, Harriman & Surrounding Areas, TN",
     "phone": "+1 423-458-5606",
     "rating": 4.9,
     "reviewCount": 81,
@@ -64467,8 +64467,8 @@
         "iconName": "Wrench",
         "title": "Complete Septic System Installation & Tank Replacement",
         "titleRu": "Капитальный монтаж и полная замена септиков",
-        "desc": "Turnkey excavation and installation of 1,000–1,500+ gallon concrete and heavy-duty poly septic tanks in Knoxville, TN. Includes soil perc testing coordination, county permits, and laser-graded bedding.",
-        "descRu": "Полный цикл земляных работ и монтаж бетонных и полимерных резервуаров 1000–1500+ галлонов в г. Knoxville, TN. Оформление разрешений округа и лазерное выравнивание подушки.",
+        "desc": "Turnkey excavation and installation of 1,000–1,500+ gallon concrete and heavy-duty poly septic tanks in Rockwood, Kingston, Dayton & Surrounding Areas, TN. Includes soil perc testing coordination, county permits, and laser-graded bedding.",
+        "descRu": "Полный цикл земляных работ и монтаж бетонных и полимерных резервуаров 1000–1500+ галлонов в в округах Rockwood, Kingston, Dayton и окрестностях. Оформление разрешений округа и лазерное выравнивание подушки.",
         "specs": "1,000–1,500+ Gal Tanks | Full County Permitting",
         "specsRu": "Резервуары 1000–1500+ галлонов | Стандарты округа"
       },
@@ -64492,12 +64492,15 @@
       }
     ],
     "serviceAreaList": [
-      "Knoxville, TN",
-      "Greater Knoxville Area",
-      "North Knoxville County",
-      "South Knoxville Limits",
-      "Surrounding Rural & Residential Acreage",
-      "24/7 Emergency Dispatch Territory"
+      "Rockwood, TN",
+      "Kingston, TN",
+      "Harriman, TN",
+      "Spring City, TN",
+      "Dayton, TN",
+      "Ten Mile, TN",
+      "Cleveland, TN",
+      "Sweetwater, TN",
+      "Niota, TN"
     ],
     "heroImage": "/showcase/stones-pumping/photo_001_opt.jpg",
     "equipmentPhotos": [
@@ -64506,8 +64509,8 @@
         "titleRu": "Специализированный комплекс обслуживания септиков",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Stone's Pumping crews in Knoxville, TN. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Stone's Pumping в г. Knoxville, TN. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "desc": "Dedicated field machinery operated directly by Stone's Pumping crews in Rockwood, Kingston, Dayton & Surrounding Areas, TN. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
+        "descRu": "Собственная техника бригады Stone's Pumping в в округах Rockwood, Kingston, Dayton и окрестностях. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
         "image": "/showcase/stones-pumping/photo_002_opt.jpg"
       },
       {
@@ -64524,15 +64527,15 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Knoxville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
-        "descRu": "Каждый выезд в г. Knoxville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
+        "desc": "Every project in Rockwood, Kingston & Dayton Area includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "descRu": "Каждый выезд в в регионе Rockwood, Kingston и Dayton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/stones-pumping/photo_004_opt.jpg"
       }
     ],
     "galleryPhotos": [
       {
-        "title": "On-Site Septic System Execution in Knoxville, TN",
-        "titleRu": "Выполнение работ на объекте в г. Knoxville, TN",
+        "title": "On-Site Septic System Execution in Rockwood, Kingston & Dayton Area, TN",
+        "titleRu": "Выполнение работ на объекте в в округах Rockwood, Kingston и Dayton, TN",
         "tag": "Verified Jobsite",
         "tagRu": "Реальный объект",
         "desc": "Documented field work completed by Stone's Pumping adhering to TN environmental and county health standards.",
@@ -64562,8 +64565,8 @@
         "titleRu": "Чистовая планировка и сдача объекта заказчику",
         "tag": "Clean Finish",
         "tagRu": "Чистовая сдача",
-        "desc": "Completed service site in Knoxville with backfilled soil and clean terrain ready for everyday residential use.",
-        "descRu": "Завершенный объект в г. Knoxville с обратной засыпкой и аккуратным восстановлением территории.",
+        "desc": "Completed service site in Rockwood, Kingston & Dayton Area with backfilled soil and clean terrain ready for everyday residential use.",
+        "descRu": "Завершенный объект в в регионе Rockwood, Kingston и Dayton с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/stones-pumping/photo_008_opt.jpg"
       }
     ]
