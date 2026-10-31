@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="1100" viewBox="0 0 800 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definitions -->
+  <defs>
+    <filter id="shadow" x="0" y="0" width="800" height="1100" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.15"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#047857"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Vinyl Sticker with Rounded Corners -->
+  <rect x="15" y="15" width="770" height="1070" rx="36" fill="#FFFFFF" stroke="#047857" stroke-width="8"/>
+  <rect x="27" y="27" width="746" height="1046" rx="26" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+
+  <!-- Top Emergency Dispatch Badge -->
+  <rect x="50" y="55" width="700" height="135" rx="20" fill="url(#headerGrad)"/>
+  <text x="400" y="105" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">
+    STONE'S PUMPING
+  </text>
+  <text x="400" y="150" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700" fill="#A7F3D0" text-anchor="middle" letter-spacing="3">
+    SEPTIC SYSTEM SERVICE • ROANE &amp; RHEA COUNTIES
+  </text>
+
+  <!-- Big Call to Action Header -->
+  <text x="400" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#0F172A" text-anchor="middle">
+    NEED SEPTIC PUMPING OR REPAIR?
+  </text>
+  <text x="400" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#047857" text-anchor="middle">
+    Scan with Your Phone Camera Below:
+  </text>
+
+  <!-- QR Code Frame & Box -->
+  <rect x="150" y="315" width="500" height="500" rx="28" fill="#F8FAFC" stroke="#047857" stroke-width="6"/>
+  <rect x="170" y="335" width="460" height="460" rx="16" fill="#FFFFFF"/>
+  
+  <!-- Embedded High-Res QR Code -->
+  <g transform="translate(180, 345) scale(10.47)">
+    <path fill="#ffffff" d="M0 0h43v43H0z"/><path stroke="#0f172a" d="M1 1.5h7m5 0h2m2 0h1m1 0h1m1 0h1m1 0h2m2 0h1m2 0h1m4 0h7M1 2.5h1m5 0h1m1 0h3m1 0h3m1 0h1m1 0h1m1 0h2m1 0h1m1 0h2m2 0h1m4 0h1m5 0h1M1 3.5h1m1 0h3m1 0h1m1 0h2m2 0h2m2 0h1m2 0h3m2 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h3m1 0h1M1 4.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m1 0h3m2 0h1m1 0h3m2 0h5m3 0h1m1 0h3m1 0h1M1 5.5h1m1 0h3m1 0h1m1 0h1m3 0h1m1 0h1m1 0h2m1 0h2m1 0h2m1 0h2m2 0h2m3 0h1m1 0h3m1 0h1M1 6.5h1m5 0h1m1 0h2m3 0h1m1 0h5m4 0h1m4 0h1m2 0h1m1 0h1m5 0h1M1 7.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M11 8.5h2m1 0h1m8 0h5m3 0h3M3 9.5h1m2 0h6m1 0h2m2 0h1m1 0h3m1 0h2m1 0h4m2 0h1m1 0h1m1 0h5M1 10.5h4m1 0h1m1 0h3m2 0h5m1 0h1m1 0h1m1 0h1m2 0h1m1 0h2m2 0h2m1 0h2m2 0h3M1 11.5h7m1 0h5m1 0h4m1 0h1m1 0h1m1 0h1m1 0h3m1 0h3m3 0h1m1 0h2m1 0h1M2 12.5h1m3 0h1m2 0h1m2 0h4m1 0h1m1 0h2m1 0h1m1 0h3m4 0h4m1 0h3m1 0h2M2 13.5h1m1 0h1m1 0h2m1 0h2m2 0h2m1 0h1m3 0h4m2 0h1m2 0h1m3 0h1m1 0h2M2 14.5h3m1 0h1m1 0h4m1 0h1m2 0h2m1 0h7m5 0h6m1 0h1m1 0h2M5 15.5h4m1 0h4m2 0h1m2 0h1m1 0h1m1 0h3m2 0h3m1 0h1m1 0h3m2 0h1m1 0h1M1 16.5h5m2 0h2m1 0h2m2 0h3m1 0h2m1 0h3m1 0h3m2 0h1m1 0h3m2 0h1m1 0h2M2 17.5h1m2 0h4m1 0h1m1 0h1m4 0h1m1 0h6m2 0h3m2 0h1m1 0h2M1 18.5h3m1 0h1m4 0h1m3 0h1m1 0h1m6 0h3m1 0h4m1 0h5m3 0h2M3 19.5h1m2 0h2m1 0h2m4 0h2m1 0h2m2 0h1m1 0h1m3 0h1m2 0h2m1 0h4m3 0h1M1 20.5h1m1 0h2m1 0h1m3 0h2m1 0h2m5 0h2m3 0h2m4 0h1m1 0h2m3 0h1m2 0h1M3 21.5h3m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h3m1 0h1m1 0h3m2 0h1m4 0h1M2 22.5h1m1 0h1m3 0h4m2 0h1m4 0h1m1 0h1m1 0h2m1 0h4m1 0h3m1 0h1m5 0h1M1 23.5h3m3 0h3m3 0h1m3 0h1m1 0h2m3 0h1m3 0h1m1 0h1m1 0h2m1 0h1m5 0h1M1 24.5h1m2 0h1m8 0h2m1 0h3m1 0h2m4 0h2m3 0h1m1 0h2m3 0h1m1 0h1M2 25.5h3m1 0h2m1 0h2m1 0h2m5 0h1m1 0h4m1 0h4m3 0h1m1 0h2m3 0h1M1 26.5h3m6 0h3m7 0h2m6 0h5m1 0h3m1 0h1m1 0h2M1 27.5h1m1 0h7m3 0h4m5 0h2m3 0h6m2 0h1m2 0h4M3 28.5h1m1 0h2m3 0h3m1 0h1m1 0h2m1 0h2m1 0h1m1 0h1m4 0h1m1 0h3m2 0h3m1 0h2M1 29.5h4m1 0h2m2 0h3m1 0h3m1 0h4m2 0h1m3 0h1m2 0h1m3 0h1m5 0h1M2 30.5h3m1 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1m1 0h1m3 0h1m2 0h3m1 0h5m4 0h1M1 31.5h2m2 0h7m1 0h1m1 0h1m1 0h3m1 0h4m1 0h3m1 0h1m1 0h3m1 0h1m1 0h4M4 32.5h1m8 0h3m1 0h1m3 0h1m3 0h1m1 0h1m3 0h2m2 0h3M1 33.5h2m1 0h2m1 0h1m1 0h1m4 0h1m4 0h2m3 0h2m2 0h2m2 0h7m1 0h2M9 34.5h3m2 0h1m1 0h3m2 0h2m1 0h2m1 0h5m1 0h1m3 0h2m2 0h1M1 35.5h7m1 0h1m2 0h1m2 0h3m1 0h1m3 0h1m2 0h1m1 0h2m3 0h1m1 0h1m1 0h5M1 36.5h1m5 0h1m1 0h2m1 0h2m2 0h1m3 0h3m4 0h1m3 0h1m1 0h1m3 0h2m1 0h2M1 37.5h1m1 0h3m1 0h1m3 0h1m2 0h4m1 0h1m1 0h1m1 0h7m2 0h7m1 0h2M1 38.5h1m1 0h3m1 0h1m2 0h3m1 0h5m1 0h1m1 0h1m1 0h1m1 0h4m1 0h3m2 0h2m2 0h2M1 39.5h1m1 0h3m1 0h1m1 0h3m1 0h2m4 0h2m4 0h10m2 0h2m1 0h2M1 40.5h1m5 0h1m2 0h1m2 0h1m3 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h2m3 0h1m1 0h1m2 0h1M1 41.5h7m4 0h2m3 0h2m2 0h1m1 0h1m3 0h1m5 0h1m1 0h1m1 0h2m2 0h1"/>
+
+  </g>
+
+  <!-- Value Offer Pills -->
+  <rect x="80" y="845" width="640" height="95" rx="16" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="2"/>
+  
+  <text x="400" y="885" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#0F172A" text-anchor="middle">
+    ⚡ INSTANT ESTIMATOR &amp; DISPATCH
+  </text>
+  <text x="400" y="920" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#475569" text-anchor="middle">
+    Calculate tank pumping rates &amp; request service in 30 seconds
+  </text>
+
+  <!-- Bottom Direct Phone & Domain -->
+  <rect x="50" y="965" width="700" height="85" rx="18" fill="#0F172A"/>
+  <text x="400" y="1005" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#FFFFFF" text-anchor="middle">
+    CALL OR TEXT: (423) 458-5606
+  </text>
+  <text x="400" y="1035" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#34D399" text-anchor="middle" letter-spacing="1">
+    stones-pumping.com • 24/7 Priority Emergency
+  </text>
+</svg>
