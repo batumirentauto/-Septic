@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import fs from 'fs'
 import path from 'path'
 import { getLeadBySlug } from '@/data/septicLeads'
+import seedSessions from './seedRadar.json'
 
 export interface RadarEventItem {
   type: string
@@ -96,7 +97,7 @@ function loadStore(): RadarStore {
       if (fs.existsSync(/*turbopackIgnore: true*/ filePath)) {
         const raw = fs.readFileSync(/*turbopackIgnore: true*/ filePath, 'utf8')
         const parsed = JSON.parse(raw)
-        if (parsed && typeof parsed.sessions === 'object') {
+        if (parsed && typeof parsed.sessions === 'object' && Object.keys(parsed.sessions).length > 0) {
           globalThis.__septicRadarStore = parsed
           return parsed
         }
@@ -106,7 +107,12 @@ function loadStore(): RadarStore {
     }
   }
 
-  globalThis.__septicRadarStore = { sessions: {} }
+  const initialSessions: Record<string, VisitorSession> = {}
+  if (seedSessions && typeof seedSessions === 'object') {
+    Object.assign(initialSessions, seedSessions as Record<string, VisitorSession>)
+  }
+
+  globalThis.__septicRadarStore = { sessions: initialSessions }
   return globalThis.__septicRadarStore
 }
 
@@ -276,8 +282,8 @@ export async function POST(req: NextRequest) {
         language: String(language || ''),
         isUsVisitor,
         isOwnerTest,
-        firstSeenAt: nowIso,
-        lastSeenAt: nowIso,
+        firstSeenAt: body.firstSeenAt || nowIso,
+        lastSeenAt: body.lastSeenAt || nowIso,
         durationSec: Math.max(1, Number(durationSec) || 1),
         maxScrollPct: Math.min(100, Math.max(0, Number(maxScrollPct) || 0)),
         photoClicks: Math.max(0, Number(photoClicks) || 0),
