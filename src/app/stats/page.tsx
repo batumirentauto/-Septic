@@ -87,6 +87,8 @@ export default function RadarStatsPage() {
   // STRICT DEFAULT: Only real US clients are shown by default!
   const [includeTests, setIncludeTests] = useState<boolean>(false)
   const [activeTab, setActiveTab] = useState<'us' | 'hot' | 'repeats' | 'tests'>('us')
+  const [dateFilter, setDateFilter] = useState<'all' | 'today' | 'oct30' | '7days' | 'custom'>('all')
+  const [customDate, setCustomDate] = useState<string>('')
   const [searchQuery, setSearchQuery] = useState<string>('')
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({})
   const [loading, setLoading] = useState<boolean>(true)
@@ -193,12 +195,57 @@ export default function RadarStatsPage() {
     setTimeout(() => setCopiedSlug(null), 2500)
   }
 
+  const isVisitInDateRange = (isoStr: string) => {
+    if (dateFilter === 'all') return true
+    if (!isoStr) return false
+    const visitDate = new Date(isoStr)
+    const now = new Date()
+
+    if (dateFilter === 'today') {
+      return (
+        visitDate.getFullYear() === now.getFullYear() &&
+        visitDate.getMonth() === now.getMonth() &&
+        visitDate.getDate() === now.getDate()
+      )
+    }
+
+    if (dateFilter === 'oct30') {
+      return (
+        visitDate.getFullYear() === 2026 &&
+        visitDate.getMonth() === 9 && // 9 is October (0-indexed)
+        visitDate.getDate() === 30
+      )
+    }
+
+    if (dateFilter === '7days') {
+      const diffMs = now.getTime() - visitDate.getTime()
+      return diffMs >= 0 && diffMs <= 7 * 24 * 60 * 60 * 1000
+    }
+
+    if (dateFilter === 'custom' && customDate) {
+      const yyyy = visitDate.getFullYear()
+      const mm = String(visitDate.getMonth() + 1).padStart(2, '0')
+      const dd = String(visitDate.getDate()).padStart(2, '0')
+      const localStr = `${yyyy}-${mm}-${dd}`
+      const utcStr = isoStr.slice(0, 10)
+      return localStr === customDate || utcStr === customDate
+    }
+
+    return true
+  }
+
   // Filter contractors
   const filteredContractors = contractors.filter((c) => {
     if (activeTab === 'tests') return c.isOwnerTest
     if (activeTab === 'us' && c.isOwnerTest) return false
     if (activeTab === 'repeats' && (c.totalVisits < 2 || c.isOwnerTest)) return false
     if (activeTab === 'hot' && (c.leadScore !== 'HOT' || c.isOwnerTest)) return false
+
+    // Date range filter: matches if any visit or lastSeenAt matches the selected date/period
+    const matchesDate =
+      (c.visits && c.visits.some((v) => isVisitInDateRange(v.firstSeenAt))) ||
+      isVisitInDateRange(c.lastSeenAt)
+    if (!matchesDate) return false
 
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase()
@@ -364,6 +411,82 @@ export default function RadarStatsPage() {
           </div>
         </div>
 
+        {/* Date / Period Filter Bar */}
+        <div className="flex flex-wrap items-center justify-between gap-3 bg-slate-900/40 border border-slate-800/80 rounded-xl px-4 py-2.5">
+          <div className="flex items-center gap-2 text-xs font-semibold text-slate-300">
+            <Calendar className="w-4 h-4 text-emerald-400 shrink-0" />
+            <span>Период визитов:</span>
+          </div>
+
+          <div className="flex flex-wrap items-center gap-1.5">
+            <button
+              onClick={() => { setDateFilter('all'); setCustomDate(''); }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
+                dateFilter === 'all'
+                  ? 'bg-emerald-500 text-slate-950 font-bold shadow'
+                  : 'bg-slate-800/80 text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Все даты ({contractors.filter(c => activeTab === 'tests' ? c.isOwnerTest : !c.isOwnerTest).length})
+            </button>
+
+            <button
+              onClick={() => { setDateFilter('today'); setCustomDate(''); }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
+                dateFilter === 'today'
+                  ? 'bg-emerald-500 text-slate-950 font-bold shadow'
+                  : 'bg-slate-800/80 text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Сегодня (2 ноя)
+            </button>
+
+            <button
+              onClick={() => { setDateFilter('oct30'); setCustomDate(''); }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition flex items-center gap-1 ${
+                dateFilter === 'oct30'
+                  ? 'bg-emerald-500 text-slate-950 font-bold shadow'
+                  : 'bg-slate-800/80 text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              <span>30 окт (Рон)</span>
+            </button>
+
+            <button
+              onClick={() => { setDateFilter('7days'); setCustomDate(''); }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
+                dateFilter === '7days'
+                  ? 'bg-emerald-500 text-slate-950 font-bold shadow'
+                  : 'bg-slate-800/80 text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              За 7 дней
+            </button>
+
+            <div className="flex items-center gap-1.5 pl-2 sm:border-l border-slate-700/60">
+              <span className="text-[11px] text-slate-400">Календарь:</span>
+              <input
+                type="date"
+                value={customDate}
+                onChange={(e) => {
+                  setCustomDate(e.target.value)
+                  if (e.target.value) setDateFilter('custom')
+                }}
+                className="bg-slate-950 border border-slate-700 text-slate-200 text-xs rounded-lg px-2 py-1 focus:outline-none focus:border-emerald-500"
+              />
+              {dateFilter === 'custom' && (
+                <button
+                  onClick={() => { setDateFilter('all'); setCustomDate(''); }}
+                  className="text-xs text-slate-400 hover:text-slate-200 px-1 py-0.5 rounded bg-slate-800"
+                  title="Сбросить выбранную дату"
+                >
+                  ✕
+                </button>
+              )}
+            </div>
+          </div>
+        </div>
+
         {/* Contractors List */}
         <div className="space-y-4">
           {loading ? (
@@ -375,12 +498,18 @@ export default function RadarStatsPage() {
             <div className="text-center py-16 bg-slate-900/40 border border-slate-800/60 rounded-2xl">
               <Activity className="w-10 h-10 text-slate-600 mx-auto mb-3" />
               <div className="text-base font-bold text-slate-300">
-                {activeTab === 'tests' ? 'Тестовых визитов нет' : 'Клиенты из США пока не открывали ссылки'}
+                {activeTab === 'tests'
+                  ? 'Тестовых визитов нет'
+                  : dateFilter === 'today'
+                  ? 'Сегодня переходов от клиентов ещё не было'
+                  : 'За выбранный период переходов не найдено'}
               </div>
               <p className="text-xs text-slate-500 mt-1 max-w-md mx-auto">
-                {activeTab === 'tests'
+                {dateFilter === 'today'
+                  ? 'Как только начнется утренняя рассылка в 09:30 EST, здесь появятся свежие визиты. Чтобы посмотреть визит Рона, нажмите «Все даты» или «30 окт (Рон)».'
+                  : activeTab === 'tests'
                   ? 'Тестовые визиты очищены.'
-                  : 'Как только американский подрядчик кликнет ссылку из утренней рассылки, здесь моментально появится его карточка с датой, временем и поведением.'}
+                  : 'Как только американский подрядчик кликнет ссылку, здесь появится его карточка с датой, временем и поведением.'}
               </p>
             </div>
           ) : (

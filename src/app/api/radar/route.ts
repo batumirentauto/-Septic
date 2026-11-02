@@ -197,7 +197,7 @@ export async function POST(req: NextRequest) {
         store.sessions = {}
       } else {
         for (const [id, s] of Object.entries(store.sessions)) {
-          if (s.isOwnerTest || id.startsWith('test_') || s.slug === 'stones-pumping') {
+          if (s.isOwnerTest || id.startsWith('test_')) {
             delete store.sessions[id]
           }
         }

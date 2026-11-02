@@ -1,0 +1,38 @@
+{
+  "sessions": {
+    "stones-pumping_mvv5wfbh_mcgu9": {
+      "sessionId": "stones-pumping_mvv5wfbh_mcgu9",
+      "visitorId": "v_ron_stones_real",
+      "visitIndex": 1,
+      "slug": "stones-pumping",
+      "companyName": "Stone's Pumping",
+      "ownerName": "Ron",
+      "city": "Knoxville",
+      "state": "TN",
+      "phone": "+1 423-458-5606",
+      "device": "Android",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+      "ip": "174.212.96.251",
+      "referrer": "",
+      "screen": "360x641",
+      "timezone": "America/New_York",
+      "language": "en-US",
+      "isUsVisitor": true,
+      "isOwnerTest": false,
+      "firstSeenAt": "2026-10-30T16:03:45.073Z",
+      "lastSeenAt": "2026-10-30T16:05:05.050Z",
+      "durationSec": 81,
+      "maxScrollPct": 7,
+      "photoClicks": 0,
+      "ctaClicks": 0,
+      "calculatorClicks": 0,
+      "events": [
+        {
+          "type": "page_view",
+          "label": "Открыл витрину",
+          "at": "2026-10-30T16:03:45.073Z"
+        }
+      ]
+    }
+  }
+}
