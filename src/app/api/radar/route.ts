@@ -191,14 +191,19 @@ export async function POST(req: NextRequest) {
 
     const store = loadStore()
 
-    if (body.action === 'clear_tests') {
-      for (const [id, s] of Object.entries(store.sessions)) {
-        if (s.isOwnerTest) {
-          delete store.sessions[id]
+    // Action: Clear all test sessions or purge completely
+    if (body.action === 'purge_all' || body.action === 'clear_tests') {
+      if (body.action === 'purge_all') {
+        store.sessions = {}
+      } else {
+        for (const [id, s] of Object.entries(store.sessions)) {
+          if (s.isOwnerTest || id.startsWith('test_') || s.slug === 'stones-pumping') {
+            delete store.sessions[id]
+          }
         }
       }
       saveStore(store)
-      return NextResponse.json({ ok: true })
+      return NextResponse.json({ ok: true, message: 'Sessions cleared' })
     }
 
     const {
@@ -216,8 +221,7 @@ export async function POST(req: NextRequest) {
       screen = '',
       timezone = '',
       language = '',
-      referrer = '',
-      forceTrack = false
+      referrer = ''
     } = body
 
     if (!sessionId || !slug) {
@@ -232,18 +236,23 @@ export async function POST(req: NextRequest) {
     const tzLower = String(timezone || '').toLowerCase()
     const langLower = String(language || '').toLowerCase()
 
-    // Determine if this is the owner testing from Batumi/Russian locale vs a real US contractor
+    // STRICT Owner/Testing Detection:
+    // Any visitor from Georgia, Russia, Europe, or with Russian/Georgian language
+    // OR manual test IDs are classified as Owner Tests!
     const isOwnerTest =
-      !forceTrack &&
-      (tzLower.includes('tbilisi') ||
-        tzLower.includes('moscow') ||
-        tzLower.includes('europe/') ||
-        langLower.startsWith('ru'))
+      sessionId.startsWith('test_') ||
+      tzLower.includes('tbilisi') ||
+      tzLower.includes('moscow') ||
+      tzLower.includes('europe/') ||
+      tzLower.includes('asia/') ||
+      langLower.startsWith('ru') ||
+      langLower.startsWith('ka') ||
+      ip.startsWith('178.134.') ||
+      ip.startsWith('176.221.')
 
     const isUsVisitor =
-      tzLower.startsWith('america/') ||
-      tzLower.startsWith('us/') ||
-      (!isOwnerTest && langLower.startsWith('en'))
+      !isOwnerTest &&
+      (tzLower.startsWith('america/') || tzLower.startsWith('us/') || langLower.startsWith('en'))
 
     const existing = store.sessions[sessionId]
 
@@ -330,7 +339,7 @@ export async function GET(req: NextRequest) {
 
   const filteredSessions = includeTests
     ? allSessions
-    : allSessions.filter((s) => !s.isOwnerTest)
+    : allSessions.filter((s) => !s.isOwnerTest && !s.sessionId.startsWith('test_'))
 
   // Aggregate by Contractor Slug
   const contractorsMap = new Map<string, VisitorSession[]>()
@@ -344,7 +353,6 @@ export async function GET(req: NextRequest) {
   const contractors: ContractorCard[] = []
 
   for (const [slug, sessList] of contractorsMap.entries()) {
-    // Sort visits chronologically (oldest first)
     sessList.sort((a, b) => new Date(a.firstSeenAt).getTime() - new Date(b.firstSeenAt).getTime())
     
     const lead = getLeadBySlug(slug)
@@ -363,7 +371,6 @@ export async function GET(req: NextRequest) {
     const lastSeenAt = sessList[sessList.length - 1].lastSeenAt
     const devices = Array.from(new Set(sessList.map((s) => s.device)))
 
-    // Compute Lead Score & Insight
     let leadScore: ContractorCard['leadScore'] = 'PEEK'
     let leadScoreLabel = '👀 Ознакомительный'
     let insight = 'Только открыл ссылку на несколько секунд. Пока присматривается.'
@@ -395,7 +402,7 @@ export async function GET(req: NextRequest) {
       ctaClicks: s.ctaClicks,
       calculatorClicks: s.calculatorClicks,
       events: s.events || []
-    })).reverse() // show newest visit first in dropdown
+    })).reverse()
 
     contractors.push({
       slug,
@@ -419,7 +426,6 @@ export async function GET(req: NextRequest) {
     })
   }
 
-  // Sort contractors: hottest and most recent first
   contractors.sort((a, b) => {
     const scoreWeight = { HOT: 3, WARM: 2, PEEK: 1 }
     const diffScore = scoreWeight[b.leadScore] - scoreWeight[a.leadScore]

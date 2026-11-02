@@ -7,7 +7,6 @@ import {
   Smartphone,
   Clock,
   Eye,
-  MousePointerClick,
   RefreshCw,
   ExternalLink,
   Copy,
@@ -20,7 +19,8 @@ import {
   Zap,
   Calendar,
   Layers,
-  QrCode
+  QrCode,
+  Trash2
 } from 'lucide-react'
 
 interface RadarEventItem {
@@ -84,13 +84,15 @@ export default function RadarStatsPage() {
     mobileSessions: 0,
     totalAllIncludingTests: 0
   })
-  const [includeTests, setIncludeTests] = useState<boolean>(true) // default to true so user sees their tests immediately
-  const [activeTab, setActiveTab] = useState<'all' | 'us' | 'repeats' | 'hot'>('all')
+  // STRICT DEFAULT: Only real US clients are shown by default!
+  const [includeTests, setIncludeTests] = useState<boolean>(false)
+  const [activeTab, setActiveTab] = useState<'us' | 'hot' | 'repeats' | 'tests'>('us')
   const [searchQuery, setSearchQuery] = useState<string>('')
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({})
   const [loading, setLoading] = useState<boolean>(true)
   const [lastUpdated, setLastUpdated] = useState<string>('')
   const [copiedSlug, setCopiedSlug] = useState<string | null>(null)
+  const [clearing, setClearing] = useState<boolean>(false)
 
   const fetchRadar = async (showTests = includeTests) => {
     try {
@@ -118,6 +120,21 @@ export default function RadarStatsPage() {
     return () => window.clearInterval(timer)
   }, [includeTests])
 
+  const purgeAllTests = async () => {
+    if (!confirm('Очистить все тестовые визиты? Реальные визиты клиентов останутся.')) return
+    setClearing(true)
+    try {
+      await fetch('/api/radar', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'clear_tests' })
+      })
+      await fetchRadar(includeTests)
+    } finally {
+      setClearing(false)
+    }
+  }
+
   const toggleExpand = (slug: string) => {
     setExpandedSlugs((prev) => ({
       ...prev,
@@ -134,14 +151,12 @@ export default function RadarStatsPage() {
 
   const formatDateTime = (iso: string) => {
     const d = new Date(iso)
-    // Format in local Russian locale
     const localStr = d.toLocaleDateString('ru-RU', {
       day: 'numeric',
       month: 'short',
       hour: '2-digit',
       minute: '2-digit'
     })
-    // Format US EST time
     const usStr = d.toLocaleTimeString('en-US', {
       timeZone: 'America/New_York',
       hour: '2-digit',
@@ -180,9 +195,10 @@ export default function RadarStatsPage() {
 
   // Filter contractors
   const filteredContractors = contractors.filter((c) => {
+    if (activeTab === 'tests') return c.isOwnerTest
     if (activeTab === 'us' && c.isOwnerTest) return false
-    if (activeTab === 'repeats' && c.totalVisits < 2) return false
-    if (activeTab === 'hot' && c.leadScore !== 'HOT') return false
+    if (activeTab === 'repeats' && (c.totalVisits < 2 || c.isOwnerTest)) return false
+    if (activeTab === 'hot' && (c.leadScore !== 'HOT' || c.isOwnerTest)) return false
 
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase()
@@ -205,26 +221,26 @@ export default function RadarStatsPage() {
             <div>
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-semibold mb-2">
                 <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
-                ЖИВОЙ РАДАР ВИТРИН (ONLINE COMMAND CENTER)
+                ЖИВОЙ РАДАР КЛИЕНТОВ ИЗ США (REAL CONTRACTORS ONLY)
               </div>
               <h1 className="text-2xl md:text-3xl font-extrabold text-white tracking-tight">
-                Статистика посещений и вовлеченности
+                Статистика открытий витрин подрядчиками
               </h1>
               <p className="text-sm text-slate-400 mt-1">
-                Точные даты заходов, количество визитов каждого подрядчика, время изучения и готовые рекомендации
+                Отсекает ваши проверки и ботов. Записывает только реальных подрядчиков из США, их устройства, даты и поведение
               </p>
             </div>
 
-            <div className="flex items-center gap-3">
-              <label className="flex items-center gap-2 text-xs text-slate-300 bg-slate-950/70 border border-slate-800 px-3 py-2 rounded-xl cursor-pointer hover:border-slate-700 transition">
-                <input
-                  type="checkbox"
-                  checked={includeTests}
-                  onChange={(e) => setIncludeTests(e.target.checked)}
-                  className="rounded border-slate-700 text-emerald-500 focus:ring-0 w-4 h-4 bg-slate-900"
-                />
-                <span>Показывать тестовые заходы (Тбилиси/Батуми)</span>
-              </label>
+            <div className="flex flex-wrap items-center gap-3">
+              <button
+                onClick={purgeAllTests}
+                disabled={clearing}
+                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-semibold bg-rose-500/10 border border-rose-500/30 text-rose-300 hover:bg-rose-500/20 transition"
+                title="Удалить все тестовые сессии"
+              >
+                <Trash2 className="w-3.5 h-3.5" />
+                <span>Очистить тесты</span>
+              </button>
 
               <button
                 onClick={() => fetchRadar()}
@@ -240,7 +256,7 @@ export default function RadarStatsPage() {
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6 pt-6 border-t border-slate-800/80">
             <div className="bg-slate-950/60 border border-slate-800/80 rounded-xl p-4">
               <div className="flex items-center justify-between text-xs text-slate-400 mb-1">
-                <span>Подрядчиков открыло</span>
+                <span>Клиентов из США</span>
                 <Eye className="w-4 h-4 text-emerald-400" />
               </div>
               <div className="text-2xl font-bold text-white">
@@ -251,7 +267,7 @@ export default function RadarStatsPage() {
 
             <div className="bg-slate-950/60 border border-slate-800/80 rounded-xl p-4">
               <div className="flex items-center justify-between text-xs text-slate-400 mb-1">
-                <span>Всего визитов (сессий)</span>
+                <span>Визитов клиентов</span>
                 <Layers className="w-4 h-4 text-cyan-400" />
               </div>
               <div className="text-2xl font-bold text-white">
@@ -268,7 +284,7 @@ export default function RadarStatsPage() {
               <div className="text-2xl font-bold text-white">
                 {formatDuration(summary.avgDurationSec)}
               </div>
-              <div className="text-[11px] text-slate-500 mt-0.5">на одного посетителя</div>
+              <div className="text-[11px] text-slate-500 mt-0.5">на одного подрядчика</div>
             </div>
 
             <div className="bg-slate-950/60 border border-slate-800/80 rounded-xl p-4">
@@ -279,7 +295,7 @@ export default function RadarStatsPage() {
               <div className="text-2xl font-bold text-white">
                 {summary.avgScrollPct}%
               </div>
-              <div className="text-[11px] text-slate-500 mt-0.5">в среднем по витрине</div>
+              <div className="text-[11px] text-slate-500 mt-0.5">в среднем по странице</div>
             </div>
           </div>
         </div>
@@ -289,21 +305,21 @@ export default function RadarStatsPage() {
           {/* Tabs */}
           <div className="flex items-center gap-1.5 w-full sm:w-auto overflow-x-auto pb-1 sm:pb-0">
             <button
-              onClick={() => setActiveTab('all')}
-              className={`px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition ${
-                activeTab === 'all'
-                  ? 'bg-emerald-500 text-slate-950 shadow-md'
+              onClick={() => { setActiveTab('us'); setIncludeTests(false); }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition flex items-center gap-1.5 ${
+                activeTab === 'us'
+                  ? 'bg-emerald-500 text-slate-950 shadow-md font-bold'
                   : 'bg-slate-800/60 text-slate-400 hover:text-slate-200'
               }`}
             >
-              Все подрядчики ({contractors.length})
+              <span>🇺🇸 Клиенты из США</span>
             </button>
 
             <button
-              onClick={() => setActiveTab('hot')}
+              onClick={() => { setActiveTab('hot'); setIncludeTests(false); }}
               className={`px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition flex items-center gap-1 ${
                 activeTab === 'hot'
-                  ? 'bg-amber-500 text-slate-950 shadow-md'
+                  ? 'bg-amber-500 text-slate-950 shadow-md font-bold'
                   : 'bg-slate-800/60 text-slate-400 hover:text-slate-200'
               }`}
             >
@@ -312,10 +328,10 @@ export default function RadarStatsPage() {
             </button>
 
             <button
-              onClick={() => setActiveTab('repeats')}
+              onClick={() => { setActiveTab('repeats'); setIncludeTests(false); }}
               className={`px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition flex items-center gap-1 ${
                 activeTab === 'repeats'
-                  ? 'bg-cyan-500 text-slate-950 shadow-md'
+                  ? 'bg-cyan-500 text-slate-950 shadow-md font-bold'
                   : 'bg-slate-800/60 text-slate-400 hover:text-slate-200'
               }`}
             >
@@ -324,14 +340,14 @@ export default function RadarStatsPage() {
             </button>
 
             <button
-              onClick={() => setActiveTab('us')}
+              onClick={() => { setActiveTab('tests'); setIncludeTests(true); }}
               className={`px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition flex items-center gap-1 ${
-                activeTab === 'us'
-                  ? 'bg-blue-600 text-white shadow-md'
-                  : 'bg-slate-800/60 text-slate-400 hover:text-slate-200'
+                activeTab === 'tests'
+                  ? 'bg-purple-600 text-white shadow-md font-bold'
+                  : 'bg-slate-850 text-slate-500 hover:text-slate-400 border border-slate-800'
               }`}
             >
-              🇺🇸 Только клиенты из США
+              <span>🧪 Мои проверки</span>
             </button>
           </div>
 
@@ -340,7 +356,7 @@ export default function RadarStatsPage() {
             <Search className="w-4 h-4 text-slate-400 absolute left-3 top-2.5" />
             <input
               type="text"
-              placeholder="Поиск по компании, имени, городу..."
+              placeholder="Поиск по компании, имени, телефону..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-slate-950 border border-slate-800 rounded-lg pl-9 pr-3 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-emerald-500 transition"
@@ -358,9 +374,13 @@ export default function RadarStatsPage() {
           ) : filteredContractors.length === 0 ? (
             <div className="text-center py-16 bg-slate-900/40 border border-slate-800/60 rounded-2xl">
               <Activity className="w-10 h-10 text-slate-600 mx-auto mb-3" />
-              <div className="text-base font-bold text-slate-300">Пока нет переходов по выбранному фильтру</div>
+              <div className="text-base font-bold text-slate-300">
+                {activeTab === 'tests' ? 'Тестовых визитов нет' : 'Клиенты из США пока не открывали ссылки'}
+              </div>
               <p className="text-xs text-slate-500 mt-1 max-w-md mx-auto">
-                Включите чекбокс «Показывать тестовые заходы» в правом верхнем углу, чтобы увидеть ваши собственные визиты.
+                {activeTab === 'tests'
+                  ? 'Тестовые визиты очищены.'
+                  : 'Как только американский подрядчик кликнет ссылку из утренней рассылки, здесь моментально появится его карточка с датой, временем и поведением.'}
               </p>
             </div>
           ) : (
@@ -412,10 +432,9 @@ export default function RadarStatsPage() {
                             {formatRelativeTime(c.lastSeenAt)}
                           </span>
 
-                          {/* Test indicator */}
                           {c.isOwnerTest && (
-                            <span className="text-[11px] bg-slate-800/90 text-slate-400 px-2 py-0.5 rounded border border-slate-700">
-                              Тестовый вход (Тбилиси/Батуми)
+                            <span className="text-[11px] bg-purple-950/60 text-purple-300 px-2 py-0.5 rounded border border-purple-800">
+                              Моя проверка (Тбилиси/Батуми)
                             </span>
                           )}
                         </div>
@@ -496,17 +515,17 @@ export default function RadarStatsPage() {
                             href={`/${c.slug}?notrack=1`}
                             target="_blank"
                             className="inline-flex items-center gap-1 px-3 py-2.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 transition"
-                            title="Открыть витрину (?notrack=1)"
+                            title="Открыть витрину в режиме без записи (?notrack=1)"
                           >
                             <ExternalLink className="w-3.5 h-3.5" />
                             <span>Витрина</span>
                           </Link>
 
                           <Link
-                            href={`/${c.slug}/qr`}
+                            href={`/${c.slug}/qr?notrack=1`}
                             target="_blank"
                             className="inline-flex items-center gap-1 px-3 py-2.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-cyan-300 border border-slate-700 transition"
-                            title="Открыть QR-наклейку"
+                            title="Открыть QR-наклейку (?notrack=1)"
                           >
                             <QrCode className="w-3.5 h-3.5" />
                             <span>QR</span>
@@ -515,7 +534,7 @@ export default function RadarStatsPage() {
                       </div>
                     </div>
 
-                    {/* Actionable Insight Box (Какую информацию почерпнуть) */}
+                    {/* Actionable Insight Box */}
                     <div className="bg-slate-950/70 border border-slate-800/80 rounded-xl p-3.5 flex items-start gap-3">
                       <Sparkles className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                       <div>
@@ -576,7 +595,7 @@ export default function RadarStatsPage() {
                                     (в США: {vTime.usStr} EST)
                                   </span>
                                   <span className="text-slate-400 font-mono text-[11px]">
-                                    • {v.device} ({v.screen})
+                                    • {v.device} {v.screen ? `(${v.screen})` : ''}
                                   </span>
                                 </div>
 
