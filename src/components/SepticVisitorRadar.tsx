@@ -14,6 +14,8 @@ export function SepticVisitorRadar({
   activePhotoTitle = null
 }: SepticVisitorRadarProps) {
   const sessionIdRef = useRef<string>('')
+  const visitorIdRef = useRef<string>('')
+  const visitIndexRef = useRef<number>(1)
   const activeSecondsRef = useRef<number>(1)
   const maxScrollPctRef = useRef<number>(0)
   const photoClicksRef = useRef<number>(0)
@@ -27,6 +29,8 @@ export function SepticVisitorRadar({
 
     const payload = {
       sessionId: sessionIdRef.current,
+      visitorId: visitorIdRef.current,
+      visitIndex: visitIndexRef.current,
       slug,
       eventType,
       eventLabel,
@@ -75,7 +79,25 @@ export function SepticVisitorRadar({
     const params = new URLSearchParams(window.location.search)
     if (params.get('notrack') === '1') return
 
-    // Create or reuse session ID for this slug within the current tab
+    // 1. Persistent Visitor ID (stored across visits in localStorage)
+    const visitorKey = `septic_vid_${slug}`
+    const visitCountKey = `septic_vcount_${slug}`
+    let vid = ''
+    let vcount = 1
+    try {
+      vid = localStorage.getItem(visitorKey) || ''
+      if (!vid) {
+        vid = `v_${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 7)}`
+        localStorage.setItem(visitorKey, vid)
+      }
+      const rawCount = localStorage.getItem(visitCountKey)
+      vcount = rawCount ? parseInt(rawCount, 10) : 0
+    } catch {
+      vid = `v_${Math.random().toString(36).slice(2, 7)}`
+    }
+    visitorIdRef.current = vid
+
+    // 2. Tab Session ID (sessionStorage)
     const storageKey = `septic_radar_sid_${slug}`
     let sid = ''
     try {
@@ -83,11 +105,17 @@ export function SepticVisitorRadar({
       if (!sid) {
         sid = `${slug}_${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 7)}`
         sessionStorage.setItem(storageKey, sid)
+        vcount += 1
+        try {
+          localStorage.setItem(visitCountKey, String(vcount))
+        } catch {}
       }
     } catch {
       sid = `${slug}_${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 7)}`
+      vcount += 1
     }
     sessionIdRef.current = sid
+    visitIndexRef.current = Math.max(1, vcount)
 
     const computeScrollPct = () => {
       const docHeight = Math.max(
@@ -103,7 +131,7 @@ export function SepticVisitorRadar({
     }
 
     computeScrollPct()
-    sendBeaconPayload('page_view', 'Открыл витрину')
+    sendBeaconPayload('page_view', `Открыл витрину (Визит #${visitIndexRef.current})`)
 
     const handleScroll = () => {
       computeScrollPct()

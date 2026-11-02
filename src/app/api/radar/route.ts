@@ -11,6 +11,8 @@ export interface RadarEventItem {
 
 export interface VisitorSession {
   sessionId: string
+  visitorId?: string
+  visitIndex?: number
   slug: string
   companyName: string
   ownerName: string
@@ -34,6 +36,42 @@ export interface VisitorSession {
   ctaClicks: number
   calculatorClicks: number
   events: RadarEventItem[]
+}
+
+export interface SingleVisitRecord {
+  sessionId: string
+  visitNumber: number
+  firstSeenAt: string
+  lastSeenAt: string
+  durationSec: number
+  maxScrollPct: number
+  device: string
+  screen: string
+  photoClicks: number
+  ctaClicks: number
+  calculatorClicks: number
+  events: RadarEventItem[]
+}
+
+export interface ContractorCard {
+  slug: string
+  companyName: string
+  ownerName: string
+  city: string
+  state: string
+  phone: string
+  isOwnerTest: boolean
+  isUsVisitor: boolean
+  totalVisits: number
+  totalDurationSec: number
+  maxScrollPct: number
+  firstSeenAt: string
+  lastSeenAt: string
+  leadScore: 'HOT' | 'WARM' | 'PEEK'
+  leadScoreLabel: string
+  insight: string
+  devices: string[]
+  visits: SingleVisitRecord[]
 }
 
 interface RadarStore {
@@ -165,6 +203,8 @@ export async function POST(req: NextRequest) {
 
     const {
       sessionId,
+      visitorId = '',
+      visitIndex = 1,
       slug,
       eventType = 'heartbeat',
       eventLabel = '',
@@ -210,6 +250,8 @@ export async function POST(req: NextRequest) {
     if (!existing) {
       store.sessions[sessionId] = {
         sessionId,
+        visitorId,
+        visitIndex,
         slug,
         companyName: lead?.name || slug,
         ownerName: lead?.ownerName || 'Owner',
@@ -253,14 +295,17 @@ export async function POST(req: NextRequest) {
         existing.calculatorClicks,
         Number(calculatorClicks) || 0
       )
+      if (visitorId && !existing.visitorId) existing.visitorId = visitorId
+      if (visitIndex && !existing.visitIndex) existing.visitIndex = visitIndex
+
       if (eventType && eventType !== 'heartbeat') {
         existing.events.push({
           type: eventType,
           label: eventLabel,
           at: nowIso
         })
-        if (existing.events.length > 30) {
-          existing.events = existing.events.slice(-30)
+        if (existing.events.length > 40) {
+          existing.events = existing.events.slice(-40)
         }
       }
     }
@@ -287,9 +332,103 @@ export async function GET(req: NextRequest) {
     ? allSessions
     : allSessions.filter((s) => !s.isOwnerTest)
 
-  const uniqueSlugs = new Set(filteredSessions.map((s) => s.slug))
+  // Aggregate by Contractor Slug
+  const contractorsMap = new Map<string, VisitorSession[]>()
+  for (const s of filteredSessions) {
+    if (!contractorsMap.has(s.slug)) {
+      contractorsMap.set(s.slug, [])
+    }
+    contractorsMap.get(s.slug)!.push(s)
+  }
+
+  const contractors: ContractorCard[] = []
+
+  for (const [slug, sessList] of contractorsMap.entries()) {
+    // Sort visits chronologically (oldest first)
+    sessList.sort((a, b) => new Date(a.firstSeenAt).getTime() - new Date(b.firstSeenAt).getTime())
+    
+    const lead = getLeadBySlug(slug)
+    const companyName = lead?.name || sessList[0].companyName || slug
+    const ownerName = lead?.ownerName || sessList[0].ownerName || 'Owner'
+    const city = lead?.city || sessList[0].city || ''
+    const state = lead?.state || sessList[0].state || ''
+    const phone = lead?.phone || sessList[0].phone || ''
+    const isOwnerTest = sessList.some((s) => s.isOwnerTest)
+    const isUsVisitor = sessList.some((s) => s.isUsVisitor)
+
+    const totalVisits = sessList.length
+    const totalDurationSec = sessList.reduce((acc, s) => acc + (s.durationSec || 0), 0)
+    const maxScrollPct = Math.max(...sessList.map((s) => s.maxScrollPct || 0))
+    const firstSeenAt = sessList[0].firstSeenAt
+    const lastSeenAt = sessList[sessList.length - 1].lastSeenAt
+    const devices = Array.from(new Set(sessList.map((s) => s.device)))
+
+    // Compute Lead Score & Insight
+    let leadScore: ContractorCard['leadScore'] = 'PEEK'
+    let leadScoreLabel = '👀 Ознакомительный'
+    let insight = 'Только открыл ссылку на несколько секунд. Пока присматривается.'
+
+    if (totalVisits >= 2 || totalDurationSec >= 90 || maxScrollPct >= 80) {
+      leadScore = 'HOT'
+      leadScoreLabel = '🔥 Очень высокий'
+      if (totalVisits >= 2) {
+        insight = `Заходил ${totalVisits} раза! Общее время изучения: ${Math.round(totalDurationSec / 60)} мин. Внимательно проверяет сайт. Идеальный момент для оффера $2,500!`
+      } else {
+        insight = `Провел ${Math.round(totalDurationSec / 60)} мин и доскроллил до ${maxScrollPct}%. Изучил всю технику и отзывы!`
+      }
+    } else if (totalDurationSec >= 25 || maxScrollPct >= 50) {
+      leadScore = 'WARM'
+      leadScoreLabel = '⚡️ Теплый интерес'
+      insight = `Внимательно просмотрел витрину (${totalDurationSec} сек, скролл ${maxScrollPct}%). Готов к уточняющему вопросу.`
+    }
+
+    const visits: SingleVisitRecord[] = sessList.map((s, idx) => ({
+      sessionId: s.sessionId,
+      visitNumber: idx + 1,
+      firstSeenAt: s.firstSeenAt,
+      lastSeenAt: s.lastSeenAt,
+      durationSec: s.durationSec,
+      maxScrollPct: s.maxScrollPct,
+      device: s.device,
+      screen: s.screen,
+      photoClicks: s.photoClicks,
+      ctaClicks: s.ctaClicks,
+      calculatorClicks: s.calculatorClicks,
+      events: s.events || []
+    })).reverse() // show newest visit first in dropdown
+
+    contractors.push({
+      slug,
+      companyName,
+      ownerName,
+      city,
+      state,
+      phone,
+      isOwnerTest,
+      isUsVisitor,
+      totalVisits,
+      totalDurationSec,
+      maxScrollPct,
+      firstSeenAt,
+      lastSeenAt,
+      leadScore,
+      leadScoreLabel,
+      insight,
+      devices,
+      visits
+    })
+  }
+
+  // Sort contractors: hottest and most recent first
+  contractors.sort((a, b) => {
+    const scoreWeight = { HOT: 3, WARM: 2, PEEK: 1 }
+    const diffScore = scoreWeight[b.leadScore] - scoreWeight[a.leadScore]
+    if (diffScore !== 0) return diffScore
+    return new Date(b.lastSeenAt).getTime() - new Date(a.lastSeenAt).getTime()
+  })
+
   const totalSessions = filteredSessions.length
-  const totalContractors = uniqueSlugs.size
+  const totalContractors = contractors.length
   const avgDurationSec =
     totalSessions > 0
       ? Math.round(
@@ -317,6 +456,7 @@ export async function GET(req: NextRequest) {
       mobileSessions,
       totalAllIncludingTests: allSessions.length
     },
+    contractors,
     sessions: filteredSessions
   })
 }
