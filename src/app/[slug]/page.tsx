@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? (lead.heroImage.startsWith('http')
         ? lead.heroImage
         : `https://septic.up.railway.app${lead.heroImage}`)
-    : 'https://septic.up.railway.app/favicon.ico'
+    : `https://septic.up.railway.app/${slug}/opengraph-image`
 
   const title = `${lead.name} • 5★ Septic & Excavation Showcase`
   const description = `Verified ${lead.rating}★ contractor (${lead.reviewCount} Google reviews) in ${lead.city || lead.state}. Professional fleet, emergency pumping, line camera inspections & drain field restoration.`
