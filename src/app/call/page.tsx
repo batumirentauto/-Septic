@@ -21,6 +21,7 @@ type CallStatus = 'AGREED' | 'CALLBACK' | 'NO_ANSWER' | 'DECLINED' | 'WRONG_NUMB
 export default function CallDispatcherPage() {
   const leads: CallLead[] = rawCallLeads as CallLead[]
 
+  const [lang, setLang] = useState<'EN' | 'RU'>('EN')
   const [currentIndex, setCurrentIndex] = useState(0)
   const [selectedStatus, setSelectedStatus] = useState<CallStatus | null>(null)
   const [note, setNote] = useState('')
@@ -66,8 +67,8 @@ export default function CallDispatcherPage() {
     return (
       <div className="min-h-screen bg-slate-950 text-white flex items-center justify-center p-6 text-center">
         <div>
-          <h1 className="text-2xl font-bold mb-2">🎉 Все контакты обработаны!</h1>
-          <p className="text-slate-400">Все 80 подрядчиков обзвонены.</p>
+          <h1 className="text-2xl font-bold mb-2">🎉 {lang === 'EN' ? 'All Leads Completed!' : 'Все контакты обработаны!'}</h1>
+          <p className="text-slate-400">{lang === 'EN' ? 'All 80 contractor leads have been contacted.' : 'Все 80 подрядчиков обзвонены.'}</p>
         </div>
       </div>
     )
@@ -84,13 +85,19 @@ export default function CallDispatcherPage() {
 
   const showcaseUrl = `https://zonus.co/${currentLead.slug}`
 
-  // Hook speech helper in Russian/English
+  // Hook speech lines
+  const hookSpeechEn = currentLead.hookAuthor
+    ? `“Hi ${currentLead.owner || 'there'}! Saw your great work in ${currentLead.city} and that review from ${currentLead.hookAuthor} — solid work!”`
+    : `“Hi ${currentLead.owner || 'there'}! Saw your 5-star reviews in ${currentLead.city} — awesome reputation!”`
+
   const hookSpeechRu = currentLead.hookAuthor
     ? `«Привет, ${currentLead.owner || 'мужики'}! Увидел вашу работу в г. ${currentLead.city} и отзыв от ${currentLead.hookAuthor} — отличная работа!»`
     : `«Привет, ${currentLead.owner || 'мужики'}! Увидел ваши 5-звездочные отзывы в г. ${currentLead.city} — мощная репутация!»`
 
+  const hookSpeech = lang === 'EN' ? hookSpeechEn : hookSpeechRu
+
   const handleCopyHook = () => {
-    navigator.clipboard.writeText(hookSpeechRu)
+    navigator.clipboard.writeText(hookSpeech)
     setCopiedHook(true)
     setTimeout(() => setCopiedHook(false), 2000)
   }
@@ -98,7 +105,7 @@ export default function CallDispatcherPage() {
   const handleSaveAndNext = async (statusOverride?: CallStatus) => {
     const finalStatus = statusOverride || selectedStatus
     if (!finalStatus) {
-      alert('Выберите результат звонка (Согласился, Не ответил, Отказ и т.д.)')
+      alert(lang === 'EN' ? 'Please select a call result (Agreed, No Answer, Declined, etc.)' : 'Выберите результат звонка')
       return
     }
 
@@ -130,7 +137,7 @@ export default function CallDispatcherPage() {
       }
     } catch (err) {
       console.error('Error saving call:', err)
-      alert('Ошибка при сохранении статуса звонка')
+      alert(lang === 'EN' ? 'Error saving call status' : 'Ошибка при сохранении статуса звонка')
     } finally {
       setIsSaving(false)
     }
@@ -147,23 +154,43 @@ export default function CallDispatcherPage() {
               Call Dispatcher CRM
             </div>
             <div className="text-sm font-bold text-white">
-              Контакт #{currentIndex + 1} <span className="text-slate-400 font-normal">из {leads.length}</span>
+              {lang === 'EN' ? `Lead #${currentIndex + 1}` : `Контакт #${currentIndex + 1}`}{' '}
+              <span className="text-slate-400 font-normal">{lang === 'EN' ? `of ${leads.length}` : `из ${leads.length}`}</span>
             </div>
           </div>
 
-          <div className="flex items-center gap-1 text-[11px]">
-            <span className="bg-emerald-950 border border-emerald-800/80 text-emerald-300 px-2 py-0.5 rounded font-mono">
-              🟢 {stats.agreed}
-            </span>
-            <span className="bg-amber-950 border border-amber-800/80 text-amber-300 px-2 py-0.5 rounded font-mono">
-              🟡 {stats.callback}
-            </span>
-            <span className="bg-slate-800 border border-slate-700 text-slate-300 px-2 py-0.5 rounded font-mono">
-              ⚪ {stats.noAnswer}
-            </span>
-            <span className="bg-rose-950 border border-rose-800/80 text-rose-300 px-2 py-0.5 rounded font-mono">
-              🔴 {stats.declined}
-            </span>
+          <div className="flex items-center gap-2">
+            {/* Language toggle */}
+            <div className="flex bg-slate-800 rounded-lg p-0.5 border border-slate-700 text-[11px] font-bold">
+              <button
+                onClick={() => setLang('EN')}
+                className={`px-2 py-0.5 rounded-md transition ${lang === 'EN' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-white'}`}
+              >
+                EN
+              </button>
+              <button
+                onClick={() => setLang('RU')}
+                className={`px-2 py-0.5 rounded-md transition ${lang === 'RU' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-white'}`}
+              >
+                RU
+              </button>
+            </div>
+
+            {/* Quick stats counter */}
+            <div className="flex items-center gap-1 text-[11px]">
+              <span className="bg-emerald-950 border border-emerald-800/80 text-emerald-300 px-1.5 py-0.5 rounded font-mono" title="Agreed">
+                🟢 {stats.agreed}
+              </span>
+              <span className="bg-amber-950 border border-amber-800/80 text-amber-300 px-1.5 py-0.5 rounded font-mono" title="Callback">
+                🟡 {stats.callback}
+              </span>
+              <span className="bg-slate-800 border border-slate-700 text-slate-300 px-1.5 py-0.5 rounded font-mono" title="No Answer">
+                ⚪ {stats.noAnswer}
+              </span>
+              <span className="bg-rose-950 border border-rose-800/80 text-rose-300 px-1.5 py-0.5 rounded font-mono" title="Declined">
+                🔴 {stats.declined}
+              </span>
+            </div>
           </div>
         </div>
 
@@ -177,7 +204,7 @@ export default function CallDispatcherPage() {
       </header>
 
       {/* Main Call Card */}
-      <main className="max-w-md w-full mx-auto p-4 flex-1 flex flex-col gap-4">
+      <main className="max-w-md w-full mx-auto p-4 flex-1 flex flex-col gap-3.5">
         {/* Company Card */}
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl">
           <div className="flex items-start justify-between gap-3">
@@ -199,65 +226,75 @@ export default function CallDispatcherPage() {
           </div>
 
           <div className="mt-3 pt-3 border-t border-slate-800 flex items-center justify-between text-xs text-slate-400">
-            <span className="font-mono text-slate-300">{cleanPhone}</span>
+            <span className="font-mono text-slate-300 font-bold">{cleanPhone}</span>
             <a
               href={showcaseUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="text-emerald-400 hover:text-emerald-300 underline font-medium flex items-center gap-1"
             >
-              👁 Открыть витрину ↗
+              👁 {lang === 'EN' ? 'Preview Live Site ↗' : 'Открыть витрину ↗'}
             </a>
           </div>
         </div>
 
-        {/* Cheat Sheet / Hook Box */}
+        {/* Cheat Sheet / Opening Hook Box */}
         <div className="bg-emerald-950/40 border border-emerald-800/60 rounded-2xl p-4 relative overflow-hidden">
           <div className="text-[11px] font-bold uppercase tracking-wider text-emerald-400 flex items-center justify-between">
-            <span>🔥 Факт для зацепки (Первые 5 сек)</span>
+            <span>🔥 {lang === 'EN' ? '5-Sec Icebreaker / Hook' : 'Факт для зацепки (Первые 5 сек)'}</span>
             <button
               onClick={handleCopyHook}
               className="text-[10px] bg-emerald-900/80 hover:bg-emerald-800 text-emerald-200 px-2 py-0.5 rounded transition"
             >
-              {copiedHook ? '✓ Скопировано' : 'Копировать'}
+              {copiedHook ? (lang === 'EN' ? '✓ Copied' : '✓ Скопировано') : (lang === 'EN' ? 'Copy' : 'Копировать')}
             </button>
           </div>
 
-          <div className="mt-2 text-sm text-slate-200 leading-snug">
-            {hookSpeechRu}
+          <div className="mt-2 text-sm text-slate-200 font-medium leading-snug">
+            {hookSpeech}
           </div>
 
           {currentLead.hookText && (
             <div className="mt-2 pt-2 border-t border-emerald-900/50 text-[11px] text-emerald-300/80 italic">
-              «{currentLead.hookText}»
+              “{currentLead.hookText}”
               {currentLead.hookAuthor && <span className="font-semibold not-italic text-emerald-400"> — {currentLead.hookAuthor}</span>}
             </div>
           )}
+        </div>
+
+        {/* Pricing Cheat Sheet Pill */}
+        <div className="bg-slate-900/90 border border-slate-800 rounded-xl px-3 py-2 flex items-center justify-between text-[11px]">
+          <span className="text-slate-400">{lang === 'EN' ? 'Pricing Options:' : 'Варианты оплаты:'}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-emerald-400 font-bold">$2,500 {lang === 'EN' ? 'flat' : 'разово'}</span>
+            <span className="text-slate-600">or</span>
+            <span className="text-sky-400 font-bold">$249/mo {lang === 'EN' ? '(12 mos)' : '(на 1 год)'}</span>
+          </div>
         </div>
 
         {/* Primary Call & SMS Action Buttons */}
         <div className="grid grid-cols-2 gap-3">
           <a
             href={telHref}
-            className="flex flex-col items-center justify-center gap-1 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-slate-950 font-black text-base py-3.5 px-4 rounded-xl shadow-lg shadow-emerald-950/50 active:scale-95 transition"
+            className="flex flex-col items-center justify-center gap-1 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-slate-950 font-black text-base py-3 px-4 rounded-xl shadow-lg shadow-emerald-950/50 active:scale-95 transition"
           >
             <span className="text-xl">📞</span>
-            <span>Позвонить</span>
+            <span>{lang === 'EN' ? 'Call Now' : 'Позвонить'}</span>
           </a>
 
           <a
             href={smsHref}
-            className="flex flex-col items-center justify-center gap-1 bg-gradient-to-r from-sky-600 to-sky-500 hover:from-sky-500 hover:to-sky-400 text-slate-950 font-black text-base py-3.5 px-4 rounded-xl shadow-lg shadow-sky-950/50 active:scale-95 transition"
+            className="flex flex-col items-center justify-center gap-1 bg-gradient-to-r from-sky-600 to-sky-500 hover:from-sky-500 hover:to-sky-400 text-slate-950 font-black text-base py-3 px-4 rounded-xl shadow-lg shadow-sky-950/50 active:scale-95 transition"
           >
             <span className="text-xl">💬</span>
-            <span>Скинуть SMS</span>
+            <span>{lang === 'EN' ? 'Send Link SMS' : 'Скинуть SMS'}</span>
           </a>
         </div>
 
         {/* Call Result Selection (Single Tap) */}
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4">
           <div className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2.5">
-            Результат звонка:
+            {lang === 'EN' ? 'Call Outcome:' : 'Результат звонка:'}
           </div>
 
           <div className="grid grid-cols-2 gap-2">
@@ -271,25 +308,23 @@ export default function CallDispatcherPage() {
             >
               <span>🟢</span>
               <div>
-                <div>Согласился</div>
-                <div className="text-[10px] opacity-75 font-normal">Ссылка отправлена</div>
+                <div>{lang === 'EN' ? 'Agreed' : 'Согласился'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Link Sent / Looking' : 'Ссылка отправлена'}</div>
               </div>
             </button>
 
             <button
               onClick={() => setSelectedStatus('CALLBACK')}
               className={`p-2.5 rounded-xl text-left border text-xs font-bold transition flex items-center gap-2 ${
-                selectedStatus === 'AGREED'
-                  ? 'bg-slate-950/60 border-slate-800 text-slate-300'
-                  : selectedStatus === 'CALLBACK'
+                selectedStatus === 'CALLBACK'
                   ? 'bg-amber-600 border-amber-400 text-white shadow-md'
                   : 'bg-slate-950/60 border-slate-800 text-slate-300 hover:border-slate-700'
               }`}
             >
               <span>🟡</span>
               <div>
-                <div>Перезвонить</div>
-                <div className="text-[10px] opacity-75 font-normal">Занят / позже</div>
+                <div>{lang === 'EN' ? 'Callback' : 'Перезвонить'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Busy / In Field' : 'Занят / позже'}</div>
               </div>
             </button>
 
@@ -303,8 +338,8 @@ export default function CallDispatcherPage() {
             >
               <span>⚪</span>
               <div>
-                <div>Не ответил</div>
-                <div className="text-[10px] opacity-75 font-normal">Гудки / автоответ</div>
+                <div>{lang === 'EN' ? 'No Answer' : 'Не ответил'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Ringing / Voicemail' : 'Гудки / автоответ'}</div>
               </div>
             </button>
 
@@ -318,8 +353,8 @@ export default function CallDispatcherPage() {
             >
               <span>🔴</span>
               <div>
-                <div>Отказ</div>
-                <div className="text-[10px] opacity-75 font-normal">Не нужно / нет</div>
+                <div>{lang === 'EN' ? 'Declined' : 'Отказ'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Not Interested' : 'Не нужно / нет'}</div>
               </div>
             </button>
           </div>
@@ -333,7 +368,7 @@ export default function CallDispatcherPage() {
                   : 'bg-slate-950/40 border-slate-800/80 text-slate-500 hover:text-slate-400'
               }`}
             >
-              🚫 Неверный номер / не в бизнесе
+              🚫 {lang === 'EN' ? 'Wrong Number / Disconnected' : 'Неверный номер / не в бизнесе'}
             </button>
           </div>
 
@@ -343,7 +378,7 @@ export default function CallDispatcherPage() {
               type="text"
               value={note}
               onChange={(e) => setNote(e.target.value)}
-              placeholder="Короткая заметка (напр. 'перезвонить в 17:00')..."
+              placeholder={lang === 'EN' ? "Quick note (e.g. 'Call back at 5 PM', 'Wife handles tech')..." : "Короткая заметка (напр. 'перезвонить в 17:00')..."}
               className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-600 focus:outline-none focus:border-emerald-500"
             />
           </div>
@@ -359,7 +394,7 @@ export default function CallDispatcherPage() {
               : 'bg-slate-800 text-slate-500 cursor-not-allowed'
           }`}
         >
-          {isSaving ? 'Сохранение...' : '💾 Сохранить и следующий контакт ➔'}
+          {isSaving ? (lang === 'EN' ? 'Saving...' : 'Сохранение...') : (lang === 'EN' ? '💾 Save & Next Lead ➔' : '💾 Сохранить и следующий контакт ➔')}
         </button>
 
         {/* Manual prev/next navigation footer */}
@@ -369,7 +404,7 @@ export default function CallDispatcherPage() {
             disabled={currentIndex === 0}
             className="hover:text-slate-300 disabled:opacity-30 p-2"
           >
-            ← Предыдущий
+            ← {lang === 'EN' ? 'Previous' : 'Предыдущий'}
           </button>
           <span>{currentIndex + 1} / {leads.length}</span>
           <button
@@ -377,7 +412,7 @@ export default function CallDispatcherPage() {
             disabled={currentIndex === leads.length - 1}
             className="hover:text-slate-300 disabled:opacity-30 p-2"
           >
-            Пропустить →
+            {lang === 'EN' ? 'Skip →' : 'Пропустить →'}
           </button>
         </div>
       </main>
