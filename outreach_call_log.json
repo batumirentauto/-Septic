@@ -1,0 +1,12 @@
+{
+  "calls": {},
+  "stats": {
+    "total": 0,
+    "agreed": 0,
+    "callback": 0,
+    "noAnswer": 0,
+    "declined": 0,
+    "wrongNumber": 0
+  },
+  "lastUpdated": null
+}
