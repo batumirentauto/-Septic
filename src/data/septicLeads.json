@@ -358,7 +358,7 @@
         "badgeRu": "Собственный автопарк",
         "desc": "Dedicated field machinery operated directly by First Call Septic crews in Longwood, FL. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
         "descRu": "Собственная техника бригады First Call Septic в г. Longwood, FL. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": null
+        "image": "/showcase/first-call-septic/photo_002_opt.jpg"
       },
       {
         "title": "Laser-Graded Drain Field & Lateral Line Equipment",
@@ -367,7 +367,7 @@
         "badgeRu": "Точный уклон по СНиП",
         "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
         "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
-        "image": null
+        "image": "/showcase/first-call-septic/photo_003_opt.jpg"
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
@@ -376,10 +376,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every project in Longwood includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
         "descRu": "Каждый выезд в г. Longwood завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": null
+        "image": "/showcase/first-call-septic/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "heroImage": "/showcase/first-call-septic/photo_001_opt.jpg"
   },
   {
     "slug": "ark-septic-plumbing",
