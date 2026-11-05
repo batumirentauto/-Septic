@@ -83,7 +83,7 @@ export default async function DecalPage({ params }: Props) {
           <div className="absolute inset-0 bg-radial from-emerald-500/10 to-transparent pointer-events-none" />
           
           <img
-            src={decalPng}
+            src={decalSvg}
             alt={`${lead.name} Truck Decal`}
             className="w-full h-full object-contain rounded-2xl shadow-lg border border-slate-800/80"
           />
