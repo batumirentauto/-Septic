@@ -14,6 +14,8 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
   const [serviceType, setServiceType] = useState<string>('pumping')
   const [customerPhone, setCustomerPhone] = useState<string>('')
   const [submitted, setSubmitted] = useState<boolean>(false)
+  const [addRiser, setAddRiser] = useState<boolean>(false)
+  const [addInspection, setAddInspection] = useState<boolean>(false)
 
   // Price Calculation Logic
   const estimate = useMemo(() => {
@@ -53,8 +55,21 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
       baseMax = 620
     }
 
-    return { min: baseMin, max: baseMax }
-  }, [tankSize, serviceType])
+    let min = baseMin
+    let max = baseMax
+
+    // High-margin upsell add-ons
+    if (addRiser) {
+      min += 750
+      max += 950
+    }
+    if (addInspection) {
+      min += 450
+      max += 650
+    }
+
+    return { min, max }
+  }, [tankSize, serviceType, addRiser, addInspection])
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
@@ -168,6 +183,64 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
               </div>
             </div>
 
+            {/* 3. Optional High-Value Add-Ons */}
+            <div className="space-y-3 pt-3 border-t border-slate-800">
+              <div className="flex items-center justify-between">
+                <label className="block text-sm font-bold text-white">
+                  3. {isRu ? 'Дополнительные опции (Рекомендуется)' : 'Optional High-Value Add-Ons'}
+                </label>
+                <span className="text-[11px] font-semibold text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded-full border border-emerald-500/30">
+                  {isRu ? 'Выгода при заказе в комплексе' : 'Bundle & Save'}
+                </span>
+              </div>
+
+              <div className="space-y-2">
+                {/* Riser Retrofit Checkbox */}
+                <label className={`flex items-start gap-3 p-3 rounded-xl border cursor-pointer transition ${
+                  addRiser ? 'bg-emerald-500/10 border-emerald-500/50 text-white' : 'bg-slate-950/70 border-slate-800 text-slate-300 hover:border-slate-700'
+                }`}>
+                  <input
+                    type="checkbox"
+                    checked={addRiser}
+                    onChange={(e) => setAddRiser(e.target.checked)}
+                    className="mt-1 h-4 w-4 rounded text-emerald-500 focus:ring-emerald-500 border-slate-700 bg-slate-900"
+                  />
+                  <div className="flex-1">
+                    <div className="flex items-center justify-between text-sm font-semibold">
+                      <span>{isRu ? 'Монтаж ревизионного люка в уровень с газоном' : 'Add Lawn-Flush Access Riser Retrofit'}</span>
+                      <span className="text-emerald-400 font-bold text-xs">+$750</span>
+                    </div>
+                    <p className="text-xs text-slate-400 mt-0.5">
+                      {isRu ? 'Герметичная зеленая крышка Polylok. Навсегда избавляет от раскопок газона при каждой откачке.' : 'Heavy-duty airtight Polylok riser flush with your grass. Permanently eliminates costly digging fees forever.'}
+                    </p>
+                  </div>
+                </label>
+
+                {/* Florida-Specific Real Estate Inspection Checkbox */}
+                {lead.state === 'FL' && (
+                  <label className={`flex items-start gap-3 p-3 rounded-xl border cursor-pointer transition ${
+                    addInspection ? 'bg-emerald-500/10 border-emerald-500/50 text-white' : 'bg-slate-950/70 border-slate-800 text-slate-300 hover:border-slate-700'
+                  }`}>
+                    <input
+                      type="checkbox"
+                      checked={addInspection}
+                      onChange={(e) => setAddInspection(e.target.checked)}
+                      className="mt-1 h-4 w-4 rounded text-emerald-500 focus:ring-emerald-500 border-slate-700 bg-slate-900"
+                    />
+                    <div className="flex-1">
+                      <div className="flex items-center justify-between text-sm font-semibold">
+                        <span>{isRu ? 'Официальная инспекция для сделок с недвижимостью' : 'Official Real Estate / Point-of-Sale Inspection'}</span>
+                        <span className="text-emerald-400 font-bold text-xs">+$450</span>
+                      </div>
+                      <p className="text-xs text-slate-400 mt-0.5">
+                        {isRu ? 'Сертифицированный отчет видеоинспекции для банков и регистрации сделок во Флориде (FHA/VA).' : 'Certified multi-point video inspection report required for Florida real estate closings & FHA/VA mortgage loans.'}
+                      </p>
+                    </div>
+                  </label>
+                )}
+              </div>
+            </div>
+
           </div>
 
           {/* Result Card Box */}
@@ -191,6 +264,21 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
                   ? `Включает выезд, вакуумную откачку и полигонный сбор.`
                   : `Includes travel, certified pumping, and municipal dump fees.`}
               </p>
+
+              {(addRiser || addInspection) && (
+                <div className="flex flex-wrap gap-1.5 justify-center pt-2">
+                  {addRiser && (
+                    <span className="text-[10px] bg-emerald-500/15 border border-emerald-500/30 text-emerald-300 px-2 py-0.5 rounded-full font-semibold">
+                      ✓ {isRu ? 'Включает люк Riser (+$750)' : 'Includes Lawn-Flush Riser (+$750)'}
+                    </span>
+                  )}
+                  {addInspection && (
+                    <span className="text-[10px] bg-sky-500/15 border border-sky-500/30 text-sky-300 px-2 py-0.5 rounded-full font-semibold">
+                      ✓ {isRu ? 'Включает инспекцию FHA/VA (+$450)' : 'Includes Real Estate Cert (+$450)'}
+                    </span>
+                  )}
+                </div>
+              )}
             </div>
 
             {/* Guarantee bullet points */}
