@@ -14,7 +14,16 @@ interface SepticGalleryProps {
 export function SepticGallery({ lead, isRu = false, onOpenPhoto }: SepticGalleryProps) {
   const gallery = lead.galleryPhotos && lead.galleryPhotos.length > 0 ? lead.galleryPhotos : []
 
-  if (gallery.length === 0) return null
+  // A gallery requires at least 2 photos to look balanced and complete; a lonely 1-card block looks like a bug.
+  if (gallery.length < 2) return null
+
+  // Dynamic responsive grid based on actual photo count to prevent empty voids
+  const gridClasses =
+    gallery.length === 2
+      ? 'grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-4xl mx-auto'
+      : gallery.length === 3
+      ? 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto'
+      : 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6'
 
   return (
     <section id="gallery" className="py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
@@ -45,7 +54,7 @@ export function SepticGallery({ lead, isRu = false, onOpenPhoto }: SepticGallery
         </div>
 
         {/* Gallery Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className={gridClasses}>
           {gallery.map((item, idx) => (
             <div
               key={idx}

@@ -316,21 +316,24 @@ async function auditAndAlignLead(lead) {
   // ---------------------------------------------------------
   // STEP 3: GALLERY PHOTOS (Index 3 and beyond from pool)
   // ---------------------------------------------------------
+  // A gallery requires at least 2 photos; a lonely single-card gallery looks broken and empty.
   const galleryPool = pool.slice(3, 7); // up to 4 remaining unique photos
   const galleryItems = [];
 
-  for (let gIdx = 0; gIdx < galleryPool.length; gIdx++) {
-    const photo = galleryPool[gIdx];
-    const meta = getCardMetadataForCategory(photo.category, companyName, city, state);
-    galleryItems.push({
-      title: meta.title,
-      titleRu: meta.titleRu,
-      tag: meta.badge,
-      tagRu: meta.badgeRu,
-      desc: meta.desc,
-      descRu: meta.descRu,
-      image: photo.webUrl
-    });
+  if (galleryPool.length >= 2) {
+    for (let gIdx = 0; gIdx < galleryPool.length; gIdx++) {
+      const photo = galleryPool[gIdx];
+      const meta = getCardMetadataForCategory(photo.category, companyName, city, state);
+      galleryItems.push({
+        title: meta.title,
+        titleRu: meta.titleRu,
+        tag: meta.badge,
+        tagRu: meta.badgeRu,
+        desc: meta.desc,
+        descRu: meta.descRu,
+        image: photo.webUrl
+      });
+    }
   }
 
   lead.galleryPhotos = galleryItems;
