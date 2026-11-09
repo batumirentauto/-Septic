@@ -271,44 +271,44 @@ async function auditAndAlignLead(lead) {
   const pool = classifiedPhotos.filter(p => !heroPhoto || p.hash !== heroPhoto.hash);
 
   // ---------------------------------------------------------
-  // STEP 2: EQUIPMENT CARDS (3 Cards)
+  // STEP 2: EQUIPMENT CARDS (3 Cards) - STRICT ROLE SEPARATION
   // ---------------------------------------------------------
-  // We align each equipment card directly with the photo placed in it!
+  // Card 1: ALWAYS Fleet & Dispatch
+  // Card 2: ALWAYS Core Process / Pumping / Trenching / Camera
+  // Card 3: ALWAYS Site Preservation / Risers / Sanitation
+  // NO TWO CARDS CAN EVER HAVE THE SAME TITLE!
   const equipmentCards = [];
+  const usedTitles = new Set();
 
   for (let cardIdx = 0; cardIdx < 3; cardIdx++) {
     const photo = pool[cardIdx] || null;
 
-    if (photo) {
-      // Photo exists: Generate matching text from real visual category!
-      const meta = getCardMetadataForCategory(photo.category, companyName, city, state);
-      equipmentCards.push({
-        title: meta.title,
-        titleRu: meta.titleRu,
-        badge: meta.badge,
-        badgeRu: meta.badgeRu,
-        desc: meta.desc,
-        descRu: meta.descRu,
-        image: photo.webUrl
-      });
-      console.log(`  Card ${cardIdx + 1} aligned to photo: ${meta.title} (${photo.category})`);
-    } else {
-      // Photo does not exist: Provide clean text specifications without image!
-      const fallbackMeta = cardIdx === 0
-        ? getCardMetadataForCategory('VACUUM_TRUCK', companyName, city, state)
-        : (cardIdx === 1 ? getCardMetadataForCategory('CAMERA_DIAGNOSTICS', companyName, city, state) : getCardMetadataForCategory('YARD_RESTORATION', companyName, city, state));
+    let defaultCat = cardIdx === 0 ? 'VACUUM_TRUCK' : (cardIdx === 1 ? 'CAMERA_DIAGNOSTICS' : 'YARD_RESTORATION');
+    let chosenCat = (photo && photo.category !== 'UNKNOWN') ? photo.category : defaultCat;
 
-      equipmentCards.push({
-        title: fallbackMeta.title,
-        titleRu: fallbackMeta.titleRu,
-        badge: fallbackMeta.badge,
-        badgeRu: fallbackMeta.badgeRu,
-        desc: fallbackMeta.desc,
-        descRu: fallbackMeta.descRu,
-        image: null
-      });
-      console.log(`  Card ${cardIdx + 1}: Clean text specification (image: null)`);
+    let meta = getCardMetadataForCategory(chosenCat, companyName, city, state);
+
+    // If title already used by previous card on this page, force slot-specific distinction!
+    if (usedTitles.has(meta.title)) {
+      if (cardIdx === 1) {
+        meta = getCardMetadataForCategory('CAMERA_DIAGNOSTICS', companyName, city, state);
+      } else {
+        meta = getCardMetadataForCategory('YARD_RESTORATION', companyName, city, state);
+      }
     }
+    usedTitles.add(meta.title);
+
+    equipmentCards.push({
+      title: meta.title,
+      titleRu: meta.titleRu,
+      badge: meta.badge,
+      badgeRu: meta.badgeRu,
+      desc: meta.desc,
+      descRu: meta.descRu,
+      image: photo ? photo.webUrl : null
+    });
+
+    console.log(`  Card ${cardIdx + 1} (${chosenCat}): ${meta.title} | Image: ${photo ? photo.webUrl : 'null'}`);
   }
 
   lead.equipmentPhotos = equipmentCards;
