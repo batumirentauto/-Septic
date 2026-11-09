@@ -1651,7 +1651,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Extra Care Plumbing, LLC in Birmingham, AL.",
         "descRu": "Оснащенный сервисный автомобиль бригады Extra Care Plumbing, LLC со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Birmingham, AL.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -1660,7 +1660,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -1669,48 +1669,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Birmingham includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Birmingham включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_004_opt.jpg"
+        "image": null
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Birmingham includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Birmingham завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Birmingham includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Birmingham завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Birmingham includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Birmingham завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Birmingham includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Birmingham завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/extra-care-plumbing-llc/photo_008_opt.jpg"
-      }
-    ],
-    "heroImage": "/showcase/extra-care-plumbing-llc/photo_001_opt.jpg",
+    "galleryPhotos": [],
+    "heroImage": null,
     "palette": "indigo"
   },
   {
@@ -4624,7 +4587,7 @@
         "badgeRu": "Собственный автопарк",
         "desc": "High-capacity commercial vacuum trucks operated directly by One Call Services Inc. crews in Northport, AL. Designed for high-displacement sludge extraction and sanitary compliance.",
         "descRu": "Мощные вакуумные ассенизаторские цистерны бригады One Call Services Inc. в г. Northport, AL. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
-        "image": "/showcase/one-call-services-inc/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "High-Capacity Vacuum Sludge & Scum Extraction",
@@ -4633,7 +4596,7 @@
         "badgeRu": "Глубокая очистка",
         "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
         "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
-        "image": "/showcase/one-call-services-inc/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
@@ -4642,48 +4605,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every project in Northport includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
         "descRu": "Каждый выезд в г. Northport завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/one-call-services-inc/photo_004_opt.jpg"
+        "image": null
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Northport includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Northport завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/one-call-services-inc/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Northport includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Northport завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/one-call-services-inc/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Northport includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Northport завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/one-call-services-inc/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Northport includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Northport завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/one-call-services-inc/photo_008_opt.jpg"
-      }
-    ],
-    "heroImage": "/showcase/one-call-services-inc/photo_001_opt.jpg",
+    "galleryPhotos": [],
+    "heroImage": null,
     "palette": "red"
   },
   {
@@ -6743,7 +6669,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Tucson Plumbing Solutions in Tucson, AZ.",
         "descRu": "Оснащенный сервисный автомобиль бригады Tucson Plumbing Solutions со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Tucson, AZ.",
-        "image": "/showcase/tucson-plumbing-solutions/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -6752,7 +6678,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/tucson-plumbing-solutions/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -6761,39 +6687,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Tucson includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Tucson включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/tucson-plumbing-solutions/photo_004_opt.jpg"
+        "image": null
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tucson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tucson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tucson-plumbing-solutions/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tucson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tucson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tucson-plumbing-solutions/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tucson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tucson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tucson-plumbing-solutions/photo_007_opt.jpg"
-      }
-    ],
-    "heroImage": "/showcase/tucson-plumbing-solutions/photo_001_opt.jpg",
+    "galleryPhotos": [],
+    "heroImage": null,
     "palette": "amber"
   },
   {
@@ -6960,7 +6858,7 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/on-the-way-plumbing/photo_001_opt.jpg",
+    "heroImage": null,
     "equipmentPhotos": [
       {
         "title": "Mobile Priority Dispatch & Utility Unit in Tucson",
@@ -6969,7 +6867,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by On The Way Plumbing in Tucson, AZ.",
         "descRu": "Оснащенный сервисный автомобиль бригады On The Way Plumbing со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Tucson, AZ.",
-        "image": "/showcase/on-the-way-plumbing/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -6978,7 +6876,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/on-the-way-plumbing/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -6987,7 +6885,7 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Tucson includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Tucson включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/on-the-way-plumbing/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -10483,7 +10381,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Millennium Plumbing Specialist, Inc in Sacramento, CA.",
         "descRu": "Оснащенный сервисный автомобиль бригады Millennium Plumbing Specialist, Inc со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Sacramento, CA.",
-        "image": "/showcase/millennium-plumbing-specialist-inc/photo_001_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -10492,7 +10390,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/millennium-plumbing-specialist-inc/photo_006_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -10501,11 +10399,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Sacramento includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Sacramento включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/millennium-plumbing-specialist-inc/photo_007_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
-    "heroImage": "/showcase/millennium-plumbing-specialist-inc/photo_005_opt.jpg",
+    "heroImage": null,
     "palette": "blue"
   },
   {
@@ -11343,7 +11241,7 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/gordons-plumbing-piping/photo_001_opt.jpg",
+    "heroImage": null,
     "equipmentPhotos": [
       {
         "title": "Mobile Priority Dispatch & Utility Unit in Sacramento",
@@ -11352,7 +11250,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Gordon's Plumbing Piping in Sacramento, CA.",
         "descRu": "Оснащенный сервисный автомобиль бригады Gordon's Plumbing Piping со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Sacramento, CA.",
-        "image": "/showcase/gordons-plumbing-piping/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -11361,7 +11259,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/gordons-plumbing-piping/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -11370,7 +11268,7 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Sacramento includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Sacramento включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/gordons-plumbing-piping/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -13096,7 +12994,7 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/a-better-plumbing-company-plumber-santa-rosa/photo_001_opt.jpg",
+    "heroImage": null,
     "equipmentPhotos": [
       {
         "title": "Mobile Priority Dispatch & Utility Unit in Santa Rosa",
@@ -13105,7 +13003,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by A Better Plumbing Company | Plumber Santa Rosa in Santa Rosa, CA.",
         "descRu": "Оснащенный сервисный автомобиль бригады A Better Plumbing Company | Plumber Santa Rosa со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Santa Rosa, CA.",
-        "image": "/showcase/a-better-plumbing-company-plumber-santa-rosa/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -13865,7 +13763,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Xtreme Drainworks Inc. in San Diego, CA.",
         "descRu": "Оснащенный сервисный автомобиль бригады Xtreme Drainworks Inc. со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. San Diego, CA.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -13874,7 +13772,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -13883,49 +13781,12 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in San Diego includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. San Diego включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_004_opt.jpg"
+        "image": null
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in San Diego includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. San Diego завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in San Diego includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. San Diego завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in San Diego includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. San Diego завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in San Diego includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. San Diego завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/xtreme-drainworks-inc/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "ownerName": "Brian",
-    "heroImage": "/showcase/xtreme-drainworks-inc/photo_001_opt.jpg",
+    "heroImage": null,
     "palette": "amber"
   },
   {
@@ -14087,7 +13948,7 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/plumbtech/photo_001_opt.jpg",
+    "heroImage": null,
     "equipmentPhotos": [
       {
         "title": "Mobile Priority Dispatch & Utility Unit in San Diego",
@@ -14096,7 +13957,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by PlumbTech in San Diego, CA.",
         "descRu": "Оснащенный сервисный автомобиль бригады PlumbTech со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. San Diego, CA.",
-        "image": "/showcase/plumbtech/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -14931,44 +14792,7 @@
         "image": "/showcase/4-mile-septic/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Cripple Creek includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Cripple Creek завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/4-mile-septic/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Cripple Creek includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Cripple Creek завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/4-mile-septic/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Cripple Creek includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Cripple Creek завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/4-mile-septic/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Cripple Creek includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Cripple Creek завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/4-mile-septic/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "palette": "amber"
   },
   {
@@ -15872,44 +15696,7 @@
         "image": "/showcase/boonstra-excavation-llc/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Fort Collins includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Fort Collins завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/boonstra-excavation-llc/photo_005_opt.jpg"
-      },
-      {
-        "title": "Laser-Graded Drain Field Trenching & Bedding",
-        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
-        "tag": "Drainfield Engineering",
-        "tagRu": "Дренажный контур",
-        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
-        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
-        "image": "/showcase/boonstra-excavation-llc/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Fort Collins includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Fort Collins завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/boonstra-excavation-llc/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Fort Collins includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Fort Collins завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/boonstra-excavation-llc/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "palette": "amber"
   },
   {
@@ -27611,7 +27398,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Above and Beyond Plumbing LLC in Nampa, ID.",
         "descRu": "Оснащенный сервисный автомобиль бригады Above and Beyond Plumbing LLC со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Nampa, ID.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -27620,7 +27407,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -27629,48 +27416,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Nampa includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Nampa включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_004_opt.jpg"
+        "image": null
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Nampa includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Nampa завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Nampa includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Nampa завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Nampa includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Nampa завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Nampa includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Nampa завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/above-and-beyond-plumbing-llc/photo_008_opt.jpg"
-      }
-    ],
-    "heroImage": "/showcase/above-and-beyond-plumbing-llc/photo_001_opt.jpg",
+    "galleryPhotos": [],
+    "heroImage": null,
     "palette": "indigo"
   },
   {
@@ -41032,7 +40782,7 @@
         "badgeRu": "Спецтранспорт бригады",
         "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Roto Rooter in Tupelo, MS.",
         "descRu": "Оснащенный сервисный автомобиль бригады Roto Rooter со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Tupelo, MS.",
-        "image": "/showcase/roto-rooter/photo_002_opt.jpg"
+        "image": null
       },
       {
         "title": "512Hz Sonde High-Definition Camera Diagnostics",
@@ -41041,7 +40791,7 @@
         "badgeRu": "Видеодиагностика",
         "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
         "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
-        "image": "/showcase/roto-rooter/photo_003_opt.jpg"
+        "image": null
       },
       {
         "title": "Clean Cleanout Access & Property Preservation",
@@ -41050,48 +40800,11 @@
         "badgeRu": "Чистота участка",
         "desc": "Every plumbing and septic project in Tupelo includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
         "descRu": "Каждый выезд в г. Tupelo включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
-        "image": "/showcase/roto-rooter/photo_004_opt.jpg"
+        "image": null
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tupelo includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tupelo завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/roto-rooter/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tupelo includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tupelo завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/roto-rooter/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tupelo includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tupelo завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/roto-rooter/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Tupelo includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Tupelo завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/roto-rooter/photo_008_opt.jpg"
-      }
-    ],
-    "heroImage": "/showcase/roto-rooter/photo_001_opt.jpg",
+    "galleryPhotos": [],
+    "heroImage": null,
     "palette": "red"
   },
   {
@@ -42433,26 +42146,7 @@
         "image": "/showcase/keele-sanitation/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Powell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Powell завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/keele-sanitation/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Powell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Powell завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/keele-sanitation/photo_007_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "heroImage": "/showcase/keele-sanitation/photo_001_opt.jpg",
     "palette": "emerald"
   },
@@ -42647,35 +42341,7 @@
         "image": "/showcase/triple-j-well-pump-service/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Kalispell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Kalispell завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-j-well-pump-service/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Kalispell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Kalispell завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-j-well-pump-service/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Kalispell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Kalispell завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-j-well-pump-service/photo_007_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "palette": "blue"
   },
   {
@@ -43001,7 +42667,7 @@
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [],
-    "heroImage": "/showcase/fielder-sewer-drain/photo_001_opt.jpg",
+    "heroImage": null,
     "equipmentPhotos": [
       {
         "title": "Mobile Priority Dispatch & Utility Unit in Spring Creek",
@@ -43139,44 +42805,7 @@
         "image": "/showcase/hamm-septic-services/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Hudson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Hudson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/hamm-septic-services/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Hudson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Hudson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/hamm-septic-services/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Hudson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Hudson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/hamm-septic-services/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Hudson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Hudson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/hamm-septic-services/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "heroImage": "/showcase/hamm-septic-services/photo_001_opt.jpg",
     "palette": "emerald"
   },
@@ -45868,44 +45497,7 @@
         "image": "/showcase/triple-t-septic/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Belen includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Belen завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-t-septic/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Belen includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Belen завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-t-septic/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Belen includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Belen завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-t-septic/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Belen includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Belen завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/triple-t-septic/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "heroImage": "/showcase/triple-t-septic/photo_001_opt.jpg",
     "palette": "orange"
   },
@@ -48073,44 +47665,7 @@
         "image": "/showcase/fix-family-enterprises-ltd/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Albany includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Albany завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Albany includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Albany завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Albany includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Albany завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Albany includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Albany завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "heroImage": "/showcase/fix-family-enterprises-ltd/photo_001_opt.jpg",
     "palette": "red"
   },
@@ -51209,44 +50764,7 @@
         "image": "/showcase/shiloh-septic-and-pumping/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Stoneville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Stoneville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Stoneville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Stoneville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "palette": "emerald"
   },
   {
@@ -53247,35 +52765,7 @@
         "image": "/showcase/all-pro-enviro/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Lincolnton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Lincolnton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/all-pro-enviro/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Lincolnton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Lincolnton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/all-pro-enviro/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Lincolnton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Lincolnton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/all-pro-enviro/photo_007_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "palette": "emerald"
   },
   {
@@ -57947,7 +57437,7 @@
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [],
-    "heroImage": "/showcase/abstract-plumbing-and-drain-solutions-affordable-and-emergency-services/photo_001_opt.jpg",
+    "heroImage": null,
     "equipmentPhotos": [
       {
         "title": "Mobile Priority Dispatch & Utility Unit in Broken Arrow",
@@ -64498,44 +63988,7 @@
         "image": "/showcase/tri-star-septic-pumping-llc/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Portland includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Portland завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tri-star-septic-pumping-llc/photo_005_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Portland includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Portland завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tri-star-septic-pumping-llc/photo_006_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Portland includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Portland завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tri-star-septic-pumping-llc/photo_007_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "tag": "Property Preservation",
-        "tagRu": "Чистота участка",
-        "desc": "Every project in Portland includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Portland завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/tri-star-septic-pumping-llc/photo_008_opt.jpg"
-      }
-    ],
+    "galleryPhotos": [],
     "heroImage": "/showcase/tri-star-septic-pumping-llc/photo_001_opt.jpg",
     "palette": "orange"
   },

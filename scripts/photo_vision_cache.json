@@ -103,5 +103,20 @@
     "category": "SERVICE_VAN",
     "confidence": 0.98,
     "summary": "Branded contractor utility vans and service trucks parked along a residential street."
+  },
+  "be58fe26a1d3a2f1cfd330c247682063": {
+    "category": "EXCAVATOR_MACHINERY",
+    "confidence": 0.95,
+    "summary": "A compact mini-excavator is parked in a residential backyard next to an open excavation site with septic tank risers."
+  },
+  "3ef68ddb0c00602bbbb216e8b1d1cacc": {
+    "category": "YARD_RESTORATION",
+    "confidence": 0.98,
+    "summary": "The photo shows a freshly backfilled and graded yard with green septic riser lids flush with the soil."
+  },
+  "4a8debed1fa7d8cd8d362b35fe24e943": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.98,
+    "summary": "Multiple rows of black plastic infiltrator chambers are laid out in excavated trenches for a septic drainfield installation."
   }
 }
