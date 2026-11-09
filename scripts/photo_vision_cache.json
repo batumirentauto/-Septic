@@ -1,0 +1,107 @@
+{
+  "35acf293f0386191eb8695150b57733a": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.98,
+    "summary": "A large yellow and green septic vacuum tanker truck parked on a residential lawn next to a brick house."
+  },
+  "8257eb4c912c3af4f2b8f063a9b52402": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "An excavated square opening in the ground reveals an uncovered concrete septic tank access point containing a pipe and accumulated residue."
+  },
+  "9c022cde9eb7fdeeebb7bef8b33b8fad": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.98,
+    "summary": "An excavated rectangular septic tank opening is exposed with its concrete access lid removed and lying beside it."
+  },
+  "4cb5c2d8646e487cde96433e68d548ea": {
+    "category": "YARD_RESTORATION",
+    "confidence": 0.95,
+    "summary": "A residential yard showing backfilled soil and flush-mounted septic access covers installed in the grass lawn."
+  },
+  "853b10da42edb76c9d221ede58472c40": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "The image depicts residential landscaping along a house foundation featuring a stone retaining wall, white gravel bed, and patchy lawn with no visible septic system equipment or components."
+  },
+  "59d33acd036c713face5725bd96ec182": {
+    "category": "CAMERA_DIAGNOSTICS",
+    "confidence": 0.99,
+    "summary": "A RIDGID SeeSnake diagnostic camera monitor showing a live pipe inspection feed with blockage at 29 feet 2 inches."
+  },
+  "22648ba687fb509c81513f37f778e913": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.98,
+    "summary": "An orange traffic cone sitting on stacked bases on a concrete sidewalk next to landscaping."
+  },
+  "0ee3a76c606a662247f77bb7c5c99756": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "Exterior copper water supply piping with shut-off valves and a hose spigot outside a building structure."
+  },
+  "59d96dce5994e17010174877136ad273": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.98,
+    "summary": "The photo shows the front entrance and glass door of a commercial office building, which is irrelevant to septic technical work."
+  },
+  "f272b71f300e7b5f9ea50ac47b96dee3": {
+    "category": "SERVICE_VAN",
+    "confidence": 0.95,
+    "summary": "Multiple contractor service vehicles, including a utility bed truck and a plumbing service van, are parked outside a commercial building alongside laid-out pipes and safety cones."
+  },
+  "0c1ea3a51492cbc959515171bec6b6c5": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.9,
+    "summary": "An open trench dug through dirt alongside a residential building complex for pipe installation, showing excavated soil, cones, and piping materials."
+  },
+  "d3c5b0a4151fd8217b3ef5b5b383d5d8": {
+    "category": "YARD_RESTORATION",
+    "confidence": 0.92,
+    "summary": "The photo shows a freshly poured concrete driveway section and border restoration complete with a flush cleanout lid following underground utility line work."
+  },
+  "b64501f9d6244a8b147cb19dda0b0b9e": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.95,
+    "summary": "An open dirt trench exposing underground utility and drainage piping laid along the excavation."
+  },
+  "6846b23d4edc46f41f9e7e0010daa07c": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.99,
+    "summary": "Rows of black plastic infiltrator chambers and PVC pipes are installed in open excavated trenches for a septic system drainfield installation."
+  },
+  "bdd94e85ba85abcde1aa167a345eee50": {
+    "category": "YARD_RESTORATION",
+    "confidence": 0.95,
+    "summary": "A grassy residential lawn featuring installed white vertical inspection ports and a green septic riser lid."
+  },
+  "2cf6c041561133a90d9d8bad51984305": {
+    "category": "EXCAVATOR_MACHINERY",
+    "confidence": 0.98,
+    "summary": "A compact mini-excavator is actively digging a trench in a residential yard near septic system components."
+  },
+  "84c956c5d7656a1d74e0e91fdc1577db": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.98,
+    "summary": "A worker installs black plastic infiltrator chambers and PVC piping inside an excavated drainfield trench."
+  },
+  "660b7a8b5bacc522b076ae11d90223f5": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "A row of portable toilets lined up outdoors in a grassy field, which does not show septic system installation or service equipment."
+  },
+  "5f3a136e91d7d62de322d6f0bc3a204b": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "Two blue portable toilets mounted on small towable trailers parked in a gravel lot."
+  },
+  "92cadb9634f27bafb29e29b4e463d5a5": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.98,
+    "summary": "A plumber or technician is using pliers to work on a chrome domestic sink drain and faucet assembly."
+  },
+  "cd5501e184761eb67cb084b0434907d1": {
+    "category": "SERVICE_VAN",
+    "confidence": 0.98,
+    "summary": "Branded contractor utility vans and service trucks parked along a residential street."
+  }
+}
