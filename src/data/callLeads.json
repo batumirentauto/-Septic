@@ -13,22 +13,9 @@
     "palette": "emerald"
   },
   {
-    "slug": "millennium-plumbing-specialist-inc",
-    "company": "Millennium Plumbing Specialist, Inc",
-    "owner": "Luis",
-    "phone": "+1 916-287-7770",
-    "city": "Sacramento",
-    "state": "CA",
-    "rating": 5,
-    "reviewCount": 139,
-    "hookAuthor": "Gina Brearley",
-    "hookText": "I had a tenant report a leaking shower drain in one of my rental properties, and I strongly encouraged the owner to contact Mil...",
-    "palette": "blue"
-  },
-  {
     "slug": "boonstra-excavation-llc",
     "company": "Boonstra Excavation LLC",
-    "owner": "Stephen",
+    "owner": "Stephen (Lead Septic Specialist & Field Supervisor)",
     "phone": "+1 970-278-6151",
     "city": "Fort Collins",
     "state": "CO",
@@ -36,25 +23,12 @@
     "reviewCount": 101,
     "hookAuthor": "David Tyner",
     "hookText": "Stephen and his crew arrived around 8 am and worked hard until the job was done around 3 pm.  The old septic was pumped out,  r...",
-    "palette": "amber"
-  },
-  {
-    "slug": "gordons-plumbing-piping",
-    "company": "Gordon's Plumbing Piping",
-    "owner": "Gordon",
-    "phone": "+1 916-613-9538",
-    "city": "Sacramento",
-    "state": "CA",
-    "rating": 5,
-    "reviewCount": 93,
-    "hookAuthor": "Bryan Macario",
-    "hookText": "I had Lee from Gordons Plumbing and Piping replace my irrigation valves and valve box, and they did an excellent job. They arri...",
     "palette": "blue"
   },
   {
     "slug": "4-mile-septic",
     "company": "4 Mile Septic",
-    "owner": "Cody",
+    "owner": "Cody (Lead Septic Specialist & Field Supervisor)",
     "phone": "+1 719-600-8010",
     "city": "Cripple Creek",
     "state": "CO",
@@ -62,7 +36,7 @@
     "reviewCount": 82,
     "hookAuthor": "Aaron S",
     "hookText": "Fantastic experience with 4 Mile Septic! They were incredibly fast to schedule and showed up right on time. Cody was profession...",
-    "palette": "amber"
+    "palette": "indigo"
   },
   {
     "slug": "keele-sanitation",
@@ -75,103 +49,12 @@
     "reviewCount": 78,
     "hookAuthor": "Mariah Joy",
     "hookText": "We love Keele Sanitation! Darin is the best! When we wake up early enough, he’s always so friendly and good with our dogs who g...",
-    "palette": "emerald"
-  },
-  {
-    "slug": "tucson-plumbing-solutions",
-    "company": "Tucson Plumbing Solutions",
-    "owner": "Leonard",
-    "phone": "+1 520-367-4744",
-    "city": "Tucson",
-    "state": "AZ",
-    "rating": 5,
-    "reviewCount": 64,
-    "hookAuthor": "Carson Arnold",
-    "hookText": "Alex was punctual, efficient, and professional. He diagnosed various issues I brought to his attention, set out his plan of att...",
-    "palette": "amber"
-  },
-  {
-    "slug": "a-better-plumbing-company-plumber-santa-rosa",
-    "company": "A Better Plumbing Company | Plumber Santa Rosa",
-    "owner": "Micah",
-    "phone": "+1 707-949-3149",
-    "city": "Santa Rosa",
-    "state": "CA",
-    "rating": 5,
-    "reviewCount": 53,
-    "hookAuthor": "Bud Schroeder",
-    "hookText": "We are 3/4 through a kitchen remodel when we got a water leak.  Turned out that our existing copper pipes were warn very thin a...",
-    "palette": "blue"
-  },
-  {
-    "slug": "above-and-beyond-plumbing-llc",
-    "company": "Above and Beyond Plumbing LLC",
-    "owner": "",
-    "phone": "+1 208-249-2682",
-    "city": "Nampa",
-    "state": "ID",
-    "rating": 5,
-    "reviewCount": 43,
-    "hookAuthor": "Susan Phifer",
-    "hookText": "Tyler was such a great help for us today! He diagnosed a gas valve issue with our water heater and we are grateful for his prom...",
-    "palette": "indigo"
-  },
-  {
-    "slug": "abstract-plumbing-and-drain-solutions-affordable-and-emergency-services",
-    "company": "Abstract Plumbing and Drain solutions - Affordable and Emergency services",
-    "owner": "",
-    "phone": "+1 918-291-3159",
-    "city": "Broken Arrow",
-    "state": "OK",
-    "rating": 5,
-    "reviewCount": 35,
-    "hookAuthor": "Sheila Alley",
-    "hookText": "I cannot recommend Abstract Plumbing enough,  and Jess in particular.  My 80 year old mother  had a toilet that would not stop ...",
-    "palette": "red"
-  },
-  {
-    "slug": "triad-water-solutions",
-    "company": "Triad Water Solutions",
-    "owner": "Garrett",
-    "phone": "+1 530-247-5034",
-    "city": "Redding",
-    "state": "CA",
-    "rating": 5,
-    "reviewCount": 34,
-    "hookAuthor": "Georgia Darnell",
-    "hookText": "Heard their ad on the local radio and thought I would give them a try. I was unsure about some of our well set up and wanted to...",
-    "palette": "blue"
-  },
-  {
-    "slug": "triple-j-well-pump-service",
-    "company": "Triple J Well & Pump Service",
-    "owner": "",
-    "phone": "+1 406-890-2057",
-    "city": "Kalispell",
-    "state": "MT",
-    "rating": 5,
-    "reviewCount": 33,
-    "hookAuthor": "Doug Addams",
-    "hookText": "Tripple J Well and Pump Services provided exceptional service from start to finish. Their team demonstrated a professional and ...",
-    "palette": "blue"
-  },
-  {
-    "slug": "xtreme-drainworks-inc",
-    "company": "Xtreme Drainworks Inc.",
-    "owner": "Brian",
-    "phone": "+1 858-583-1798",
-    "city": "San Diego",
-    "state": "CA",
-    "rating": 5,
-    "reviewCount": 31,
-    "hookAuthor": "Kat B (AleeriaG)",
-    "hookText": "My kitchen sink clogged, backfilling with nasty water and they were able to come out same day with the quoted $160 drain cleani...",
-    "palette": "amber"
+    "palette": "teal"
   },
   {
     "slug": "tank-it-easy-colorado-springs",
     "company": "Tank It Easy Colorado Springs",
-    "owner": "Blake",
+    "owner": "Blake (Lead Septic Specialist & Field Supervisor)",
     "phone": "+1 720-303-4099",
     "city": "Colorado Springs",
     "state": "CO",
@@ -179,7 +62,7 @@
     "reviewCount": 30,
     "hookAuthor": "Dave Fallon",
     "hookText": "Blake is an absolute professional! He is very knowledgeable and skilled at a difficult job. I asked many questions which he was...",
-    "palette": "orange"
+    "palette": "amber"
   },
   {
     "slug": "triple-t-septic",
@@ -218,7 +101,7 @@
     "reviewCount": 25,
     "hookAuthor": "Tiffany",
     "hookText": "I've been looking for a company for awhile to service my septic tank, & I've found the right one. The communication, the schedu...",
-    "palette": "orange"
+    "palette": "emerald"
   },
   {
     "slug": "wirtz-septic-pumping",
@@ -231,7 +114,7 @@
     "reviewCount": 25,
     "hookAuthor": "Scott Gorski",
     "hookText": "Came and pumped my tank and then explained what my problem I have been having could be and how to tackle it on my own. So the n...",
-    "palette": "orange"
+    "palette": "blue"
   },
   {
     "slug": "hamm-septic-services",
@@ -244,19 +127,6 @@
     "reviewCount": 193,
     "hookAuthor": "Michael Sullivan",
     "hookText": "Have called Hamm out twice now for septic services since I’ve bought my house a few years back. Nice to use a local company, wh...",
-    "palette": "emerald"
-  },
-  {
-    "slug": "north-bay-restaurant-services",
-    "company": "North Bay Restaurant Services",
-    "owner": "Eddie",
-    "phone": "+1 707-824-9737",
-    "city": "Santa Rosa",
-    "state": "CA",
-    "rating": 4.9,
-    "reviewCount": 186,
-    "hookAuthor": "Basim Hammad",
-    "hookText": "We've used NBRS for a year+ on a bimonthly basis to service the restaurant's Grease Trap & hydro jet the plumbing lines. They'v...",
     "palette": "indigo"
   },
   {
@@ -270,32 +140,6 @@
     "reviewCount": 175,
     "hookAuthor": "Timothy Bell",
     "hookText": "If you need septic work this is your go to place. Called a couple of places and he was the only one to reply. Got me in soon as...",
-    "palette": "emerald"
-  },
-  {
-    "slug": "one-call-services-inc",
-    "company": "One Call Services Inc.",
-    "owner": "",
-    "phone": "+1 205-758-6237",
-    "city": "Northport",
-    "state": "AL",
-    "rating": 4.9,
-    "reviewCount": 149,
-    "hookAuthor": "janet zeanah",
-    "hookText": "What a wonderful experience I had with this Company. I was scheduled quickly. The technicians were punctual, professional, and ...",
-    "palette": "red"
-  },
-  {
-    "slug": "arts-locating-llc",
-    "company": "Art's locating, LLC",
-    "owner": "",
-    "phone": "+1 928-713-3946",
-    "city": "Prescott",
-    "state": "AZ",
-    "rating": 4.9,
-    "reviewCount": 109,
-    "hookAuthor": "Heather Mendez",
-    "hookText": "I called Caleb out to help locate a leak under my slab. I had two plumbers come out. Neither could find the leak. He was able t...",
     "palette": "teal"
   },
   {
@@ -309,46 +153,7 @@
     "reviewCount": 108,
     "hookAuthor": "BMWPETE65 S",
     "hookText": "Our home on 2.5 acres is surrounded by 80-100 acres of woods. Lots of deadfall, overgrowth and undesirable plants.  Greg came o...",
-    "palette": "emerald"
-  },
-  {
-    "slug": "on-the-way-plumbing",
-    "company": "On The Way Plumbing",
-    "owner": "Sergio",
-    "phone": "+1 520-829-9842",
-    "city": "Tucson",
-    "state": "AZ",
-    "rating": 4.9,
-    "reviewCount": 105,
-    "hookAuthor": "Karla Ronquillo",
-    "hookText": "Five stars, plus another five more! This was my second time using On The Way Plumbing. I called the company to fix a water leak...",
-    "palette": "teal"
-  },
-  {
-    "slug": "baker-services",
-    "company": "Baker Services",
-    "owner": "",
-    "phone": "+1 910-354-9255",
-    "city": "Fayetteville",
-    "state": "NC",
-    "rating": 4.9,
-    "reviewCount": 86,
-    "hookAuthor": "Mary Parker",
-    "hookText": "Great and fast service. Professionalism of the staff as well. This was within my budget. Ty Baker service.",
-    "palette": "indigo"
-  },
-  {
-    "slug": "plumbtech",
-    "company": "PlumbTech",
-    "owner": "Joey",
-    "phone": "+1 800-388-8149",
-    "city": "San Diego",
-    "state": "CA",
-    "rating": 4.9,
-    "reviewCount": 82,
-    "hookAuthor": "Abe V",
-    "hookText": "Joey from PlumTech was professional from the moment he arrived. He provided a fair, transparent quote and took the time to thor...",
-    "palette": "blue"
+    "palette": "amber"
   },
   {
     "slug": "fix-family-enterprises-ltd",
@@ -359,61 +164,9 @@
     "state": "NY",
     "rating": 4.9,
     "reviewCount": 79,
-    "hookAuthor": "Cheryl Bradway",
-    "hookText": "I was in desperate need of landscaping and Fix Family came in at a decent price and transformed my flower garden. Sam was very ...",
-    "palette": "red"
-  },
-  {
-    "slug": "towers",
-    "company": "Towers",
-    "owner": "",
-    "phone": "+1 239-288-4700",
-    "city": "Fort Myers",
-    "state": "FL",
-    "rating": 4.9,
-    "reviewCount": 77,
-    "hookAuthor": "Paola Roman",
-    "hookText": "Outstanding Service from Towers Restoration Corp I’m very grateful to the team at Towers Restoration Corp for helping me with a...",
-    "palette": "indigo"
-  },
-  {
-    "slug": "roto-rooter",
-    "company": "Roto Rooter",
-    "owner": "",
-    "phone": "+1 662-471-9575",
-    "city": "Tupelo",
-    "state": "MS",
-    "rating": 4.9,
-    "reviewCount": 66,
-    "hookAuthor": "Karen Jones",
-    "hookText": "January 2024.   Doug White and Keith Driver took care of my problem right away.  I met them earlier in the year with another is...",
-    "palette": "red"
-  },
-  {
-    "slug": "fielder-sewer-drain",
-    "company": "Fielder Sewer & Drain",
-    "owner": "",
-    "phone": "+1 775-397-6746",
-    "city": "Spring Creek",
-    "state": "NV",
-    "rating": 4.9,
-    "reviewCount": 58,
-    "hookAuthor": "Mike C",
-    "hookText": "I called Rod to locate and uncover my septic tank after a blockage. He came right out, found and uncovered the Septic, and made...",
-    "palette": "teal"
-  },
-  {
-    "slug": "extra-care-plumbing-llc",
-    "company": "Extra Care Plumbing, LLC",
-    "owner": "",
-    "phone": "+1 205-567-3816",
-    "city": "Birmingham",
-    "state": "AL",
-    "rating": 4.9,
-    "reviewCount": 48,
-    "hookAuthor": "Jamie Carpenter",
-    "hookText": "We called our plumber (SpencerDennis) after receiving $90 water bill. Spencer came out the day of the call and we searched for ...",
-    "palette": "indigo"
+    "hookAuthor": "Linda Williams",
+    "hookText": "After a slight delay due to unforeseen circumstances they were able to take  care of my septic system, even before my scheduled...",
+    "palette": "orange"
   },
   {
     "slug": "affordable-septic-tank-pumping",
@@ -426,7 +179,7 @@
     "reviewCount": 38,
     "hookAuthor": "Brigetta Brunson",
     "hookText": "It was time that we needed our septic tank pumped. I made some calls around to a few places to get an idea of cost and time fra...",
-    "palette": "teal"
+    "palette": "red"
   },
   {
     "slug": "herr-septic-services",
@@ -439,7 +192,7 @@
     "reviewCount": 38,
     "hookAuthor": "Jennie Doe",
     "hookText": "Herr Septic has been servicing our aerobic septic system for over 20 years.  Their prices are fair and they provide reliable se...",
-    "palette": "teal"
+    "palette": "emerald"
   },
   {
     "slug": "land-perc",
@@ -452,7 +205,7 @@
     "reviewCount": 37,
     "hookAuthor": "Melanee Packard",
     "hookText": "Love, love, love this company! I've worked with them for years now and introduce them to whomever is needing quality, knowledge...",
-    "palette": "amber"
+    "palette": "blue"
   },
   {
     "slug": "lindseys-septic-tank-services",
@@ -465,7 +218,7 @@
     "reviewCount": 35,
     "hookAuthor": "greg thomas",
     "hookText": "I can’t say enough good things! They got to me unexpectedly quick. They were nice and professional and the job price was great....",
-    "palette": "teal"
+    "palette": "indigo"
   },
   {
     "slug": "greens-septic-service",
@@ -478,7 +231,7 @@
     "reviewCount": 35,
     "hookAuthor": "Na Na",
     "hookText": "Very polite & thoughtful. They came promptly & did a great job!! I highly recommend their services for everyone, best $$ around.",
-    "palette": "emerald"
+    "palette": "teal"
   },
   {
     "slug": "straights-septic-service",
@@ -491,7 +244,7 @@
     "reviewCount": 28,
     "hookAuthor": "Kyral Symouri",
     "hookText": "I called and got a real person. The man was friendly and gave me a quick quote for the cost, and even got me in the schedule fo...",
-    "palette": "orange"
+    "palette": "amber"
   },
   {
     "slug": "cape-cod-septic-inspections",
@@ -504,7 +257,7 @@
     "reviewCount": 27,
     "hookAuthor": "Lynn Lagasse",
     "hookText": "Tom conducted a Title 5 Inspection at my father's home.  He is very thorough in his work and was very honest and considerate in...",
-    "palette": "teal"
+    "palette": "orange"
   },
   {
     "slug": "tri-star-septic-pumping-llc",
@@ -517,6 +270,253 @@
     "reviewCount": 27,
     "hookAuthor": "C Wayne Bennett",
     "hookText": "Tri-Star Septic was amazing! Chase and his family are extremely knowledgeable, honest, and trustworthy. I highly recommend this...",
+    "palette": "red"
+  },
+  {
+    "slug": "smith-septic",
+    "company": "Smith Septic",
+    "owner": "Jackson (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 208-572-9628",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "rating": 5,
+    "reviewCount": 148,
+    "hookAuthor": "J Powers",
+    "hookText": "Smith septic is great. Jackson is easy to talk to, always calls back. And knows what he's doing. Plus he sold me the riser kit ...",
+    "palette": "emerald"
+  },
+  {
+    "slug": "emerald-coast-plumbing-septic-inc",
+    "company": "Emerald Coast Plumbing & Septic Inc.",
+    "owner": "Randy (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 850-994-3976",
+    "city": "Milton",
+    "state": "FL",
+    "rating": 4.8,
+    "reviewCount": 131,
+    "hookAuthor": "jill torkelson",
+    "hookText": "Great service! I called in the morning for septic tank pump service. Our toilets and shower were draining slowly and backing up...",
+    "palette": "blue"
+  },
+  {
+    "slug": "american-septic",
+    "company": "American Septic",
+    "owner": "American Septic Master Field Technician",
+    "phone": "+1 606-782-4356",
+    "city": "Brooksville",
+    "state": "KY",
+    "rating": 5,
+    "reviewCount": 123,
+    "hookAuthor": "Melissa Gawne",
+    "hookText": "Awesome service! Kept in contact with me. Also came out same day i called. Ended up having a completely frozen solid pipe and h...",
+    "palette": "indigo"
+  },
+  {
+    "slug": "aardvark-septic-services",
+    "company": "Aardvark Septic Services",
+    "owner": "Aardvark Septic Services Master Field Technician",
+    "phone": "+1 256-604-9681",
+    "city": "Athens",
+    "state": "AL",
+    "rating": 4.9,
+    "reviewCount": 115,
+    "hookAuthor": "Lynne",
+    "hookText": "Able to schedule the next day, price was exactly as quoted, even though it took a bit to locate my septic for pumping. Workers ...",
+    "palette": "teal"
+  },
+  {
+    "slug": "oberkramer-septic-solutions-llc",
+    "company": "Oberkramer Septic Solutions, LLC",
+    "owner": "Brad (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 636-495-9900",
+    "city": "Saint Louis",
+    "state": "MO",
+    "rating": 5,
+    "reviewCount": 105,
+    "hookAuthor": "sheena cookerly",
+    "hookText": "The owner came out personally and quoted  my septic services personally. He explained what he thought was happening and gave me...",
+    "palette": "amber"
+  },
+  {
+    "slug": "kw-septic-llc",
+    "company": "KW Septic LLC",
+    "owner": "KW Septic LLC Master Field Technician",
+    "phone": "+1 336-423-9425",
+    "city": "Rural Hall",
+    "state": "NC",
+    "rating": 5,
+    "reviewCount": 89,
+    "hookAuthor": "Halley Cunnea",
+    "hookText": "We gave KW Septic a call because our back yard was way too moist. He came out same day to pump our tank as well as replace our ...",
     "palette": "orange"
+  },
+  {
+    "slug": "davis-septic-tank-services",
+    "company": "Davis Septic Tank Services",
+    "owner": "Davis Septic Tank Services Master Field Technician",
+    "phone": "+1 803-534-8130",
+    "city": "Orangeburg",
+    "state": "SC",
+    "rating": 4.9,
+    "reviewCount": 87,
+    "hookAuthor": "Kirk McConnor",
+    "hookText": "Have used them three times and every time they have been responsive, professional, and friendly. Highly recommended.",
+    "palette": "red"
+  },
+  {
+    "slug": "shamrock-septic-247-alvin-texas",
+    "company": "Shamrock Septic ️ - 24/7 Alvin, Texas",
+    "owner": "Shamrock Septic ️ - 24/7 Alvin, Texas Master Field Technician",
+    "phone": "+1 832-785-6920",
+    "city": "Alvin",
+    "state": "TX",
+    "rating": 4.8,
+    "reviewCount": 81,
+    "hookAuthor": "Vacation Outfitters",
+    "hookText": "If you face septic tank woes, look no further than Shamrock Septic Service! Our experience with their fantastic team has indeed...",
+    "palette": "emerald"
+  },
+  {
+    "slug": "a-austins-septic-company-llc",
+    "company": "A Austin’s Septic Company LLC",
+    "owner": "Austin (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 425-446-1004",
+    "city": "Snohomish",
+    "state": "WA",
+    "rating": 4.9,
+    "reviewCount": 75,
+    "hookAuthor": "Keith Inglis",
+    "hookText": "A Austin Septic was timely,  professional,  and understanding of the circumstances regarding the repair of our septic tank to g...",
+    "palette": "blue"
+  },
+  {
+    "slug": "dunnellon-septic-tank-service-inc",
+    "company": "Dunnellon Septic Tank Service Inc",
+    "owner": "Ryan (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 352-528-5391",
+    "city": "Morriston",
+    "state": "FL",
+    "rating": 4.6,
+    "reviewCount": 71,
+    "hookAuthor": "mike nichols",
+    "hookText": "These folks were fast and very polite. I will be getting all my work done by them in the future. From the phone call to the pum...",
+    "palette": "indigo"
+  },
+  {
+    "slug": "petersen-septic-systems-llc",
+    "company": "Petersen Septic Systems LLC",
+    "owner": "Petersen Septic Systems LLC Master Field Technician",
+    "phone": "+1 920-323-2640",
+    "city": "Valders",
+    "state": "WI",
+    "rating": 4.9,
+    "reviewCount": 69,
+    "hookAuthor": "Tara Stoeger",
+    "hookText": "After our septic tank was routinely pumped by Maritime Liquid Waste, we were told a repair was needed inside the tank and were ...",
+    "palette": "teal"
+  },
+  {
+    "slug": "rozells-septic-services",
+    "company": "Rozell's septic services",
+    "owner": "Rozell's septic services Master Field Technician",
+    "phone": "+1 903-658-0243",
+    "city": "Henderson",
+    "state": "TX",
+    "rating": 4.9,
+    "reviewCount": 65,
+    "hookAuthor": "Heather Knight",
+    "hookText": "Rozell’s Septic Service was amazing to work with. It’s a locally family-owned business, which we love supporting. They were on ...",
+    "palette": "amber"
+  },
+  {
+    "slug": "bulldog-septic",
+    "company": "Bulldog Septic",
+    "owner": "Bulldog Septic Master Field Technician",
+    "phone": "+1 541-306-9974",
+    "city": "Terrebonne",
+    "state": "OR",
+    "rating": 4.8,
+    "reviewCount": 63,
+    "hookAuthor": "Lee Lawrence blanco",
+    "hookText": "These people are wonderful! Here with in an hour, knew the lay of the land, and fixed the problem quickly and efficiently. They...",
+    "palette": "orange"
+  },
+  {
+    "slug": "c-e-septic-services-llc",
+    "company": "C & E Septic Services, LLC",
+    "owner": "Allen (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 520-686-2796",
+    "city": "St David",
+    "state": "AZ",
+    "rating": 5,
+    "reviewCount": 60,
+    "hookAuthor": "Cynthia Ramsey",
+    "hookText": "Stronghold Septic (formerly C&E) the owner Allen was friendly, professional and responsive. He quickly came out to provide an e...",
+    "palette": "red"
+  },
+  {
+    "slug": "miltys-septic-services",
+    "company": "Milty's Septic Services",
+    "owner": "Anthony (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 918-451-4362",
+    "city": "Stigler",
+    "state": "OK",
+    "rating": 4.9,
+    "reviewCount": 59,
+    "hookAuthor": "laurelyn ashley-diehl",
+    "hookText": "Milty the septic guy came out promptly and was very professional. He was very reasonably priced, especially in light of the oth...",
+    "palette": "emerald"
+  },
+  {
+    "slug": "residential-grading-and-septic-llc",
+    "company": "Residential Grading and Septic LLC",
+    "owner": "Will (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 864-710-9158",
+    "city": "Pendleton",
+    "state": "SC",
+    "rating": 4.8,
+    "reviewCount": 56,
+    "hookAuthor": "Robert Wilson",
+    "hookText": "Residential Grading and Septic LLC was highly recommended and they didn't let me down. I had a septic and leach field issue and...",
+    "palette": "blue"
+  },
+  {
+    "slug": "smith-septic-service-inc",
+    "company": "Smith Septic Service Inc.",
+    "owner": "Kyle (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 386-935-1429",
+    "city": "Bell",
+    "state": "FL",
+    "rating": 5,
+    "reviewCount": 55,
+    "hookAuthor": "Redland Aquatic Distributors",
+    "hookText": "From the moment I called Smith Septic, their exceptional customer service shone through. The team was friendly, patient, and th...",
+    "palette": "indigo"
+  },
+  {
+    "slug": "r-j-septic-tank-services",
+    "company": "R & J Septic Tank Services",
+    "owner": "Reggie (Lead Septic Specialist & Field Supervisor)",
+    "phone": "+1 910-237-2003",
+    "city": "Fayetteville",
+    "state": "NC",
+    "rating": 4.6,
+    "reviewCount": 53,
+    "hookAuthor": "Christian Snow",
+    "hookText": "I had a great experience with R & J Septic Services. They were very accommodating with scheduling and even advised me to wait u...",
+    "palette": "teal"
+  },
+  {
+    "slug": "hectors-septic-service",
+    "company": "Hectors septic service",
+    "owner": "Hectors septic service Master Field Technician",
+    "phone": "+1 512-321-2660",
+    "city": "Austin",
+    "state": "TX",
+    "rating": 5,
+    "reviewCount": 47,
+    "hookAuthor": "Steve Seaback",
+    "hookText": "Hector Sr. And Jr. Along with their grandson and son were very prompt and treated us really well. It was a real family affair a...",
+    "palette": "amber"
   }
 ]

@@ -119,10 +119,14 @@ Return JSON ONLY:
       return { ...parsed, hash };
     }
   } catch (err) {
+    if (err.message && (err.message.includes("429") || err.message.includes("RESOURCE_EXHAUSTED") || err.message.includes("quota") || err.message.includes("rate limit"))) {
+      console.error(`\n❌ FATAL: Gemini Vision API quota exhausted (429 RESOURCE_EXHAUSTED)!`);
+      console.error(`Aborting execution immediately with exit code 1 to protect data integrity and prevent fallback pollution.`);
+      process.exit(1);
+    }
     console.error(`Gemini Vision error for ${localPath}:`, err.message);
+    throw err;
   }
-
-  return { category: "UNKNOWN", confidence: 0, summary: "Could not classify", hash };
 }
 
 // Generate card metadata based on image category and company context

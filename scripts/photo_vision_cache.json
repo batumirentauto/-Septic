@@ -118,5 +118,240 @@
     "category": "DRAINFIELD_PIPES",
     "confidence": 0.98,
     "summary": "Multiple rows of black plastic infiltrator chambers are laid out in excavated trenches for a septic drainfield installation."
+  },
+  "0c270b0164e04fdd08722d6693e9228d": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "The image shows an exposed underground lawn irrigation valve manifold with PVC piping and solenoid controls, which is unrelated to septic system infrastructure."
+  },
+  "67dbf05da40475ee87a0640f0f440054": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.95,
+    "summary": "An overhead view showing a series of plastic infiltrator chambers installed in an excavated trench with green inspection risers."
+  },
+  "c3d871f21d9e6b8a6d118ea2567d77e2": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.85,
+    "summary": "An exterior view showing a septic system access lid/riser box located near the foundation of a building next to a garden bed and a shovel."
+  },
+  "f983c091877637aabc8a0deef75fb510": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "An excavation or leak around a residential water supply line and backflow preventer system next to an exterior wall."
+  },
+  "7a98b142827336e2dafee6643e92ef22": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.85,
+    "summary": "The image shows a garden hose or plumbing lines lying on soil near the exterior wall and brickwork of a residential building, which is not part of a septic system."
+  },
+  "3c3acdc3bf23f228c1e7911ef455aca5": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "An open septic tank access point with a concrete lid displaying debris and removed roots next to work gloves."
+  },
+  "897cd190deab8dfae2f98a00d9354119": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "An excavation hole showing septic access pipes and riser connections near a residential foundation."
+  },
+  "e414cc9ef3a1638200fdff07dff9dfe6": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "An open excavation in the soil exposing a septic system component and access point."
+  },
+  "41ad459e2ecd4b1a3fff2630a9818192": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "An open corrugated plastic riser providing access to a septic tank component in the ground."
+  },
+  "abb98036fd6817b596e921cbf5ce3c43": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 1,
+    "summary": "A commercial vacuum truck and pumper tanker parked in a field, branded with '4 Mile Septic'."
+  },
+  "16d9a429a2b9654e33ca3e7fe8b7fa04": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "A large mass of tree roots pulled from a septic line rests on top of a concrete septic tank lid alongside work gloves."
+  },
+  "315b34073f41b6aea31a263e966e0855": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.95,
+    "summary": "An excavation trench shows perforated drain field pipes and connected PVC piping visible near the ground surface."
+  },
+  "a98e75a5f36df928cc4f122b3f57fb94": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.95,
+    "summary": "An excavation reveals a distribution box (D-box) and connected plastic pipes making up part of a septic drainfield system."
+  },
+  "7419df754fe8b098b4ea09aa4f06edfe": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.95,
+    "summary": "A fleet of commercial vacuum trucks and pumper tankers is parked outdoors in front of a facility."
+  },
+  "0713d1dbd4088b4164b80e6a11316c52": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 1,
+    "summary": "A heavy-duty red and white commercial vacuum tanker truck used for septic and waste pumping is parked on dry grass."
+  },
+  "e08f08bb50c56567570c42acdb3b3dbe": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.95,
+    "summary": "A commercial sanitation truck is parked outdoors on snowy ground."
+  },
+  "9acef440e2478de6caf2c4cf8958331e": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.85,
+    "summary": "The image shows a row of blue portable toilets lined up outdoors on a gravel lot."
+  },
+  "65b52e668bf80a1a8c5f28847de94a45": {
+    "category": "EXCAVATOR_MACHINERY",
+    "confidence": 0.95,
+    "summary": "An orange tracked excavator is actively demolishing a wooden structure, displaying heavy earthmoving equipment on a job site."
+  },
+  "cdaea6e9923d9dafe309bebb4debd63b": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "The image depicts a close-up portrait of a person's face wearing a beanie, which is irrelevant to septic system infrastructure or contracting equipment."
+  },
+  "27e7a82b0bb1c0a93796aa37995b327d": {
+    "category": "SERVICE_VAN",
+    "confidence": 0.99,
+    "summary": "A branded plumbing service van is parked on a suburban street outside a residence."
+  },
+  "3f0d48b396f7c7901e171fc2b978e8fb": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "The image shows indoor commercial construction or plumbing rough-in work featuring concrete forms, soil, and drainage pipes inside a building under construction, which is unrelated to outdoor septic systems."
+  },
+  "65e15ae7168ec9aad1d7355d138210a2": {
+    "category": "SERVICE_VAN",
+    "confidence": 0.99,
+    "summary": "The image depicts a branded contractor service pickup truck with a utility cap parked inside a garage."
+  },
+  "2e585c29d5cb6b71270734cae636c1bf": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.98,
+    "summary": "The image shows an indoor water heater system with copper plumbing pipes mounted against a brick wall."
+  },
+  "ed006321b0d0c67a8982256efa485988": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 1,
+    "summary": "The image shows the interior of a hair salon featuring hair-washing stations with black chairs and shampoo bowls."
+  },
+  "c3166aa01afb8538c116bc8d2c09da8d": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.85,
+    "summary": "An open trench dug in the yard alongside a residential building likely for laying drainfield pipes or utility lines."
+  },
+  "661d76a1efbd7ad194b8a2dad2295fa0": {
+    "category": "YARD_RESTORATION",
+    "confidence": 0.85,
+    "summary": "A contractor works in a residential yard near a house with a wheelbarrow and backfilled soil during property landscaping and restoration work."
+  },
+  "fc54956ab27f5778022f0187fc223cee": {
+    "category": "CAMERA_DIAGNOSTICS",
+    "confidence": 0.95,
+    "summary": "A technician operates a fiber-optic camera inspection reel and monitor setup next to a service vehicle on a residential driveway."
+  },
+  "013049d35269a0784ff496dc4331df20": {
+    "category": "CAMERA_DIAGNOSTICS",
+    "confidence": 0.95,
+    "summary": "A service vehicle equipped with a high-pressure sewer jetter and camera reel is actively servicing an open utility manhole or access port at night."
+  },
+  "01b23fc98b1d3805d6a385a984eecc2a": {
+    "category": "CAMERA_DIAGNOSTICS",
+    "confidence": 0.95,
+    "summary": "A service technician is operating a sewer jetter or pipe camera diagnostic reel near a service vehicle."
+  },
+  "bd8b99e39f954bb08080b29fe5882ab3": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "The image shows two septic tank access risers with lids installed flush with ground level in a grassy yard."
+  },
+  "3b3c77b003a917fa47336294aab6a1af": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "Two plastic septic tank riser access lids are installed flush with the ground surface in a grassy yard."
+  },
+  "d000d9258e0ec3d29f7df5c52aebf848": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.99,
+    "summary": "A commercial vacuum pumper truck with branded signage and a large waste tank is shown on site."
+  },
+  "57b90e3747933eff1f8eaf135b22d389": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 1,
+    "summary": "A commercial vacuum truck and pumper tanker with company branding is parked on a gravel lot, used for septic pumping operations."
+  },
+  "6039a105f34e1c104025cf006686da39": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.99,
+    "summary": "Three commercial vacuum and jetting service trucks are parked in a gravel yard."
+  },
+  "30170bdc1deac1e9b51cd224c2909724": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.95,
+    "summary": "A utility trailer is equipped with a pumper tank and suction hoses, being used alongside portable toilets for septic and waste handling operations."
+  },
+  "53cb90a09d881edb184ed42fe485f1c2": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.99,
+    "summary": "An image showing a commercial septic vacuum tanker truck in the background with a service technician holding a clipboard in the foreground."
+  },
+  "2b4e063bbbd68294d09b02c05db9e079": {
+    "category": "SERVICE_VAN",
+    "confidence": 0.95,
+    "summary": "An advertisement image showing a person holding a smartphone displaying septic service branding and a phone number."
+  },
+  "127c51a00f64043bd103a533e8b8606f": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.95,
+    "summary": "An image advertising porta potty rentals featuring a flatbed trailer loaded with portable toilets and a pumper tank unit with suction hoses."
+  },
+  "6a33795bf904d2d1e87642dd74336f64": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 0.95,
+    "summary": "The image displays a row of blue portable toilets with text overlays advertising a septic pumping and porta potty rental service."
+  },
+  "1b65ac4f5a7ec7e52defa60b0c3a505f": {
+    "category": "SERVICE_VAN",
+    "confidence": 0.85,
+    "summary": "The image shows a company logo and contact information for a septic pumping and portable toilet rental service."
+  },
+  "0ff60ff2ab60ef96c206cb55aeb18b30": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.99,
+    "summary": "Two septic technicians posing in front of a commercial S.O.S Septic Pumping vacuum tanker truck with suction hoses deployed."
+  },
+  "b03b0562ec034e5cd52014bd0196a0fd": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 0.99,
+    "summary": "A commercial white septic pumper vacuum truck is parked in a residential driveway with hoses connected for wastewater pumping."
+  },
+  "0b4d723af6a73081ab91dc71fd60fa45": {
+    "category": "VACUUM_TRUCK",
+    "confidence": 1,
+    "summary": "The rear view of a commercial vacuum pumper tanker truck equipped with suction hoses and company branding for septic service."
+  },
+  "74c0f2c676e3c485f6a897be32c8180e": {
+    "category": "IRRELEVANT_DOMESTIC",
+    "confidence": 1,
+    "summary": "The image shows a commercial restaurant kitchen stove and exhaust hood setup, which is irrelevant to septic system infrastructure."
+  },
+  "9c13adf7f357c776cce79a6a0b417ece": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.85,
+    "summary": "A large black plastic septic tank being lifted by heavy machinery into position for installation at a residential property."
+  },
+  "a281ec0845d2a98915cbf56b471d57bb": {
+    "category": "DRAINFIELD_PIPES",
+    "confidence": 0.98,
+    "summary": "An installation of black plastic corrugated infiltrator chambers laid out within excavated trenches for a septic drain field system."
+  },
+  "9c1046cfb50d4c15a9db30251f91e3ad": {
+    "category": "SEPTIC_TANK_ACCESS",
+    "confidence": 0.95,
+    "summary": "An open excavation reveals a black plastic septic tank with an exposed inlet PVC pipe connected to it."
   }
 }
