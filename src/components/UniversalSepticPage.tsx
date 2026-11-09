@@ -27,9 +27,11 @@ export function UniversalSepticPage({ lead, isRu = false }: UniversalSepticPageP
 
   const enUrl = `/${lead.slug}`
   const ruUrl = `/${lead.slug}/ru`
+  const palette = lead.palette || 'emerald'
+  const themeClass = `theme-${palette}`
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-emerald-500 selection:text-slate-950 font-sans antialiased pb-20 lg:pb-0">
+    <div className={`min-h-screen bg-slate-950 text-slate-100 selection:bg-emerald-500 selection:text-slate-950 font-sans antialiased pb-20 lg:pb-0 ${themeClass}`}>
       {/* Header & Sticky Navigation Bar */}
       <SepticHeader lead={lead} isRu={isRu} />
 

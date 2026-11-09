@@ -5,6 +5,116 @@
 :root {
   --background: #030712;
   --foreground: #f9fafb;
+
+  /* Default Primary: Emerald */
+  --c-primary-50: 236 253 245;
+  --c-primary-100: 209 250 229;
+  --c-primary-200: 167 243 208;
+  --c-primary-300: 110 231 183;
+  --c-primary-400: 52 211 153;
+  --c-primary-500: 16 185 129;
+  --c-primary-600: 5 150 105;
+  --c-primary-700: 4 120 87;
+  --c-primary-800: 6 95 70;
+  --c-primary-900: 6 78 59;
+  --c-primary-950: 2 44 34;
+
+  /* Default Secondary: Cyan */
+  --c-secondary-50: 236 254 255;
+  --c-secondary-100: 207 250 254;
+  --c-secondary-200: 165 243 252;
+  --c-secondary-300: 103 232 249;
+  --c-secondary-400: 34 211 238;
+  --c-secondary-500: 6 182 212;
+  --c-secondary-600: 8 145 178;
+  --c-secondary-700: 14 116 144;
+  --c-secondary-800: 21 94 117;
+  --c-secondary-900: 22 78 99;
+  --c-secondary-950: 8 51 68;
+}
+
+/* Palette 1: Emerald (Forest & Eco Septic / Environmental / Clean Drainfields) */
+.theme-emerald {
+  --c-primary-300: 110 231 183;
+  --c-primary-400: 52 211 153;
+  --c-primary-500: 16 185 129;
+  --c-primary-600: 5 150 105;
+
+  --c-secondary-300: 103 232 249;
+  --c-secondary-400: 34 211 238;
+  --c-secondary-500: 6 182 212;
+}
+
+/* Palette 2: Blue (Ocean Blue / Clean Water & Modern Plumbing Solutions) */
+.theme-blue {
+  --c-primary-300: 147 197 253;
+  --c-primary-400: 96 165 250;
+  --c-primary-500: 59 130 246;
+  --c-primary-600: 37 99 235;
+
+  --c-secondary-300: 125 211 252;
+  --c-secondary-400: 56 189 248;
+  --c-secondary-500: 14 165 233;
+}
+
+/* Palette 3: Amber (Caterpillar Gold / Excavation & Heavy Machinery) */
+.theme-amber {
+  --c-primary-300: 252 211 77;
+  --c-primary-400: 251 191 36;
+  --c-primary-500: 245 158 11;
+  --c-primary-600: 217 119 6;
+
+  --c-secondary-300: 253 224 71;
+  --c-secondary-400: 250 204 21;
+  --c-secondary-500: 234 179 8;
+}
+
+/* Palette 4: Orange (Construction Safety Orange / Commercial Vacuum Trucks) */
+.theme-orange {
+  --c-primary-300: 253 186 116;
+  --c-primary-400: 251 146 60;
+  --c-primary-500: 249 115 22;
+  --c-primary-600: 234 88 12;
+
+  --c-secondary-300: 252 211 77;
+  --c-secondary-400: 251 191 36;
+  --c-secondary-500: 245 158 11;
+}
+
+/* Palette 5: Red (24/7 Rapid Dispatch / Emergency Septic & Rooter Response) */
+.theme-red {
+  --c-primary-300: 252 165 165;
+  --c-primary-400: 248 113 113;
+  --c-primary-500: 239 68 68;
+  --c-primary-600: 220 38 38;
+
+  --c-secondary-300: 253 186 116;
+  --c-secondary-400: 251 146 60;
+  --c-secondary-500: 249 115 22;
+}
+
+/* Palette 6: Indigo (Midnight Royal / High-Ticket Commercial Engineering) */
+.theme-indigo {
+  --c-primary-300: 165 180 252;
+  --c-primary-400: 129 140 248;
+  --c-primary-500: 99 102 241;
+  --c-primary-600: 79 70 229;
+
+  --c-secondary-300: 125 211 252;
+  --c-secondary-400: 56 189 248;
+  --c-secondary-500: 14 165 233;
+}
+
+/* Palette 7: Teal (Arctic Teal / Clean Drainage & Advanced Environmental) */
+.theme-teal {
+  --c-primary-300: 94 234 212;
+  --c-primary-400: 45 212 191;
+  --c-primary-500: 20 184 166;
+  --c-primary-600: 13 148 136;
+
+  --c-secondary-300: 110 231 183;
+  --c-secondary-400: 52 211 153;
+  --c-secondary-500: 16 185 129;
 }
 
 body {
