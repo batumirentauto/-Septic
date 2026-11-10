@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/auditDataSemantics.cjs",
     "build": "next build",
     "start": "next start",
     "bot": "tsx src/bot/agent-bot.ts",

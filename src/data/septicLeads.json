@@ -3022,7 +3022,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Aardvark+Septic+Services/@34.8564796,-86.9296123,17z/data=!3m1!4b1!4m6!3m5!1s0x88625f8839bc6b59:0x45ceeb2d17216d10!8m2!3d34.8564796!4d-86.9296123!16s%2Fg%2F1263nmv6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 6,
+    "photosCount": 2,
     "reviewsCount": 5,
     "folderName": "Aardvark Septic Services",
     "reviewsSample": [
@@ -3158,34 +3158,34 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/aardvark-septic-services/photo_001_opt.jpg",
+    "heroImage": "/showcase/aardvark-septic-services/photo_002_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Athens",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Athens",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Aardvark Septic Services crews in Athens, AL. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Aardvark Septic Services в г. Athens, AL. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/aardvark-septic-services/photo_002_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/aardvark-septic-services/photo_003_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
-        "image": "/showcase/aardvark-septic-services/photo_003_opt.jpg"
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": null
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Athens includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Athens includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Athens завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/aardvark-septic-services/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -6029,7 +6029,7 @@
     "mapsUrl": "https://www.google.com/maps/place/C+%26+E+Septic+Services,+LLC/@31.8959516,-110.2123655,17z/data=!3m1!4b1!4m6!3m5!1s0x86d71b4dc920c745:0x20804031d2cda324!8m2!3d31.8959516!4d-110.2123655!16s%2Fg%2F11swrvfvff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 16,
+    "photosCount": 8,
     "reviewsCount": 5,
     "folderName": "C & E Septic Services, LLC",
     "reviewsSample": [
@@ -6177,37 +6177,74 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/c-e-septic-services-llc/photo_001_opt.jpg",
+    "heroImage": "/showcase/c-e-septic-services-llc/photo_006_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in St David",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. St David",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by C & E Septic Services, LLC crews in St David, AZ. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады C & E Septic Services, LLC в г. St David, AZ. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/c-e-septic-services-llc/photo_002_opt.jpg"
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
+        "image": "/showcase/c-e-septic-services-llc/photo_001_opt.jpg"
       },
       {
-        "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
-        "image": "/showcase/c-e-septic-services-llc/photo_003_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/c-e-septic-services-llc/photo_002_opt.jpg"
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in St David includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in St David includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. St David завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/c-e-septic-services-llc/photo_004_opt.jpg"
+        "image": "/showcase/c-e-septic-services-llc/photo_003_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Turf Protection & Clean Backfill Restoration",
+        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
+        "tag": "Property Preservation",
+        "tagRu": "Чистота участка",
+        "desc": "Every project in St David includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
+        "descRu": "Каждый выезд в г. St David завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
+        "image": "/showcase/c-e-septic-services-llc/photo_004_opt.jpg"
+      },
+      {
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "tag": "Drainfield Engineering",
+        "tagRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
+        "image": "/showcase/c-e-septic-services-llc/photo_005_opt.jpg"
+      },
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/c-e-septic-services-llc/photo_007_opt.jpg"
+      },
+      {
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "tag": "Drainfield Engineering",
+        "tagRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
+        "image": "/showcase/c-e-septic-services-llc/photo_008_opt.jpg"
+      }
+    ],
     "palette": "red"
   },
   {
@@ -20254,7 +20291,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Emerald+Coast+Plumbing+%26+Septic+Inc./data=!4m7!3m6!1s0x8890ec218094e72d:0x29408936778d7f8a!8m2!3d30.614189!4d-87.147354!16s%2Fg%2F1tdygdky!19sChIJLeeUgCHskIgRin-NdzaJQCk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 8,
+    "photosCount": 4,
     "reviewsCount": 5,
     "folderName": "Emerald Coast Plumbing & Septic Inc.",
     "reviewsSample": [
@@ -20413,24 +20450,24 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/emerald-coast-plumbing-septic-inc/photo_001_opt.jpg",
+    "heroImage": "/showcase/emerald-coast-plumbing-septic-inc/photo_002_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Milton",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Milton",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Emerald Coast Plumbing & Septic Inc. crews in Milton, FL. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Emerald Coast Plumbing & Septic Inc. в г. Milton, FL. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/emerald-coast-plumbing-septic-inc/photo_002_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/emerald-coast-plumbing-septic-inc/photo_001_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": "/showcase/emerald-coast-plumbing-septic-inc/photo_003_opt.jpg"
       },
       {
@@ -20438,7 +20475,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Milton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Milton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Milton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/emerald-coast-plumbing-septic-inc/photo_004_opt.jpg"
       }
@@ -20958,7 +20995,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Smith+Septic+Service+Inc./data=!4m7!3m6!1s0x88e8d7160f1c03a3:0x1cb2f8e202922683!8m2!3d29.8098879!4d-82.8432824!16s%2Fg%2F1tlw9xln!19sChIJowMcDxbX6IgRgyaSAuL4shw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 6,
+    "photosCount": 3,
     "reviewsCount": 5,
     "folderName": "Smith Septic Service Inc.",
     "reviewsSample": [
@@ -21118,21 +21155,21 @@
     "heroImage": "/showcase/smith-septic-service-inc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Bell",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Bell",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Smith Septic Service Inc. crews in Bell, FL. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Smith Septic Service Inc. в г. Bell, FL. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/smith-septic-service-inc/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": "/showcase/smith-septic-service-inc/photo_003_opt.jpg"
       },
       {
@@ -21140,9 +21177,9 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Bell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Bell includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Bell завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/smith-septic-service-inc/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -21242,7 +21279,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Dunnellon+Septic+Tank+Service+Inc/data=!4m7!3m6!1s0x88e889b8c56f99a3:0xe34c786574767876!8m2!3d29.2325606!4d-82.4483839!16s%2Fg%2F1tsbmyyf!19sChIJo5lvxbiJ6IgRdnh2dGV4TOM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 6,
+    "photosCount": 3,
     "reviewsCount": 5,
     "folderName": "Dunnellon Septic Tank Service Inc",
     "reviewsSample": [
@@ -21414,21 +21451,21 @@
     "heroImage": "/showcase/dunnellon-septic-tank-service-inc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Morriston",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Morriston",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Dunnellon Septic Tank Service Inc crews in Morriston, FL. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Dunnellon Septic Tank Service Inc в г. Morriston, FL. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/dunnellon-septic-tank-service-inc/photo_002_opt.jpg"
       },
       {
-        "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": "/showcase/dunnellon-septic-tank-service-inc/photo_003_opt.jpg"
       },
       {
@@ -21436,9 +21473,9 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Morriston includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Morriston includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Morriston завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/dunnellon-septic-tank-service-inc/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -22411,7 +22448,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Land+Perc/data=!4m7!3m6!1s0x88db6bbe55555555:0xb51efc7177652392!8m2!3d26.6121553!4d-81.7993178!16s%2Fg%2F11gk1nw0fl!19sChIJVVVVVb5r24gRkiNld3H8HrU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 4,
+    "photosCount": 2,
     "reviewsCount": 5,
     "folderName": "Land Perc",
     "reviewsSample": [
@@ -22481,35 +22518,35 @@
     ],
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Heavy Fleet in Fort Myers",
-        "titleRu": "Землеройная спецтехника и экскаваторы в г. Fort Myers",
-        "badge": "Heavy Excavation",
-        "badgeRu": "Тяжелая спецтехника",
-        "desc": "Dedicated tracked excavators and backhoes operated directly by Land Perc crews in Fort Myers, FL. Engineered for precision trenching, tank placement, and grade control.",
-        "descRu": "Собственные компактные и полноразмерные экскаваторы бригады Land Perc в г. Fort Myers, FL. Обеспечивают точную разработку траншей, монтаж тяжелых емкостей и соблюдение проектных отметок.",
-        "image": "/showcase/land-perc/photo_002_opt.jpg"
+        "title": "Mobile Priority Dispatch & Utility Unit in Fort Myers",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "badge": "Priority Dispatch",
+        "badgeRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Land Perc in Fort Myers.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Land Perc в г. Fort Myers.",
+        "image": "/showcase/land-perc/photo_004_opt.jpg"
       },
       {
-        "title": "Laser-Graded Drain Field & Soil Bedding",
-        "titleRu": "Лазерное нивелирование полей фильтрации и дренажа",
-        "badge": "Drainfield Engineering",
-        "badgeRu": "Дренажный контур",
-        "desc": "Optical laser transits and washed stone aggregate bedding ensure flawless gravity wastewater dispersal without surface standing water.",
-        "descRu": "Лазерный контроль уклона траншей и укладка мытого гранитного щебня гарантируют естественный самотек сточных вод без застоя.",
-        "image": "/showcase/land-perc/photo_003_opt.jpg"
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": null
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Fort Myers includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Fort Myers includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Fort Myers завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/land-perc/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
-    "heroImage": "/showcase/land-perc/photo_001_opt.jpg",
+    "heroImage": "/showcase/land-perc/photo_003_opt.jpg",
     "palette": "blue"
   },
   {
@@ -27541,17 +27578,17 @@
         "titleRu": "Вакуумные цистерны и спецтранспорт в г. Idaho Falls",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Affordable Septic Tank Pumping crews in Idaho Falls, ID. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Affordable Septic Tank Pumping в г. Idaho Falls, ID. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Affordable Septic Tank Pumping crews in Idaho Falls, ID. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Affordable Septic Tank Pumping в г. Idaho Falls, ID. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": null
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -27559,7 +27596,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Idaho Falls includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Idaho Falls includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Idaho Falls завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -27882,7 +27919,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Smith+Septic/@43.708341,-111.8955255,10z/data=!3m1!4b1!4m6!3m5!1s0x23a44bb7d4d084cb:0x3fd9026acbaeadfd!8m2!3d43.708341!4d-111.8955255!16s%2Fg%2F11q477xfkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 4,
+    "photosCount": 2,
     "reviewsCount": 5,
     "folderName": "Smith Septic",
     "reviewsSample": [
@@ -28027,34 +28064,34 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/smith-septic/photo_001_opt.jpg",
+    "heroImage": "/showcase/smith-septic/photo_002_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Service & Field Dispatch Unit",
-        "titleRu": "Специализированный комплекс обслуживания септиков",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Smith Septic crews in Idaho Falls, ID. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Smith Septic в г. Idaho Falls, ID. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/smith-septic/photo_002_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/smith-septic/photo_001_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
-        "image": "/showcase/smith-septic/photo_003_opt.jpg"
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": null
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Idaho Falls includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Idaho Falls includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Idaho Falls завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/smith-septic/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -34040,17 +34077,17 @@
         "titleRu": "Вакуумные цистерны и спецтранспорт в г. Leitchfield",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Lindsey's Septic Tank Services crews in Leitchfield, KY. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Lindsey's Septic Tank Services в г. Leitchfield, KY. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Lindsey's Septic Tank Services crews in Leitchfield, KY. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Lindsey's Septic Tank Services в г. Leitchfield, KY. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": null
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -34058,7 +34095,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Leitchfield includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Leitchfield includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Leitchfield завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -34218,7 +34255,7 @@
     "mapsUrl": "https://www.google.com/maps/place/American+Septic/@38.6797883,-84.068979,17z/data=!3m1!4b1!4m6!3m5!1s0x88416f45336d206b:0xf56597ca25810582!8m2!3d38.6797883!4d-84.068979!16s%2Fg%2F11jnm37k5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 8,
+    "photosCount": 3,
     "reviewsCount": 5,
     "folderName": "American Septic",
     "reviewsSample": [
@@ -34368,34 +34405,34 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/american-septic/photo_001_opt.jpg",
+    "heroImage": "/showcase/american-septic/photo_003_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Brooksville",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Brooksville",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by American Septic crews in Brooksville, KY. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады American Septic в г. Brooksville, KY. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/american-septic/photo_002_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/american-septic/photo_001_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
-        "image": "/showcase/american-septic/photo_003_opt.jpg"
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": "/showcase/american-septic/photo_002_opt.jpg"
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Brooksville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Brooksville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Brooksville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/american-septic/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -37413,12 +37450,12 @@
     "heroImage": "/showcase/jc-septic/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "badge": "Property Preservation",
-        "badgeRu": "Чистота участка",
-        "desc": "Every project in Salisbury includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
-        "descRu": "Каждый выезд в г. Salisbury завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
+        "title": "Commercial Septic Vacuum Fleet in Salisbury",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Salisbury",
+        "badge": "Company-Owned Fleet",
+        "badgeRu": "Собственный автопарк",
+        "desc": "Commercial vacuum trucks operated directly by JC Septic crews in Salisbury, MD for high-displacement sludge extraction.",
+        "descRu": "Вакуумные ассенизаторские цистерны бригады JC Septic в г. Salisbury, MD для быстрой и чистой откачки резервуаров.",
         "image": "/showcase/jc-septic/photo_002_opt.jpg"
       },
       {
@@ -38241,7 +38278,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Cape+Cod+Septic+Inspections/@41.6266462,41.6132982,14z/data=!3m1!4b1!4m3!3m2!1s0x89e4c7e85d1e1955:0x11191179fb9d7faf!16s%2Fg%2F11bbx0x7g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Не указаны",
-    "photosCount": 1,
+    "photosCount": 0,
     "reviewsCount": 5,
     "folderName": "Cape Cod Septic Inspections",
     "reviewsSample": [
@@ -38297,35 +38334,35 @@
     "highTicketServices": [],
     "equipmentPhotos": [
       {
-        "title": "Mobile Priority Dispatch & Utility Unit in Barnstable",
-        "titleRu": "Мобильный сервисный комплекс в г. Barnstable",
-        "badge": "Priority Dispatch",
-        "badgeRu": "Спецтранспорт бригады",
-        "desc": "Fully equipped utility service vehicle stocked with diagnostics, high-pressure jetting gear, and replacement parts operated directly by Cape Cod Septic Inspections in Barnstable, MA.",
-        "descRu": "Оснащенный сервисный автомобиль бригады Cape Cod Septic Inspections со всем необходимым диагностическим и ремонтным оборудованием для оперативного выезда в г. Barnstable, MA.",
+        "title": "Commercial Septic Vacuum Fleet in Barnstable",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Barnstable",
+        "badge": "Company-Owned Fleet",
+        "badgeRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Cape Cod Septic Inspections crews in Barnstable, MA. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Cape Cod Septic Inspections в г. Barnstable, MA. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": null
       },
       {
-        "title": "512Hz Sonde High-Definition Camera Diagnostics",
-        "titleRu": "Цветная телеинспекция и зонд-локатор 512 Гц",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
         "badge": "Diagnostic Equipment",
         "badgeRu": "Видеодиагностика",
-        "desc": "Self-leveling waterproof fiber-optic cameras pinpoint line bellies, root intrusions, and buried tank lids without invasive digging.",
-        "descRu": "Самовыравнивающиеся видеокамеры высокого разрешения с радиозондом находят скрытые засоры, трещины и закопанные люки без лишних раскопок.",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
-        "title": "Clean Cleanout Access & Property Preservation",
-        "titleRu": "Чистовой монтаж ревизий и защита территории",
+        "title": "Turf Protection & Clean Backfill Restoration",
+        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every plumbing and septic project in Barnstable includes clean site containment, watertight cleanout fitting, and immaculate property restoration.",
-        "descRu": "Каждый выезд в г. Barnstable включает аккуратную защиту отделки и ландшафта, герметичную установку ревизионных люков и уборку рабочего места.",
+        "desc": "Every project in Barnstable includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
+        "descRu": "Каждый выезд в г. Barnstable завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
     ],
     "galleryPhotos": [],
-    "heroImage": "/showcase/cape-cod-septic-inspections/photo_001_opt.jpg",
+    "heroImage": null,
     "palette": "orange"
   },
   {
@@ -40896,7 +40933,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Oberkramer+Septic+Solutions,+LLC/@38.3378005,-90.6153034,9z/data=!3m1!4b1!4m6!3m5!1s0x6e2bec21ba2ad45b:0xe22353f0eb23f0ec!8m2!3d38.3378006!4d-90.6153034!16s%2Fg%2F11vymv1plt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Не указаны",
-    "photosCount": 6,
+    "photosCount": 1,
     "reviewsCount": 5,
     "folderName": "Oberkramer Septic Solutions, LLC",
     "reviewsSample": [
@@ -41034,31 +41071,31 @@
     "heroImage": "/showcase/oberkramer-septic-solutions-llc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Saint Louis",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Saint Louis",
+        "title": "Commercial Septic Vacuum Fleet in Saint Louis",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Saint Louis",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Oberkramer Septic Solutions, LLC crews in Saint Louis, MO. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Oberkramer Septic Solutions, LLC в г. Saint Louis, MO. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/oberkramer-septic-solutions-llc/photo_002_opt.jpg"
+        "desc": "High-capacity commercial vacuum trucks operated directly by Oberkramer Septic Solutions, LLC crews in Saint Louis, MO. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Oberkramer Septic Solutions, LLC в г. Saint Louis, MO. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": null
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
-        "image": "/showcase/oberkramer-septic-solutions-llc/photo_003_opt.jpg"
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": null
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Saint Louis includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Saint Louis includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Saint Louis завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/oberkramer-septic-solutions-llc/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -42822,12 +42859,12 @@
         "image": "/showcase/hamm-septic-services/photo_002_opt.jpg"
       },
       {
-        "title": "512Hz Sonde High-Definition Camera Inspection",
-        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
-        "badge": "Diagnostic Equipment",
-        "badgeRu": "Видеодиагностика",
-        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
-        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "title": "Precision Excavation & Heavy Fleet in Hudson",
+        "titleRu": "Землеройная спецтехника и экскаваторы в г. Hudson",
+        "badge": "Heavy Excavation",
+        "badgeRu": "Тяжелая спецтехника",
+        "desc": "Dedicated tracked excavators operated directly by Hamm Septic Services crews for surgical trenching, tank placement, and grade control in Hudson.",
+        "descRu": "Собственные компактные экскаваторы бригады Hamm Septic Services для точной разработки траншей, монтажа резервуаров и планировки уклонов в г. Hudson.",
         "image": "/showcase/hamm-septic-services/photo_003_opt.jpg"
       },
       {
@@ -42840,7 +42877,44 @@
         "image": "/showcase/hamm-septic-services/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Precision Excavation & Heavy Fleet in Hudson",
+        "titleRu": "Землеройная спецтехника и экскаваторы в г. Hudson",
+        "tag": "Heavy Excavation",
+        "tagRu": "Тяжелая спецтехника",
+        "desc": "Dedicated tracked excavators operated directly by Hamm Septic Services crews for surgical trenching, tank placement, and grade control in Hudson.",
+        "descRu": "Собственные компактные экскаваторы бригады Hamm Septic Services для точной разработки траншей, монтажа резервуаров и планировки уклонов в г. Hudson.",
+        "image": "/showcase/hamm-septic-services/photo_005_opt.jpg"
+      },
+      {
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "tag": "Drainfield Engineering",
+        "tagRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
+        "image": "/showcase/hamm-septic-services/photo_006_opt.jpg"
+      },
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/hamm-septic-services/photo_007_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Hudson",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Hudson",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Hamm Septic Services crews in Hudson, NH. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Hamm Septic Services в г. Hudson, NH. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/hamm-septic-services/photo_008_opt.jpg"
+      }
+    ],
     "heroImage": "/showcase/hamm-septic-services/photo_001_opt.jpg",
     "palette": "indigo"
   },
@@ -45532,7 +45606,35 @@
         "image": "/showcase/triple-t-septic/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Mobile Priority Dispatch & Utility Unit in Belen",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "tag": "Priority Dispatch",
+        "tagRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Triple T Septic in Belen.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Triple T Septic в г. Belen.",
+        "image": "/showcase/triple-t-septic/photo_005_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Belen",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Belen",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Triple T Septic crews in Belen, NM. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Triple T Septic в г. Belen, NM. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/triple-t-septic/photo_006_opt.jpg"
+      },
+      {
+        "title": "Mobile Priority Dispatch & Utility Unit in Belen",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "tag": "Priority Dispatch",
+        "tagRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Triple T Septic in Belen.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Triple T Septic в г. Belen.",
+        "image": "/showcase/triple-t-septic/photo_008_opt.jpg"
+      }
+    ],
     "heroImage": "/showcase/triple-t-septic/photo_001_opt.jpg",
     "palette": "orange"
   },
@@ -47333,30 +47435,30 @@
     "highTicketServices": [],
     "equipmentPhotos": [
       {
+        "title": "Mobile Priority Dispatch & Utility Unit in South Glens Falls",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "badge": "Priority Dispatch",
+        "badgeRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Straight's Septic Service in South Glens Falls.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Straight's Septic Service в г. South Glens Falls.",
+        "image": "/showcase/straights-septic-service/photo_002_opt.jpg"
+      },
+      {
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": "/showcase/straights-septic-service/photo_003_opt.jpg"
+      },
+      {
         "title": "Commercial Septic Vacuum Fleet in South Glens Falls",
         "titleRu": "Вакуумные цистерны и спецтранспорт в г. South Glens Falls",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Straight's Septic Service crews in South Glens Falls, NY. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Straight's Septic Service в г. South Glens Falls, NY. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
-        "image": "/showcase/straights-septic-service/photo_002_opt.jpg"
-      },
-      {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
-        "image": "/showcase/straights-septic-service/photo_003_opt.jpg"
-      },
-      {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "badge": "Property Preservation",
-        "badgeRu": "Чистота участка",
-        "desc": "Every project in South Glens Falls includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
-        "descRu": "Каждый выезд в г. South Glens Falls завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Straight's Septic Service crews in South Glens Falls, NY. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Straight's Septic Service в г. South Glens Falls, NY. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": "/showcase/straights-septic-service/photo_004_opt.jpg"
       }
     ],
@@ -47610,7 +47712,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Fix+Family+Enterprises+Ltd/@42.468315,-73.9010685,9z/data=!3m1!4b1!4m6!3m5!1s0x89ddefebdba5ec7d:0x168a5022d029c127!8m2!3d42.468315!4d-73.9010685!16s%2Fg%2F1thl_fpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 8,
+    "photosCount": 7,
     "reviewsCount": 5,
     "folderName": "Fix Family Enterprises Ltd",
     "reviewsSample": [
@@ -47677,30 +47779,58 @@
         "titleRu": "Вакуумные цистерны и спецтранспорт в г. Albany",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Fix Family Enterprises Ltd crews in Albany, NY. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Fix Family Enterprises Ltd в г. Albany, NY. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_002_opt.jpg"
+        "desc": "High-capacity commercial vacuum trucks operated directly by Fix Family Enterprises Ltd crews in Albany, NY. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Fix Family Enterprises Ltd в г. Albany, NY. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/fix-family-enterprises-ltd/photo_003_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_003_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/fix-family-enterprises-ltd/photo_004_opt.jpg"
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Albany includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Albany includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Albany завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/fix-family-enterprises-ltd/photo_004_opt.jpg"
+        "image": "/showcase/fix-family-enterprises-ltd/photo_005_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Commercial Septic Vacuum Fleet in Albany",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Albany",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Fix Family Enterprises Ltd crews in Albany, NY. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Fix Family Enterprises Ltd в г. Albany, NY. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/fix-family-enterprises-ltd/photo_006_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Albany",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Albany",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Fix Family Enterprises Ltd crews in Albany, NY. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Fix Family Enterprises Ltd в г. Albany, NY. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/fix-family-enterprises-ltd/photo_007_opt.jpg"
+      },
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/fix-family-enterprises-ltd/photo_008_opt.jpg"
+      }
+    ],
     "heroImage": "/showcase/fix-family-enterprises-ltd/photo_001_opt.jpg",
     "palette": "orange"
   },
@@ -48952,7 +49082,7 @@
     "mapsUrl": "https://www.google.com/maps/place/KW+Septic+LLC/@36.21164,-80.2860031,17z/data=!3m1!4b1!4m6!3m5!1s0x84527e27338c037:0x374097dbf06203f!8m2!3d36.21164!4d-80.2860031!16s%2Fg%2F11shd3189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 2,
+    "photosCount": 1,
     "reviewsCount": 5,
     "folderName": "KW Septic LLC",
     "reviewsSample": [
@@ -49095,21 +49225,21 @@
     "heroImage": "/showcase/kw-septic-llc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Rural Hall",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Rural Hall",
+        "title": "Commercial Septic Vacuum Fleet in Rural Hall",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Rural Hall",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by KW Septic LLC crews in Rural Hall, NC. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады KW Septic LLC в г. Rural Hall, NC. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/kw-septic-llc/photo_002_opt.jpg"
+        "desc": "High-capacity commercial vacuum trucks operated directly by KW Septic LLC crews in Rural Hall, NC. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады KW Septic LLC в г. Rural Hall, NC. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": null
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -49117,7 +49247,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Rural Hall includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Rural Hall includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Rural Hall завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -50697,7 +50827,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Shiloh+Septic+and+Pumping/@36.4469147,-79.8616536,17z/data=!3m1!4b1!4m6!3m5!1s0x8852ed9141a6f3d7:0x4590af7110ec8910!8m2!3d36.4469147!4d-79.8616536!16s%2Fg%2F11tdbhyd6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 8,
+    "photosCount": 7,
     "reviewsCount": 5,
     "folderName": "Shiloh Septic and Pumping",
     "reviewsSample": [
@@ -50770,37 +50900,65 @@
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [],
-    "heroImage": "/showcase/shiloh-septic-and-pumping/photo_001_opt.jpg",
+    "heroImage": "/showcase/shiloh-septic-and-pumping/photo_007_opt.jpg",
     "equipmentPhotos": [
-      {
-        "title": "Commercial Septic Vacuum Fleet in Stoneville",
-        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Stoneville",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Shiloh Septic and Pumping crews in Stoneville, NC. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Shiloh Septic and Pumping в г. Stoneville, NC. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_002_opt.jpg"
-      },
-      {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_003_opt.jpg"
-      },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Stoneville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/shiloh-septic-and-pumping/photo_004_opt.jpg"
+        "image": "/showcase/shiloh-septic-and-pumping/photo_001_opt.jpg"
+      },
+      {
+        "title": "Mobile Priority Dispatch & Utility Unit in Stoneville",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "badge": "Priority Dispatch",
+        "badgeRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Shiloh Septic and Pumping in Stoneville.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Shiloh Septic and Pumping в г. Stoneville.",
+        "image": "/showcase/shiloh-septic-and-pumping/photo_002_opt.jpg"
+      },
+      {
+        "title": "Precision Excavation & Heavy Fleet in Stoneville",
+        "titleRu": "Землеройная спецтехника и экскаваторы в г. Stoneville",
+        "badge": "Heavy Excavation",
+        "badgeRu": "Тяжелая спецтехника",
+        "desc": "Dedicated tracked excavators operated directly by Shiloh Septic and Pumping crews for surgical trenching, tank placement, and grade control in Stoneville.",
+        "descRu": "Собственные компактные экскаваторы бригады Shiloh Septic and Pumping для точной разработки траншей, монтажа резервуаров и планировки уклонов в г. Stoneville.",
+        "image": "/showcase/shiloh-septic-and-pumping/photo_003_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Precision Excavation & Heavy Fleet in Stoneville",
+        "titleRu": "Землеройная спецтехника и экскаваторы в г. Stoneville",
+        "tag": "Heavy Excavation",
+        "tagRu": "Тяжелая спецтехника",
+        "desc": "Dedicated tracked excavators operated directly by Shiloh Septic and Pumping crews for surgical trenching, tank placement, and grade control in Stoneville.",
+        "descRu": "Собственные компактные экскаваторы бригады Shiloh Septic and Pumping для точной разработки траншей, монтажа резервуаров и планировки уклонов в г. Stoneville.",
+        "image": "/showcase/shiloh-septic-and-pumping/photo_004_opt.jpg"
+      },
+      {
+        "title": "Turf Protection & Clean Backfill Restoration",
+        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
+        "tag": "Property Preservation",
+        "tagRu": "Чистота участка",
+        "desc": "Every project in Stoneville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
+        "descRu": "Каждый выезд в г. Stoneville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
+        "image": "/showcase/shiloh-septic-and-pumping/photo_006_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Stoneville",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Stoneville",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Shiloh Septic and Pumping crews in Stoneville, NC. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Shiloh Septic and Pumping в г. Stoneville, NC. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/shiloh-septic-and-pumping/photo_008_opt.jpg"
+      }
+    ],
     "palette": "amber"
   },
   {
@@ -51334,7 +51492,7 @@
     "mapsUrl": "https://www.google.com/maps/place/R+%26+J+Septic+Tank+Services/@35.04089,-78.78913,17z/data=!3m1!4b1!4m6!3m5!1s0x89ab0cd440782bc3:0x414d1d3ffc6d4657!8m2!3d35.04089!4d-78.78913!16s%2Fg%2F1tf36tvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 2,
+    "photosCount": 1,
     "reviewsCount": 5,
     "folderName": "R & J Septic Tank Services",
     "reviewsSample": [
@@ -51478,21 +51636,21 @@
     "heroImage": "/showcase/r-j-septic-tank-services/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Fayetteville",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Fayetteville",
+        "title": "Commercial Septic Vacuum Fleet in Fayetteville",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Fayetteville",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by R & J Septic Tank Services crews in Fayetteville, NC. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады R & J Septic Tank Services в г. Fayetteville, NC. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/r-j-septic-tank-services/photo_002_opt.jpg"
+        "desc": "High-capacity commercial vacuum trucks operated directly by R & J Septic Tank Services crews in Fayetteville, NC. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады R & J Septic Tank Services в г. Fayetteville, NC. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": null
       },
       {
-        "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -51500,7 +51658,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Fayetteville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Fayetteville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Fayetteville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -52775,21 +52933,21 @@
     "heroImage": "/showcase/all-pro-enviro/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Vacuum Fleet in Lincolnton",
-        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Lincolnton",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by All Pro Enviro crews in Lincolnton, NC. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады All Pro Enviro в г. Lincolnton, NC. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/all-pro-enviro/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
         "image": "/showcase/all-pro-enviro/photo_003_opt.jpg"
       },
       {
@@ -52797,12 +52955,40 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Lincolnton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Lincolnton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Lincolnton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/all-pro-enviro/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/all-pro-enviro/photo_005_opt.jpg"
+      },
+      {
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "tag": "Drainfield Engineering",
+        "tagRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
+        "image": "/showcase/all-pro-enviro/photo_006_opt.jpg"
+      },
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/all-pro-enviro/photo_007_opt.jpg"
+      }
+    ],
     "palette": "teal"
   },
   {
@@ -56182,7 +56368,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Milty's+Septic+Services/@35.2747642,-95.4882291,17z/data=!3m1!4b1!4m6!3m5!1s0x87b5bb8345ea957d:0x857d22c26a6227bc!8m2!3d35.2747642!4d-95.4882291!16s%2Fg%2F11ghp5mmxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 8,
+    "photosCount": 4,
     "reviewsCount": 5,
     "folderName": "Milty's Septic Services",
     "reviewsSample": [
@@ -56338,21 +56524,21 @@
     "heroImage": "/showcase/miltys-septic-services/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Stigler",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Stigler",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Milty's Septic Services crews in Stigler, OK. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Milty's Septic Services в г. Stigler, OK. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/miltys-septic-services/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
         "image": "/showcase/miltys-septic-services/photo_003_opt.jpg"
       },
       {
@@ -56360,7 +56546,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Stigler includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Stigler includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Stigler завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/miltys-septic-services/photo_004_opt.jpg"
       }
@@ -58618,7 +58804,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Bulldog+Septic/@44.3421135,-121.1864472,17z/data=!3m1!4b1!4m6!3m5!1s0x54bed606ee6bca51:0x255e79efc47e777b!8m2!3d44.3421135!4d-121.1864472!16s%2Fg%2F11c5ggzd5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 6,
+    "photosCount": 3,
     "reviewsCount": 5,
     "folderName": "Bulldog Septic",
     "reviewsSample": [
@@ -58757,24 +58943,24 @@
       "Surrounding Rural & Residential Acreage",
       "24/7 Emergency Dispatch Territory"
     ],
-    "heroImage": "/showcase/bulldog-septic/photo_001_opt.jpg",
+    "heroImage": "/showcase/bulldog-septic/photo_002_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Service & Field Dispatch Unit",
-        "titleRu": "Специализированный комплекс обслуживания септиков",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Bulldog Septic crews in Terrebonne, OR. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Bulldog Septic в г. Terrebonne, OR. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/bulldog-septic/photo_002_opt.jpg"
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/bulldog-septic/photo_001_opt.jpg"
       },
       {
-        "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
+        "title": "Commercial Septic Vacuum Fleet in Terrebonne",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Terrebonne",
+        "badge": "Company-Owned Fleet",
+        "badgeRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Bulldog Septic crews in Terrebonne, OR. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Bulldog Septic в г. Terrebonne, OR. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": "/showcase/bulldog-septic/photo_003_opt.jpg"
       },
       {
@@ -58782,9 +58968,9 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Terrebonne includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Terrebonne includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Terrebonne завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/bulldog-septic/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -61521,7 +61707,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Superior+Vac+%26+Septic/@34.3364163,-80.4636888,17z/data=!3m1!4b1!4m6!3m5!1s0x8855ed1efaf8b709:0x9d5e6f1002c7d324!8m2!3d34.3364163!4d-80.4636888!16s%2Fg%2F11h4yd22wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 5,
+    "photosCount": 4,
     "reviewsCount": 5,
     "folderName": "Superior Vac & Septic",
     "reviewsSample": [
@@ -61591,12 +61777,12 @@
         "image": "/showcase/superior-vac-septic/photo_001_opt.jpg"
       },
       {
-        "title": "512Hz Sonde High-Definition Camera Inspection",
-        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
-        "badge": "Diagnostic Equipment",
-        "badgeRu": "Видеодиагностика",
-        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
-        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "title": "Mobile Priority Dispatch & Utility Unit in Cassatt",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "badge": "Priority Dispatch",
+        "badgeRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Superior Vac & Septic in Cassatt.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Superior Vac & Septic в г. Cassatt.",
         "image": "/showcase/superior-vac-septic/photo_003_opt.jpg"
       },
       {
@@ -61884,7 +62070,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Davis+Septic+Tank+Services/@33.563915,-80.8478562,17z/data=!3m1!4b1!4m6!3m5!1s0x88f8d373c3366b2d:0xaa99220a40f65da1!8m2!3d33.563915!4d-80.8478562!16s%2Fg%2F1tjmfhrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Не указаны",
-    "photosCount": 2,
+    "photosCount": 1,
     "reviewsCount": 5,
     "folderName": "Davis Septic Tank Services",
     "reviewsSample": [
@@ -62019,21 +62205,21 @@
     "heroImage": "/showcase/davis-septic-tank-services/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Orangeburg",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Orangeburg",
+        "title": "Commercial Septic Vacuum Fleet in Orangeburg",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Orangeburg",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Davis Septic Tank Services crews in Orangeburg, SC. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Davis Septic Tank Services в г. Orangeburg, SC. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/davis-septic-tank-services/photo_002_opt.jpg"
+        "desc": "High-capacity commercial vacuum trucks operated directly by Davis Septic Tank Services crews in Orangeburg, SC. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Davis Septic Tank Services в г. Orangeburg, SC. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": null
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -62041,7 +62227,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Orangeburg includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Orangeburg includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Orangeburg завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -62323,7 +62509,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Residential+Grading+and+Septic+LLC/@34.6687686,-82.7134689,17z/data=!3m1!4b1!4m6!3m5!1s0x88584388387e3de9:0x8cbc2f1a8163bd55!8m2!3d34.6687686!4d-82.7134689!16s%2Fg%2F11ll9kddx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 10,
+    "photosCount": 5,
     "reviewsCount": 5,
     "folderName": "Residential Grading and Septic LLC",
     "reviewsSample": [
@@ -62477,30 +62663,30 @@
     "heroImage": "/showcase/residential-grading-and-septic-llc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Pendleton",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Pendleton",
+        "title": "Commercial Septic Vacuum Fleet in Pendleton",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Pendleton",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Residential Grading and Septic LLC crews in Pendleton, SC. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Residential Grading and Septic LLC в г. Pendleton, SC. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Residential Grading and Septic LLC crews in Pendleton, SC. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Residential Grading and Septic LLC в г. Pendleton, SC. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": "/showcase/residential-grading-and-septic-llc/photo_002_opt.jpg"
       },
       {
-        "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": "/showcase/residential-grading-and-septic-llc/photo_003_opt.jpg"
       },
       {
-        "title": "Turf Protection & Clean Backfill Restoration",
-        "titleRu": "Защита ландшафта и чистовая обратная засыпка",
-        "badge": "Property Preservation",
-        "badgeRu": "Чистота участка",
-        "desc": "Every project in Pendleton includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
-        "descRu": "Каждый выезд в г. Pendleton завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
         "image": "/showcase/residential-grading-and-septic-llc/photo_004_opt.jpg"
       }
     ],
@@ -63913,17 +64099,17 @@
         "titleRu": "Вакуумные цистерны и спецтранспорт в г. Portland",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Tri Star Septic Pumping LLC crews in Portland, TN. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Tri Star Septic Pumping LLC в г. Portland, TN. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Tri Star Septic Pumping LLC crews in Portland, TN. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Tri Star Septic Pumping LLC в г. Portland, TN. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": "/showcase/tri-star-septic-pumping-llc/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": "/showcase/tri-star-septic-pumping-llc/photo_003_opt.jpg"
       },
       {
@@ -63931,12 +64117,49 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Portland includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Portland includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Portland завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/tri-star-septic-pumping-llc/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Commercial Septic Vacuum Fleet in Portland",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Portland",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Tri Star Septic Pumping LLC crews in Portland, TN. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Tri Star Septic Pumping LLC в г. Portland, TN. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/tri-star-septic-pumping-llc/photo_005_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Portland",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Portland",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Tri Star Septic Pumping LLC crews in Portland, TN. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Tri Star Septic Pumping LLC в г. Portland, TN. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/tri-star-septic-pumping-llc/photo_006_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Portland",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Portland",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Tri Star Septic Pumping LLC crews in Portland, TN. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Tri Star Septic Pumping LLC в г. Portland, TN. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/tri-star-septic-pumping-llc/photo_007_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Portland",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Portland",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Tri Star Septic Pumping LLC crews in Portland, TN. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Tri Star Septic Pumping LLC в г. Portland, TN. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/tri-star-septic-pumping-llc/photo_008_opt.jpg"
+      }
+    ],
     "heroImage": "/showcase/tri-star-septic-pumping-llc/photo_001_opt.jpg",
     "palette": "red"
   },
@@ -67992,7 +68215,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Shamrock+Septic+%EF%B8%8F+-+24%2F7+Alvin,+Texas/@29.440927,-95.3108733,17z/data=!3m1!4b1!4m6!3m5!1s0x8640815c0721a773:0xff81f7bd498f37d1!8m2!3d29.440927!4d-95.3108733!16s%2Fg%2F11m39cs1rh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 16,
+    "photosCount": 8,
     "reviewsCount": 5,
     "folderName": "Shamrock Septic ️ - 247 Alvin, Texas",
     "reviewsSample": [
@@ -68141,21 +68364,21 @@
     "heroImage": "/showcase/shamrock-septic-247-alvin-texas/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Alvin",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Alvin",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Shamrock Septic ️ - 24/7 Alvin, Texas crews in Alvin, TX. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Shamrock Septic ️ - 24/7 Alvin, Texas в г. Alvin, TX. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/shamrock-septic-247-alvin-texas/photo_002_opt.jpg"
       },
       {
-        "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
+        "title": "Commercial Septic Vacuum Fleet in Alvin",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Alvin",
+        "badge": "Company-Owned Fleet",
+        "badgeRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Shamrock Septic ️ - 24/7 Alvin, Texas crews in Alvin, TX. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Shamrock Septic ️ - 24/7 Alvin, Texas в г. Alvin, TX. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": "/showcase/shamrock-septic-247-alvin-texas/photo_003_opt.jpg"
       },
       {
@@ -68163,12 +68386,49 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Alvin includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Alvin includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Alvin завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/shamrock-septic-247-alvin-texas/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": [],
+    "galleryPhotos": [
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/shamrock-septic-247-alvin-texas/photo_005_opt.jpg"
+      },
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/shamrock-septic-247-alvin-texas/photo_006_opt.jpg"
+      },
+      {
+        "title": "Commercial Septic Vacuum Fleet in Alvin",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Alvin",
+        "tag": "Company-Owned Fleet",
+        "tagRu": "Собственный автопарк",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Shamrock Septic ️ - 24/7 Alvin, Texas crews in Alvin, TX. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Shamrock Septic ️ - 24/7 Alvin, Texas в г. Alvin, TX. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": "/showcase/shamrock-septic-247-alvin-texas/photo_007_opt.jpg"
+      },
+      {
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "tag": "Tank Diagnostics",
+        "tagRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
+        "image": "/showcase/shamrock-septic-247-alvin-texas/photo_008_opt.jpg"
+      }
+    ],
     "ownerName": "Tyler",
     "palette": "emerald"
   },
@@ -68818,21 +69078,21 @@
     "highTicketServices": [],
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Vacuum Fleet in San Antonio",
-        "titleRu": "Вакуумные цистерны и спецтранспорт в г. San Antonio",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Herr Septic Services crews in San Antonio, TX. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Herr Septic Services в г. San Antonio, TX. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "title": "Mobile Priority Dispatch & Utility Unit in San Antonio",
+        "titleRu": "Мобильный сервисный комплекс быстрого реагирования",
+        "badge": "Priority Dispatch",
+        "badgeRu": "Спецтранспорт бригады",
+        "desc": "Fully equipped service vehicle stocked with diagnostics, pumps, and emergency tooling operated directly by Herr Septic Services in San Antonio.",
+        "descRu": "Укомплектованный сервисный автомобиль со всем необходимым ремонтным оборудованием и запчастями бригады Herr Septic Services в г. San Antonio.",
         "image": "/showcase/herr-septic-services/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -68840,7 +69100,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in San Antonio includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in San Antonio includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. San Antonio завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -69875,7 +70135,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Hectors+septic+service/@30.1785955,-97.5396565,10z/data=!3m1!4b1!4m6!3m5!1s0xa631d488dace59db:0x290a1e59f1e4a261!8m2!3d30.1785955!4d-97.5396565!16s%2Fg%2F11vjrcdm9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 4,
+    "photosCount": 2,
     "reviewsCount": 5,
     "folderName": "Hectors septic service",
     "reviewsSample": [
@@ -70021,31 +70281,31 @@
     "heroImage": "/showcase/hectors-septic-service/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Service & Field Dispatch Unit",
-        "titleRu": "Специализированный комплекс обслуживания септиков",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Hectors septic service crews in Austin, TX. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Hectors septic service в г. Austin, TX. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/hectors-septic-service/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
-        "image": "/showcase/hectors-septic-service/photo_003_opt.jpg"
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
+        "image": null
       },
       {
         "title": "Turf Protection & Clean Backfill Restoration",
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Austin includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Austin includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Austin завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/hectors-septic-service/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -70319,7 +70579,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Rozell's+septic+services/@32.1194287,-94.8297463,17z/data=!3m1!4b1!4m6!3m5!1s0x8637cb3508b3b37b:0x11873e2192a335f9!8m2!3d32.1194287!4d-94.8297463!16s%2Fg%2F11g4dfm5t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 2,
+    "photosCount": 1,
     "reviewsCount": 5,
     "folderName": "Rozell's septic services",
     "reviewsSample": [
@@ -70463,21 +70723,21 @@
     "heroImage": "/showcase/rozells-septic-services/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Henderson",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Henderson",
+        "title": "Commercial Septic Vacuum Fleet in Henderson",
+        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Henderson",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Rozell's septic services crews in Henderson, TX. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Rozell's septic services в г. Henderson, TX. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
-        "image": "/showcase/rozells-septic-services/photo_002_opt.jpg"
+        "desc": "High-capacity commercial vacuum trucks operated directly by Rozell's septic services crews in Henderson, TX. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Rozell's septic services в г. Henderson, TX. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "image": null
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -70485,7 +70745,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Henderson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Henderson includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Henderson завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -74940,21 +75200,21 @@
     ],
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Vacuum Fleet in Powhatan",
-        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Powhatan",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Premier Septic Services crews in Powhatan, VA. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Premier Septic Services в г. Powhatan, VA. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "title": "Subsurface Septic Tank & Baffle Inspection",
+        "titleRu": "Вскрытие резервуара и ревизия перегородок септика",
+        "badge": "Tank Diagnostics",
+        "badgeRu": "Ревизия резервуара",
+        "desc": "Field inspection uncovering concrete tank access openings, inlet/outlet baffles, and sludge depth to verify watertight system integrity.",
+        "descRu": "Вскрытие технологических люков септика, проверка целостности перегородок и толщины жировой шапки для оценки технического состояния емкости.",
         "image": "/showcase/premier-septic-services/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -74962,7 +75222,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Powhatan includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Powhatan includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Powhatan завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -75753,17 +76013,17 @@
         "titleRu": "Вакуумные цистерны и спецтранспорт в г. Berryville",
         "badge": "Company-Owned Fleet",
         "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Green's Septic Service crews in Berryville, VA. Designed for high-displacement sludge extraction and sanitary compliance.",
-        "descRu": "Мощные вакуумные ассенизаторские цистерны бригады Green's Septic Service в г. Berryville, VA. Обеспечивают полную откачку донного ила и герметичную транспортировку стоков.",
+        "desc": "High-capacity commercial vacuum trucks operated directly by Green's Septic Service crews in Berryville, VA. Engineered for deep sludge extraction and sanitary compliance.",
+        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Green's Septic Service в г. Berryville, VA. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
         "image": null
       },
       {
-        "title": "High-Capacity Vacuum Sludge & Scum Extraction",
-        "titleRu": "Глубокая вакуумная откачка донного ила и жира",
-        "badge": "Deep Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "Heavy-displacement vacuum rotary blowers lift dense solid settled sludge and scum layers from deep residential and commercial tanks without residue.",
-        "descRu": "Высокопроизводительные насосы поднимают застарелый плотный осадок и тяжелые жировые фракции со дна резервуара за один заезд.",
+        "title": "512Hz Sonde High-Definition Camera Inspection",
+        "titleRu": "Телеинспекция магистралей и радиозонд 512 Гц",
+        "badge": "Diagnostic Equipment",
+        "badgeRu": "Видеодиагностика",
+        "desc": "Color sewer camera reels with integrated 512Hz locating sondes detect pipe blockages, root intrusions, and buried tank lids without digging.",
+        "descRu": "Цветные видеокамеры высокого разрешения с радиозондом 512 Гц точно определяют места засоров, трещин и закопанных крышек без лишних раскопок.",
         "image": null
       },
       {
@@ -75771,7 +76031,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Berryville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Berryville includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Berryville завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": null
       }
@@ -78278,7 +78538,7 @@
     "mapsUrl": "https://www.google.com/maps/place/A+Austin%E2%80%99s+Septic+Company+LLC/@47.953904,-122.0370239,17z/data=!3m1!4b1!4m6!3m5!1s0x549aa9d752782dbf:0x294863adebeb3e12!8m2!3d47.953904!4d-122.0370239!16s%2Fg%2F11fk3_twrx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
-    "photosCount": 6,
+    "photosCount": 3,
     "reviewsCount": 5,
     "folderName": "A Austin’s Septic Company LLC",
     "reviewsSample": [
@@ -78429,21 +78689,21 @@
     "heroImage": "/showcase/a-austins-septic-company-llc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Snohomish",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Snohomish",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by A Austin’s Septic Company LLC crews in Snohomish, WA. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады A Austin’s Septic Company LLC в г. Snohomish, WA. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
         "image": "/showcase/a-austins-septic-company-llc/photo_002_opt.jpg"
       },
       {
-        "title": "High-Capacity Vacuum Extraction & Line Diagnostics",
-        "titleRu": "Мощная вакуумная откачка и телеинспекция магистралей",
-        "badge": "Deep Sludge Extraction",
-        "badgeRu": "Глубокая очистка",
-        "desc": "High-displacement vacuum extraction combined with 512Hz underground locating and camera diagnostics to pinpoint issues before any digging begins.",
-        "descRu": "Глубокая вакуумная выкачка донного осадка в сочетании с электронным поиском люков 512 Гц и видеодиагностикой труб до начала раскопок.",
+        "title": "Precision Excavation & Heavy Fleet in Snohomish",
+        "titleRu": "Землеройная спецтехника и экскаваторы в г. Snohomish",
+        "badge": "Heavy Excavation",
+        "badgeRu": "Тяжелая спецтехника",
+        "desc": "Dedicated tracked excavators operated directly by A Austin’s Septic Company LLC crews for surgical trenching, tank placement, and grade control in Snohomish.",
+        "descRu": "Собственные компактные экскаваторы бригады A Austin’s Septic Company LLC для точной разработки траншей, монтажа резервуаров и планировки уклонов в г. Snohomish.",
         "image": "/showcase/a-austins-septic-company-llc/photo_003_opt.jpg"
       },
       {
@@ -78451,9 +78711,9 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Snohomish includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Snohomish includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Snohomish завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
-        "image": "/showcase/a-austins-septic-company-llc/photo_004_opt.jpg"
+        "image": null
       }
     ],
     "galleryPhotos": [],
@@ -80290,7 +80550,7 @@
     "mapsUrl": "https://www.google.com/maps/place/Petersen+Septic+Systems+LLC/@44.0090442,-87.8324921,17z/data=!3m1!4b1!4m6!3m5!1s0x88034053dc7d23cf:0xeaeade2175c7f754!8m2!3d44.0090442!4d-87.8324921!16s%2Fg%2F1hc0tkcvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
     "category": "Septic system service",
     "hours": "Не указаны",
-    "photosCount": 8,
+    "photosCount": 4,
     "reviewsCount": 5,
     "folderName": "Petersen Septic Systems LLC",
     "reviewsSample": [
@@ -80444,21 +80704,21 @@
     "heroImage": "/showcase/petersen-septic-systems-llc/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Precision Excavation & Tank Setting Fleet in Valders",
-        "titleRu": "Землеройная спецтехника и монтаж резервуаров в г. Valders",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "Dedicated field machinery operated directly by Petersen Septic Systems LLC crews in Valders, WI. Engineered for surgical trenching, heavy tank placement, and zero damage to residential driveways and lawns.",
-        "descRu": "Собственная техника бригады Petersen Septic Systems LLC в г. Valders, WI. Обеспечивает точную разработку грунта, монтаж емкостей и полную сохранность подъездных дорожек и газона.",
+        "title": "Precision Excavation & Heavy Fleet in Valders",
+        "titleRu": "Землеройная спецтехника и экскаваторы в г. Valders",
+        "badge": "Heavy Excavation",
+        "badgeRu": "Тяжелая спецтехника",
+        "desc": "Dedicated tracked excavators operated directly by Petersen Septic Systems LLC crews for surgical trenching, tank placement, and grade control in Valders.",
+        "descRu": "Собственные компактные экскаваторы бригады Petersen Septic Systems LLC для точной разработки траншей, монтажа резервуаров и планировки уклонов в г. Valders.",
         "image": "/showcase/petersen-septic-systems-llc/photo_002_opt.jpg"
       },
       {
         "title": "Laser-Graded Drain Field & Lateral Line Equipment",
-        "titleRu": "Оборудование для лазерного нивелирования полей фильтрации",
-        "badge": "Code-Compliant Grading",
-        "badgeRu": "Точный уклон по СНиП",
-        "desc": "Optical grade lasers and washed aggregate bedding setup ensuring uniform gravity flow across all lateral absorption trenches without standing water.",
-        "descRu": "Лазерный контроль уклона дренажных траншей и отсыпка мытым гранитным щебнем для идеального распределения стоков без застоя воды.",
+        "titleRu": "Лазерная укладка дренажа и полей фильтрации",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Laser transits and trenchers ensure millimeter-precise pipe slope alignment for trouble-free effluent flow.",
+        "descRu": "Высокоточное лазерное нивелирование и укладка дренажных распределительных труб с соблюдением нормативных уклонов.",
         "image": "/showcase/petersen-septic-systems-llc/photo_003_opt.jpg"
       },
       {
@@ -80466,7 +80726,7 @@
         "titleRu": "Защита ландшафта и чистовая обратная засыпка",
         "badge": "Property Preservation",
         "badgeRu": "Чистота участка",
-        "desc": "Every project in Valders includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your yard looks clean and settled upon completion.",
+        "desc": "Every project in Valders includes layered soil compaction, grade-level access riser fitting, and smooth surface finishing so your lawn looks pristine upon completion.",
         "descRu": "Каждый выезд в г. Valders завершается послойной трамбовкой грунта, выводом ревизионных крышек в уровень с травой и чистовым разравниванием площадки.",
         "image": "/showcase/petersen-septic-systems-llc/photo_004_opt.jpg"
       }
@@ -80619,12 +80879,12 @@
     "heroImage": "/showcase/wirtz-septic-pumping/photo_001_opt.jpg",
     "equipmentPhotos": [
       {
-        "title": "Commercial Septic Vacuum Fleet in Oconto",
-        "titleRu": "Вакуумные цистерны и спецтранспорт в г. Oconto",
-        "badge": "Company-Owned Fleet",
-        "badgeRu": "Собственный автопарк",
-        "desc": "High-capacity commercial vacuum trucks operated directly by Wirtz Septic Pumping crews in Oconto, WI. Engineered for deep sludge extraction and sanitary compliance.",
-        "descRu": "Собственные вакуумные ассенизаторские цистерны бригады Wirtz Septic Pumping в г. Oconto, WI. Обеспечивают полную откачку донного осадка и герметичную утилизацию стоков.",
+        "title": "Laser-Graded Drain Field Trenching & Bedding",
+        "titleRu": "Лазерное нивелирование полей фильтрации и траншей",
+        "badge": "Drainfield Engineering",
+        "badgeRu": "Дренажный контур",
+        "desc": "Engineered gravel bedding and perforated distribution lines laid with optical laser transits for permanent gravity wastewater dispersal.",
+        "descRu": "Укладка мытого гранитного щебня и перфорированных распределительных магистралей с лазерным контролем уклона для бесперебойного самотека.",
         "image": "/showcase/wirtz-septic-pumping/photo_002_opt.jpg"
       },
       {

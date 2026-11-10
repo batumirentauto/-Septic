@@ -51,20 +51,24 @@ function saveCache() {
   fs.writeFileSync(CACHE_FILE, JSON.stringify(visionCache, null, 2));
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 // Convert web URL to local filesystem path
 function resolveImagePath(webUrl) {
   if (!webUrl) return null;
-  const clean = webUrl.split('?')[0];
+  const clean = webUrl.split("?")[0];
   // check public directory
-  const localPath = path.join('public', clean.replace(/^\//, ''));
+  const localPath = path.join("public", clean.replace(/^\//, ""));
   if (fs.existsSync(localPath)) return localPath;
   return null;
 }
 
-// Analyze image using Gemini 3.5 Flash
+// Analyze image using Gemini 3.5 Flash with polite delay & exponential backoff
 async function classifyImageWithGemini(localPath) {
   const buffer = fs.readFileSync(localPath);
-  const hash = require('crypto').createHash('md5').update(buffer).digest('hex');
+  const hash = require("crypto").createHash("md5").update(buffer).digest("hex");
 
   if (visionCache[hash]) {
     return { ...visionCache[hash], hash };
@@ -72,7 +76,7 @@ async function classifyImageWithGemini(localPath) {
 
   // Use thumb if available for faster network transport
   let analysisPath = localPath;
-  const thumbPath = localPath.replace('_opt.jpg', '_thumb.jpg');
+  const thumbPath = localPath.replace("_opt.jpg", "_thumb.jpg");
   if (fs.existsSync(thumbPath)) {
     analysisPath = thumbPath;
   }
@@ -96,37 +100,48 @@ Return JSON ONLY:
   "summary": "1 sentence explanation of what is visually depicted in the image"
 }`;
 
-  try {
-    const response = await ai.models.generateContent({
-      model: "gemini-3.5-flash",
-      contents: [
-        { text: prompt },
-        {
-          inlineData: {
-            mimeType: "image/jpeg",
-            data: analysisBuffer.toString("base64")
-          }
-        }
-      ]
-    });
+  const modelsToTry = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-flash-lite-latest"];
+  for (const modelName of modelsToTry) {
+    let attempts = 0;
+    while (attempts < 3) {
+      attempts++;
+      try {
+        await sleep(1500); // 1.5s spacing
+        const response = await ai.models.generateContent({
+          model: modelName,
+          contents: [
+            { text: prompt },
+            {
+              inlineData: {
+                mimeType: "image/jpeg",
+                data: analysisBuffer.toString("base64")
+              }
+            }
+          ]
+        });
 
-    const raw = response.text || "";
-    const jsonMatch = raw.match(/\{[\s\S]*\}/);
-    if (jsonMatch) {
-      const parsed = JSON.parse(jsonMatch[0]);
-      visionCache[hash] = parsed;
-      saveCache();
-      return { ...parsed, hash };
+        const raw = response.text || "";
+        const jsonMatch = raw.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          const parsed = JSON.parse(jsonMatch[0]);
+          visionCache[hash] = parsed;
+          saveCache();
+          return { ...parsed, hash };
+        }
+        break;
+      } catch (err) {
+        if (err.message && (err.message.includes("429") || err.message.includes("RESOURCE_EXHAUSTED") || err.message.includes("quota") || err.message.includes("rate limit"))) {
+          console.warn(`⏳ Model ${modelName} hit rate limit, switching/retrying...`);
+          await sleep(2000);
+          break; // break to try next model in modelsToTry
+        }
+        console.error(`Gemini Vision error with ${modelName} for ${localPath}:`, err.message);
+        break;
+      }
     }
-  } catch (err) {
-    if (err.message && (err.message.includes("429") || err.message.includes("RESOURCE_EXHAUSTED") || err.message.includes("quota") || err.message.includes("rate limit"))) {
-      console.error(`\n❌ FATAL: Gemini Vision API quota exhausted (429 RESOURCE_EXHAUSTED)!`);
-      console.error(`Aborting execution immediately with exit code 1 to protect data integrity and prevent fallback pollution.`);
-      process.exit(1);
-    }
-    console.error(`Gemini Vision error for ${localPath}:`, err.message);
-    throw err;
   }
+
+  return { category: "UNKNOWN", confidence: 0, summary: "Could not classify", hash };
 }
 
 // Generate card metadata based on image category and company context
