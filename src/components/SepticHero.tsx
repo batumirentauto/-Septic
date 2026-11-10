@@ -59,16 +59,34 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
   const crewLead = lead.crewMembers && lead.crewMembers.length > 0 ? lead.crewMembers[0] : null
   const locationLabel = lead.city ? `${lead.city}, ${lead.state}` : lead.state
 
+  const isLowTicket =
+    lead.ticketTier === 'LOW_TICKET' ||
+    cleanFocus.toLowerCase().includes('откачк') ||
+    cleanFocus.toLowerCase().includes('чистк') ||
+    cleanFocus.toLowerCase().includes('pumping') ||
+    Boolean(lead.ticketRange && (lead.ticketRange.includes('$350') || lead.ticketRange.includes('$650')))
+
   let headlineRu = `Капитальный монтаж, ремонт септиков и восстановление полей фильтрации в г. ${locationLabel}`
   let headlineEn = `Complete Septic System Installation, Drain Field Restoration & Excavation in ${locationLabel}`
 
-  if (cleanFocus.toLowerCase().includes('монтаж') || cleanFocus.toLowerCase().includes('установк')) {
+  if (isLowTicket) {
+    headlineRu = `Профессиональная откачка, чистка септиков и устранение засоров в г. ${locationLabel}`
+    headlineEn = `Professional Septic Pumping, Drain Cleaning & Emergency Service in ${locationLabel}`
+  } else if (cleanFocus.toLowerCase().includes('монтаж') || cleanFocus.toLowerCase().includes('установк')) {
     headlineRu = `Капитальный монтаж и замена септических систем, земляные работы в г. ${locationLabel}`
     headlineEn = `Complete Septic System Installation, Tank Replacement & Excavation in ${locationLabel}`
   } else if (cleanFocus.toLowerCase().includes('дренаж') || cleanFocus.toLowerCase().includes('фильтрац')) {
     headlineRu = `Восстановление полей фильтрации, капитальный ремонт септиков и земляные работы в г. ${locationLabel}`
     headlineEn = `Drain Field Restoration, Heavy Septic Repair & Precision Excavation in ${locationLabel}`
   }
+
+  const ticketLabel = isLowTicket
+    ? isRu
+      ? 'Откачка и чистка'
+      : 'Pumping & Cleanout'
+    : isRu
+      ? 'Монтаж & Дренаж'
+      : 'Full Systems & Line'
 
   return (
     <section id="hero" className="relative overflow-hidden pt-8 pb-12 lg:pt-12 lg:pb-16 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
@@ -113,8 +131,12 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
               </h1>
               <p className="text-base sm:text-lg text-slate-300 font-medium leading-relaxed max-w-2xl">
                 {isRu
-                  ? `Собственный парк тяжелой и мини-спецтехники в ${locationLabel}. Честные сметы напрямую от владельца без посредников, лазерный контроль уклона труб и 100% защита вашего участка.`
-                  : `Direct owner-operated heavy machinery and mini-excavator fleet serving ${locationLabel}. Upfront fixed pricing with zero broker markup, laser-level slope grading, and 100% lawn protection pledge.`}
+                  ? isLowTicket
+                    ? `Специализированная ассенизаторская спецтехника и прочистное оборудование в ${locationLabel}. Честные цены напрямую без посредников, оперативный выезд и 100% чистота территории.`
+                    : `Собственный парк тяжелой и мини-спецтехники в ${locationLabel}. Честные сметы напрямую от владельца без посредников, лазерный контроль уклона труб и 100% защита вашего участка.`
+                  : isLowTicket
+                    ? `Dedicated commercial vacuum pumper and drain line clearing equipment serving ${locationLabel}. Upfront direct pricing, rapid response, and 100% property protection.`
+                    : `Direct owner-operated heavy machinery and mini-excavator fleet serving ${locationLabel}. Upfront fixed pricing with zero broker markup, laser-level slope grading, and 100% lawn protection pledge.`}
               </p>
             </div>
 
@@ -182,7 +204,7 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                   {lead.ticketRange || '$3K–$18K'}
                 </div>
                 <div className="text-[11px] text-slate-400 font-medium truncate">
-                  {isRu ? 'Монтаж & Дренаж' : 'Full Systems & Line'}
+                  {ticketLabel}
                 </div>
               </div>
 
