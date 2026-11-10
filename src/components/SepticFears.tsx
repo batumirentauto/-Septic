@@ -2,7 +2,7 @@
 
 import React from 'react'
 import { SepticLead } from '../data/septicLeads'
-import { ShieldAlert, CheckCircle2 } from 'lucide-react'
+import { ShieldCheck, CheckCircle2 } from 'lucide-react'
 
 interface SepticFearsProps {
   lead: SepticLead
@@ -10,59 +10,69 @@ interface SepticFearsProps {
 }
 
 export function SepticFears({ lead, isRu = false }: SepticFearsProps) {
-  const fears = isRu
+  const standards = isRu
     ? [
         {
-          fear: 'Страх повреждения газона, брусчатки и подъездных путей тяжелым грузовиком',
+          badge: 'Защита покрытия',
+          title: 'Защита газона, брусчатки и подъездных путей (Zero Yard Damage)',
           solution:
-            'Наши цистерны оборудованы шлангами повышенной дальности (до 200 футов), что позволяет машине оставаться на проезжей части. Если заезд на грунт неизбежен, под колеса укладываются распределяющие вес полимерные маты Turf-Mats.',
+            'Наши цистерны оборудованы шлангами повышенной дальности (до 200 футов), что позволяет машине оставаться на проезжей части. При необходимости заезда под колеса укладываются распределяющие вес полимерные маты Turf-Mats.',
         },
         {
-          fear: 'Страх скрытых доплат за утилизацию и «неожиданных» полигонных сборов',
+          badge: 'Фиксированная цена',
+          title: '100% прозрачная цена без скрытых сборов (All-Inclusive Flat Rate)',
           solution:
-            'Мы называем полную фиксированную стоимость (All-Inclusive Flat Rate) до начала откачки. В стоимость уже включены работа оператора, подача вакуума, экологический полигонный сбор и утилизация.',
+            'Фиксируем полную стоимость до начала работ. В смету уже включены выезд бригады, работа оператора, откачка донного осадка и официальный экологический полигонный сбор за утилизацию.',
         },
         {
-          fear: 'Страх навязывания замены дренажного поля стоимостью $10,000–$25,000',
+          badge: 'Видеоконтроль',
+          title: 'Объективная видеоинспекция до принятия любых решений',
           solution:
-            'Мы никогда не приговариваем дренажное поле вслепую. До принятия решения всегда проводится видеоинспекция камерой и тест проницаемости (percolation test). В 80% случаев проблема решается промывкой труб и био-реювенацией.',
+            'Мы никогда не приговариваем систему вслепую. Заказчик видит реальное состояние труб на цветном мониторе камеры высокого разрешения. В 80% случаев проходимость восстанавливается промывкой без лишних трат.',
         },
         {
-          fear: 'Страх зловония, разбрызгивания нечистот и грязи по двору во время откачки',
+          badge: 'Чистота и экология',
+          title: 'Герметичная система откачки без капель и запаха',
           solution:
-            'Используются герметичные быстросъемные соединения Camlock с двойными силиконовыми прокладками. Вакуумная система работает под отрицательным давлением — ни капли и никакого запаха на участке.',
+            'Используются промышленные быстросъемные соединения Camlock с двойным силиконовым контуром. Вакуумная система работает под постоянным отрицательным давлением — ни капли и никакого запаха на участке.',
         },
         {
-          fear: 'Страх нелицензированных подрядчиков и штрафов от департамента здравоохранения',
+          badge: 'Гослицензия',
+          title: 'Официальный талон утилизации (Waste Manifest) и соответствие нормам',
           solution:
-            'Работаем строго по регламентам Environmental Protection и Health Department. Заказчик получает официальный талон утилизации (Waste Manifest), подтверждающий законный сброс на муниципальной станции.',
+            'Работаем строго по экологическим регламентам Health Department и EPA. Предоставляем официальный манифест утилизации, подтверждающий законную сдачу стоков на муниципальные очистные сооружения.',
         },
       ]
     : [
         {
-          fear: 'Fear of heavy pump trucks rutting your lawn or cracking concrete driveways',
+          badge: 'Zero Lawn Damage',
+          title: 'Lawn & Driveway Protection Protocol',
           solution:
-            'Our tankers carry up to 200 feet of commercial-grade suction hose, allowing trucks to remain parked safely curbside in most homes. When yard entry is required, we lay composite ground-protection mats to disperse truck weight.',
+            'Our tankers carry up to 200 feet of commercial-grade suction hose, allowing trucks to remain parked safely curbside in most homes. When yard entry is necessary, we deploy heavy-duty composite Turf-Mats to protect grass and pavers.',
         },
         {
-          fear: 'Fear of surprise disposal fees and hidden dump surcharges added at the end',
+          badge: 'All-Inclusive Flat Rate',
+          title: 'Guaranteed Upfront Flat-Rate Pricing',
           solution:
-            'We provide guaranteed upfront flat-rate pricing before our hoses touch your tank. Your quote includes operator labor, full sludge and scum extraction, and all municipal wastewater treatment facility dump fees.',
+            'We provide guaranteed upfront pricing before our hoses touch your tank. Your quote includes operator labor, full sludge and scum extraction, and all municipal wastewater treatment facility dump fees with zero hidden surcharges.',
         },
         {
-          fear: 'Fear of dishonest contractors falsely diagnosing a $10,000+ drain field failure',
+          badge: 'Video Proof',
+          title: 'Objective HD Camera Inspection First',
           solution:
-            'We never condemn a drain field without verified proof. You watch the live high-definition color camera inspection screen alongside our technician. In most cases, hydro-jetting and shock treatments restore flow completely.',
+            'We never condemn a drain line or tank blindly. You watch the live high-definition color camera inspection screen alongside our technician. In most cases, hydro-jetting and cleanouts restore full flow without major excavation.',
         },
         {
-          fear: 'Fear of foul odors, messy spills, and sewage stains across your property',
+          badge: 'Zero Spill & Odor',
+          title: 'Sealed Odorless & Spill-Free Camlock System',
           solution:
-            'We use sealed commercial Camlock hose couplings with secondary containment valves. Because our systems run on continuous negative vacuum pressure, zero effluent or airborne odor can escape onto your lawn.',
+            'Equipped with positive-locking Camlock hose couplings and secondary containment valves. Continuous negative vacuum pressure ensures zero drips, no property contamination, and an odorless visit.',
         },
         {
-          fear: 'Fear of uncertified haulers dumping illegally and creating environmental liability',
+          badge: 'EPA Compliant',
+          title: 'Licensed Environmental Disposal & Official Waste Manifest',
           solution:
-            'Fully licensed, bonded, and insured in compliance with state environmental protection standards. Every pump-out comes with an official municipal treatment plant manifest proving compliant, lawful waste disposal.',
+            'Fully licensed, bonded, and insured in compliance with county Health Department and state environmental standards. Every service comes with an official treatment facility manifest proving compliant, lawful waste disposal.',
         },
       ]
 
@@ -71,34 +81,44 @@ export function SepticFears({ lead, isRu = false }: SepticFearsProps) {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-14">
-          <span className="text-xs font-bold tracking-widest text-emerald-400 uppercase">
-            {isRu ? 'Надежность и безопасность' : 'Peace of Mind Guaranteed'}
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 uppercase tracking-wider">
+            <ShieldCheck className="w-3.5 h-3.5" />
+            {isRu ? 'Стандарты защиты заказчика' : 'Homeowner Protection Protocol'}
           </span>
-          <h2 className="text-3xl sm:text-4xl font-extrabold text-white">
-            {isRu ? '5 главных страхов заказчика септика — и как мы их исключаем' : 'The 5 Biggest Septic Fears — Solved by Our Protocol'}
-          </h2>
-          <p className="text-slate-400 text-sm sm:text-base">
+          <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
             {isRu
-              ? `Мы знаем, с какими неприятностями домовладельцы сталкиваются при вызове безответственных компаний. Регламент ${lead.name} полностью защищает вас и ваше имущество.`
-              : `We know the horror stories homeowners experience with fly-by-night pumpers. Here is how ${lead.name} ensures a clean, honest, and stress-free appointment.`}
+              ? '5 стандартов бережного сервиса и честной цены'
+              : 'The 5-Point Homeowner Protection Standard'}
+          </h2>
+          <p className="text-slate-400 text-sm sm:text-base leading-relaxed">
+            {isRu
+              ? `Регламент ${lead.name} защищает ваш участок, бюджет и спокойствие на каждом этапе — от подъезда машины до выдачи документов об утилизации.`
+              : `How ${lead.name} ensures zero property damage, completely transparent flat-rate pricing, and rigorous environmental compliance on every call.`}
           </p>
         </div>
 
-        <div className="max-w-4xl mx-auto space-y-5">
-          {fears.map((item, idx) => (
+        <div className="max-w-4xl mx-auto space-y-4 sm:space-y-5">
+          {standards.map((item, idx) => (
             <div
               key={idx}
-              className="rounded-2xl bg-slate-950 border border-slate-800 p-6 sm:p-7 shadow-lg space-y-3 hover:border-slate-700 transition"
+              className="rounded-2xl bg-slate-950 border border-slate-800/80 p-6 sm:p-7 shadow-lg space-y-3.5 hover:border-emerald-500/40 transition duration-200"
             >
-              <div className="flex items-start gap-3.5">
-                <ShieldAlert className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
-                <h3 className="text-base sm:text-lg font-bold text-white">
-                  {item.fear}
-                </h3>
+              <div className="flex flex-wrap items-center justify-between gap-2.5">
+                <div className="flex items-center gap-3">
+                  <div className="w-7 h-7 rounded-lg bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center shrink-0">
+                    <ShieldCheck className="w-4 h-4 text-emerald-400" />
+                  </div>
+                  <h3 className="text-base sm:text-lg font-bold text-white">
+                    {item.title}
+                  </h3>
+                </div>
+                <span className="text-[11px] font-semibold tracking-wide uppercase px-2.5 py-0.5 rounded-md bg-slate-800/90 text-slate-300 border border-slate-700">
+                  {item.badge}
+                </span>
               </div>
 
-              <div className="flex items-start gap-3.5 pl-8 sm:pl-9 pt-1">
-                <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
+              <div className="flex items-start gap-3 pl-10 pt-0.5">
+                <CheckCircle2 className="w-4 h-4 text-emerald-400/90 shrink-0 mt-1" />
                 <p className="text-sm text-slate-300 leading-relaxed">
                   {item.solution}
                 </p>
