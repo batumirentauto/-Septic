@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server'
 import fs from 'fs'
 import path from 'path'
+import rawCallLeads from '../../../data/callLeads.json'
 
 const LOG_FILE = path.resolve(process.cwd(), 'outreach_call_log.json')
 
@@ -23,6 +24,62 @@ function writeLog(data: any) {
   }
 }
 
+async function sendTelegramAlert(leadInfo: any, status: string, note: string, stats: any) {
+  const statusEmoji: Record<string, string> = {
+    AGREED: '✅ СОГЛАСИЛИСЬ НА SMS',
+    CALLBACK: '🟡 ПЕРЕЗВОНИТЬ / СЕКРЕТАРЬ',
+    NO_ANSWER: '⏳ НЕ ВЗЯЛИ ТРУБКУ',
+    DECLINED: '❌ ОТКАЗ / НЕ ИНТЕРЕСНО',
+    WRONG_NUMBER: '🚫 НЕВЕРНЫЙ НОМЕР',
+  }
+
+  const statusLabel = statusEmoji[status] || status
+
+  const text =
+    `📞 <b>Результат звонка оператора Ходы</b>\n\n` +
+    `🏢 <b>Компания:</b> ${leadInfo.company || '—'}\n` +
+    `👤 <b>Владелец:</b> ${leadInfo.owner || '—'}\n` +
+    `📱 <b>Телефон:</b> <code>${leadInfo.phone}</code>\n` +
+    `📍 <b>Город:</b> ${leadInfo.city || ''}, ${leadInfo.state || ''}\n` +
+    `🎯 <b>Результат:</b> <b>${statusLabel}</b>\n` +
+    (note ? `📝 <b>Заметка:</b> <i>${note}</i>\n` : '') +
+    `🔗 <b>Витрина:</b> https://zonus.co/${leadInfo.slug}\n\n` +
+    `📊 <b>Сводка на текущий момент:</b>\n` +
+    `• Всего обработано: <b>${stats.total}</b>\n` +
+    `• 🟢 Согласились на SMS: <b>${stats.agreed}</b>\n` +
+    `• 🟡 Перезвонить/Жена: <b>${stats.callback}</b>\n` +
+    `• ⚪ Не ответили: <b>${stats.noAnswer}</b>\n` +
+    `• 🔴 Отказ: <b>${stats.declined}</b>`
+
+  const targets = [
+    {
+      token: process.env.TELEGRAM_BOT_TOKEN || '8915615220:AAHstRA8VGD1lP0O-Oyg9SLt7hee9FRGLNI',
+      chatId: process.env.TELEGRAM_ADMIN_CHAT_ID || '5811905642',
+    },
+    {
+      token: '9160117417:AAHEbjH0025ymMJEYWOQpAc3L5iIXioaMeU',
+      chatId: '8182918344',
+    },
+  ]
+
+  for (const { token, chatId } of targets) {
+    if (!token || !chatId) continue
+    try {
+      await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          chat_id: chatId,
+          text,
+          parse_mode: 'HTML',
+        }),
+      })
+    } catch (e) {
+      console.error('Failed to notify Telegram:', e)
+    }
+  }
+}
+
 export async function GET() {
   const data = readLog()
   return NextResponse.json(data)
@@ -31,7 +88,7 @@ export async function GET() {
 export async function POST(req: Request) {
   try {
     const body = await req.json()
-    const { phone, slug, company, status, note } = body
+    const { phone, slug, company, status, note, isSilentSync } = body
 
     if (!phone || !status) {
       return NextResponse.json({ error: 'phone and status are required' }, { status: 400 })
@@ -71,6 +128,18 @@ export async function POST(req: Request) {
     data.lastUpdated = new Date().toISOString()
 
     writeLog(data)
+
+    // Send Telegram alert unless it is an automated background sync of old data
+    if (!isSilentSync) {
+      const matchedLead = (rawCallLeads as any[]).find((l) => l.phone === phone || l.slug === slug) || {
+        company,
+        slug,
+        phone,
+      }
+      sendTelegramAlert(matchedLead, status, note || '', stats).catch((err) =>
+        console.error('Background telegram alert error:', err)
+      )
+    }
 
     return NextResponse.json({ ok: true, stats, logged: data.calls[phone] })
   } catch (err: any) {

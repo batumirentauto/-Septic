@@ -18,6 +18,8 @@ interface CallLead {
 
 type CallStatus = 'AGREED' | 'CALLBACK' | 'NO_ANSWER' | 'DECLINED' | 'WRONG_NUMBER' | 'UNTOUCHED'
 
+const STORAGE_KEY = 'call_dispatcher_v2_logged_calls'
+
 export default function CallDispatcherPage() {
   const leads: CallLead[] = rawCallLeads as CallLead[]
 
@@ -25,28 +27,77 @@ export default function CallDispatcherPage() {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [selectedStatus, setSelectedStatus] = useState<CallStatus | null>(null)
   const [note, setNote] = useState('')
-  const [loggedCalls, setLoggedCalls] = useState<Record<string, { status: CallStatus; note: string }>>({})
+  const [loggedCalls, setLoggedCalls] = useState<
+    Record<string, { status: CallStatus; note: string; slug?: string; company?: string; updatedAt?: string }>
+  >({})
   const [stats, setStats] = useState({ total: 0, agreed: 0, callback: 0, noAnswer: 0, declined: 0, wrongNumber: 0 })
   const [isSaving, setIsSaving] = useState(false)
   const [copiedHook, setCopiedHook] = useState(false)
+  const [showHistory, setShowHistory] = useState(false)
 
-  // Fetch logged calls on load
+  // Fetch logged calls on load & merge with localStorage
   useEffect(() => {
+    let localCalls: Record<string, { status: CallStatus; note: string; slug?: string; company?: string; updatedAt?: string }> = {}
+    try {
+      const saved = localStorage.getItem(STORAGE_KEY)
+      if (saved) {
+        localCalls = JSON.parse(saved)
+      }
+    } catch (e) {
+      console.warn('Failed to read localStorage:', e)
+    }
+
     fetch('/api/calls')
       .then((res) => res.json())
       .then((data) => {
-        if (data.calls) {
-          setLoggedCalls(data.calls)
-          setStats(data.stats || stats)
+        const serverCalls = data.calls || {}
+        // Merge: local takes priority if server was restarted, but keep server timestamps
+        const merged = { ...serverCalls, ...localCalls }
+        setLoggedCalls(merged)
 
-          // Find first uncalled lead
-          const firstUncalled = leads.findIndex((l) => !data.calls[l.phone])
-          if (firstUncalled !== -1) {
-            setCurrentIndex(firstUncalled)
+        // Calculate unified stats
+        const newStats = { total: Object.keys(merged).length, agreed: 0, callback: 0, noAnswer: 0, declined: 0, wrongNumber: 0 }
+        for (const item of Object.values(merged) as any[]) {
+          if (item.status === 'AGREED') newStats.agreed++
+          else if (item.status === 'CALLBACK') newStats.callback++
+          else if (item.status === 'NO_ANSWER') newStats.noAnswer++
+          else if (item.status === 'DECLINED') newStats.declined++
+          else if (item.status === 'WRONG_NUMBER') newStats.wrongNumber++
+        }
+        setStats(newStats)
+
+        // Restore missing calls on server if container was restarted
+        const missingOnServer = Object.keys(localCalls).filter((ph) => !serverCalls[ph])
+        if (missingOnServer.length > 0) {
+          for (const ph of missingOnServer) {
+            const itm = localCalls[ph]
+            fetch('/api/calls', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                phone: ph,
+                slug: itm.slug || '',
+                company: itm.company || '',
+                status: itm.status,
+                note: itm.note || '',
+                isSilentSync: true,
+              }),
+            }).catch(() => {})
           }
         }
+
+        // Find first uncalled lead
+        const firstUncalled = leads.findIndex((l) => !merged[l.phone])
+        if (firstUncalled !== -1) {
+          setCurrentIndex(firstUncalled)
+        }
       })
-      .catch((err) => console.error('Failed to load call log:', err))
+      .catch((err) => {
+        console.error('Failed to load call log from server:', err)
+        if (Object.keys(localCalls).length > 0) {
+          setLoggedCalls(localCalls)
+        }
+      })
   }, [])
 
   const currentLead: CallLead | undefined = leads[currentIndex]
@@ -68,7 +119,7 @@ export default function CallDispatcherPage() {
       <div className="min-h-screen bg-slate-950 text-white flex items-center justify-center p-6 text-center">
         <div>
           <h1 className="text-2xl font-bold mb-2">🎉 {lang === 'EN' ? 'All Leads Completed!' : 'Все контакты обработаны!'}</h1>
-          <p className="text-slate-400">{lang === 'EN' ? 'All 80 contractor leads have been contacted.' : 'Все 80 подрядчиков обзвонены.'}</p>
+          <p className="text-slate-400">{lang === 'EN' ? 'All contractor leads have been contacted.' : 'Все подрядчики обзвонены.'}</p>
         </div>
       </div>
     )
@@ -85,14 +136,10 @@ export default function CallDispatcherPage() {
 
   const showcaseUrl = `https://zonus.co/${currentLead.slug}`
 
-  // Hook speech lines
-  const hookSpeechEn = currentLead.hookAuthor
-    ? `“Hi ${currentLead.owner || 'there'}! Saw your great work in ${currentLead.city} and that review from ${currentLead.hookAuthor} — solid work!”`
-    : `“Hi ${currentLead.owner || 'there'}! Saw your 5-star reviews in ${currentLead.city} — awesome reputation!”`
+  // 15-second opening pitch
+  const hookSpeechEn = `“Hi, is this ${currentLead.owner || currentLead.company}? Look, I’ll be 15 seconds — our team actually just built a quick live website demo for your business using your real trucks and local reviews. Mind if I text you a 10-second link to look at while you're in the field?”`
 
-  const hookSpeechRu = currentLead.hookAuthor
-    ? `«Привет, ${currentLead.owner || 'мужики'}! Увидел вашу работу в г. ${currentLead.city} и отзыв от ${currentLead.hookAuthor} — отличная работа!»`
-    : `«Привет, ${currentLead.owner || 'мужики'}! Увидел ваши 5-звездочные отзывы в г. ${currentLead.city} — мощная репутация!»`
+  const hookSpeechRu = `«Здравствуйте, это ${currentLead.owner || currentLead.company}? Буквально 15 секунд — наша команда уже собрала живую мобильную витрину для вашей компании с вашими реальными траками и отзывами. Можно скинуть вам 10-секундную ссылку по SMS, пока вы на выезде?»`
 
   const hookSpeech = lang === 'EN' ? hookSpeechEn : hookSpeechRu
 
@@ -110,6 +157,30 @@ export default function CallDispatcherPage() {
     }
 
     setIsSaving(true)
+
+    const updatedItem = {
+      status: finalStatus,
+      note: note.trim(),
+      slug: currentLead.slug,
+      company: currentLead.company,
+      updatedAt: new Date().toISOString(),
+    }
+
+    const updatedCalls = {
+      ...loggedCalls,
+      [currentLead.phone]: updatedItem,
+    }
+
+    setLoggedCalls(updatedCalls)
+
+    // 1. Immediately persist in browser localStorage
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(updatedCalls))
+    } catch (e) {
+      console.warn('LocalStorage save failed:', e)
+    }
+
+    // 2. Send to server & Telegram notification
     try {
       const res = await fetch('/api/calls', {
         method: 'POST',
@@ -123,23 +194,17 @@ export default function CallDispatcherPage() {
         }),
       })
       const data = await res.json()
-      if (data.ok) {
-        setLoggedCalls((prev) => ({
-          ...prev,
-          [currentLead.phone]: { status: finalStatus, note: note.trim() },
-        }))
-        if (data.stats) setStats(data.stats)
-
-        // Move to next
-        if (currentIndex < leads.length - 1) {
-          setCurrentIndex(currentIndex + 1)
-        }
+      if (data.stats) {
+        setStats(data.stats)
       }
     } catch (err) {
-      console.error('Error saving call:', err)
-      alert(lang === 'EN' ? 'Error saving call status' : 'Ошибка при сохранении статуса звонка')
+      console.error('Error saving call to server:', err)
     } finally {
       setIsSaving(false)
+      // Move to next uncalled lead or next index
+      if (currentIndex < leads.length - 1) {
+        setCurrentIndex(currentIndex + 1)
+      }
     }
   }
 
@@ -151,7 +216,7 @@ export default function CallDispatcherPage() {
           <div>
             <div className="text-[11px] font-semibold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
               <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></span>
-              Call Dispatcher CRM
+              Call Dispatcher CRM &bull; Live TG Sync
             </div>
             <div className="text-sm font-bold text-white">
               {lang === 'EN' ? `Lead #${currentIndex + 1}` : `Контакт #${currentIndex + 1}`}{' '}
@@ -176,32 +241,86 @@ export default function CallDispatcherPage() {
               </button>
             </div>
 
-            {/* Quick stats counter */}
-            <div className="flex items-center gap-1 text-[11px]">
-              <span className="bg-emerald-950 border border-emerald-800/80 text-emerald-300 px-1.5 py-0.5 rounded font-mono" title="Agreed">
-                🟢 {stats.agreed}
-              </span>
-              <span className="bg-amber-950 border border-amber-800/80 text-amber-300 px-1.5 py-0.5 rounded font-mono" title="Callback">
-                🟡 {stats.callback}
-              </span>
-              <span className="bg-slate-800 border border-slate-700 text-slate-300 px-1.5 py-0.5 rounded font-mono" title="No Answer">
-                ⚪ {stats.noAnswer}
-              </span>
-              <span className="bg-rose-950 border border-rose-800/80 text-rose-300 px-1.5 py-0.5 rounded font-mono" title="Declined">
-                🔴 {stats.declined}
-              </span>
-            </div>
+            {/* History toggle */}
+            <button
+              onClick={() => setShowHistory(!showHistory)}
+              className="bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs px-2.5 py-1 rounded-lg border border-slate-700 transition"
+              title="История звонков"
+            >
+              📋 {stats.total}
+            </button>
+          </div>
+        </div>
+
+        {/* Mini stats counters */}
+        <div className="max-w-md mx-auto grid grid-cols-4 gap-1.5 mt-2.5 text-[11px] text-center">
+          <div className="bg-slate-950/70 border border-emerald-900/60 rounded-lg py-1 px-2">
+            <span className="text-emerald-400 font-bold">🟢 {stats.agreed}</span>
+            <span className="block text-[9px] text-slate-400 uppercase">{lang === 'EN' ? 'Agreed' : 'Да (SMS)'}</span>
+          </div>
+          <div className="bg-slate-950/70 border border-amber-900/60 rounded-lg py-1 px-2">
+            <span className="text-amber-400 font-bold">🟡 {stats.callback}</span>
+            <span className="block text-[9px] text-slate-400 uppercase">{lang === 'EN' ? 'Callback' : 'Позже'}</span>
+          </div>
+          <div className="bg-slate-950/70 border border-slate-800 rounded-lg py-1 px-2">
+            <span className="text-slate-400 font-bold">⚪ {stats.noAnswer}</span>
+            <span className="block text-[9px] text-slate-400 uppercase">{lang === 'EN' ? 'No Ans' : 'Молчат'}</span>
+          </div>
+          <div className="bg-slate-950/70 border border-rose-900/60 rounded-lg py-1 px-2">
+            <span className="text-rose-400 font-bold">🔴 {stats.declined}</span>
+            <span className="block text-[9px] text-slate-400 uppercase">{lang === 'EN' ? 'Declined' : 'Отказ'}</span>
           </div>
         </div>
 
         {/* Progress bar */}
-        <div className="max-w-md mx-auto mt-2 w-full bg-slate-800 h-1.5 rounded-full overflow-hidden">
+        <div className="max-w-md mx-auto mt-2 h-1 bg-slate-800 rounded-full overflow-hidden">
           <div
             className="bg-emerald-500 h-full transition-all duration-300"
             style={{ width: `${((currentIndex + 1) / leads.length) * 100}%` }}
           />
         </div>
       </header>
+
+      {/* History Drawer Modal */}
+      {showHistory && (
+        <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-end sm:items-center justify-center p-3">
+          <div className="bg-slate-900 border border-slate-800 w-full max-w-md max-h-[80vh] rounded-2xl flex flex-col p-4 shadow-2xl">
+            <div className="flex items-center justify-between pb-3 border-b border-slate-800">
+              <h3 className="font-bold text-white text-sm">📋 {lang === 'EN' ? 'Call Log History' : 'Журнал звонков'} ({stats.total})</h3>
+              <button onClick={() => setShowHistory(false)} className="text-slate-400 hover:text-white text-sm p-1">✕</button>
+            </div>
+            <div className="overflow-y-auto flex-1 my-3 space-y-2 pr-1">
+              {Object.keys(loggedCalls).length === 0 ? (
+                <div className="text-center py-8 text-slate-500 text-xs">{lang === 'EN' ? 'No calls recorded yet.' : 'Звонков пока нет.'}</div>
+              ) : (
+                Object.entries(loggedCalls).map(([ph, item]) => (
+                  <div key={ph} className="bg-slate-950 border border-slate-800 rounded-xl p-2.5 text-xs flex justify-between items-start">
+                    <div>
+                      <div className="font-bold text-white">{item.company || ph}</div>
+                      <div className="text-slate-400 font-mono text-[10px]">{ph}</div>
+                      {item.note && <div className="text-emerald-400/90 text-[11px] mt-1 italic">“{item.note}”</div>}
+                    </div>
+                    <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
+                      item.status === 'AGREED' ? 'bg-emerald-950 text-emerald-300 border border-emerald-800' :
+                      item.status === 'CALLBACK' ? 'bg-amber-950 text-amber-300 border border-amber-800' :
+                      item.status === 'DECLINED' ? 'bg-rose-950 text-rose-300 border border-rose-800' :
+                      'bg-slate-800 text-slate-300'
+                    }`}>
+                      {item.status}
+                    </span>
+                  </div>
+                ))
+              )}
+            </div>
+            <button
+              onClick={() => setShowHistory(false)}
+              className="w-full bg-slate-800 hover:bg-slate-700 text-white font-bold py-2 rounded-xl text-xs transition"
+            >
+              {lang === 'EN' ? 'Close' : 'Закрыть'}
+            </button>
+          </div>
+        </div>
+      )}
 
       {/* Main Call Card */}
       <main className="max-w-md w-full mx-auto p-4 flex-1 flex flex-col gap-3.5">
@@ -238,10 +357,10 @@ export default function CallDispatcherPage() {
           </div>
         </div>
 
-        {/* Cheat Sheet / Opening Hook Box */}
+        {/* Cheat Sheet / 15-Sec Hook Box */}
         <div className="bg-emerald-950/40 border border-emerald-800/60 rounded-2xl p-4 relative overflow-hidden">
           <div className="text-[11px] font-bold uppercase tracking-wider text-emerald-400 flex items-center justify-between">
-            <span>🔥 {lang === 'EN' ? '5-Sec Icebreaker / Hook' : 'Факт для зацепки (Первые 5 сек)'}</span>
+            <span>🔥 {lang === 'EN' ? '15-Sec Opening Pitch (Zero Fluff)' : 'Скрипт вступления (15 сек без спама)'}</span>
             <button
               onClick={handleCopyHook}
               className="text-[10px] bg-emerald-900/80 hover:bg-emerald-800 text-emerald-200 px-2 py-0.5 rounded transition"
@@ -255,21 +374,17 @@ export default function CallDispatcherPage() {
           </div>
 
           {currentLead.hookText && (
-            <div className="mt-2 pt-2 border-t border-emerald-900/50 text-[11px] text-emerald-300/80 italic">
+            <div className="mt-2.5 pt-2 border-t border-emerald-900/50 text-[11px] text-emerald-300/80 italic">
               “{currentLead.hookText}”
               {currentLead.hookAuthor && <span className="font-semibold not-italic text-emerald-400"> — {currentLead.hookAuthor}</span>}
             </div>
           )}
         </div>
 
-        {/* Pricing Cheat Sheet Pill */}
-        <div className="bg-slate-900/90 border border-slate-800 rounded-xl px-3 py-2 flex items-center justify-between text-[11px]">
-          <span className="text-slate-400">{lang === 'EN' ? 'Pricing Options:' : 'Варианты оплаты:'}</span>
-          <div className="flex items-center gap-2">
-            <span className="text-emerald-400 font-bold">$2,500 {lang === 'EN' ? 'flat' : 'разово'}</span>
-            <span className="text-slate-600">or</span>
-            <span className="text-sky-400 font-bold">$249/mo {lang === 'EN' ? '(12 mos)' : '(на 1 год)'}</span>
-          </div>
+        {/* Quick Rule Reminder Pill */}
+        <div className="bg-slate-900/90 border border-slate-800 rounded-xl px-3 py-2 text-[11px] text-slate-400 flex items-center justify-between">
+          <span>⚠️ {lang === 'EN' ? 'No "Amazing!", no "no website"' : 'Без "Amazing!", не говорить "нет сайта"'}</span>
+          <span className="text-emerald-400 font-bold">{lang === 'EN' ? 'Goal: 1 SMS agreement' : 'Цель: согласие на SMS'}</span>
         </div>
 
         {/* Primary Call & SMS Action Buttons */}
@@ -309,7 +424,7 @@ export default function CallDispatcherPage() {
               <span>🟢</span>
               <div>
                 <div>{lang === 'EN' ? 'Agreed' : 'Согласился'}</div>
-                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Link Sent / Looking' : 'Ссылка отправлена'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'SMS Link Sent' : 'Ссылка отправлена'}</div>
               </div>
             </button>
 
@@ -323,8 +438,8 @@ export default function CallDispatcherPage() {
             >
               <span>🟡</span>
               <div>
-                <div>{lang === 'EN' ? 'Callback' : 'Перезвонить'}</div>
-                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Busy / In Field' : 'Занят / позже'}</div>
+                <div>{lang === 'EN' ? 'Callback / Wife' : 'Перезвонить / Жена'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'In Field / Office' : 'Занят / в поле'}</div>
               </div>
             </button>
 
@@ -339,7 +454,7 @@ export default function CallDispatcherPage() {
               <span>⚪</span>
               <div>
                 <div>{lang === 'EN' ? 'No Answer' : 'Не ответил'}</div>
-                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Ringing / Voicemail' : 'Гудки / автоответ'}</div>
+                <div className="text-[10px] opacity-75 font-normal">{lang === 'EN' ? 'Voicemail' : 'Гудки / автоответ'}</div>
               </div>
             </button>
 
@@ -378,7 +493,7 @@ export default function CallDispatcherPage() {
               type="text"
               value={note}
               onChange={(e) => setNote(e.target.value)}
-              placeholder={lang === 'EN' ? "Quick note (e.g. 'Call back at 5 PM', 'Wife handles tech')..." : "Короткая заметка (напр. 'перезвонить в 17:00')..."}
+              placeholder={lang === 'EN' ? "Quick note (e.g. 'Wife took note', 'Call at 5 PM')..." : "Заметка (напр. 'ответила мама, скинуть SMS в 17:00')..."}
               className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-600 focus:outline-none focus:border-emerald-500"
             />
           </div>
@@ -397,7 +512,7 @@ export default function CallDispatcherPage() {
           {isSaving ? (lang === 'EN' ? 'Saving...' : 'Сохранение...') : (lang === 'EN' ? '💾 Save & Next Lead ➔' : '💾 Сохранить и следующий контакт ➔')}
         </button>
 
-        {/* Manual prev/next navigation footer */}
+        {/* Navigation footer */}
         <div className="flex items-center justify-between text-xs text-slate-500 px-1 pt-1">
           <button
             onClick={() => setCurrentIndex(Math.max(0, currentIndex - 1))}
