@@ -23,6 +23,13 @@ export function SepticCoverage({ lead, isRu = false }: SepticCoverageProps) {
         ]
 
   const cleanPhone = lead.phone ? lead.phone.replace(/[^\d+]/g, '') : ''
+  const rawFocus = lead.primaryFocus || ''
+  const isLowTicket =
+    lead.ticketTier === 'LOW_TICKET' ||
+    rawFocus.toLowerCase().includes('откачк') ||
+    rawFocus.toLowerCase().includes('чистк') ||
+    rawFocus.toLowerCase().includes('pumping') ||
+    Boolean(lead.ticketRange && (lead.ticketRange.includes('$350') || lead.ticketRange.includes('$650')))
 
   return (
     <section id="coverage" className="py-16 sm:py-20 bg-slate-900 border-b border-slate-800">
@@ -42,7 +49,9 @@ export function SepticCoverage({ lead, isRu = false }: SepticCoverageProps) {
               </h2>
               <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                 {isRu
-                  ? `Бригады ${lead.name} укомплектованы мобильными мини-экскаваторами и вакуумными цистернами, готовыми к выезду в жилые и коммерческие районы.`
+                  ? isLowTicket
+                    ? `Бригады ${lead.name} укомплектованы мощными вакуумными цистернами и мобильными гидродинамическими комплексами, готовыми к срочному выезду.`
+                    : `Бригады ${lead.name} укомплектованы мобильными мини-экскаваторами и вакуумными цистернами, готовыми к выезду в жилые и коммерческие районы.`
                   : `Field units from ${lead.name} are stationed across the region for rapid emergency dispatch to residential properties, subdivisions, and rural acreage.`}
               </p>
             </div>

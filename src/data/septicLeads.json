@@ -75811,8 +75811,8 @@
     "website": "—",
     "websiteIssue": "Сайт отсутствует в карточке",
     "mapsUrl": "https://www.google.com/maps/place/Turdbusters/@37.2747875,-79.9580739,12z/data=!3m1!4b1!4m6!3m5!1s0x884d0d5e9a9c0db9:0xc155d4dba87e15f!8m2!3d37.2747875!4d-79.958074!16s%2Fg%2F11fjqk1zvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
-    "category": "Plumber",
-    "hours": "Thursday:  | Friday:  | Saturday:  | Sunday:  | Monday:  | Tuesday:  | Wednesday: ",
+    "category": "Septic Tank Pumping & Cleanout",
+    "hours": "Open 24/7 • Emergency Dispatch",
     "photosCount": 0,
     "reviewsCount": 5,
     "folderName": "Turdbusters",
@@ -75863,8 +75863,21 @@
     "ticketTierLabel": "Low-Ticket: Pumping Only",
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
-    "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "primaryFocus": "Откачка и чистка септиков (Pumping)",
+    "highTicketServices": [],
+    "primaryFocusEn": "Septic Tank Pumping & Drain Cleanout",
+    "competitiveAdvantages": {
+      "ru": [
+        "Аварийный выезд дежурной цистерны 24/7",
+        "Прозрачная смета до начала откачки",
+        "Защитные настилы и 100% чистота газона"
+      ],
+      "en": [
+        "24/7 Emergency Pump Dispatch",
+        "Upfront Flat Rate Before Pumping",
+        "Turf Mats & Zero Lawn Damage"
+      ]
+    }
   },
   {
     "slug": "harolds-septic-service",

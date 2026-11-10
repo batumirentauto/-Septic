@@ -311,12 +311,12 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                     {(isRu
                       ? lead.competitiveAdvantages?.ru || [
                           'Выезд дежурной бригады в день обращения',
-                          'Прозрачная смета до начала земельных работ',
+                          isLowTicket ? 'Прозрачная смета до начала откачки' : 'Прозрачная смета до начала земельных работ',
                           'Аккуратная работа без разрушения газона',
                         ]
                       : lead.competitiveAdvantages?.en || [
                           'Same-Day Priority Field Dispatch',
-                          'Upfront Fixed Estimate Before Digging',
+                          isLowTicket ? 'Upfront Fixed Estimate Before Pumping' : 'Upfront Fixed Estimate Before Digging',
                           'Zero Mess & Complete Turf Preservation',
                         ]
                     ).map((item, i) => (

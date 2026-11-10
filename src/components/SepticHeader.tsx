@@ -42,14 +42,27 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
 
   const rawFocus = lead.primaryFocus || ''
   const cleanFocusRu = rawFocus.replace(/\s*\([a-zA-Z\s]+\)/g, '').trim()
-  const cleanFocusEn = lead.primaryFocusEn || (rawFocus.toLowerCase().includes('дренаж')
-    ? 'Drain Field Restoration & Septic Repair'
-    : rawFocus.toLowerCase().includes('монтаж')
-    ? 'Septic System Installation & Excavation'
-    : 'Septic Installation, Drain Field Restoration & Excavation')
+  const isLowTicket =
+    lead.ticketTier === 'LOW_TICKET' ||
+    rawFocus.toLowerCase().includes('откачк') ||
+    rawFocus.toLowerCase().includes('чистк') ||
+    rawFocus.toLowerCase().includes('pumping') ||
+    Boolean(lead.ticketRange && (lead.ticketRange.includes('$350') || lead.ticketRange.includes('$650')))
+
+  const cleanFocusEn = lead.primaryFocusEn || (
+    isLowTicket
+      ? 'Septic Tank Pumping & Emergency Cleanout'
+      : rawFocus.toLowerCase().includes('дренаж')
+      ? 'Drain Field Restoration & Septic Repair'
+      : rawFocus.toLowerCase().includes('монтаж')
+      ? 'Septic System Installation & Excavation'
+      : 'Septic Installation, Drain Field Restoration & Excavation'
+  )
 
   const serviceTagline = isRu
-    ? (cleanFocusRu ? `${cleanFocusRu} • Земляные работы` : 'Монтаж, ремонт септиков и земляные работы')
+    ? (isLowTicket
+        ? 'Откачка и чистка септиков • Аварийный выезд 24/7'
+        : (cleanFocusRu ? `${cleanFocusRu} • Земляные работы` : 'Монтаж, ремонт септиков и земляные работы'))
     : cleanFocusEn
 
   return (
