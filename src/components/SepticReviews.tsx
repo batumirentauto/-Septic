@@ -61,19 +61,19 @@ export function SepticReviews({ lead, isRu = false, onOpenPhoto }: SepticReviews
               return (
                 <div
                   key={idx}
-                  className={`rounded-2xl bg-slate-900/70 border p-6 flex flex-col justify-between space-y-4 hover:border-slate-700 transition ${
+                  className={`rounded-2xl bg-slate-900/70 border p-6 flex flex-col justify-between space-y-4 hover:border-slate-700 transition overflow-hidden break-words ${
                     hasPhotos ? 'border-cyan-500/40 bg-slate-900/90 shadow-lg' : 'border-slate-800/80'
                   }`}
                 >
                   <div className="space-y-3.5">
                     {/* Top rating + date row */}
-                    <div className="flex items-center justify-between">
+                    <div className="flex items-center justify-between gap-2">
                       <StarRating rating={r.rating} starClassName="w-4 h-4" />
-                      <span className="text-xs text-slate-500 font-mono">{r.date || ''}</span>
+                      <span className="text-xs text-slate-500 font-mono shrink-0">{r.date || ''}</span>
                     </div>
 
                     {/* Review text */}
-                    <p className="text-sm text-slate-300 italic leading-relaxed whitespace-pre-line">
+                    <p className="text-sm text-slate-300 italic leading-relaxed whitespace-pre-line break-words">
                       &ldquo;{r.text}&rdquo;
                     </p>
 

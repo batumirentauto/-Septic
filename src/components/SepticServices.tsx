@@ -60,40 +60,40 @@ export function SepticServices({ lead, isRu = false }: SepticServicesProps) {
           ]
         : [
             {
-              icon: Droplet,
-              title: 'Откачка септика и утилизация ила',
-              desc: 'Полная выкачка жидкой и твердой фракции (scum & sludge) мощным вакуумным насосом. Промывка стенок резервуара и официальная утилизация на сертифицированном полигоне.',
-              specs: 'Вакуум 4000+ CFM | Шланги до 200 футов',
+              icon: Wrench,
+              title: 'Капитальный монтаж септических систем «под ключ»',
+              desc: 'Проектирование и монтаж конвенциональных и аэробных септиков. Соблюдение всех уклонов магистралей, согласование с округом (Health Department) и официальная сдача инспекторам.',
+              specs: 'Танки 1,000–2,500 Gal | Лазерный нивелир | Сертификат округа',
             },
             {
               icon: Activity,
-              title: 'Ремонт и восстановление дренажного поля',
-              desc: 'Устранение био-мата, заиления и застоя воды над дренажными траншеями. Восстановление проницаемости грунта без тотального разрытия всего участка.',
-              specs: 'Реювенация перфораций | Проверка распределительных коробок (D-box)',
-            },
-            {
-              icon: Video,
-              title: 'Видеокамера высокого разрешения (CCTV Audit)',
-              desc: 'Цветная видеоинспекция отводящих и подводящих магистралей. Точное определение прорастания корней, трещин, провисов труб и засоров с фиксацией метража.',
-              specs: 'Камера с автогоризонтом | Запись отчета на флешку',
-            },
-            {
-              icon: Sparkles,
-              title: 'Гидродинамическая промывка (Hydro-Jetting)',
-              desc: 'Смыв застарелого жирового и мыльного налета давлением воды до 4,000 PSI. Полное восстановление заводского сечения труб без повреждения пластика и бетона.',
-              specs: 'Давление до 4,000 PSI | Вращающиеся роторные форсунки',
+              title: 'Замена и восстановление дренажных полей (Drain Field)',
+              desc: 'Полная замена заиленных дренажных траншей, укладка современных бескамерных перфорированных систем (Infiltrator Chambers) и восстановление проницаемости грунта.',
+              specs: 'Перколяционный тест | Реювенация грунта | Нивелировка D-Box',
             },
             {
               icon: Filter,
-              title: 'Установка райзеров (горловин) и замена фильтров',
-              desc: 'Подъем ревизионных люков на уровень газона с герметичными крышками. Больше не нужно перекапывать газон при каждой инспекции и обслуживании.',
-              specs: 'Ударопрочный полиэтилен | Газонепроницаемые уплотнители',
+              title: 'Замена резервуаров септиков и установка ревизионных люков',
+              desc: 'Демонтаж треснувших или аварийных емкостей, аккуратная установка новых железобетонных или полимерных резервуаров с выводом герметичных люков на уровень газона.',
+              specs: 'Бетон класс 5000 PSI / Ударопрочный полимер | Газонепроницаемые люки',
             },
             {
-              icon: Wrench,
-              title: 'Ремонт насосных станций (Lift Station & Effluent Pumps)',
-              desc: 'Диагностика и замена погружных насосов, контрольных панелей, аварийных поплавковых датчиков и обратных клапанов в напорных системах.',
-              specs: 'Насосы класса Commercial Heavy-Duty | Тестирование автоматики',
+              icon: Sparkles,
+              title: 'Точные земляные работы и лазерная разработка котлованов',
+              desc: 'Работа на компактных экскаваторах с резиновыми гусеницами на полимерных настилах. Нулевая колейность, сохранение деревьев, заборов и коммуникаций.',
+              specs: 'Мини-экскаваторы 3.5–5T | Защитные маты Turf-Mats | Чистовая засыпка',
+            },
+            {
+              icon: Video,
+              title: 'Цветная видеоинспекция труб камерой высокого разрешения',
+              desc: 'Оптоволоконная видеодиагностика подземных магистралей с передатчиком 512 Гц. Точная фиксация трещин, корней и уклонов с записью видеоотчета.',
+              specs: 'HD-камера с автогоризонтом | Зонд 512 Гц | Точность до дюйма',
+            },
+            {
+              icon: Droplet,
+              title: 'Вакуумная разгрузка резервуаров и гидродинамика',
+              desc: 'Откачка отстоя и гидродинамическая промывка питающих линий перед пусконаладочными работами и после ремонта для запуска гидравлического цикла.',
+              specs: 'Вакуум 4000+ CFM | Гидродинамика до 4,000 PSI',
             },
           ])
     : (isLowTicket
@@ -137,40 +137,40 @@ export function SepticServices({ lead, isRu = false }: SepticServicesProps) {
           ]
         : [
             {
-              icon: Droplet,
-              title: 'Septic Tank Pumping & Sludge Removal',
-              desc: 'Complete removal of both surface scum and heavy settled sludge layers using high-volume vacuum equipment. Tank interior rinsed and effluent manifested at certified facilities.',
-              specs: '4,000+ CFM Vacuum Power | Up to 200 ft hose reach',
+              icon: Wrench,
+              title: 'Complete Septic System Installation & Engineered Replacements',
+              desc: 'Turnkey residential and commercial septic engineering. Laser-guided tank setting, proper slope calibration, and county health department permit acquisition and final sign-off.',
+              specs: '1,000–2,500 Gal Tanks | Laser Level Precision | County Health Certified',
             },
             {
               icon: Activity,
-              title: 'Drain Field Restoration & Soil Rejuvenation',
-              desc: 'Targeted recovery of biological slime (bio-mat) clogs and standing surface effluent over lateral lines. Restoring natural soil percolation without destructive backyard excavation.',
-              specs: 'Perforation clearing | Distribution box (D-Box) leveling',
-            },
-            {
-              icon: Video,
-              title: 'High-Definition Color Sewer Camera Diagnostics',
-              desc: 'Fiber-optic camera run down the mainline from cleanout to baffle. Pinpoints tree root intrusions, crushed pipes, sags, and grease blockages with foot-by-foot accuracy.',
-              specs: 'Self-leveling optics | Digital video inspection report',
-            },
-            {
-              icon: Sparkles,
-              title: 'High-Pressure Hydro-Jetting Line Cleaning',
-              desc: 'Scours calcified scale, mineral buildup, and hardened grease out of inlet and outlet lines using 4,000 PSI pulsating water streams, leaving pipe walls like new.',
-              specs: 'Up to 4,000 PSI @ 12 GPM | Hardened rotating nozzles',
+              title: 'Drain Field (Leach Field) Engineering & Replacement',
+              desc: 'Complete excavation of failed drainfields and precision installation of modern high-capacity chamber systems (Infiltrator Systems) and engineered distribution boxes (D-Box).',
+              specs: 'Soil Perc Calibration | Infiltrator Chambers | D-Box Laser Leveling',
             },
             {
               icon: Filter,
-              title: 'Riser Installation & Effluent Filter Upgrades',
-              desc: 'Brings buried concrete tank access covers up to ground level with heavy-duty poly risers. Eliminates messy yard digging and lawn destruction during every future pump-out.',
-              specs: 'Heavy-duty airtight lids | Washable fine-mesh effluent filters',
+              title: 'Septic Tank Replacement & Surface Riser Installations',
+              desc: 'Surgical removal of compromised or cracked concrete tanks and installation of precast concrete or heavy-duty polyethylene units with airtight composite ground-level access lids.',
+              specs: '5000 PSI Precast Concrete / Heavy Poly | Airtight Locking Lids',
             },
             {
-              icon: Wrench,
-              title: 'Lift Station & Effluent Pump Replacement',
-              desc: 'Full mechanical diagnosis of pump chambers, check valves, high-water audible alarm floats, and automated electrical controls for engineered pressure systems.',
-              specs: 'Commercial-grade submersible pumps | Waterproof control boxes',
+              icon: Sparkles,
+              title: 'Precision Trenching, Site Grading & Turf Preservation',
+              desc: 'Dedicated rubber-track mini-excavators operating on composite ground protection mats. Surgical trenching with zero cracked driveways, tire rutting, or irrigation line damage.',
+              specs: '3.5–5T Mini-Excavators | AlturnaMATS Turf Protection | Precision Backfill',
+            },
+            {
+              icon: Video,
+              title: 'HD Color Sewer Camera Diagnostics & Sonde Locating',
+              desc: 'Fiber-optic self-leveling cameras equipped with 512Hz sondes. Pinpoints pipe offsets, root intrusion, structural bellies, and buried lids with foot-by-foot accuracy.',
+              specs: 'Self-Leveling HD Lens | 512Hz Surface Sonde | Digital Video Archive',
+            },
+            {
+              icon: Droplet,
+              title: 'Tank Pump-Down, Sludge Extraction & Hydro-Jetting',
+              desc: 'High-vacuum pump-down and 4,000 PSI rotary hydro-jetting of inlet/outlet baffles to prepare systems for replacement or restore optimum hydraulic flow.',
+              specs: '4,000+ CFM Vacuum Power | Up to 4,000 PSI Hydro-Jetting',
             },
           ])
 

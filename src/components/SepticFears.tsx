@@ -10,71 +10,139 @@ interface SepticFearsProps {
 }
 
 export function SepticFears({ lead, isRu = false }: SepticFearsProps) {
+  const isHighTicket = lead.ticketTier === 'HIGH_TICKET'
+
   const standards = isRu
-    ? [
-        {
-          badge: 'Защита покрытия',
-          title: 'Защита газона, брусчатки и подъездных путей (Zero Yard Damage)',
-          solution:
-            'Наши цистерны оборудованы шлангами повышенной дальности (до 200 футов), что позволяет машине оставаться на проезжей части. При необходимости заезда под колеса укладываются распределяющие вес полимерные маты Turf-Mats.',
-        },
-        {
-          badge: 'Фиксированная цена',
-          title: '100% прозрачная цена без скрытых сборов (All-Inclusive Flat Rate)',
-          solution:
-            'Фиксируем полную стоимость до начала работ. В смету уже включены выезд бригады, работа оператора, откачка донного осадка и официальный экологический полигонный сбор за утилизацию.',
-        },
-        {
-          badge: 'Видеоконтроль',
-          title: 'Объективная видеоинспекция до принятия любых решений',
-          solution:
-            'Мы никогда не приговариваем систему вслепую. Заказчик видит реальное состояние труб на цветном мониторе камеры высокого разрешения. В 80% случаев проходимость восстанавливается промывкой без лишних трат.',
-        },
-        {
-          badge: 'Чистота и экология',
-          title: 'Герметичная система откачки без капель и запаха',
-          solution:
-            'Используются промышленные быстросъемные соединения Camlock с двойным силиконовым контуром. Вакуумная система работает под постоянным отрицательным давлением — ни капли и никакого запаха на участке.',
-        },
-        {
-          badge: 'Гослицензия',
-          title: 'Официальный талон утилизации (Waste Manifest) и соответствие нормам',
-          solution:
-            'Работаем строго по экологическим регламентам Health Department и EPA. Предоставляем официальный манифест утилизации, подтверждающий законную сдачу стоков на муниципальные очистные сооружения.',
-        },
-      ]
-    : [
-        {
-          badge: 'Zero Lawn Damage',
-          title: 'Lawn & Driveway Protection Protocol',
-          solution:
-            'Our tankers carry up to 200 feet of commercial-grade suction hose, allowing trucks to remain parked safely curbside in most homes. When yard entry is necessary, we deploy heavy-duty composite Turf-Mats to protect grass and pavers.',
-        },
-        {
-          badge: 'All-Inclusive Flat Rate',
-          title: 'Guaranteed Upfront Flat-Rate Pricing',
-          solution:
-            'We provide guaranteed upfront pricing before our hoses touch your tank. Your quote includes operator labor, full sludge and scum extraction, and all municipal wastewater treatment facility dump fees with zero hidden surcharges.',
-        },
-        {
-          badge: 'Video Proof',
-          title: 'Objective HD Camera Inspection First',
-          solution:
-            'We never condemn a drain line or tank blindly. You watch the live high-definition color camera inspection screen alongside our technician. In most cases, hydro-jetting and cleanouts restore full flow without major excavation.',
-        },
-        {
-          badge: 'Zero Spill & Odor',
-          title: 'Sealed Odorless & Spill-Free Camlock System',
-          solution:
-            'Equipped with positive-locking Camlock hose couplings and secondary containment valves. Continuous negative vacuum pressure ensures zero drips, no property contamination, and an odorless visit.',
-        },
-        {
-          badge: 'EPA Compliant',
-          title: 'Licensed Environmental Disposal & Official Waste Manifest',
-          solution:
-            'Fully licensed, bonded, and insured in compliance with county Health Department and state environmental standards. Every service comes with an official treatment facility manifest proving compliant, lawful waste disposal.',
-        },
-      ]
+    ? (isHighTicket
+        ? [
+            {
+              badge: 'Защита покрытия',
+              title: 'Защита газона, брусчатки и подъездных путей (Zero Yard Damage)',
+              solution:
+                'Вся техника передвигается по участку на резиновых гусеницах и по распределяющим вес полимерным настилам Turf-Mats (до 60 тонн на ось). Нулевая колейность, отсутствие борозд и сохранение тротуарной плитки.',
+            },
+            {
+              badge: 'Фиксированная цена',
+              title: '100% фиксированная смета до начала работ (Guaranteed Flat Bid)',
+              solution:
+                'Фиксируем полную стоимость до въезда техники на участок. В смету включены разработка грунта, танки, трубы, щебень, лазерная укладка, обратная засыпка и вывоз излишков земли без скрытых доплат.',
+            },
+            {
+              badge: 'Инженерный контроль',
+              title: 'Лазерный контроль уклона труб и объективная видеоинспекция',
+              solution:
+                'Каждый фут магистрали укладывается по цифровому лазерному нивелиру со строгим уклоном 1/4 дюйма на фут. Видеокамера высокого разрешения с зондом 512 Гц проверяет соединения до обратной засыпки.',
+            },
+            {
+              badge: 'Чистота участка',
+              title: 'Послойная трамбовка и чистовое разравнивание территории',
+              solution:
+                'Мы не оставляем после себя траншей и бугров. Котлован и трассы послойно уплотняются виброплитами, выводятся в проектную отметку газона и закрываются плодородным грунтом под засев травы.',
+            },
+            {
+              badge: 'Стандарты округа',
+              title: 'Официальное разрешение Health Department и сдача инспектору',
+              solution:
+                'Работаем в строгом соответствии с экологическими и строительными кодексами округа. Обеспечиваем получение разрешений (Septic Permits), проведение перколяционных тестов и подписание актов сдачи.',
+            },
+          ]
+        : [
+            {
+              badge: 'Защита покрытия',
+              title: 'Защита газона, брусчатки и подъездных путей (Zero Yard Damage)',
+              solution:
+                'Наши цистерны оборудованы шлангами повышенной дальности (до 200 футов), что позволяет машине оставаться на проезжей части. При необходимости заезда под колеса укладываются распределяющие вес полимерные маты Turf-Mats.',
+            },
+            {
+              badge: 'Фиксированная цена',
+              title: '100% прозрачная цена без скрытых сборов (All-Inclusive Flat Rate)',
+              solution:
+                'Фиксируем полную стоимость до начала работ. В смету уже включены выезд бригады, работа оператора, откачка донного осадка и официальный экологический полигонный сбор за утилизацию.',
+            },
+            {
+              badge: 'Видеоконтроль',
+              title: 'Объективная видеоинспекция до принятия любых решений',
+              solution:
+                'Мы никогда не приговариваем систему вслепую. Заказчик видит реальное состояние труб на цветном мониторе камеры высокого разрешения. В 80% случаев проходимость восстанавливается промывкой без лишних трат.',
+            },
+            {
+              badge: 'Чистота и экология',
+              title: 'Герметичная система откачки без капель и запаха',
+              solution:
+                'Используются промышленные быстросъемные соединения Camlock с двойным силиконовым контуром. Вакуумная система работает под постоянным отрицательным давлением — ни капли и никакого запаха на участке.',
+            },
+            {
+              badge: 'Гослицензия',
+              title: 'Официальный талон утилизации (Waste Manifest) и соответствие нормам',
+              solution:
+                'Работаем строго по экологическим регламентам Health Department и EPA. Предоставляем официальный манифест утилизации, подтверждающий законную сдачу стоков на муниципальные очистные сооружения.',
+            },
+          ])
+    : (isHighTicket
+        ? [
+            {
+              badge: 'Zero Lawn Damage',
+              title: 'Turf & Driveway Protection Protocol',
+              solution:
+                'Excavation machinery operates exclusively on non-marking rubber tracks and heavy-duty composite AlturnaMATS rated up to 60 tons per axle. Guaranteed zero cracked pavers, asphalt scarring, or lawn rutting.',
+            },
+            {
+              badge: 'Guaranteed Flat Bid',
+              title: '100% Guaranteed Upfront Quoted Bids',
+              solution:
+                'We lock in your total project price before equipment touches your yard. Your quote includes engineering, excavation, tank setting, pipe materials, backfill compaction, and permit fees with zero surprise add-ons.',
+            },
+            {
+              badge: 'Laser Precision',
+              title: 'Laser Slope Grading & Dual CCTV Video Verification',
+              solution:
+                'Every drain line and lateral is laid with dual-axis digital laser instruments guaranteeing precise 1/4" per foot gravity pitch. High-definition color sewer cameras verify all internal joints prior to final backfill.',
+            },
+            {
+              badge: 'Clean Yard Restoration',
+              title: 'Layered Soil Compaction & Clean Yard Restoration',
+              solution:
+                'We never leave messy mounds or future sinkholes. Trenches and tank pits are backfilled in layered lifts with mechanical compactor vibratory tamping, topped with clean graded topsoil ready for turf re-seeding.',
+            },
+            {
+              badge: 'County Health Code',
+              title: 'Licensed Health Department Permitting & Final Sign-Off',
+              solution:
+                'Licensed, bonded, and insured in compliance with municipal and county health department codes. We handle soil perc testing, engineered drawings, and coordinate directly with local health inspectors for official sign-off.',
+            },
+          ]
+        : [
+            {
+              badge: 'Zero Lawn Damage',
+              title: 'Lawn & Driveway Protection Protocol',
+              solution:
+                'Our tankers carry up to 200 feet of commercial-grade suction hose, allowing trucks to remain parked safely curbside in most homes. When yard entry is necessary, we deploy heavy-duty composite Turf-Mats to protect grass and pavers.',
+            },
+            {
+              badge: 'All-Inclusive Flat Rate',
+              title: 'Guaranteed Upfront Flat-Rate Pricing',
+              solution:
+                'We provide guaranteed upfront pricing before our hoses touch your tank. Your quote includes operator labor, full sludge and scum extraction, and all municipal wastewater treatment facility dump fees with zero hidden surcharges.',
+            },
+            {
+              badge: 'Video Proof',
+              title: 'Objective HD Camera Inspection First',
+              solution:
+                'We never condemn a drain line or tank blindly. You watch the live high-definition color camera inspection screen alongside our technician. In most cases, hydro-jetting and cleanouts restore full flow without major excavation.',
+            },
+            {
+              badge: 'Zero Spill & Odor',
+              title: 'Sealed Odorless & Spill-Free Camlock System',
+              solution:
+                'Equipped with positive-locking Camlock hose couplings and secondary containment valves. Continuous negative vacuum pressure ensures zero drips, no property contamination, and an odorless visit.',
+            },
+            {
+              badge: 'EPA Compliant',
+              title: 'Licensed Environmental Disposal & Official Waste Manifest',
+              solution:
+                'Fully licensed, bonded, and insured in compliance with county Health Department and state environmental standards. Every service comes with an official treatment facility manifest proving compliant, lawful waste disposal.',
+            },
+          ])
 
   return (
     <section className="py-16 sm:py-20 bg-slate-900 border-b border-slate-800">

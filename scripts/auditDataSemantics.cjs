@@ -70,10 +70,10 @@ function runAudit() {
       errors.push(`[Call Lead] "${c.company}" has invalid palette: "${c.palette}". Must be one of ${Array.from(VALID_PALETTES).join(', ')}`);
     }
 
-    // 1.4 Palette synchronization
+    // 1.4 Palette synchronization (keep callLeads in sync with septicLeads)
     if (lead.palette && lead.palette !== c.palette) {
-      warnings.push(`[Sync] Palette mismatch for ${c.slug}: callLeads="${c.palette}", septicLeads="${lead.palette}". Syncing...`);
-      lead.palette = c.palette;
+      warnings.push(`[Sync] Harmonizing palette for ${c.slug}: "${c.palette}" -> "${lead.palette}".`);
+      c.palette = lead.palette;
     }
   });
 

@@ -13,78 +13,151 @@ interface SepticEquipmentProps {
 
 export function SepticEquipment({ lead, isRu = false, onOpenPhoto }: SepticEquipmentProps) {
   const hasCustomEquipment = lead.equipmentPhotos && lead.equipmentPhotos.length > 0
+  const isHighTicket = lead.ticketTier === 'HIGH_TICKET'
 
   const defaultSpecs = isRu
-    ? [
-        {
-          title: 'Вакуумные цистерны Commercial 3,500–5,000 Gallons',
-          badge: 'Мощность всасывания',
-          desc: 'Специализированные грузовые цистерны с роторными вакуумными насосами высокой производительности. Способны откачивать застарелый плотный донный ил с глубины до 25 футов без остатка.',
-          points: [
-            'Герметичный люк с угольными фильтрами запаха',
-            'Откачка за один заезд без необходимости повторных рейсов',
-            'Электронный расходомер откачанного объема',
-          ],
-          image: null as string | null,
-        },
-        {
-          title: 'Защитные полимерные трапы для газонов (Turf-Mats)',
-          badge: 'Сохранность участка',
-          desc: 'Мы бережем ваш газон, асфальт и тротуарную плитку. При необходимости заезда на грунт под колеса укладываются распределяющие вес полимерные маты высокой прочности.',
-          points: [
-            'Нулевая колейность и отсутствие продавленных борозд',
-            'Шланги длиной до 200 футов позволяют машине оставаться на дороге',
-            'Защита корней деревьев и спринклеров автополива',
-          ],
-          image: null as string | null,
-        },
-        {
-          title: 'Цветные камеры с передатчиком глубинного зондирования',
-          badge: 'Точная диагностика',
-          desc: 'Зонд с передатчиком 512 Гц позволяет оператору на поверхности с точностью до дюйма определить, где именно под землей застрял засор или разрушилась труба, без лишних раскопок.',
-          points: [
-            'Локализация повреждений на глубине до 15 футов',
-            'Обнаружение скрытых под слоем земли крышек резервуара',
-            'Полный видеоотчет для страховых компаний и покупателей жилья',
-          ],
-          image: null as string | null,
-        },
-      ]
-    : [
-        {
-          title: 'Commercial 3,500–5,000 Gallon Vacuum Tankers',
-          badge: 'Heavy Suction Rating',
-          desc: 'Engineered pump trucks equipped with high-displacement rotary vane vacuum blowers. Capable of lifting dense sludge and settled grit from deep residential and commercial tanks without residue.',
-          points: [
-            'Airtight vacuum locks with activated carbon odor scrubbers',
-            'Full tank pump-out in a single trip with zero mid-job dumps',
-            'Certified onboard volume gauges for verified gallonage',
-          ],
-          image: null as string | null,
-        },
-        {
-          title: 'Heavy-Duty Ground & Turf Protection Mats',
-          badge: 'Property Protection',
-          desc: 'We treat your turf, pavers, and driveway with extreme care. Heavy-duty composite ground mats disperse truck weight across the surface, preventing ruts, tire scarring, and cracked concrete.',
-          points: [
-            'Zero lawn rutting or mud displacement during equipment moves',
-            'Up to 200-ft hose capability allows trucks to stay parked curbside',
-            'Guaranteed sprinkler head and irrigation line preservation',
-          ],
-          image: null as string | null,
-        },
-        {
-          title: '512Hz Sonde Color Video Inspection Cameras',
-          badge: 'Surgical Accuracy',
-          desc: 'Self-leveling fiber-optic cameras equipped with high-frequency 512Hz locating beacons. Pinpoints underground line collapses, belly sags, and hidden buried access covers with pinpoint surface accuracy.',
-          points: [
-            'Pinpoint surface depth readings down to 15 feet below ground',
-            'Rapid discovery of buried tank lids without exploratory digging',
-            'Digital photo & video report accepted by lenders and health boards',
-          ],
-          image: null as string | null,
-        },
-      ]
+    ? (isHighTicket
+        ? [
+            {
+              title: 'Компактные мини-экскаваторы Kubota / CAT 3.5–5T',
+              badge: 'Точная разработка грунта',
+              desc: 'Специализированная землеройная техника на резиновых гусеницах для точной разработки котлованов под септики и прокладки дренажных траншей с лазерным контролем уклона.',
+              points: [
+                'Резиновые гусеницы для нулевого повреждения брусчатки и дорожек',
+                'Лазерный нивелир для безупречного уклона труб 1/4 дюйма на фут',
+                'Собственная спецтехника без аренды и наценок посредников',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: 'Защитные полимерные трапы для газонов (Turf-Mats)',
+              badge: 'Сохранность участка',
+              desc: 'Мы бережем ваш газон, асфальт и тротуарную плитку. При необходимости заезда на грунт под колеса укладываются распределяющие вес полимерные маты высокой прочности.',
+              points: [
+                'Нулевая колейность и отсутствие продавленных борозд на газоне',
+                'Равномерное распределение веса до 60 тонн на ось',
+                'Защита корней деревьев и спринклеров автополива',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: 'Цветные камеры с передатчиком глубинного зондирования 512 Гц',
+              badge: 'Точная диагностика',
+              desc: 'Зонд с передатчиком 512 Гц позволяет оператору на поверхности с точностью до дюйма определить глубину залегания, место повреждения или скрытую крышку без лишних раскопок.',
+              points: [
+                'Локализация повреждений на глубине до 15 футов',
+                'Обнаружение скрытых под слоем земли крышек резервуара',
+                'Полный видеоотчет для страховых компаний и покупателей жилья',
+              ],
+              image: null as string | null,
+            },
+          ]
+        : [
+            {
+              title: 'Вакуумные цистерны Commercial 3,500–5,000 Gallons',
+              badge: 'Мощность всасывания',
+              desc: 'Специализированные грузовые цистерны с роторными вакуумными насосами высокой производительности. Способны откачивать застарелый плотный донный ил с глубины до 25 футов без остатка.',
+              points: [
+                'Герметичный люк с угольными фильтрами запаха',
+                'Откачка за один заезд без необходимости повторных рейсов',
+                'Электронный расходомер откачанного объема',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: 'Защитные полимерные трапы для газонов (Turf-Mats)',
+              badge: 'Сохранность участка',
+              desc: 'Мы бережем ваш газон, асфальт и тротуарную плитку. При необходимости заезда на грунт под колеса укладываются распределяющие вес полимерные маты высокой прочности.',
+              points: [
+                'Нулевая колейность и отсутствие продавленных борозд',
+                'Шланги длиной до 200 футов позволяют машине оставаться на дороге',
+                'Защита корней деревьев и спринклеров автополива',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: 'Цветные камеры с передатчиком глубинного зондирования',
+              badge: 'Точная диагностика',
+              desc: 'Зонд с передатчиком 512 Гц позволяет оператору на поверхности с точностью до дюйма определить, где именно под землей застрял засор или разрушилась труба, без лишних раскопок.',
+              points: [
+                'Локализация повреждений на глубине до 15 футов',
+                'Обнаружение скрытых под слоем земли крышек резервуара',
+                'Полный видеоотчет для страховых компаний и покупателей жилья',
+              ],
+              image: null as string | null,
+            },
+          ])
+    : (isHighTicket
+        ? [
+            {
+              title: 'Compact Kubota & CAT 3.5–5T Rubber-Track Mini-Excavators',
+              badge: 'Precision Trenching',
+              desc: 'Dedicated low ground-pressure excavators equipped with dual-axis laser slope leveling instruments. Designed for surgical tank pit excavation and laser-calibrated drainfield trenching.',
+              points: [
+                'Non-marking rubber tracks protect asphalt, pavers, and subsoil',
+                'Laser-guided depth control ensuring strict 1/4" per foot gravity pitch',
+                'Direct company-owned fleet — zero rental delays or broker surcharges',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: 'Heavy-Duty Ground & Turf Protection Mats (AlturnaMATS)',
+              badge: 'Zero Yard Damage',
+              desc: 'We treat your lawn, landscaping, and driveway with surgical care. Composite high-density ground mats disperse machinery weight evenly across the surface.',
+              points: [
+                'Zero yard rutting, tire gouging, or mud displacement',
+                'Certified weight dispersion up to 60 tons per axle',
+                'Complete preservation of underground irrigation lines and turf',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: '512Hz Sonde Fiber-Optic Color Video Pipe Locators',
+              badge: 'Sub-Surface Accuracy',
+              desc: 'Self-leveling inspection cameras paired with 512Hz electromagnetic locating beacons. Pinpoints underground pipe breaks, line sags, and buried tank lids to within inches.',
+              points: [
+                'Accurate depth readings down to 15 feet below grade',
+                'Eliminates exploratory guesswork and yard destruction',
+                'Digital video & photo documentation accepted by county health boards',
+              ],
+              image: null as string | null,
+            },
+          ]
+        : [
+            {
+              title: 'Commercial 3,500–5,000 Gallon Vacuum Tankers',
+              badge: 'Heavy Suction Rating',
+              desc: 'Engineered pump trucks equipped with high-displacement rotary vane vacuum blowers. Capable of lifting dense sludge and settled grit from deep residential and commercial tanks without residue.',
+              points: [
+                'Airtight vacuum locks with activated carbon odor scrubbers',
+                'Full tank pump-out in a single trip with zero mid-job dumps',
+                'Certified onboard volume gauges for verified gallonage',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: 'Heavy-Duty Ground & Turf Protection Mats',
+              badge: 'Property Protection',
+              desc: 'We treat your turf, pavers, and driveway with extreme care. Heavy-duty composite ground mats disperse truck weight across the surface, preventing ruts, tire scarring, and cracked concrete.',
+              points: [
+                'Zero lawn rutting or mud displacement during equipment moves',
+                'Up to 200-ft hose capability allows trucks to stay parked curbside',
+                'Guaranteed sprinkler head and irrigation line preservation',
+              ],
+              image: null as string | null,
+            },
+            {
+              title: '512Hz Sonde Color Video Inspection Cameras',
+              badge: 'Surgical Accuracy',
+              desc: 'Self-leveling fiber-optic cameras equipped with high-frequency 512Hz locating beacons. Pinpoints underground line collapses, belly sags, and hidden buried access covers with pinpoint surface accuracy.',
+              points: [
+                'Pinpoint surface depth readings down to 15 feet below ground',
+                'Rapid discovery of buried tank lids without exploratory digging',
+                'Digital photo & video report accepted by lenders and health boards',
+              ],
+              image: null as string | null,
+            },
+          ])
 
   const items = hasCustomEquipment
     ? lead.equipmentPhotos!.map((eq) => ({

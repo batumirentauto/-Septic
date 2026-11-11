@@ -59,6 +59,7 @@ export interface SepticLead {
   reviewsCount: number
   folderName: string
   palette?: 'emerald' | 'blue' | 'amber' | 'orange' | 'red' | 'indigo' | 'teal'
+  heroLayout?: 'split' | 'centered' | 'industrial' | 'editorial'
   reviewsSample: ReviewItem[]
   photosSample: string[]
   heroImage?: string

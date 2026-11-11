@@ -30,8 +30,12 @@ export function SepticFooter({ lead, isRu = false }: SepticFooterProps) {
             </div>
             <p className="text-slate-400 text-xs leading-relaxed max-w-md">
               {isRu
-                ? `Профессиональная служба септиков и канализации в ${lead.city || 'вашем регионе'}, ${lead.state}. Регламентная вакуумная откачка, видеоинспекция магистралей и капитальный ремонт дренажных полей.`
-                : `Engineered septic tank pumping, lateral line hydro-jetting, and drain field restoration serving ${lead.city || 'your community'}, ${lead.state}. Clean, insured, and compliant service.`}
+                ? (lead.ticketTier === 'HIGH_TICKET'
+                    ? `Капитальный монтаж септических систем, замена резервуаров, восстановление дренажных полей и точные земляные работы в ${lead.city || 'вашем регионе'}, ${lead.state}. Собственная спецтехника, соблюдение регламентов округа и прямые сметы без посредников.`
+                    : `Профессиональная служба септиков и канализации в ${lead.city || 'вашем регионе'}, ${lead.state}. Регламентная вакуумная откачка, видеоинспекция магистралей и капитальный ремонт дренажных полей.`)
+                : (lead.ticketTier === 'HIGH_TICKET'
+                    ? `Turnkey septic system installations, drain field replacements, precast tank setting, and precision laser excavation serving ${lead.city || 'your community'}, ${lead.state}. Owner-operated machinery with direct contractor pricing.`
+                    : `Engineered septic tank pumping, lateral line hydro-jetting, and drain field restoration serving ${lead.city || 'your community'}, ${lead.state}. Clean, insured, and compliant service.`)}
             </p>
             <div className="pt-2 flex items-center gap-2 text-emerald-400 font-semibold">
               <ShieldCheck className="w-4 h-4" />

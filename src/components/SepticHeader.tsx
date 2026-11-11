@@ -184,14 +184,16 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
         </nav>
 
         {/* Right Action: Phone Button & Quick Estimate */}
-        <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+        <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
           {cleanPhone && (
             <a
               href={`tel:${cleanPhone}`}
-              className="inline-flex items-center gap-2 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black px-3.5 py-2 sm:px-4 sm:py-2.5 text-xs sm:text-sm shadow-lg shadow-emerald-500/20 transition-all hover:scale-[1.02] active:scale-[0.98] whitespace-nowrap"
+              className="inline-flex items-center gap-1.5 sm:gap-2 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black px-2.5 py-1.5 sm:px-4 sm:py-2.5 text-xs sm:text-sm shadow-lg shadow-emerald-500/20 transition-all hover:scale-[1.02] active:scale-[0.98] whitespace-nowrap"
+              aria-label={`Call ${lead.name} at ${lead.phone}`}
             >
-              <Phone className="w-4 h-4 text-slate-950 shrink-0 fill-current" />
-              <span>{lead.phone}</span>
+              <Phone className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-slate-950 shrink-0 fill-current" />
+              <span className="hidden sm:inline">{lead.phone}</span>
+              <span className="sm:hidden">{isRu ? 'Позвонить' : 'Call'}</span>
             </a>
           )}
 

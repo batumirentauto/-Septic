@@ -10,8 +10,9 @@ interface SepticCalculatorProps {
 }
 
 export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) {
+  const isHighTicket = lead.ticketTier === 'HIGH_TICKET'
   const [tankSize, setTankSize] = useState<number>(1000)
-  const [serviceType, setServiceType] = useState<string>('pumping')
+  const [serviceType, setServiceType] = useState<string>(isHighTicket ? 'installation' : 'pumping')
   const [customerPhone, setCustomerPhone] = useState<string>('')
   const [submitted, setSubmitted] = useState<boolean>(false)
   const [addRiser, setAddRiser] = useState<boolean>(false)
@@ -22,37 +23,62 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
     let baseMin = 325
     let baseMax = 475
 
-    // Tank Size multipliers
-    if (tankSize === 500) {
-      baseMin = 275
-      baseMax = 375
-    } else if (tankSize === 1000) {
-      baseMin = 345
-      baseMax = 495
-    } else if (tankSize === 1250) {
-      baseMin = 395
-      baseMax = 550
-    } else if (tankSize === 1500) {
-      baseMin = 465
-      baseMax = 650
-    } else if (tankSize === 2000) {
-      baseMin = 595
-      baseMax = 850
-    }
+    if (isHighTicket) {
+      if (serviceType === 'installation') {
+        baseMin = 7500
+        baseMax = 15500
+        if (tankSize >= 1500) { baseMin += 1800; baseMax += 2800 }
+        else if (tankSize >= 1250) { baseMin += 900; baseMax += 1500 }
+      } else if (serviceType === 'drainfield') {
+        baseMin = 4800
+        baseMax = 11000
+        if (tankSize >= 1500) { baseMin += 1200; baseMax += 2000 }
+      } else if (serviceType === 'tank_replacement') {
+        baseMin = 3900
+        baseMax = 7800
+        if (tankSize >= 1500) { baseMin += 1000; baseMax += 1600 }
+      } else if (serviceType === 'emergency') {
+        baseMin = 495
+        baseMax = 795
+      } else if (serviceType === 'pumping') {
+        baseMin = 345
+        baseMax = 550
+      } else if (serviceType === 'camera') {
+        baseMin = 250
+        baseMax = 450
+      }
+    } else {
+      // Standard low-ticket pumping logic
+      if (tankSize === 500) {
+        baseMin = 275
+        baseMax = 375
+      } else if (tankSize === 1000) {
+        baseMin = 345
+        baseMax = 495
+      } else if (tankSize === 1250) {
+        baseMin = 395
+        baseMax = 550
+      } else if (tankSize === 1500) {
+        baseMin = 465
+        baseMax = 650
+      } else if (tankSize === 2000) {
+        baseMin = 595
+        baseMax = 850
+      }
 
-    // Service adjustment
-    if (serviceType === 'emergency') {
-      baseMin += 150
-      baseMax += 220
-    } else if (serviceType === 'drainfield') {
-      baseMin += 450
-      baseMax += 950
-    } else if (serviceType === 'camera') {
-      baseMin = 225
-      baseMax = 350
-    } else if (serviceType === 'risers') {
-      baseMin = 380
-      baseMax = 620
+      if (serviceType === 'emergency') {
+        baseMin += 150
+        baseMax += 220
+      } else if (serviceType === 'drainfield') {
+        baseMin += 450
+        baseMax += 950
+      } else if (serviceType === 'camera') {
+        baseMin = 225
+        baseMax = 350
+      } else if (serviceType === 'risers') {
+        baseMin = 380
+        baseMax = 620
+      }
     }
 
     let min = baseMin
@@ -69,7 +95,7 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
     }
 
     return { min, max }
-  }, [tankSize, serviceType, addRiser, addInspection])
+  }, [tankSize, serviceType, addRiser, addInspection, isHighTicket])
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
@@ -79,8 +105,73 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
 
   const cleanPhone = lead.phone ? lead.phone.replace(/[^\d+]/g, '') : ''
 
+  const highTicketServicesList = [
+    {
+      id: 'installation',
+      name: isRu ? 'Капитальный монтаж новой септической системы «под ключ»' : 'Complete Septic System Installation & Engineering',
+      sub: isRu ? 'Установка резервуара, перколяция, инспекция округа и разрешение' : 'Tank placement, soil perc testing, engineered plans & county sign-off',
+    },
+    {
+      id: 'drainfield',
+      name: isRu ? 'Замена / восстановление дренажного поля (Leach Field)' : 'Drain Field (Leach Field) Replacement & Restoration',
+      sub: isRu ? 'Устранение застоя стоков, замена перфорированных линий' : 'Eliminating yard saturation, soil remediation & new lateral lines',
+    },
+    {
+      id: 'tank_replacement',
+      name: isRu ? 'Замена резервуара септика (бетон / полимер) и земляные работы' : 'Septic Tank Replacement & Excavation',
+      sub: isRu ? 'Демонтаж старой емкости, точная разработка котлована' : 'Excavation of damaged tank, laser setting of new precast concrete/poly unit',
+    },
+    {
+      id: 'emergency',
+      name: isRu ? 'Аварийный выезд: засор / вода поднимается в дом' : 'Emergency Backup Relief & Same-Day Dispatch',
+      sub: isRu ? 'Приоритетная подача бригады со спецтехникой' : 'Priority same-day dispatch before residential overflow occurs',
+    },
+    {
+      id: 'pumping',
+      name: isRu ? 'Регламентная вакуумная откачка и утилизация' : 'Routine Tank Pumping & Sludge Removal',
+      sub: isRu ? 'Рекомендуется каждые 3–5 лет' : 'Full sludge extraction & certified municipal manifest',
+    },
+    {
+      id: 'camera',
+      name: isRu ? 'Видеоинспекция труб камерой высокого разрешения' : 'HD Color Video Pipe Inspection & Sonde Locating',
+      sub: isRu ? 'Точное определение причин застоя и скрытых люков' : 'Locates line bellies, roots, and buried covers without blind digging',
+    },
+  ]
+
+  const lowTicketServicesList = [
+    {
+      id: 'pumping',
+      name: isRu ? 'Регламентная откачка и утилизация' : 'Routine Tank Pumping & Waste Disposal',
+      sub: isRu ? 'Рекомендуется каждые 3–5 лет' : 'Recommended every 3–5 years for average homes',
+    },
+    {
+      id: 'emergency',
+      name: isRu ? 'Аварийный выезд: засор / вода поднимается в дом' : 'Emergency Backup Relief & Immediate Pump-Out',
+      sub: isRu ? 'Приоритетная подача вакуумной цистерны' : 'Priority same-day dispatch before overflow occurs',
+    },
+    {
+      id: 'drainfield',
+      name: isRu ? 'Диагностика и ремонт дренажного поля' : 'Drain Field Inspection & Restoration',
+      sub: isRu ? 'Устранение застоя воды и запаха на газоне' : 'For soggy yards, slow sinks, or surface wet spots',
+    },
+    {
+      id: 'camera',
+      name: isRu ? 'Видеоинспекция труб камерой высокого разрешения' : 'Color Video Pipe Camera Inspection',
+      sub: isRu ? 'Поиск корней, трещин и скрытых крышек' : 'Pinpoints breaks, bellies, or buried access lids',
+    },
+    {
+      id: 'risers',
+      name: isRu ? 'Монтаж ревизионной горловины (Riser Kit)' : 'Riser & Airtight Access Cover Installation',
+      sub: isRu ? 'Вывод люка на уровень земли' : 'Brings buried covers to surface level forever',
+    },
+  ]
+
+  const activeServicesList = isHighTicket ? highTicketServicesList : lowTicketServicesList
+
   return (
-    <section id="calculator" className="py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
+    <section id="calculator" className="relative py-16 sm:py-20 bg-slate-950 border-b border-slate-800">
+      {/* Anchor for estimator links */}
+      <div id="estimator" className="absolute -top-20 left-0 pointer-events-none" />
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-12">
@@ -131,33 +222,7 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
                 2. {isRu ? 'Требуемый вид работ' : 'Required Service Type'}
               </label>
               <div className="space-y-2">
-                {[
-                  {
-                    id: 'pumping',
-                    name: isRu ? 'Регламентная откачка и утилизация' : 'Routine Tank Pumping & Waste Disposal',
-                    sub: isRu ? 'Рекомендуется каждые 3–5 лет' : 'Recommended every 3–5 years for average homes',
-                  },
-                  {
-                    id: 'emergency',
-                    name: isRu ? 'Аварийный выезд: засор / вода поднимается в дом' : 'Emergency Backup Relief & Immediate Pump-Out',
-                    sub: isRu ? 'Приоритетная подача вакуумной цистерны' : 'Priority same-day dispatch before overflow occurs',
-                  },
-                  {
-                    id: 'drainfield',
-                    name: isRu ? 'Диагностика и ремонт дренажного поля' : 'Drain Field Inspection & Restoration',
-                    sub: isRu ? 'Устранение застоя воды и запаха на газоне' : 'For soggy yards, slow sinks, or surface wet spots',
-                  },
-                  {
-                    id: 'camera',
-                    name: isRu ? 'Видеоинспекция труб камерой высокого разрешения' : 'Color Video Pipe Camera Inspection',
-                    sub: isRu ? 'Поиск корней, трещин и скрытых крышек' : 'Pinpoints breaks, bellies, or buried access lids',
-                  },
-                  {
-                    id: 'risers',
-                    name: isRu ? 'Монтаж ревизионной горловины (Riser Kit)' : 'Riser & Airtight Access Cover Installation',
-                    sub: isRu ? 'Вывод люка на уровень земли' : 'Brings buried covers to surface level forever',
-                  },
-                ].map((s) => (
+                {activeServicesList.map((s) => (
                   <label
                     key={s.id}
                     onClick={() => setServiceType(s.id)}
