@@ -133,47 +133,93 @@ report.goldTier.forEach((goldItem, index) => {
     eq.image = getNextUniquePhoto();
   });
 
-  // 3. Gallery Photos: requires at least 2 unique photos, otherwise empty array
+const GALLERY_STAGES = [
+  {
+    tag: 'Excavation Phase',
+    tagRu: 'Разработка котлована',
+    title: 'Excavator Trenching & Soil Preparation',
+    titleRu: 'Разработка котлована и выемка грунта',
+    desc: 'Precision depth grading and trenching using compact rubber-track machinery with zero lawn damage.',
+    descRu: 'Точная выемка грунта с выдержкой проектных отметок и защитой прилегающего газона.',
+    status: 'Trenching Completed',
+    statusRu: 'Выемка грунта завершена',
+  },
+  {
+    tag: 'Tank Placement',
+    tagRu: 'Монтаж резервуара',
+    title: 'Heavy Tank Setting & Laser Leveling',
+    titleRu: 'Установка и лазерная нивелировка резервуара',
+    desc: 'Rigid placement of heavy-duty precast tank with dual-axis laser slope verification.',
+    descRu: 'Монтаж монолитной емкости с лазерным контролем горизонтали и герметизацией вводов.',
+    status: 'Laser Grade Verified',
+    statusRu: 'Уровень выверен по лазеру',
+  },
+  {
+    tag: 'Drain Field System',
+    tagRu: 'Поле фильтрации',
+    title: 'Infiltrator Chamber & Lateral Line Layout',
+    titleRu: 'Укладка дренажных камер и распределительных линий',
+    desc: 'High-capacity percolation chamber installation and gravity slope connection to D-box.',
+    descRu: 'Укладка инфильтрационных блоков и подключение к распределительному колодцу с соблюдением уклонов.',
+    status: 'Flow Tested & Passed',
+    statusRu: 'Дренажный контур протестирован',
+  },
+  {
+    tag: 'Surface Access',
+    tagRu: 'Ревизионные люки',
+    title: 'Airtight Riser & Safety Lid Installation',
+    titleRu: 'Монтаж герметичных ревизионных люков',
+    desc: 'Heavy-duty composite covers brought flush to ground level for clean future access.',
+    descRu: 'Установка ударопрочных полимерных крышек в уровень газона для удобного обслуживания.',
+    status: 'Airtight Seal Confirmed',
+    statusRu: 'Герметичность подтверждена',
+  },
+  {
+    tag: 'Final Site Restoration',
+    tagRu: 'Чистовая сдача',
+    title: 'Compacted Backfill & Clean Turf Finish',
+    titleRu: 'Послойная трамбовка и чистовое разравнивание',
+    desc: 'Layered vibratory compaction and final topsoil grading ready for lawn seeding.',
+    descRu: 'Послойное виброуплотнение грунта, планировка территории и чистовая сдача под засев травы.',
+    status: 'Project Signed Off',
+    statusRu: 'Объект сдан заказчику',
+  },
+  {
+    tag: 'CCTV Audit',
+    tagRu: 'Видеоконтроль',
+    title: 'Fiber-Optic CCTV Pipe Inspection',
+    titleRu: 'Видеоинспекция магистрали перед засыпкой',
+    desc: 'Pre-backfill self-leveling camera audit ensuring pristine internal joints and slope.',
+    descRu: 'Оптоволоконный контроль соединений и уклона трубы перед финальной засыпкой грунта.',
+    status: 'Inspection Passed',
+    statusRu: 'Инспекция пройдена успешно',
+  },
+];
+
+// 3. Gallery Photos: requires at least 2 unique photos, otherwise empty array
   const galleryItems = [];
-  const gPhoto1 = getNextUniquePhoto();
-  const gPhoto2 = getNextUniquePhoto();
+  const candidatePhotos = [];
+  let gPhoto;
+  while ((gPhoto = getNextUniquePhoto()) && candidatePhotos.length < 6) {
+    candidatePhotos.push(gPhoto);
+  }
 
-  if (gPhoto1 && gPhoto2) {
-    galleryItems.push({
-      src: gPhoto1,
-      image: gPhoto1,
-      title: `${lead.name} — On-Site Field Work`,
-      titleRu: `${lead.name} — Ход работ на объекте`,
-      tag: `${lead.city}, ${lead.state}`,
-      tagRu: `${lead.city}, ${lead.state}`,
-      desc: 'Excavation, line setting, and inspection conforming to county health regulations.',
-      descRu: 'Разработка грунта, укладка коммуникаций и инспекция по стандартам округа.',
-    });
-    galleryItems.push({
-      src: gPhoto2,
-      image: gPhoto2,
-      title: `${lead.name} — Completed Project Site`,
-      titleRu: `${lead.name} — Сданный объект`,
-      tag: 'Verified Jobsite',
-      tagRu: 'Подтвержденный объект',
-      desc: 'Backfilled, compacted, and leveled ground ready for lawn restoration.',
-      descRu: 'Засыпанный, утрамбованный и выровненный участок под посев газона.',
-    });
-
-    // Check if more unique photos exist for gallery
-    let morePhoto;
-    while ((morePhoto = getNextUniquePhoto()) && galleryItems.length < 4) {
+  if (candidatePhotos.length >= 2) {
+    candidatePhotos.forEach((photoUrl, idx) => {
+      const stage = GALLERY_STAGES[idx % GALLERY_STAGES.length];
       galleryItems.push({
-        src: morePhoto,
-        image: morePhoto,
-        title: `${lead.name} — Field Documentation`,
-        titleRu: `${lead.name} — Фотофиксация объекта`,
-        tag: 'Field Operations',
-        tagRu: 'Полевые работы',
-        desc: 'Turnkey septic system installation and precision drainfield restoration.',
-        descRu: 'Монтаж септика под ключ и восстановление дренажного поля.',
+        src: photoUrl,
+        image: photoUrl,
+        title: stage.title,
+        titleRu: stage.titleRu,
+        tag: idx === 0 && lead.city ? `${lead.city}, ${lead.state}` : stage.tag,
+        tagRu: idx === 0 && lead.city ? `г. ${lead.city}, ${lead.state}` : stage.tagRu,
+        desc: stage.desc,
+        descRu: stage.descRu,
+        status: stage.status,
+        statusRu: stage.statusRu,
       });
-    }
+    });
   }
 
   lead.galleryPhotos = galleryItems;

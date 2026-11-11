@@ -103,8 +103,8 @@ export function SepticGallery({ lead, isRu = false, onOpenPhoto }: SepticGallery
                 </div>
 
                 <div className="pt-2 border-t border-slate-800/60 flex items-center gap-1.5 text-[11px] text-emerald-400 font-medium">
-                  <CheckCircle2 className="w-3 h-3" />
-                  <span>{isRu ? 'Работа завершена и принята' : 'Completed to County Code'}</span>
+                  <CheckCircle2 className="w-3 h-3 shrink-0" />
+                  <span>{isRu ? (item.statusRu || 'Работа принята инспектором') : (item.status || 'Verified & Code-Compliant')}</span>
                 </div>
               </div>
             </div>

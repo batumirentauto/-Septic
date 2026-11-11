@@ -28,6 +28,8 @@ export interface GalleryPhotoItem {
   desc: string
   descRu: string
   image: string
+  status?: string
+  statusRu?: string
 }
 
 export interface CustomServiceItem {
