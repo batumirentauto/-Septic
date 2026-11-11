@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%" fill="none">
+  <!-- Pure Wordmark ONLY (No Subtitle) -->
+  <rect width="100%" height="100%" fill="#09090B"/>
+  <text x="50%" y="125" 
+        text-anchor="middle" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Plus Jakarta Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif" 
+        font-size="72" 
+        font-weight="800" 
+        letter-spacing="24" 
+        fill="#FFFFFF">ZONUS</text>
+</svg>

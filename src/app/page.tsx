@@ -12,50 +12,29 @@ import {
   AlertCircle,
   ChevronRight,
   Flame,
-  Droplet,
-  Sparkles,
-  Layers,
-  Globe,
   Award,
   ExternalLink,
   Camera,
   CheckCircle2,
   SlidersHorizontal,
+  Globe,
 } from 'lucide-react'
 
 export default function SepticCatalogPage() {
   const [search, setSearch] = useState('')
   const [selectedState, setSelectedState] = useState<string>('ALL')
-  const [selectedCategory, setSelectedCategory] = useState<'GOLD_TIER' | 'HIGH_TICKET' | 'LOW_TICKET' | 'ALL'>('GOLD_TIER')
-  const [selectedIssue, setSelectedIssue] = useState<string>('ALL')
+  const [selectedPalette, setSelectedPalette] = useState<string>('ALL')
   const [sortBy, setSortBy] = useState<'RATING' | 'REVIEWS' | 'NAME'>('RATING')
 
-  // Count metrics
-  const counts = useMemo(() => {
-    let gold = 0
-    let high = 0
-    let low = 0
-    septicLeads.forEach((l) => {
-      if (l.isGoldTier) gold++
-      if (l.ticketTier === 'HIGH_TICKET') high++
-      else low++
-    })
-    return { gold, high, low, total: septicLeads.length }
-  }, [])
-
-  // Calculate states count within current category
+  // Calculate states count within the 108 leads
   const stateCounts = useMemo(() => {
     const countsMap: Record<string, number> = {}
     septicLeads.forEach((item) => {
-      if (selectedCategory === 'GOLD_TIER' && !item.isGoldTier) return
-      if (selectedCategory === 'HIGH_TICKET' && item.ticketTier !== 'HIGH_TICKET') return
-      if (selectedCategory === 'LOW_TICKET' && item.ticketTier === 'HIGH_TICKET') return
-
       const st = item.state || 'Other'
       countsMap[st] = (countsMap[st] || 0) + 1
     })
     return countsMap
-  }, [selectedCategory])
+  }, [])
 
   const sortedStates = useMemo(() => {
     return Object.entries(stateCounts)
@@ -63,25 +42,28 @@ export default function SepticCatalogPage() {
       .map(([st]) => st)
   }, [stateCounts])
 
+  // Palette counts
+  const paletteCounts = useMemo(() => {
+    const countsMap: Record<string, number> = {}
+    septicLeads.forEach((item) => {
+      const pal = item.palette || 'none'
+      countsMap[pal] = (countsMap[pal] || 0) + 1
+    })
+    return countsMap
+  }, [])
+
   // Filtered and sorted leads
   const filteredLeads = useMemo(() => {
     const q = search.trim().toLowerCase()
     const result = septicLeads.filter((item) => {
-      // Category / Tier Filter
-      if (selectedCategory === 'GOLD_TIER' && !item.isGoldTier) return false
-      if (selectedCategory === 'HIGH_TICKET' && item.ticketTier !== 'HIGH_TICKET') return false
-      if (selectedCategory === 'LOW_TICKET' && item.ticketTier === 'HIGH_TICKET') return false
-
       // State Filter
       if (selectedState !== 'ALL' && item.state !== selectedState) {
         return false
       }
 
-      // Website Issue Filter
-      if (selectedIssue !== 'ALL') {
-        if (selectedIssue === 'NO_WEBSITE' && item.hasWebsite) return false
-        if (selectedIssue === 'FACEBOOK' && !item.websiteIssue?.includes('Facebook')) return false
-        if (selectedIssue === 'BROKEN' && (!item.hasWebsite || item.websiteIssue?.includes('Facebook'))) return false
+      // Palette Filter
+      if (selectedPalette !== 'ALL' && item.palette !== selectedPalette) {
+        return false
       }
 
       // Search Query Filter
@@ -108,7 +90,7 @@ export default function SepticCatalogPage() {
     }
 
     return result
-  }, [search, selectedCategory, selectedState, selectedIssue, sortBy])
+  }, [search, selectedState, selectedPalette, sortBy])
 
   // Helper for palette badges
   const paletteLabels: Record<string, { label: string; color: string; icon: string }> = {
@@ -150,7 +132,7 @@ export default function SepticCatalogPage() {
 
           <div className="flex items-center gap-3 text-slate-400">
             <span className="hidden sm:inline font-mono text-xs">
-              Показано: <strong className="text-white">{filteredLeads.length}</strong> из {septicLeads.length}
+              Всего в базе: <strong className="text-white">{septicLeads.length}</strong> (отфильтровано: <strong className="text-emerald-400">{filteredLeads.length}</strong>)
             </span>
             <a
               href="/call"
@@ -167,95 +149,43 @@ export default function SepticCatalogPage() {
       <section className="relative pt-8 pb-6 px-4 sm:px-6 lg:px-8 border-b border-slate-800/80 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
         <div className="mx-auto max-w-7xl space-y-6">
           <div className="space-y-2">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 text-xs font-semibold">
-              <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              <span>Двуязычный каталог: оригинальные лендинги на английском и русский перевод</span>
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/15 text-amber-300 border border-amber-500/30 text-xs font-semibold">
+              <Award className="w-3.5 h-3.5 text-amber-400" />
+              <span>База сокращена строго до 108 проверенных компаний Gold Tier</span>
             </div>
             <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white">
-              Каталог компаний: Монтаж, Экскавация и Ремонт септиков
+              Каталог 108 проверенных подрядчиков: Монтаж, Экскавация и Ремонт
             </h1>
             <p className="text-slate-400 text-sm sm:text-base max-w-3xl leading-relaxed">
-              Выберите любую компанию для быстрого просмотра клиентского лендинга на английском языке или переведенной русской версии. Каждая карточка содержит прямые ссылки, рейтинг Google Maps, цветовую тему и реальные отзывы.
+              Вся база очищена от низкочековых одиночек, сантехников и прочисток за $90. Здесь собраны только лицензированные компании с собственным парком техники, проверенные по отзывам Google Maps на монтаж септиков, замену емкостей, дренажные поля и экскавацию.
             </p>
           </div>
 
-          {/* Category Tabs: Gold Tier vs High Ticket vs Low Ticket vs All */}
-          <div className="pt-2">
-            <div className="p-1 rounded-2xl bg-slate-950 border border-slate-800 flex flex-wrap gap-1 shadow-xl">
-              {/* Tab 1: 108 Gold Tier */}
-              <button
-                onClick={() => {
-                  setSelectedCategory('GOLD_TIER')
-                  setSelectedState('ALL')
-                }}
-                className={`flex items-center gap-2 px-4 py-3 rounded-xl text-xs sm:text-sm font-bold transition ${
-                  selectedCategory === 'GOLD_TIER'
-                    ? 'bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 shadow-lg shadow-amber-500/20'
-                    : 'text-slate-300 hover:text-white hover:bg-slate-900'
-                }`}
-              >
-                <Award className="w-4 h-4 fill-current text-slate-950 shrink-0" />
-                <span>🏆 108 проверенных компаний (Gold Tier)</span>
-                <span className="px-2 py-0.5 rounded-full bg-slate-950/40 text-xs font-mono font-black">
-                  {counts.gold}
-                </span>
-              </button>
+          {/* Quick Metrics Bar */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-2">
+            <div className="p-3.5 rounded-xl bg-gradient-to-br from-amber-500/10 to-slate-900 border border-amber-500/30">
+              <div className="flex items-center justify-between text-xs text-amber-300 font-semibold">
+                <span>🏆 Gold Tier База</span>
+                <span className="text-[10px] font-mono bg-amber-500/20 px-1.5 py-0.5 rounded">$3K–$18K+</span>
+              </div>
+              <div className="text-2xl font-black text-white mt-1">
+                {septicLeads.length} <span className="text-xs text-slate-400 font-normal">компаний</span>
+              </div>
+            </div>
 
-              {/* Tab 2: All High Ticket */}
-              <button
-                onClick={() => {
-                  setSelectedCategory('HIGH_TICKET')
-                  setSelectedState('ALL')
-                }}
-                className={`flex items-center gap-2 px-3.5 py-3 rounded-xl text-xs sm:text-sm font-bold transition ${
-                  selectedCategory === 'HIGH_TICKET'
-                    ? 'bg-emerald-500 text-slate-950 shadow-md'
-                    : 'text-slate-300 hover:text-white hover:bg-slate-900'
-                }`}
-              >
-                <Flame className="w-3.5 h-3.5 fill-current text-amber-400 shrink-0" />
-                <span>Все High-Ticket ($3K–$18K+)</span>
-                <span className="px-1.5 py-0.5 rounded-full bg-slate-900 text-slate-300 text-xs font-mono">
-                  {counts.high}
-                </span>
-              </button>
+            <div className="p-3.5 rounded-xl bg-slate-900/80 border border-slate-800">
+              <div className="text-xs text-slate-400 font-medium">Штаты США</div>
+              <div className="text-2xl font-black text-cyan-400 mt-1">{sortedStates.length} штатов</div>
+            </div>
 
-              {/* Tab 3: Low Ticket Pumping */}
-              <button
-                onClick={() => {
-                  setSelectedCategory('LOW_TICKET')
-                  setSelectedState('ALL')
-                }}
-                className={`flex items-center gap-1.5 px-3 py-3 rounded-xl text-xs sm:text-sm font-medium transition ${
-                  selectedCategory === 'LOW_TICKET'
-                    ? 'bg-slate-800 text-cyan-300 border border-cyan-500/40'
-                    : 'text-slate-400 hover:text-slate-200 hover:bg-slate-900'
-                }`}
-              >
-                <Droplet className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
-                <span>Только откачка ($350–$650)</span>
-                <span className="px-1.5 py-0.5 rounded-full bg-slate-900 text-slate-400 text-xs font-mono">
-                  {counts.low}
-                </span>
-              </button>
+            <div className="p-3.5 rounded-xl bg-slate-900/80 border border-slate-800">
+              <div className="text-xs text-slate-400 font-medium">Дизайн-палитры</div>
+              <div className="text-2xl font-black text-emerald-400 mt-1">7 тем • 4 макета</div>
+            </div>
 
-              {/* Tab 4: All */}
-              <button
-                onClick={() => {
-                  setSelectedCategory('ALL')
-                  setSelectedState('ALL')
-                }}
-                className={`flex items-center gap-1.5 px-3 py-3 rounded-xl text-xs sm:text-sm font-medium transition ${
-                  selectedCategory === 'ALL'
-                    ? 'bg-slate-800 text-white border border-slate-700'
-                    : 'text-slate-400 hover:text-slate-200 hover:bg-slate-900'
-                }`}
-              >
-                <span>Вся база</span>
-                <span className="px-1.5 py-0.5 rounded-full bg-slate-900 text-slate-400 text-xs font-mono">
-                  {counts.total}
-                </span>
-              </button>
+            <div className="p-3.5 rounded-xl bg-slate-900/80 border border-slate-800">
+              <div className="text-xs text-slate-400 font-medium">Рейтинг подрядчиков</div>
+              <div className="text-2xl font-black text-amber-400 mt-1">4.6–5.0 ★ Google</div>
             </div>
           </div>
 
@@ -265,7 +195,7 @@ export default function SepticCatalogPage() {
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-500" />
               <input
                 type="text"
-                placeholder="Поиск по названию, городу, штату (напр. Orlando, FL, TX), услуге (Drain Field, Excavation)..."
+                placeholder="Поиск по названию, городу, штату (напр. Orlando, FL, TX, Tuscaloosa), услуге (Drain Field, Excavation)..."
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
                 className="w-full pl-11 pr-4 py-3 rounded-xl bg-slate-900 border border-slate-800 text-white placeholder-slate-500 text-xs sm:text-sm focus:outline-none focus:border-emerald-500 shadow-lg"
@@ -286,6 +216,42 @@ export default function SepticCatalogPage() {
             </div>
           </div>
 
+          {/* Palette Filter Pills */}
+          <div className="space-y-1.5 pt-1">
+            <div className="flex items-center justify-between text-xs text-slate-400">
+              <span className="font-semibold">Фильтр по дизайн-палитре:</span>
+              <span>7 стилей</span>
+            </div>
+            <div className="flex flex-wrap gap-1.5 p-1 rounded-xl bg-slate-950/70 border border-slate-800/80">
+              <button
+                onClick={() => setSelectedPalette('ALL')}
+                className={`px-3 py-1 rounded-lg text-xs font-bold transition ${
+                  selectedPalette === 'ALL'
+                    ? 'bg-emerald-500 text-slate-950'
+                    : 'bg-slate-900 text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                Все стили ({septicLeads.length})
+              </button>
+
+              {Object.entries(paletteLabels).map(([pKey, pInfo]) => (
+                <button
+                  key={pKey}
+                  onClick={() => setSelectedPalette(pKey)}
+                  className={`px-2.5 py-1 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
+                    selectedPalette === pKey
+                      ? 'bg-white text-slate-950 shadow-md'
+                      : 'bg-slate-900 text-slate-300 hover:bg-slate-800'
+                  }`}
+                >
+                  <span>{pInfo.icon}</span>
+                  <span>{pInfo.label}</span>
+                  <span className="text-[10px] opacity-70 font-mono">({paletteCounts[pKey] || 0})</span>
+                </button>
+              ))}
+            </div>
+          </div>
+
           {/* States Filter Pills */}
           <div className="space-y-1.5 pt-1">
             <div className="flex items-center justify-between text-xs text-slate-400">
@@ -301,7 +267,7 @@ export default function SepticCatalogPage() {
                     : 'bg-slate-900 text-slate-300 hover:bg-slate-800'
                 }`}
               >
-                Все штаты ({filteredLeads.length})
+                Все ({filteredLeads.length})
               </button>
 
               {sortedStates.map((st) => (
@@ -315,7 +281,7 @@ export default function SepticCatalogPage() {
                   }`}
                 >
                   <span>{st}</span>
-                  <span className="text-[10px] opacity-70">({stateCounts[st]})</span>
+                  <span className="text-[10px] opacity-70 font-mono">({stateCounts[st]})</span>
                 </button>
               ))}
             </div>
@@ -329,11 +295,9 @@ export default function SepticCatalogPage() {
           <div className="flex items-center gap-2">
             <span>Показано:</span>
             <strong className="text-white text-sm">{filteredLeads.length} компаний</strong>
-            {selectedCategory === 'GOLD_TIER' && (
-              <span className="px-2 py-0.5 rounded-full bg-amber-500/15 text-amber-300 border border-amber-500/30 font-bold text-[11px]">
-                🏆 Проверенные высокочековые подрядчики (Монтаж / Дренаж / Экскавация)
-              </span>
-            )}
+            <span className="px-2 py-0.5 rounded-full bg-amber-500/15 text-amber-300 border border-amber-500/30 font-bold text-[11px]">
+              🏆 100% High-Ticket (Монтаж / Дренаж / Экскавация)
+            </span>
           </div>
           <div className="hidden sm:block text-slate-400 font-mono text-[11px]">
             Нажмите «🇷🇺 Русская версия» или «🇺🇸 English» для перехода
@@ -353,13 +317,7 @@ export default function SepticCatalogPage() {
               return (
                 <div
                   key={item.slug}
-                  className={`rounded-2xl border p-5 sm:p-6 flex flex-col justify-between space-y-4 transition shadow-lg group hover:scale-[1.01] ${
-                    item.isGoldTier
-                      ? 'bg-slate-900/95 border-amber-500/40 hover:border-amber-400 hover:shadow-amber-500/10'
-                      : item.ticketTier === 'HIGH_TICKET'
-                      ? 'bg-slate-900/90 border-slate-800 hover:border-emerald-500/50'
-                      : 'bg-slate-900/70 border-slate-800/80 hover:border-slate-700'
-                  }`}
+                  className="rounded-2xl border border-amber-500/40 bg-slate-900/95 p-5 sm:p-6 flex flex-col justify-between space-y-4 transition shadow-lg group hover:border-amber-400 hover:shadow-amber-500/10 hover:scale-[1.01]"
                 >
                   <div className="space-y-3">
                     {/* Top Row: Location & Rating */}
@@ -414,9 +372,7 @@ export default function SepticCatalogPage() {
                     <div className="p-2.5 rounded-xl bg-slate-950/80 border border-slate-800 space-y-1 text-xs">
                       <div className="flex items-center justify-between font-bold">
                         <span className="text-amber-400 font-mono">{item.ticketRange || '$3K–$18K+'}</span>
-                        <span className="text-slate-400 text-[11px]">
-                          {item.ticketTier === 'HIGH_TICKET' ? 'Монтаж & Дренаж' : 'Откачка & Сервис'}
-                        </span>
+                        <span className="text-slate-400 text-[11px]">Монтаж & Дренаж</span>
                       </div>
                       {item.reviewsSample && item.reviewsSample.length > 0 && (
                         <p className="text-[11px] text-slate-400 italic line-clamp-2 pt-1 border-t border-slate-800/60">
@@ -485,14 +441,13 @@ export default function SepticCatalogPage() {
             <Search className="w-10 h-10 text-slate-600 mx-auto" />
             <h3 className="text-base font-bold text-white">Компании не найдены</h3>
             <p className="text-xs text-slate-400">
-              Попробуйте сбросить фильтры или выбрать вкладку «🏆 108 проверенных компаний (Gold Tier)».
+              Попробуйте сбросить фильтры по штату или поисковому запросу.
             </p>
             <button
               onClick={() => {
                 setSearch('')
                 setSelectedState('ALL')
-                setSelectedCategory('GOLD_TIER')
-                setSelectedIssue('ALL')
+                setSelectedPalette('ALL')
               }}
               className="mt-2 px-4 py-2 rounded-xl bg-emerald-500 text-slate-950 text-xs font-bold hover:bg-emerald-400 transition"
             >
@@ -504,8 +459,8 @@ export default function SepticCatalogPage() {
 
       {/* Footer */}
       <footer className="border-t border-slate-900 bg-slate-950 py-8 px-4 text-center text-xs text-slate-500 space-y-2">
-        <p>© {new Date().getFullYear()} US Septic Network. Каталог 597 компаний по 49 штатам. Выделено 108 проверенных подрядчиков Gold Tier.</p>
-        <p className="text-slate-600">Все страницы доступны в двух версиях: оригинальный клиентский лендинг на английском и полный перевод на русский язык.</p>
+        <p>© {new Date().getFullYear()} US Septic Network. Каталог 108 проверенных подрядчиков Gold Tier по штатам США.</p>
+        <p className="text-slate-600">Все 108 страниц доступны в двух версиях: оригинальный клиентский лендинг на английском и полный перевод на русский язык.</p>
       </footer>
     </div>
   )

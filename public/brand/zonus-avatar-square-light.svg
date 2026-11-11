@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="100%" height="100%" fill="none">
+  <!-- Square 1:1 Profile Avatar (Black on Pure White) -->
+  <rect width="1024" height="1024" fill="#FFFFFF"/>
+  
+  <g transform="translate(512, 512)">
+    <text x="0" y="24" 
+          text-anchor="middle" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Plus Jakarta Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif" 
+          font-size="124" 
+          font-weight="900" 
+          letter-spacing="24" 
+          fill="#09090B">ZONUS</text>
+  </g>
+</svg>

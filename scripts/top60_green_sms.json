@@ -1,0 +1,602 @@
+[
+  {
+    "num": "29",
+    "company": "Metro Plumbing & Sewer LLC",
+    "owner": "Ryan",
+    "phone": "+14409417931",
+    "city": "Cleveland",
+    "state": "OH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/metro-plumbing-sewer-llc"
+  },
+  {
+    "num": "30",
+    "company": "Go Green Septic Service",
+    "owner": "John",
+    "phone": "+18133826775",
+    "city": "Tampa",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/go-green-septic-service"
+  },
+  {
+    "num": "31",
+    "company": "Kent Clean Septic",
+    "owner": "Kent",
+    "phone": "+16032284440",
+    "city": "Manchester",
+    "state": "NH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/kent-clean-septic"
+  },
+  {
+    "num": "34",
+    "company": "Donahue Septic Tank Services",
+    "owner": "Keith",
+    "phone": "+13366217560",
+    "city": "Greensboro",
+    "state": "NC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/donahue-septic-tank-services"
+  },
+  {
+    "num": "35",
+    "company": "Chambliss Construction Co",
+    "owner": "Tommy",
+    "phone": "+17063230168",
+    "city": "Cataula",
+    "state": "GA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/chambliss-construction-co"
+  },
+  {
+    "num": "37",
+    "company": "DP Mercurio & Sons Construction and Septic",
+    "owner": "Dan",
+    "phone": "+15088354842",
+    "city": "West Boylston",
+    "state": "MA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/dp-mercurio-sons-construction-and-septic"
+  },
+  {
+    "num": "39",
+    "company": "J R's Septic Services",
+    "owner": "John",
+    "phone": "+14102752647",
+    "city": "Earleville",
+    "state": "MD",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/j-rs-septic-services"
+  },
+  {
+    "num": "40",
+    "company": "Boraczek Septic & Drain",
+    "owner": "George",
+    "phone": "+16033296005",
+    "city": "Hampstead",
+    "state": "NH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/boraczek-septic-drain"
+  },
+  {
+    "num": "41",
+    "company": "Stockert Septic",
+    "owner": "Rusty",
+    "phone": "+12603573053",
+    "city": "Garrett",
+    "state": "IN",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/stockert-septic"
+  },
+  {
+    "num": "43",
+    "company": "Gentry Septic Pumping Inc",
+    "owner": "Chris",
+    "phone": "+18047331422",
+    "city": "Petersburg",
+    "state": "VA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/gentry-septic-pumping-inc"
+  },
+  {
+    "num": "44",
+    "company": "Wyco Construction Inc",
+    "owner": "Todd",
+    "phone": "+15857862571",
+    "city": "Warsaw",
+    "state": "NY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/wyco-construction-inc"
+  },
+  {
+    "num": "45",
+    "company": "Jimmy Duncan Septic Tank Services",
+    "owner": "Jimmy",
+    "phone": "+15023313496",
+    "city": "Bardstown",
+    "state": "KY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/jimmy-duncan-septic-tank-services"
+  },
+  {
+    "num": "47",
+    "company": "Meyer Septic Service",
+    "owner": "Pete",
+    "phone": "+17166520553",
+    "city": "South Wales",
+    "state": "NY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/meyer-septic-service"
+  },
+  {
+    "num": "48",
+    "company": "ACE Septic & Waste",
+    "owner": "Chris",
+    "phone": "+18139718770",
+    "city": "Tampa",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/ace-septic-waste"
+  },
+  {
+    "num": "49",
+    "company": "Universal Septic Services",
+    "owner": "Eric",
+    "phone": "+12486972697",
+    "city": "Lansing",
+    "state": "MI",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/universal-septic-services"
+  },
+  {
+    "num": "51",
+    "company": "Rick's Pump and Water Service",
+    "owner": "Rick",
+    "phone": "+12035449052",
+    "city": "Redding",
+    "state": "CT",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/ricks-pump-and-water-service"
+  },
+  {
+    "num": "57",
+    "company": "NuFlow Indy",
+    "owner": "Bobby",
+    "phone": "+13172453733",
+    "city": "Indianapolis",
+    "state": "IN",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/nuflow-indy"
+  },
+  {
+    "num": "61",
+    "company": "Septic Check Inspections",
+    "owner": "Kevin",
+    "phone": "+16038932011",
+    "city": "Manchester",
+    "state": "NH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/septic-check-inspections"
+  },
+  {
+    "num": "63",
+    "company": "TCR Rooter & Plumbing LLC",
+    "owner": "Terry",
+    "phone": "+19194672207",
+    "city": "Raleigh",
+    "state": "NC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/tcr-rooter-plumbing-llc"
+  },
+  {
+    "num": "65",
+    "company": "The Pipe Boss",
+    "owner": "Will",
+    "phone": "+13367298993",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/the-pipe-boss"
+  },
+  {
+    "num": "67",
+    "company": "Brandywine Septic Services Inc",
+    "owner": "Tom",
+    "phone": "+16108690443",
+    "city": "Lincoln University",
+    "state": "PA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/brandywine-septic-services-inc"
+  },
+  {
+    "num": "68",
+    "company": "J septic services and drain feild replacement",
+    "owner": "Jimmy",
+    "phone": "+18647492020",
+    "city": "Greenville",
+    "state": "SC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/j-septic-services-and-drain-feild-replacement"
+  },
+  {
+    "num": "69",
+    "company": "Newsome Well & Septic",
+    "owner": "Ron",
+    "phone": "+13865888378",
+    "city": "Alachua",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/newsome-well-septic"
+  },
+  {
+    "num": "70",
+    "company": "Anzaldo Septic",
+    "owner": "Jeff",
+    "phone": "+14075567306",
+    "city": "Ocala",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/anzaldo-septic"
+  },
+  {
+    "num": "72",
+    "company": "Palmetto septic solutions LLC",
+    "owner": "Gregory",
+    "phone": "+18036789885",
+    "city": "West Columbia",
+    "state": "SC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/palmetto-septic-solutions-llc"
+  },
+  {
+    "num": "77",
+    "company": "Dalton Outdoor Services LLC",
+    "owner": "Dalton",
+    "phone": "+16785779361",
+    "city": "Athens",
+    "state": "GA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/dalton-outdoor-services-llc"
+  },
+  {
+    "num": "80",
+    "company": "M&B Septic Service & Noah's Ark Port-A-Jon",
+    "owner": "Leo",
+    "phone": "+19738385840",
+    "city": "West Milford",
+    "state": "NJ",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/mb-septic-service-noahs-ark-port-a-jon"
+  },
+  {
+    "num": "81",
+    "company": "Tri-County Excavating",
+    "owner": "Mike",
+    "phone": "+15185281646",
+    "city": "Albany",
+    "state": "NY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/tri-county-excavating"
+  },
+  {
+    "num": "82",
+    "company": "Little City Plumbing",
+    "owner": "Austin",
+    "phone": "+19102009760",
+    "city": "Wilmington",
+    "state": "NC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/little-city-plumbing"
+  },
+  {
+    "num": "83",
+    "company": "Valli Construction Co Inc",
+    "owner": "Mike",
+    "phone": "+18603216499",
+    "city": "Portland",
+    "state": "CT",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/valli-construction-co-inc"
+  },
+  {
+    "num": "84",
+    "company": "J & S Liquid Waste Services Inc.",
+    "owner": "Bryce",
+    "phone": "+12604896021",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/j-s-liquid-waste-services-inc"
+  },
+  {
+    "num": "87",
+    "company": "Maggio and Sons Land Development Company",
+    "owner": "Peter",
+    "phone": "+15186229882",
+    "city": "Round Top",
+    "state": "NY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/maggio-and-sons-land-development-company"
+  },
+  {
+    "num": "88",
+    "company": "Safari Septic and Home Services",
+    "owner": "Tom",
+    "phone": "+13212210300",
+    "city": "Orlando",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/safari-septic-and-home-services"
+  },
+  {
+    "num": "91",
+    "company": "Sweetwater Well Drilling & Pump Service Inc.",
+    "owner": "Steve",
+    "phone": "+13524029355",
+    "city": "Ocala",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/sweetwater-well-drilling-pump-service-inc"
+  },
+  {
+    "num": "92",
+    "company": "MG Septic LLC",
+    "owner": "Matt",
+    "phone": "+15187278699",
+    "city": "Albany",
+    "state": "NY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/mg-septic-llc"
+  },
+  {
+    "num": "94",
+    "company": "New Milford Septic Services",
+    "owner": "Shane",
+    "phone": "+18603508265",
+    "city": "New Milford",
+    "state": "CT",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/new-milford-septic-services"
+  },
+  {
+    "num": "95",
+    "company": "Nest & Sons Inc",
+    "owner": "Taylor",
+    "phone": "+12079852581",
+    "city": "Kennebunk",
+    "state": "ME",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/nest-sons-inc"
+  },
+  {
+    "num": "96",
+    "company": "Lowe's Septic Service",
+    "owner": "Keith",
+    "phone": "+17067344407",
+    "city": "Summerville",
+    "state": "GA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/lowes-septic-service"
+  },
+  {
+    "num": "98",
+    "company": "Anzaldo Septic Service",
+    "owner": "Jeff",
+    "phone": "+14075567306",
+    "city": "Mt Dora",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/anzaldo-septic-service"
+  },
+  {
+    "num": "103",
+    "company": "Flow-Rite Plumbing & Drain Service",
+    "owner": "Tonya",
+    "phone": "+19104664419",
+    "city": "Fayetteville",
+    "state": "NC",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/flow-rite-plumbing-drain-service"
+  },
+  {
+    "num": "104",
+    "company": "RPM Septic Systems LLC",
+    "owner": "Ralph",
+    "phone": "+12039422100",
+    "city": "Danbury",
+    "state": "CT",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/rpm-septic-systems-llc"
+  },
+  {
+    "num": "105",
+    "company": "Advanced Septic Services, Inc.",
+    "owner": "David",
+    "phone": "+13522426100",
+    "city": "Groveland",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/advanced-septic-services-inc"
+  },
+  {
+    "num": "106",
+    "company": "Premier Plumbing Services LLC",
+    "owner": "Carlos",
+    "phone": "+19375246955",
+    "city": "Dayton",
+    "state": "OH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/premier-plumbing-services-llc"
+  },
+  {
+    "num": "108",
+    "company": "ABC Septic Service",
+    "owner": "James",
+    "phone": "+12396286200",
+    "city": "Fort Myers",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/abc-septic-service"
+  },
+  {
+    "num": "110",
+    "company": "Septic Experts",
+    "owner": "Jason",
+    "phone": "+17063004264",
+    "city": "Dahlonega",
+    "state": "GA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/septic-experts"
+  },
+  {
+    "num": "111",
+    "company": "Royal Flush: Drain Cleaning & Sewer Line Repair",
+    "owner": "Shane",
+    "phone": "+15083369117",
+    "city": "East Providence",
+    "state": "RI",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/royal-flush-drain-cleaning-sewer-line-repair"
+  },
+  {
+    "num": "112",
+    "company": "Sunrise Septic Service",
+    "owner": "Allen",
+    "phone": "+14109347430",
+    "city": "Annapolis",
+    "state": "MD",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/sunrise-septic-service"
+  },
+  {
+    "num": "113",
+    "company": "CLE Plumbing Sewer and Drain",
+    "owner": "Josh",
+    "phone": "+12162942462",
+    "city": "Warrensville Heights",
+    "state": "OH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/cle-plumbing-sewer-and-drain"
+  },
+  {
+    "num": "114",
+    "company": "Sudano Septic & Sanitation",
+    "owner": "Chris",
+    "phone": "+12033096264",
+    "city": "New Fairfield",
+    "state": "CT",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/sudano-septic-sanitation"
+  },
+  {
+    "num": "115",
+    "company": "A-­1 Pumping Service and Drain Cleaning",
+    "owner": "Martin",
+    "phone": "+17062723352",
+    "city": "Dalton",
+    "state": "GA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/a-1-pumping-service-and-drain-cleaning"
+  },
+  {
+    "num": "117",
+    "company": "Fehl Safe Plumbing",
+    "owner": "Nick",
+    "phone": "+19412631941",
+    "city": "Sarasota",
+    "state": "FL",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/fehl-safe-plumbing"
+  },
+  {
+    "num": "118",
+    "company": "Maine Septic & Pumping",
+    "owner": "Chad",
+    "phone": "+12077825940",
+    "city": "Lewiston",
+    "state": "ME",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/maine-septic-pumping"
+  },
+  {
+    "num": "119",
+    "company": "Pile Septic Service LLC",
+    "owner": "Will",
+    "phone": "+13017335961",
+    "city": "Hagerstown",
+    "state": "MD",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/pile-septic-service-llc"
+  },
+  {
+    "num": "121",
+    "company": "AAA Suburban Septic",
+    "owner": "Dave",
+    "phone": "+15857231230",
+    "city": "Brockport",
+    "state": "NY",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/aaa-suburban-septic"
+  },
+  {
+    "num": "122",
+    "company": "T. Palmer Septic Service LLC",
+    "owner": "Sara",
+    "phone": "+12037463637",
+    "city": "Danbury",
+    "state": "CT",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/t-palmer-septic-service-llc"
+  },
+  {
+    "num": "123",
+    "company": "Gosse Septic Services",
+    "owner": "Brenda",
+    "phone": "+16032693441",
+    "city": "Center Barnstead",
+    "state": "NH",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/gosse-septic-services"
+  },
+  {
+    "num": "125",
+    "company": "Bonzo Septic Repair and Installation",
+    "owner": "Zac",
+    "phone": "+17242518513",
+    "city": "New Brighton",
+    "state": "PA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/bonzo-septic-repair-and-installation"
+  },
+  {
+    "num": "128",
+    "company": "Blue Star Septic Service",
+    "owner": "Jason",
+    "phone": "+17174494844",
+    "city": "Wrightsville",
+    "state": "PA",
+    "tz": "EST",
+    "slugUrl": "https://septic.up.railway.app/blue-star-septic-service"
+  },
+  {
+    "num": "147",
+    "company": "Reliable Sewer and Drain",
+    "owner": "Jeff",
+    "phone": "+18156706176",
+    "city": "Rockford",
+    "state": "IL",
+    "tz": "CST",
+    "slugUrl": "https://septic.up.railway.app/reliable-sewer-and-drain"
+  },
+  {
+    "num": "150",
+    "company": "Blackburn Brothers",
+    "owner": "Scott",
+    "phone": "+14178312222",
+    "city": "Springfield",
+    "state": "MO",
+    "tz": "CST",
+    "slugUrl": "https://septic.up.railway.app/blackburn-brothers"
+  }
+]

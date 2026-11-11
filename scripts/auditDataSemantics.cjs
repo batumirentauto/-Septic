@@ -80,8 +80,7 @@ function runAudit() {
   // ==========================================
   // PART 2: AUDIT SEMANTIC INTEGRITY ON ACTIVE PAGES
   // ==========================================
-  const activeSlugs = new Set(callLeads.map(c => c.slug));
-  activeSlugs.add('premier-septic-services');
+  const activeSlugs = new Set(septicLeads.map(s => s.slug));
 
   console.log(`Checking UI semantics across active target pages...`);
 
