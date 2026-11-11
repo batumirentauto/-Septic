@@ -196,7 +196,8 @@
     "galleryPhotos": [],
     "ownerName": "Tom",
     "palette": "emerald",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "first-call-septic",
@@ -381,7 +382,8 @@
     "galleryPhotos": [],
     "heroImage": "/showcase/first-call-septic/photo_001_opt.jpg",
     "palette": "red",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "ark-septic-plumbing",
@@ -466,7 +468,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "johnsons-septic-service-inc",
@@ -666,7 +669,8 @@
     "galleryPhotos": [],
     "ownerName": "Mark",
     "palette": "blue",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "advanced-septic-services-inc",
@@ -857,7 +861,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "absolute-best-plumbing",
@@ -945,7 +950,8 @@
         "specs": "Full Video Report | FHA/VA Mortgage & Closing Certified",
         "specsRu": "Официальный протокол с видеозаписью | Стандарты FHA/VA"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "anytime-septic-solutions",
@@ -1183,7 +1189,8 @@
         "descRu": "Завершенный объект в г. Lakeland с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/anytime-septic-solutions/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "hills-septic-service",
@@ -1367,7 +1374,8 @@
     "galleryPhotos": [],
     "palette": "orange",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "superior-septic-services",
@@ -1567,7 +1575,8 @@
     ],
     "galleryPhotos": [],
     "palette": "red",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "extra-care-plumbing-llc",
@@ -1676,7 +1685,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": null,
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "arnett-environmental",
@@ -1864,7 +1874,8 @@
     ],
     "galleryPhotos": [],
     "palette": "teal",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "miller-environmental-services",
@@ -2030,7 +2041,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Stephanie"
+    "ownerName": "Stephanie",
+    "isGoldTier": false
   },
   {
     "slug": "brasher-septic-service",
@@ -2213,7 +2225,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Spud"
+    "ownerName": "Spud",
+    "isGoldTier": false
   },
   {
     "slug": "roper-and-son-septic-service",
@@ -2281,7 +2294,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wells-septic-tank-services",
@@ -2516,7 +2530,8 @@
       }
     ],
     "palette": "blue",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "pickle-septic-tank-and-plumbing",
@@ -2584,7 +2599,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "new-era-plumbing-inc",
@@ -2652,7 +2668,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "sfi-environmental",
@@ -2720,7 +2737,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "warrior-pumping",
@@ -2805,7 +2823,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "System Replacement"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "buckner-septic-tank-cleaning",
@@ -2873,7 +2892,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "aaa-septic-tank-service-of-cullman-llc",
@@ -2945,7 +2965,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "247-plumbing-birmingham-al",
@@ -3013,7 +3034,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "aardvark-septic-services",
@@ -3196,7 +3218,8 @@
     "galleryPhotos": [],
     "ownerName": "Mark",
     "palette": "amber",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "don-thomas-construction-septic-service",
@@ -3389,7 +3412,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "mickeys-septic-pumping",
@@ -3465,7 +3489,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Complete Septic Systems"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "rosser-septic-tank-services",
@@ -3639,7 +3664,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jeff"
+    "ownerName": "Jeff",
+    "isGoldTier": false
   },
   {
     "slug": "drainpro-express-emergency-plumbing-drain-cleaning-services",
@@ -3666,7 +3692,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "terrapin-creek-plumbing-and-septic-service-llc",
@@ -3734,7 +3761,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "b-c-plumbing",
@@ -3925,7 +3953,8 @@
         "image": "/showcase/b-c-plumbing/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "alabama-septic-services-llc",
@@ -4112,7 +4141,8 @@
     ],
     "galleryPhotos": [],
     "palette": "emerald",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "bskc-soil-and-septic-services-llc",
@@ -4326,7 +4356,8 @@
     ],
     "ownerName": "Nichole",
     "palette": "emerald",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "ritters-drain-cleaning-services",
@@ -4508,7 +4539,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "one-call-services-inc",
@@ -4617,7 +4649,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": null,
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "alabama-septic-tank-services-llc",
@@ -4853,7 +4886,8 @@
       }
     ],
     "palette": "orange",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "snipes-plumbing-mechanical",
@@ -4921,7 +4955,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "southern-tractor-landscaping",
@@ -5110,7 +5145,8 @@
     ],
     "galleryPhotos": [],
     "palette": "amber",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "arctic-effluent-services-llc",
@@ -5182,7 +5218,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "dakota-diggers-llc",
@@ -5395,7 +5432,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/dakota-diggers-llc/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "casa-grande-septic-services",
@@ -5580,7 +5618,8 @@
     "galleryPhotos": [],
     "palette": "indigo",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "nu-flow-phoenix",
@@ -5812,7 +5851,8 @@
         "descRu": "Завершенный объект в г. Phoenix с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/nu-flow-phoenix/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "busy-d-pumping",
@@ -6018,7 +6058,8 @@
       }
     ],
     "palette": "blue",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "c-e-septic-services-llc",
@@ -6256,7 +6297,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "double-r-septic-system",
@@ -6328,7 +6370,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "nu-flow-tucson",
@@ -6511,7 +6554,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "tucson-plumbing-solutions",
@@ -6705,7 +6749,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/tucson-plumbing-solutions/photo_001_opt.jpg",
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "on-the-way-plumbing",
@@ -6902,7 +6947,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "dinosaur-plumbing",
@@ -7084,7 +7130,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Bob"
+    "ownerName": "Bob",
+    "isGoldTier": false
   },
   {
     "slug": "az-septic-works",
@@ -7163,7 +7210,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "elsea-plumbing-inc",
@@ -7190,7 +7238,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "pine-country-plumbing",
@@ -7405,7 +7454,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/pine-country-plumbing/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "yavapai-septic-service",
@@ -7477,7 +7527,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "arts-locating-llc",
@@ -7581,7 +7632,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "drain-king",
@@ -7816,7 +7868,8 @@
         "descRu": "Завершенный объект в г. Fayetteville с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/drain-king/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "abc-quick-pump-septic-service-rentals",
@@ -8032,7 +8085,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/abc-quick-pump-septic-service-rentals/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "arkansas-septic-pumping-llc",
@@ -8059,7 +8113,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "steves-septic-service",
@@ -8127,7 +8182,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "its-plumbing",
@@ -8362,7 +8418,8 @@
         "descRu": "Завершенный объект в г. Rogers с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/its-plumbing/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "trumans-septic-tank-service",
@@ -8430,7 +8487,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jesse-pigeon-plumbing-llc",
@@ -8643,7 +8701,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/jesse-pigeon-plumbing-llc/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "trade-pro-plumbing",
@@ -8825,7 +8884,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Corey"
+    "ownerName": "Corey",
+    "isGoldTier": false
   },
   {
     "slug": "asap-aerobic-septic-services",
@@ -9007,7 +9067,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Robert"
+    "ownerName": "Robert",
+    "isGoldTier": false
   },
   {
     "slug": "trade-pro-construction",
@@ -9241,7 +9302,8 @@
         "image": "/showcase/trade-pro-construction/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Jason"
+    "ownerName": "Jason",
+    "isGoldTier": false
   },
   {
     "slug": "multi-craft-contractors-inc",
@@ -9268,7 +9330,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "kramer-company-mechanical",
@@ -9459,7 +9522,8 @@
         "image": "/showcase/kramer-company-mechanical/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "bds-septic-service",
@@ -9537,7 +9601,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bubs-inc",
@@ -9605,7 +9670,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "moore-brothers-septic-systems",
@@ -9787,7 +9853,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "gryner-tanks-inc",
@@ -9971,7 +10038,8 @@
     ],
     "galleryPhotos": [],
     "palette": "emerald",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "tank-rangers-of-northwest-arkansas",
@@ -10039,7 +10107,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "advanced-septic-solutions",
@@ -10223,7 +10292,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "millennium-plumbing-specialist-inc",
@@ -10416,7 +10486,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/millennium-plumbing-specialist-inc/photo_005_opt.jpg",
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "ned-carnett-septic-service",
@@ -10488,7 +10559,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "drain-pros-plumbing-and-sewer-inc",
@@ -10676,7 +10748,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "speed-plumbing-pros",
@@ -10907,7 +10980,8 @@
         "descRu": "Завершенный объект в г. Sacramento с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/speed-plumbing-pros/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "plumbing-sacramento-water-heater-services",
@@ -11088,7 +11162,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "gordons-plumbing-piping",
@@ -11284,7 +11359,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "bobbys-septic-tank-pumping",
@@ -11361,7 +11437,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "the-septic-guys",
@@ -11435,7 +11512,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "chris-rooter",
@@ -11626,7 +11704,8 @@
         "image": "/showcase/chris-rooter/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "rescue-hero-plumbing-pumping",
@@ -11715,7 +11794,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "f-c-septic-pumping",
@@ -11803,7 +11883,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "john-the-plumber-tehachapi-ca",
@@ -11969,7 +12050,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "aaa-septic-pumping",
@@ -12050,7 +12132,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "asap-pumping-inc",
@@ -12118,7 +12201,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "best-plumbing-services-inc",
@@ -12301,7 +12385,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Tony"
+    "ownerName": "Tony",
+    "isGoldTier": false
   },
   {
     "slug": "cascade-plumbing-rooter",
@@ -12482,7 +12567,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "triad-water-solutions",
@@ -12675,7 +12761,8 @@
     ],
     "galleryPhotos": [],
     "ownerName": "Garrett",
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "allstarz-pumping-engineering",
@@ -12751,7 +12838,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "System Replacement"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "american-sewer-drain",
@@ -12819,7 +12907,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "gac-plumbing-company",
@@ -12846,7 +12935,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "a-better-plumbing-company-plumber-santa-rosa",
@@ -13037,7 +13127,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "north-bay-restaurant-services",
@@ -13230,7 +13321,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "usa-septic",
@@ -13412,7 +13504,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "easy-flow-sewer-drain-cleaning-san-diego",
@@ -13606,7 +13699,8 @@
         "image": "/showcase/easy-flow-sewer-drain-cleaning-san-diego/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "xtreme-drainworks-inc",
@@ -13836,7 +13930,8 @@
     ],
     "ownerName": "Brian",
     "heroImage": "/showcase/xtreme-drainworks-inc/photo_001_opt.jpg",
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "plumbtech",
@@ -14028,7 +14123,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "eco-grease-pumping-services",
@@ -14102,7 +14198,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "recreational-vehicle-dump-station",
@@ -14180,7 +14277,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "colorado-pumping",
@@ -14256,7 +14354,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "sewer-scope-denver",
@@ -14324,7 +14423,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "pro-power-rooter-service",
@@ -14351,7 +14451,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "tank-it-easy-colorado-springs",
@@ -14544,7 +14645,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "jr-gs-septic",
@@ -14616,7 +14718,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bigfoot-portables",
@@ -14643,7 +14746,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "4-mile-septic",
@@ -14879,7 +14983,8 @@
         "image": "/showcase/4-mile-septic/photo_008_opt.jpg"
       }
     ],
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "tbc-septic",
@@ -15066,7 +15171,8 @@
     "galleryPhotos": [],
     "palette": "blue",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "baileys-sewer-drain-llc",
@@ -15247,7 +15353,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "father-sons-plumbing-drain",
@@ -15439,7 +15546,8 @@
         "image": "/showcase/father-sons-plumbing-drain/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "soco-septic-service-llc",
@@ -15513,7 +15621,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "royal-t-rooter-services",
@@ -15581,7 +15690,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "boonstra-excavation-llc",
@@ -15819,7 +15929,8 @@
       }
     ],
     "palette": "orange",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "crow-creek-septic-services",
@@ -16008,7 +16119,8 @@
     ],
     "galleryPhotos": [],
     "palette": "red",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "the-drain-pros-llc",
@@ -16076,7 +16188,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "clearflow-sewer-and-drain-cleaning",
@@ -16144,7 +16257,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "peak-plumbing-rooter-llc",
@@ -16374,7 +16488,8 @@
         "descRu": "Завершенный объект в г. Fort Collins с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/peak-plumbing-rooter-llc/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "noco-septic-excavation",
@@ -16563,7 +16678,8 @@
     "galleryPhotos": [],
     "palette": "indigo",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "big-johns-septic-service-llc",
@@ -16631,7 +16747,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "burtons-plumbing-llc",
@@ -16814,7 +16931,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Mike"
+    "ownerName": "Mike",
+    "isGoldTier": false
   },
   {
     "slug": "evans-rooter-service-llc",
@@ -16882,7 +17000,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "adb-construction-septic-corp",
@@ -17062,7 +17181,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "rpm-septic-systems-llc",
@@ -17249,7 +17369,8 @@
     "galleryPhotos": [],
     "palette": "indigo",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "bill-dunn-sanitation-llc",
@@ -17317,7 +17438,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jake-the-snake-pipe-drain",
@@ -17385,7 +17507,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "new-milford-septic-services",
@@ -17575,7 +17698,8 @@
     "galleryPhotos": [],
     "ownerName": "Shane",
     "palette": "amber",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "valli-construction-co-inc",
@@ -17813,7 +17937,8 @@
         "image": "/showcase/valli-construction-co-inc/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Mike"
+    "ownerName": "Mike",
+    "isGoldTier": false
   },
   {
     "slug": "sudano-septic-sanitation",
@@ -17987,7 +18112,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Chris"
+    "ownerName": "Chris",
+    "isGoldTier": false
   },
   {
     "slug": "t-palmer-septic-service-llc",
@@ -18173,7 +18299,8 @@
     "ownerName": "Sara",
     "palette": "emerald",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "arc-o-rooter",
@@ -18241,7 +18368,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "ricks-pump-and-water-service",
@@ -18430,7 +18558,8 @@
     ],
     "galleryPhotos": [],
     "palette": "blue",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "saviour-septic",
@@ -18643,7 +18772,8 @@
       }
     ],
     "palette": "orange",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "nichols-septic-service",
@@ -18711,7 +18841,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jones-septic-service",
@@ -18779,7 +18910,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "j-rs-septic-services",
@@ -18961,7 +19093,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "John"
+    "ownerName": "John",
+    "isGoldTier": false
   },
   {
     "slug": "johns-septic-service",
@@ -19033,7 +19166,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "c-m-kristman-excavating-inc",
@@ -19208,7 +19342,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "als-septic-tank-pumping",
@@ -19276,7 +19411,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "eagertons-septic-tank-pumping",
@@ -19367,7 +19503,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "royal-flush-septic-services-jacksonville-nc",
@@ -19456,7 +19593,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "well-dr-accessories-well-installation-repairs-water-treatment-services-in-jacksonville-florida",
@@ -19648,7 +19786,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Dee"
+    "ownerName": "Dee",
+    "isGoldTier": false
   },
   {
     "slug": "ace-septic-waste",
@@ -19845,7 +19984,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "go-green-septic-service",
@@ -20039,7 +20179,8 @@
     "galleryPhotos": [],
     "palette": "emerald",
     "heroLayout": "centered",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "adams-septic-services-inc",
@@ -20122,7 +20263,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "localpro-plumbing-of-south-tampa",
@@ -20210,7 +20352,8 @@
         "specs": "Full Video Report | FHA/VA Mortgage & Closing Certified",
         "specsRu": "Официальный протокол с видеозаписью | Стандарты FHA/VA"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "boyetts-septic-tank-portable-toilets",
@@ -20289,7 +20432,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "emerald-coast-plumbing-septic-inc",
@@ -20533,7 +20677,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "aaa-thompsons-septic-inc",
@@ -20612,7 +20757,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "grice-and-son-septic-tank-services-inc",
@@ -20699,7 +20845,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "ocala-well-and-septic",
@@ -20791,7 +20938,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "moring-septic-tank-services",
@@ -21036,7 +21184,8 @@
     ],
     "ownerName": "Henry",
     "palette": "teal",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "smith-septic-service-inc",
@@ -21259,7 +21408,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "browns-septic-tank-services",
@@ -21338,7 +21488,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "dunnellon-septic-tank-service-inc",
@@ -21571,7 +21722,8 @@
       }
     ],
     "palette": "emerald",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "anzaldo-septic",
@@ -21817,7 +21969,8 @@
       }
     ],
     "palette": "blue",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "anzaldo-septic-service",
@@ -22016,7 +22169,8 @@
     ],
     "galleryPhotos": [],
     "palette": "orange",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "scooter-plumbing",
@@ -22206,7 +22360,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "sweetwater-well-drilling-pump-service-inc",
@@ -22450,7 +22605,8 @@
         "image": "/showcase/sweetwater-well-drilling-pump-service-inc/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Steve"
+    "ownerName": "Steve",
+    "isGoldTier": false
   },
   {
     "slug": "busy-bee-septic-llc",
@@ -22529,7 +22685,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "land-perc",
@@ -22645,7 +22802,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/land-perc/photo_003_opt.jpg",
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "barneys-sanitation-llc",
@@ -22835,7 +22993,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "abc-septic-service",
@@ -23030,7 +23189,8 @@
     "galleryPhotos": [],
     "palette": "red",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "doody-calls-septic-services-llc",
@@ -23115,7 +23275,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "towers",
@@ -23232,7 +23393,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/towers/photo_001_opt.jpg",
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "septic-tank-man",
@@ -23423,7 +23585,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "fehl-safe-plumbing",
@@ -23606,7 +23769,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Nick"
+    "ownerName": "Nick",
+    "isGoldTier": false
   },
   {
     "slug": "rohrers-septic-tank-tractor",
@@ -23685,7 +23849,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "john-c-cascio-septic-service",
@@ -23764,7 +23929,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "eco-septic-tank-pumping-lakeland",
@@ -23851,7 +24017,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "parkers-septic-tank-services",
@@ -23919,7 +24086,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "newsome-well-septic",
@@ -24116,7 +24284,8 @@
     "galleryPhotos": [],
     "ownerName": "Ron",
     "palette": "blue",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "gse-septic",
@@ -24208,7 +24377,8 @@
         "specs": "Heavy-Duty Polylok Risers | Lawn-Level Green Covers",
         "specsRu": "Шахты Polylok | Крышки в уровень с травой"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "jimmy-septic",
@@ -24444,7 +24614,8 @@
       }
     ],
     "palette": "teal",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "alk-septic-service",
@@ -24526,7 +24697,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "coleman-services",
@@ -24600,7 +24772,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "kitchens-young-well-septic-service",
@@ -24788,7 +24961,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "davis-concrete-products-inc",
@@ -24870,7 +25044,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "chambliss-construction-co",
@@ -25053,7 +25228,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Tommy"
+    "ownerName": "Tommy",
+    "isGoldTier": false
   },
   {
     "slug": "royal-flush-septic-tank-service",
@@ -25125,7 +25301,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "richard-barrett-septic",
@@ -25193,7 +25370,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "advanced-plumbing-drain-cleaning-inc",
@@ -25375,7 +25553,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jacob"
+    "ownerName": "Jacob",
+    "isGoldTier": false
   },
   {
     "slug": "corey-turpin-septic-pumping",
@@ -25445,7 +25624,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "dalton-outdoor-services-llc",
@@ -25681,7 +25861,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "franklins-septic",
@@ -25868,7 +26049,8 @@
     "galleryPhotos": [],
     "palette": "emerald",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "chris-dawson-plumbing-llc",
@@ -26059,7 +26241,8 @@
         "image": "/showcase/chris-dawson-plumbing-llc/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "guardian-septic-services-inc",
@@ -26152,7 +26335,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "asap-plumbing-and-drain-llc",
@@ -26340,7 +26524,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "hammond-septic-tank",
@@ -26530,7 +26715,8 @@
     ],
     "galleryPhotos": [],
     "palette": "blue",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "septic-experts",
@@ -26715,7 +26901,8 @@
     "galleryPhotos": [],
     "palette": "indigo",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "pacific-pumping-septic-servicellc",
@@ -26783,7 +26970,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "low-cost-drain-plumbing",
@@ -27016,7 +27204,8 @@
         "descRu": "Завершенный объект в г. Honolulu с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/low-cost-drain-plumbing/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "united-drain-techs",
@@ -27198,7 +27387,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "sunrise-septic",
@@ -27272,7 +27462,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "elite-rooter-boise",
@@ -27467,7 +27658,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/elite-rooter-boise/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "above-and-beyond-plumbing-llc",
@@ -27613,7 +27805,8 @@
       }
     ],
     "heroImage": "/showcase/above-and-beyond-plumbing-llc/photo_007_opt.jpg",
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "affordable-septic-tank-pumping",
@@ -27717,7 +27910,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/affordable-septic-tank-pumping/photo_001_opt.jpg",
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "asap-septic-pumping-llc",
@@ -27787,7 +27981,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "iron-forged-excavation",
@@ -28022,7 +28217,8 @@
       }
     ],
     "palette": "red",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "smith-septic",
@@ -28215,7 +28411,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "emerald"
+    "palette": "emerald",
+    "isGoldTier": false
   },
   {
     "slug": "superior-sewer-and-drain-idaho",
@@ -28397,7 +28594,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Zach"
+    "ownerName": "Zach",
+    "isGoldTier": false
   },
   {
     "slug": "reliable-sewer-and-drain",
@@ -28585,7 +28783,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "elevation-septic-excavating-llc",
@@ -28770,7 +28969,8 @@
     "galleryPhotos": [],
     "palette": "indigo",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "pro-services-plumbing-drains-sewer-lining",
@@ -28838,7 +29038,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "d-e-mathieu-plumbing-sewer-water",
@@ -29021,7 +29222,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "gl-septic-inc",
@@ -29203,7 +29405,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "hydro-tech-max-plumbing-and-drains",
@@ -29384,7 +29587,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Mike"
+    "ownerName": "Mike",
+    "isGoldTier": false
   },
   {
     "slug": "illinois-valley-septic-service-llc",
@@ -29572,7 +29776,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Joey"
+    "ownerName": "Joey",
+    "isGoldTier": false
   },
   {
     "slug": "bruce-septic-and-repair-inc",
@@ -29647,7 +29852,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "ace-drain-and-sewer-experts-inc",
@@ -29835,7 +30041,8 @@
     ],
     "galleryPhotos": [],
     "palette": "indigo",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "fv-plumbing",
@@ -30070,7 +30277,8 @@
         "descRu": "Завершенный объект в г. Naperville с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/fv-plumbing/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "j-s-wastewater-systems-inc",
@@ -30245,7 +30453,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "macs-septic-llc",
@@ -30321,7 +30530,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "purge-environmental",
@@ -30396,7 +30606,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "nuflow-indy",
@@ -30629,7 +30840,8 @@
         "image": "/showcase/nuflow-indy/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Bobby"
+    "ownerName": "Bobby",
+    "isGoldTier": false
   },
   {
     "slug": "j-s-liquid-waste-services-inc",
@@ -30820,7 +31032,8 @@
     ],
     "galleryPhotos": [],
     "palette": "blue",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "stockert-septic",
@@ -30994,7 +31207,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "1-2-3-septic-services",
@@ -31184,7 +31398,8 @@
         "image": "/showcase/1-2-3-septic-services/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "cowsert-jr-septic-is-now-save-septic",
@@ -31369,7 +31584,8 @@
     "galleryPhotos": [],
     "palette": "emerald",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "a-royal-flush-septic-services",
@@ -31437,7 +31653,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bobs-sewerooter-services",
@@ -31505,7 +31722,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "mike-killen-construction",
@@ -31573,7 +31791,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "right-on-time-plumbing-sewer-drain-cleaning-plumbing-repairs",
@@ -31761,7 +31980,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "coyles-plumbing-repair",
@@ -31829,7 +32049,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "southeast-iowa-sewer-services",
@@ -31897,7 +32118,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wise-sewer-and-drain",
@@ -32079,7 +32301,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "redline-excavation-services-llc",
@@ -32314,7 +32537,8 @@
       }
     ],
     "palette": "blue",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "plumbing-solutions-of-wichita-inc",
@@ -32529,7 +32753,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/plumbing-solutions-of-wichita-inc/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "alpha-hvac-and-plumbing-llc",
@@ -32712,7 +32937,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "septic-kings",
@@ -32894,7 +33120,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "larsen-sons-plumbing",
@@ -33128,7 +33355,8 @@
         "descRu": "Завершенный объект в г. Spring Hill с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/larsen-sons-plumbing/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "reeds-septic-services",
@@ -33202,7 +33430,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "dmc-industries",
@@ -33368,7 +33597,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "cooters-septic-service",
@@ -33549,7 +33779,8 @@
     ],
     "galleryPhotos": [],
     "palette": "orange",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "the-sewer-doctors",
@@ -33617,7 +33848,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "pacific-sanitation-services",
@@ -33689,7 +33921,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "downing-septic-tank-cleaning",
@@ -33765,7 +33998,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Complete Septic Systems"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "sherlock-homes-plumbing-and-sewer",
@@ -33948,7 +34182,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "jimmy-duncan-septic-tank-services",
@@ -34131,7 +34366,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "lindseys-septic-tank-services",
@@ -34233,7 +34469,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/lindseys-septic-tank-services/photo_001_opt.jpg",
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "jenkins-son-septic-service",
@@ -34301,7 +34538,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "c-c-portables",
@@ -34369,7 +34607,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "american-septic",
@@ -34605,7 +34844,8 @@
     ],
     "ownerName": "Anthony",
     "palette": "red",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "hardin-county-septic-services",
@@ -34683,7 +34923,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "reliable-outcomes-excavation",
@@ -34918,7 +35159,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "grant-county-septic-services",
@@ -34986,7 +35228,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "adkins-septic-tank-cleaning-service",
@@ -35056,7 +35299,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Complete Septic Systems"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "thompsons-plumbing",
@@ -35248,7 +35492,8 @@
         "image": "/showcase/thompsons-plumbing/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "ohio-valley-septic-grease-services",
@@ -35316,7 +35561,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "hardin-co-plumbing-service",
@@ -35384,7 +35630,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "little-rooster-septic-service",
@@ -35452,7 +35699,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "tl-septic",
@@ -35520,7 +35768,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "rps-sewer-services",
@@ -35732,7 +35981,8 @@
       }
     ],
     "palette": "teal",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "reynolds-pumping-and-septic-services",
@@ -35804,7 +36054,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bracys-a-1-septic-tank-installations-cleaning-modad-air-pump-sales",
@@ -35985,7 +36236,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "platinum-plumbing",
@@ -36168,7 +36420,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "water-worx-plumbing-llc",
@@ -36338,7 +36591,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "amys-sewer",
@@ -36525,7 +36779,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "dependable-drain-cleaning-and-plumbing-repairs-llc",
@@ -36609,7 +36864,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "maine-septic-pumping",
@@ -36792,7 +37048,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Chad"
+    "ownerName": "Chad",
+    "isGoldTier": false
   },
   {
     "slug": "brags-sewer-septic",
@@ -36977,7 +37234,8 @@
     "galleryPhotos": [],
     "palette": "amber",
     "heroLayout": "centered",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "aj-mcdonald-company",
@@ -37045,7 +37303,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "hh-restoration",
@@ -37113,7 +37372,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "sunrise-septic-service",
@@ -37295,7 +37555,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "jimmys-septic-llc",
@@ -37363,7 +37624,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bl-phippin-son-construction-llc",
@@ -37549,7 +37811,8 @@
     "galleryPhotos": [],
     "palette": "emerald",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "jc-septic",
@@ -37658,7 +37921,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "emerald"
+    "palette": "emerald",
+    "isGoldTier": false
   },
   {
     "slug": "pile-septic-service-llc",
@@ -37840,7 +38104,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Will"
+    "ownerName": "Will",
+    "isGoldTier": false
   },
   {
     "slug": "dp-mercurio-sons-construction-and-septic",
@@ -38026,7 +38291,8 @@
     "galleryPhotos": [],
     "palette": "blue",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "dumont-septic-pumping",
@@ -38094,7 +38360,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "drain-king-royal-flush",
@@ -38162,7 +38429,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "fletcher-sewer-drain",
@@ -38230,7 +38498,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "gallis-son-inc",
@@ -38298,7 +38567,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "gellars-septic-pumping",
@@ -38366,7 +38636,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jmb-septic-service",
@@ -38444,7 +38715,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "cape-cod-septic-inspections",
@@ -38546,7 +38818,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": null,
-    "palette": "orange"
+    "palette": "orange",
+    "isGoldTier": false
   },
   {
     "slug": "bryners-septic-services",
@@ -38614,7 +38887,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "universal-septic-services",
@@ -38794,7 +39068,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Eric"
+    "ownerName": "Eric",
+    "isGoldTier": false
   },
   {
     "slug": "la-pew-sanitation-services",
@@ -38862,7 +39137,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wondergem-septic-services",
@@ -38930,7 +39206,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "septic-pro",
@@ -38957,7 +39234,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "todoroff-brothers-septic",
@@ -39192,7 +39470,8 @@
         "descRu": "Завершенный объект в г. Village of Clarkston с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/todoroff-brothers-septic/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "ricks-septic-tank-services",
@@ -39260,7 +39539,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "kt-septic-evaluation-llc",
@@ -39494,7 +39774,8 @@
       }
     ],
     "palette": "orange",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "halms-septic-tank-cleaning",
@@ -39568,7 +39849,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "michigan-power-rodding",
@@ -39595,7 +39877,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "olsons-excavating-sewer-services",
@@ -39785,7 +40068,8 @@
     ],
     "galleryPhotos": [],
     "palette": "red",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "rm-septic-service",
@@ -39853,7 +40137,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "twin-ports-septic-pump-and-repair",
@@ -40040,7 +40325,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "flow-sewer-and-drain-cleaning",
@@ -40108,7 +40394,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "aaa-sewer-drain-cleaning",
@@ -40320,7 +40607,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/aaa-sewer-drain-cleaning/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "benoit-septic-service",
@@ -40388,7 +40676,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "sewer-works-ii-llc-sewerworks-llc",
@@ -40570,7 +40859,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jeff"
+    "ownerName": "Jeff",
+    "isGoldTier": false
   },
   {
     "slug": "bond-septic-services-llc",
@@ -40642,7 +40932,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "662-septic-service",
@@ -40710,7 +41001,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "nichols-septic-tank-co",
@@ -40778,7 +41070,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "a1-pumping-service-llc",
@@ -40846,7 +41139,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "roto-rooter-of-hattiesburg",
@@ -40921,7 +41215,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "roto-rooter",
@@ -41030,7 +41325,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": null,
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "taylor-sewer-service",
@@ -41098,7 +41394,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "oberkramer-septic-solutions-llc",
@@ -41281,7 +41578,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "st-louis-excavation",
@@ -41516,7 +41814,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "stine-nichols-plumbing-inc",
@@ -41697,7 +41996,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "mathews-septic-service",
@@ -41778,7 +42078,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "all-dry-services-kansas-city",
@@ -41846,7 +42147,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "blackburn-brothers",
@@ -42080,7 +42382,8 @@
         "descRu": "Завершенный объект в г. Springfield с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/blackburn-brothers/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "wald-septic-service",
@@ -42269,7 +42572,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "keele-sanitation",
@@ -42378,7 +42682,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/keele-sanitation/photo_001_opt.jpg",
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "greenup-lawn-landscape-sprinklers",
@@ -42453,7 +42758,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "triple-j-well-pump-service",
@@ -42600,7 +42906,8 @@
         "image": "/showcase/triple-j-well-pump-service/photo_007_opt.jpg"
       }
     ],
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "alexiss-finest-plumbers",
@@ -42784,7 +43091,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "sewer-rooter-plumbing-inc",
@@ -42852,7 +43160,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "fielder-sewer-drain",
@@ -42956,7 +43265,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "hamm-septic-services",
@@ -43102,7 +43412,8 @@
       }
     ],
     "heroImage": "/showcase/hamm-septic-services/photo_001_opt.jpg",
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "stones-septic-service",
@@ -43170,7 +43481,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "boraczek-septic-drain",
@@ -43357,7 +43669,8 @@
     "ownerName": "George",
     "palette": "teal",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "evergreen-drain-and-septic",
@@ -43545,7 +43858,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Brent"
+    "ownerName": "Brent",
+    "isGoldTier": false
   },
   {
     "slug": "jnv-septic",
@@ -43613,7 +43927,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "gosse-septic-services",
@@ -43795,7 +44110,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "kent-clean-septic",
@@ -43977,7 +44293,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "g-a-bells-septic-tank-service",
@@ -44045,7 +44362,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "nest-sons-inc",
@@ -44280,7 +44598,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "septic-check-inspections",
@@ -44459,7 +44778,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "garside-sewer-septic-service-llc",
@@ -44531,7 +44851,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "gotta-go-septic",
@@ -44713,7 +45034,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "prince-of-pools",
@@ -44781,7 +45103,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "brewer-septic",
@@ -44849,7 +45172,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "mb-septic-service-noahs-ark-port-a-jon",
@@ -45063,7 +45387,8 @@
       }
     ],
     "palette": "emerald",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "septic-experts-llc",
@@ -45131,7 +45456,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "aaa-all-drains-septic-cleaning-co",
@@ -45199,7 +45525,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "crane-sewer-drain-cleaning",
@@ -45271,7 +45598,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "abs-septic",
@@ -45461,7 +45789,8 @@
     ],
     "galleryPhotos": [],
     "palette": "blue",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "walker-sewer-and-drain-services",
@@ -45687,7 +46016,8 @@
         "descRu": "Завершенный объект в г. Sussex с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/walker-sewer-and-drain-services/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "triple-t-septic",
@@ -45824,7 +46154,8 @@
       }
     ],
     "heroImage": "/showcase/triple-t-septic/photo_001_opt.jpg",
-    "palette": "orange"
+    "palette": "orange",
+    "isGoldTier": false
   },
   {
     "slug": "east-mountain-pumping-and-septic-services-inc",
@@ -45892,7 +46223,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "corrales-septic-service",
@@ -46075,7 +46407,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "sandia-pumping",
@@ -46149,7 +46482,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "pony-express-septic",
@@ -46331,7 +46665,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "caitco-drainworks",
@@ -46399,7 +46734,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "mg-septic-llc",
@@ -46627,7 +46963,8 @@
       }
     ],
     "palette": "orange",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "mulyca-septic",
@@ -46704,7 +47041,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "albany-rooter-man",
@@ -46772,7 +47110,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "snell-septic-service",
@@ -46961,7 +47300,8 @@
     ],
     "galleryPhotos": [],
     "palette": "red",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "bradleys-septic-services",
@@ -47151,7 +47491,8 @@
     ],
     "galleryPhotos": [],
     "palette": "indigo",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "uncle-bobs-septic-service",
@@ -47321,7 +47662,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "maggio-and-sons-land-development-company",
@@ -47556,7 +47898,8 @@
       }
     ],
     "palette": "teal",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "straights-septic-service",
@@ -47662,7 +48005,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/straights-septic-service/photo_001_opt.jpg",
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "tri-county-excavating",
@@ -47899,7 +48243,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "fix-family-enterprises-ltd",
@@ -48036,7 +48381,8 @@
       }
     ],
     "heroImage": "/showcase/fix-family-enterprises-ltd/photo_001_opt.jpg",
-    "palette": "orange"
+    "palette": "orange",
+    "isGoldTier": false
   },
   {
     "slug": "aaa-suburban-septic",
@@ -48215,7 +48561,8 @@
     "galleryPhotos": [],
     "palette": "emerald",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "wyco-construction-inc",
@@ -48389,7 +48736,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Todd"
+    "ownerName": "Todd",
+    "isGoldTier": false
   },
   {
     "slug": "monroe-county-plumbing-service",
@@ -48571,7 +48919,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "valley-asphalt-sealing-inc",
@@ -48654,7 +49003,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "meyer-septic-service",
@@ -48839,7 +49189,8 @@
     "galleryPhotos": [],
     "palette": "blue",
     "heroLayout": "centered",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "sloboda-brothers-inc-dba-american-septic-service",
@@ -49053,7 +49404,8 @@
         "descRu": "Проверка впускных и выпускных перегородок, герметизация стыков и контроль целостности резервуара.",
         "image": "/showcase/sloboda-brothers-inc-dba-american-septic-service/photo_006_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "enviro-clean",
@@ -49121,7 +49473,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "affordable-septic-repair-and-pumping",
@@ -49199,7 +49552,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Excavation & Trenching"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "blue-ridge-septic-service",
@@ -49275,7 +49629,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "kw-septic-llc",
@@ -49464,7 +49819,8 @@
     ],
     "galleryPhotos": [],
     "ownerName": "Ken",
-    "palette": "orange"
+    "palette": "orange",
+    "isGoldTier": false
   },
   {
     "slug": "appalachian-pumping",
@@ -49545,7 +49901,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Complete Septic Systems"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "trent-rheas-septic-tank-service",
@@ -49728,7 +50085,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "derricks-septic",
@@ -49903,7 +50261,8 @@
     ],
     "galleryPhotos": [],
     "palette": "orange",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "double-deuce-septic-service",
@@ -49971,7 +50330,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "grade-a-septic",
@@ -50206,7 +50566,8 @@
       }
     ],
     "palette": "red",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "tcr-rooter-plumbing-llc",
@@ -50397,7 +50758,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Terry"
+    "ownerName": "Terry",
+    "isGoldTier": false
   },
   {
     "slug": "donahue-septic-tank-services",
@@ -50579,7 +50941,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Keith"
+    "ownerName": "Keith",
+    "isGoldTier": false
   },
   {
     "slug": "mm-septic-services-triad",
@@ -50649,7 +51012,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wilson-pumping-services",
@@ -50721,7 +51085,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "brians-septic-service",
@@ -50957,7 +51322,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "local-septic-environmental-services-llc",
@@ -51029,7 +51395,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "shiloh-septic-and-pumping",
@@ -51178,7 +51545,8 @@
         "image": "/showcase/shiloh-septic-and-pumping/photo_008_opt.jpg"
       }
     ],
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "gate-city-foundation-drainage",
@@ -51246,7 +51614,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "rowland-enviro-septic-services",
@@ -51480,7 +51849,8 @@
         "descRu": "Завершенный объект в г. Mebane с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/rowland-enviro-septic-services/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "clarence-m-stanley-plumbing-pump-service",
@@ -51550,7 +51920,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "System Replacement"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "a-accurate-septic-service",
@@ -51618,7 +51989,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "g-g-pumping-llc",
@@ -51694,7 +52066,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Septic Installation"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "r-j-septic-tank-services",
@@ -51883,7 +52256,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "craven-ag-services-inc",
@@ -51955,7 +52329,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "r-w-septic-tank-services",
@@ -52023,7 +52398,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "little-city-plumbing",
@@ -52202,7 +52578,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "drain-master-nc",
@@ -52272,7 +52649,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "gut-busters-septic-tank-service-llc",
@@ -52340,7 +52718,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "coastal-septic-solutions",
@@ -52408,7 +52787,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "precision-septic-systems-inc",
@@ -52590,7 +52970,8 @@
     ],
     "galleryPhotos": [],
     "palette": "indigo",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "flow-rite-plumbing-drain-service",
@@ -52772,7 +53153,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "baker-services",
@@ -52876,7 +53258,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "indigo"
+    "palette": "indigo",
+    "isGoldTier": false
   },
   {
     "slug": "proflow-plumbing-and-drain-solutions-llc",
@@ -53064,7 +53447,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "all-pro-enviro",
@@ -53210,7 +53594,8 @@
         "image": "/showcase/all-pro-enviro/photo_007_opt.jpg"
       }
     ],
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "the-pipe-boss",
@@ -53399,7 +53784,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "m-k-septic-tank-pumping",
@@ -53471,7 +53857,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "sheyenne-septic-service",
@@ -53653,7 +54040,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Evan"
+    "ownerName": "Evan",
+    "isGoldTier": false
   },
   {
     "slug": "dakota-sewer-drain-cleaning",
@@ -53834,7 +54222,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "a-1-evans-septic-service-and-portable-toilet-rentals",
@@ -53904,7 +54293,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "System Replacement"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "be-ohio",
@@ -54140,7 +54530,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "1-utility-of-ohio",
@@ -54167,7 +54558,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "doc-thompson-plumbing",
@@ -54235,7 +54627,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "flush-drains-vassco-utility-maintenance",
@@ -54416,7 +54809,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "affordable-septic-service-llc",
@@ -54494,7 +54888,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bishop-septic-pumping",
@@ -54564,7 +54959,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Drain Field Restoration"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "barbers-trucking-sanitation",
@@ -54632,7 +55028,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "express-septic",
@@ -54700,7 +55097,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "mainline-inspection-services",
@@ -54768,7 +55166,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "metro-plumbing-sewer-llc",
@@ -54951,7 +55350,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "sewer-technology-llc",
@@ -55032,7 +55432,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "cle-plumbing-sewer-and-drain",
@@ -55214,7 +55615,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "starks-sanitary-service-llc",
@@ -55395,7 +55797,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "premier-plumbing-services-llc",
@@ -55578,7 +55981,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Carlos"
+    "ownerName": "Carlos",
+    "isGoldTier": false
   },
   {
     "slug": "all-american-septic-llc",
@@ -55648,7 +56052,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "blue-ox-septic",
@@ -55716,7 +56121,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "rooter-pro-sewer-drain-cleaning",
@@ -55784,7 +56190,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "all-clean-septic-services-llc",
@@ -55964,7 +56371,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Tim"
+    "ownerName": "Tim",
+    "isGoldTier": false
   },
   {
     "slug": "champion-plumbing",
@@ -56156,7 +56564,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Ethan"
+    "ownerName": "Ethan",
+    "isGoldTier": false
   },
   {
     "slug": "blair-brothers-plumbing-co",
@@ -56339,7 +56748,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "jt-services",
@@ -56576,7 +56986,8 @@
         "descRu": "Завершенный объект в г. Tulsa с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/jt-services/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "miltys-septic-services",
@@ -56813,7 +57224,8 @@
       }
     ],
     "palette": "emerald",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "cd-services",
@@ -57041,7 +57453,8 @@
       }
     ],
     "palette": "blue",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "dependable-plumbing-rooter-service-llc",
@@ -57120,7 +57533,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "tj-excavating",
@@ -57351,7 +57765,8 @@
         "descRu": "Завершенный объект в г. Sand Springs с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/tj-excavating/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "firestorm-septics-shelters",
@@ -57587,7 +58002,8 @@
       }
     ],
     "palette": "red",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "ba-french-drains",
@@ -57822,7 +58238,8 @@
     ],
     "ownerName": "Jeremy",
     "palette": "red",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "abstract-plumbing-and-drain-solutions-affordable-and-emergency-services",
@@ -57926,7 +58343,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "tv-backhoe-septic-services",
@@ -58117,7 +58535,8 @@
     ],
     "galleryPhotos": [],
     "palette": "amber",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "west-side-drain-and-septic",
@@ -58185,7 +58604,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "plumbing-and-sewer-renewal-specialists",
@@ -58373,7 +58793,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "timco-septic-and-excavation",
@@ -58560,7 +58981,8 @@
     "galleryPhotos": [],
     "palette": "teal",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "nw-sewer-drain",
@@ -58628,7 +59050,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "adrenaline-services",
@@ -58811,7 +59234,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "captain-rooter-plumbing-drain",
@@ -58993,7 +59417,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Luke"
+    "ownerName": "Luke",
+    "isGoldTier": false
   },
   {
     "slug": "just-send-it-drain-cleaning",
@@ -59061,7 +59486,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bulldog-septic",
@@ -59248,7 +59674,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "orange"
+    "palette": "orange",
+    "isGoldTier": false
   },
   {
     "slug": "bonzo-septic-repair-and-installation",
@@ -59434,7 +59861,8 @@
     "galleryPhotos": [],
     "palette": "amber",
     "heroLayout": "centered",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "rosebud-sanitation-excavating",
@@ -59608,7 +60036,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jay"
+    "ownerName": "Jay",
+    "isGoldTier": false
   },
   {
     "slug": "chaffee-excavating-inc",
@@ -59798,7 +60227,8 @@
     ],
     "galleryPhotos": [],
     "palette": "emerald",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "morgantown-septic-tank-service",
@@ -59866,7 +60296,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bonzo-excavating",
@@ -60109,7 +60540,8 @@
       }
     ],
     "palette": "blue",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "brandywine-septic-services-inc",
@@ -60298,7 +60730,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Tom"
+    "ownerName": "Tom",
+    "isGoldTier": false
   },
   {
     "slug": "blue-star-septic-service",
@@ -60473,7 +60906,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "mikes-septic-service",
@@ -60541,7 +60975,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "affordable-septic-services",
@@ -60731,7 +61166,8 @@
     ],
     "galleryPhotos": [],
     "palette": "orange",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "anthonys-septic-services",
@@ -60799,7 +61235,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "don-green-sanitation",
@@ -60981,7 +61418,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "kalm-plumbing-solutions",
@@ -61167,7 +61605,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "proseptic",
@@ -61349,7 +61788,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "royal-flush-drain-cleaning-sewer-line-repair",
@@ -61523,7 +61963,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "scituate-cesspool-inc",
@@ -61699,7 +62140,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "emergency-sewer-and-drain",
@@ -61767,7 +62209,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "palmetto-septic-solutions-llc",
@@ -61954,7 +62397,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "superior-vac-septic",
@@ -62061,7 +62505,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/superior-vac-septic/photo_002_opt.jpg",
-    "palette": "emerald"
+    "palette": "emerald",
+    "isGoldTier": false
   },
   {
     "slug": "hinson-septic-tank-pumping",
@@ -62129,7 +62574,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jim-the-plumber-and-sons",
@@ -62317,7 +62763,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "davis-septic-tank-services",
@@ -62497,7 +62944,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "action-jackson-septic-pumping",
@@ -62565,7 +63013,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "american-drainfield-septic-service",
@@ -62755,7 +63204,8 @@
     ],
     "galleryPhotos": [],
     "palette": "teal",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "residential-grading-and-septic-llc",
@@ -62992,7 +63442,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "hugh-r-simmons-septic-tank-services",
@@ -63070,7 +63521,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "bolt-septic-excavation",
@@ -63313,7 +63765,8 @@
       }
     ],
     "palette": "teal",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "grants-drain-care",
@@ -63381,7 +63834,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "webb-septic-tank-cleaning",
@@ -63449,7 +63903,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "j-septic-services-and-drain-feild-replacement",
@@ -63685,7 +64140,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "bragg-waste-services-inc",
@@ -63763,7 +64219,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "patriot-septic-llc",
@@ -63953,7 +64410,8 @@
     ],
     "galleryPhotos": [],
     "palette": "red",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "hudson-septic-tank-services",
@@ -64021,7 +64479,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "poo-wee-septic-service",
@@ -64106,7 +64565,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "allgood-sewer-septic-tank-service",
@@ -64174,7 +64634,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "watts-service-company-plumbing-septic",
@@ -64252,7 +64713,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "american-pumping",
@@ -64320,7 +64782,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "tri-star-septic-pumping-llc",
@@ -64466,7 +64929,8 @@
       }
     ],
     "heroImage": "/showcase/tri-star-septic-pumping-llc/photo_001_opt.jpg",
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "payne-septic-tank-cleaning",
@@ -64540,7 +65004,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "veterans-plumbing-services",
@@ -64722,7 +65187,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jeff"
+    "ownerName": "Jeff",
+    "isGoldTier": false
   },
   {
     "slug": "montgomerys",
@@ -64908,7 +65374,8 @@
     "galleryPhotos": [],
     "palette": "blue",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "bd-septic-service",
@@ -65091,7 +65558,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "kd-services-excavation-septic",
@@ -65279,7 +65747,8 @@
     "galleryPhotos": [],
     "ownerName": "Drew",
     "palette": "orange",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "england-septic-tank-cleaning",
@@ -65347,7 +65816,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "abbotts-septic-tank",
@@ -65415,7 +65885,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "d-d-excavating",
@@ -65652,7 +66123,8 @@
       }
     ],
     "palette": "red",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "all-out-septic-services",
@@ -65720,7 +66192,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "allens-environmental-services-llc",
@@ -65792,7 +66265,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "fred-naillon-sons-septic-tanks",
@@ -65864,7 +66338,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "big-dog-drain-and-septic",
@@ -65938,7 +66413,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "sidekick-septic",
@@ -66008,7 +66484,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "rhotons-septic-tank-service",
@@ -66076,7 +66553,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "swafford-septic-services",
@@ -66148,7 +66626,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "lowes-septic-service",
@@ -66383,7 +66862,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "a-1-pumping-service-and-drain-cleaning",
@@ -66569,7 +67049,8 @@
     "ownerName": "Martin",
     "palette": "blue",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "national-economy-plumbers",
@@ -66795,7 +67276,8 @@
         "image": "/showcase/national-economy-plumbers/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Glenn"
+    "ownerName": "Glenn",
+    "isGoldTier": false
   },
   {
     "slug": "american-septic-pumping-llc",
@@ -66876,7 +67358,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "tankersley-plumbing",
@@ -67068,7 +67551,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Casey"
+    "ownerName": "Casey",
+    "isGoldTier": false
   },
   {
     "slug": "big-dog-septic",
@@ -67142,7 +67626,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "stifflers-plumbing-llc",
@@ -67377,7 +67862,8 @@
         "descRu": "Завершенный объект в г. Clarksville с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/stifflers-plumbing-llc/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "emerson-plumbing-repair-drain-cleaning-llc",
@@ -67568,7 +68054,8 @@
         "image": "/showcase/emerson-plumbing-repair-drain-cleaning-llc/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "truflow-plumbing-drainage-inc",
@@ -67756,7 +68243,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "t-lenard-plumbing-drain-inc",
@@ -67923,7 +68411,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "collins-septic-tank-service",
@@ -67991,7 +68480,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "guzman-septic-services",
@@ -68226,7 +68716,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "ebenezer-septic-llc",
@@ -68302,7 +68793,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "united-plumbing-and-septic-system-llc",
@@ -68516,7 +69008,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "shamrock-septic-247-alvin-texas",
@@ -68753,7 +69246,8 @@
     ],
     "ownerName": "Tyler",
     "palette": "red",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "coast-to-coast-water-well-and-septic-repair",
@@ -68934,7 +69428,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "tideland-grease-trap-septic-service",
@@ -69002,7 +69497,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "i-69-septic-plumbing-solutions",
@@ -69229,7 +69725,8 @@
     ],
     "ownerName": "Donnie",
     "palette": "orange",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "michael-lee-septic-services",
@@ -69301,7 +69798,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "texas-wastewater-environmental-solutions",
@@ -69328,7 +69826,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "herr-septic-services",
@@ -69431,7 +69930,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/herr-septic-services/photo_001_opt.jpg",
-    "palette": "emerald"
+    "palette": "emerald",
+    "isGoldTier": false
   },
   {
     "slug": "a-royal-flush",
@@ -69508,7 +70008,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "stultz-plumbing",
@@ -69741,7 +70242,8 @@
         "descRu": "Завершенный объект в г. San Antonio с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/stultz-plumbing/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "fatboy-grease-trap-services",
@@ -69809,7 +70311,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "septic-one",
@@ -69997,7 +70500,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "tidy-septic-llc",
@@ -70072,7 +70576,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wee-bee-waste-services",
@@ -70150,7 +70655,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "pro-tec-septic",
@@ -70363,7 +70869,8 @@
       }
     ],
     "palette": "red",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "a-septic-cleaning-and-repairs",
@@ -70442,7 +70949,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "hectors-septic-service",
@@ -70634,7 +71142,8 @@
     ],
     "galleryPhotos": [],
     "ownerName": "Hector",
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "a-a-septic-tank-service",
@@ -70818,7 +71327,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "garza-septic-service-construction-llc",
@@ -70886,7 +71396,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "rozells-septic-services",
@@ -71076,7 +71587,8 @@
     ],
     "galleryPhotos": [],
     "ownerName": "Frank",
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "east-texas-septic-cleaning",
@@ -71258,7 +71770,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jamie"
+    "ownerName": "Jamie",
+    "isGoldTier": false
   },
   {
     "slug": "etex-septic-and-supply",
@@ -71439,7 +71952,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "lufkin-septic-pumpingllc",
@@ -71509,7 +72023,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "System Replacement"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "whippoorwill-septic",
@@ -71746,7 +72261,8 @@
       }
     ],
     "palette": "indigo",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "jernan-septic-rainwater-solutions",
@@ -71920,7 +72436,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "brazos-septic-solutions",
@@ -71988,7 +72505,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "flournoy-septic-pumping-service",
@@ -72056,7 +72574,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wolfe-septic",
@@ -72291,7 +72810,8 @@
       }
     ],
     "palette": "teal",
-    "heroLayout": "centered"
+    "heroLayout": "centered",
+    "isGoldTier": true
   },
   {
     "slug": "johnson-pumping",
@@ -72361,7 +72881,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Septic Installation"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "bar-j-septic-services",
@@ -72429,7 +72950,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "1213-plumbing",
@@ -72621,7 +73143,8 @@
         "image": "/showcase/1213-plumbing/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "lk-septic-services",
@@ -72858,7 +73381,8 @@
       }
     ],
     "palette": "amber",
-    "heroLayout": "industrial"
+    "heroLayout": "industrial",
+    "isGoldTier": true
   },
   {
     "slug": "american-septic-and-grease-retrieval-llc",
@@ -72926,7 +73450,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "septic-iq",
@@ -73107,7 +73632,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "a1-texas-gold",
@@ -73175,7 +73701,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "ocean-plumbing-inc",
@@ -73357,7 +73884,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "James"
+    "ownerName": "James",
+    "isGoldTier": false
   },
   {
     "slug": "angel-duck-plumbing",
@@ -73429,7 +73957,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "flooring-2-roofing-mobile-rv-repair",
@@ -73617,7 +74146,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "mm-santos-construction",
@@ -73802,7 +74332,8 @@
     "galleryPhotos": [],
     "palette": "emerald",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "erickson-brothers-water-heaters",
@@ -73985,7 +74516,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "dl3-enterprises-llc",
@@ -74166,7 +74698,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "drain-champ-inc",
@@ -74348,7 +74881,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "gross-family-plumbing-llc",
@@ -74531,7 +75065,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "a-broke-girl-plumbing-llc",
@@ -74751,7 +75286,8 @@
         "descRu": "Завершенный объект в г. Salt Lake City с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/a-broke-girl-plumbing-llc/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "lakeshore-pumping-service",
@@ -74831,7 +75367,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "pipe-rehab-specialist-sewer-repair-utah",
@@ -75013,7 +75550,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "avery-sons-plumbing",
@@ -75196,7 +75734,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "js-drain-services",
@@ -75379,7 +75918,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "premier-septic-services",
@@ -75566,7 +76106,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": "/showcase/premier-septic-services/photo_001_opt.jpg",
-    "palette": "amber"
+    "palette": "amber",
+    "isGoldTier": false
   },
   {
     "slug": "gentry-septic-pumping-inc",
@@ -75749,7 +76290,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Chris"
+    "ownerName": "Chris",
+    "isGoldTier": false
   },
   {
     "slug": "moores-plumbing-septic",
@@ -75823,7 +76365,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "swift-creek-plumbing-company",
@@ -75997,7 +76540,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Mike"
+    "ownerName": "Mike",
+    "isGoldTier": false
   },
   {
     "slug": "dons-plumbing-repair-and-drain-cleaning",
@@ -76065,7 +76609,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jerrys-septic-tank-services",
@@ -76133,7 +76678,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "turdbusters",
@@ -76214,7 +76760,8 @@
         "Upfront Flat Rate Before Pumping",
         "Turf Mats & Zero Lawn Damage"
       ]
-    }
+    },
+    "isGoldTier": false
   },
   {
     "slug": "harolds-septic-service",
@@ -76288,7 +76835,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "greens-septic-service",
@@ -76388,7 +76936,8 @@
     ],
     "galleryPhotos": [],
     "heroImage": null,
-    "palette": "teal"
+    "palette": "teal",
+    "isGoldTier": false
   },
   {
     "slug": "pipe-it-plumbers",
@@ -76569,7 +77118,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "lakeside-septic",
@@ -76647,7 +77197,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "burien-septic-tank-services",
@@ -76830,7 +77381,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "budget-sewer",
@@ -77062,7 +77614,8 @@
         "image": "/showcase/budget-sewer/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Paul"
+    "ownerName": "Paul",
+    "isGoldTier": false
   },
   {
     "slug": "nw-design-property-development-dba-davis-septic-design",
@@ -77249,7 +77802,8 @@
     "ownerName": "Brad",
     "palette": "indigo",
     "heroLayout": "split",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "green-latrine",
@@ -77323,7 +77877,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "lilac-city-septic-services-co",
@@ -77505,7 +78060,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Mike"
+    "ownerName": "Mike",
+    "isGoldTier": false
   },
   {
     "slug": "h-s-construction",
@@ -77689,7 +78245,8 @@
     "galleryPhotos": [],
     "palette": "orange",
     "heroLayout": "centered",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "roemer-rooter",
@@ -77871,7 +78428,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "the-local-guys-plumbing-and-drain-services-llc",
@@ -77946,7 +78504,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "aloha-septic-servicetown-country-inc",
@@ -78133,7 +78692,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "alberta-septic-systems",
@@ -78306,7 +78866,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "a-onsite-llc",
@@ -78494,7 +79055,8 @@
     "ownerName": "Frank",
     "palette": "indigo",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "white-knight-plumbing",
@@ -78562,7 +79124,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "24-rooter-of-yakima-sewer-drain-cleaning-plumbing-service",
@@ -78630,7 +79193,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "premium-septic-service",
@@ -78815,7 +79379,8 @@
     "galleryPhotos": [],
     "palette": "indigo",
     "heroLayout": "editorial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "lil-john-sanitary-services-inc",
@@ -78883,7 +79448,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "a-austins-septic-company-llc",
@@ -79097,7 +79663,8 @@
       }
     ],
     "palette": "teal",
-    "heroLayout": "split"
+    "heroLayout": "split",
+    "isGoldTier": true
   },
   {
     "slug": "chuckanut-plumbing-llc",
@@ -79288,7 +79855,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jeff"
+    "ownerName": "Jeff",
+    "isGoldTier": false
   },
   {
     "slug": "above-grade-septic",
@@ -79356,7 +79924,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "limitless-plumbing-and-sewer-llc",
@@ -79586,7 +80155,8 @@
         "descRu": "Завершенный объект в г. Snohomish с обратной засыпкой и аккуратным восстановлением территории.",
         "image": "/showcase/limitless-plumbing-and-sewer-llc/photo_008_opt.jpg"
       }
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "sos-septic-pumping",
@@ -79695,7 +80265,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "red"
+    "palette": "red",
+    "isGoldTier": false
   },
   {
     "slug": "elite-plumbing-sewer",
@@ -79877,7 +80448,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "schroeder-septic-systems",
@@ -80055,7 +80627,8 @@
     "ownerName": "John",
     "palette": "indigo",
     "heroLayout": "centered",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "ace-sewer-water",
@@ -80239,7 +80812,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "dvorak-pumping-llc",
@@ -80426,7 +81000,8 @@
     "galleryPhotos": [],
     "palette": "blue",
     "heroLayout": "industrial",
-    "heroImage": null
+    "heroImage": null,
+    "isGoldTier": true
   },
   {
     "slug": "kons-septic-services-inc",
@@ -80603,7 +81178,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "schulteis-pumping-llc",
@@ -80675,7 +81251,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "valia-excavating",
@@ -80851,7 +81428,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Randy"
+    "ownerName": "Randy",
+    "isGoldTier": false
   },
   {
     "slug": "eagle-septic",
@@ -80919,7 +81497,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "petersen-septic-systems-llc",
@@ -81156,7 +81735,8 @@
     ],
     "ownerName": "Dave",
     "palette": "indigo",
-    "heroLayout": "editorial"
+    "heroLayout": "editorial",
+    "isGoldTier": true
   },
   {
     "slug": "riesens-reliable-septic-services",
@@ -81224,7 +81804,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "wirtz-septic-pumping",
@@ -81330,7 +81911,8 @@
       }
     ],
     "galleryPhotos": [],
-    "palette": "blue"
+    "palette": "blue",
+    "isGoldTier": false
   },
   {
     "slug": "bat-pumping-septic-services",
@@ -81400,7 +81982,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "Complete Septic Systems"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "rics-sewer-services-llc",
@@ -81468,7 +82051,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "jakes-plumbing-llc",
@@ -81655,7 +82239,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "avalon-septic-service-llc",
@@ -81843,7 +82428,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Jeff"
+    "ownerName": "Jeff",
+    "isGoldTier": false
   },
   {
     "slug": "chippewa-septic-service",
@@ -81911,7 +82497,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "valley-septic-services",
@@ -81979,7 +82566,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "b-d-plumbing",
@@ -82047,7 +82635,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "genrich-plumbing-heating",
@@ -82229,7 +82818,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "wayne-krueger-water-systems",
@@ -82421,7 +83011,8 @@
         "image": "/showcase/wayne-krueger-water-systems/photo_004_opt.jpg"
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "wausau-plumbing-plus-llc",
@@ -82604,7 +83195,8 @@
         "image": null
       }
     ],
-    "galleryPhotos": []
+    "galleryPhotos": [],
+    "isGoldTier": false
   },
   {
     "slug": "randys-septic-pumping",
@@ -82674,7 +83266,8 @@
     "primaryFocus": "Только откачка и чистка (Pumping)",
     "highTicketServices": [
       "System Replacement"
-    ]
+    ],
+    "isGoldTier": false
   },
   {
     "slug": "elk-river-septic-services",
@@ -82742,7 +83335,8 @@
     "ticketTierLabelRu": "Низкий чек: Только откачка",
     "ticketRange": "$350 – $650",
     "primaryFocus": "Только откачка и чистка (Pumping)",
-    "highTicketServices": []
+    "highTicketServices": [],
+    "isGoldTier": false
   },
   {
     "slug": "affordable-refrigeration-llc",
@@ -82925,7 +83519,8 @@
       }
     ],
     "galleryPhotos": [],
-    "ownerName": "Kyle"
+    "ownerName": "Kyle",
+    "isGoldTier": false
   },
   {
     "slug": "mrts-up-keep-services-llc",
@@ -83154,6 +83749,7 @@
         "image": "/showcase/mrts-up-keep-services-llc/photo_008_opt.jpg"
       }
     ],
-    "ownerName": "Trevor"
+    "ownerName": "Trevor",
+    "isGoldTier": false
   }
 ]

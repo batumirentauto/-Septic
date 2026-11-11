@@ -60,6 +60,7 @@ export interface SepticLead {
   folderName: string
   palette?: 'emerald' | 'blue' | 'amber' | 'orange' | 'red' | 'indigo' | 'teal'
   heroLayout?: 'split' | 'centered' | 'industrial' | 'editorial'
+  isGoldTier?: boolean
   reviewsSample: ReviewItem[]
   photosSample: string[]
   heroImage?: string
