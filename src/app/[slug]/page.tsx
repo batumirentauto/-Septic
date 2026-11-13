@@ -29,16 +29,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     rawFocus.toLowerCase().includes('pumping') ||
     Boolean(lead.ticketRange && (lead.ticketRange.includes('$350') || lead.ticketRange.includes('$650')))
 
-  const heroImageExists = lead.heroImage && (
-    lead.heroImage.startsWith('http') ||
-    fs.existsSync(path.join(process.cwd(), 'public', lead.heroImage))
-  )
-
-  const ogImageUrl = heroImageExists
-    ? (lead.heroImage!.startsWith('http')
-        ? lead.heroImage!
-        : `https://septic.up.railway.app${lead.heroImage}`)
-    : isLowTicket
+  // STRICT RULE: Never use real contractor photos for OG preview cards to avoid unflattering/dirty jobsite photos in SMS/iMessage previews.
+  // Always use the clean, premium UI showcase screenshot featuring the offer, estimate tool & 5★ badges.
+  const ogImageUrl = isLowTicket
     ? 'https://septic.up.railway.app/og-preview-pumping.jpg'
     : 'https://septic.up.railway.app/og-preview.jpg'
 
