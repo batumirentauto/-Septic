@@ -68,6 +68,7 @@ function CallDispatcherContent() {
   const searchParams = useSearchParams()
   const initialManagerParam = (searchParams.get('manager') || searchParams.get('m') || 'dinara').toLowerCase()
   const initialManagerKey = MANAGERS[initialManagerParam] ? initialManagerParam : 'dinara'
+  const isAdmin = searchParams.get('admin') === '1' || searchParams.get('admin') === 'true'
 
   const [activeManager, setActiveManager] = useState<string>(initialManagerKey)
   const [lang, setLang] = useState<'EN' | 'RU'>('EN')
@@ -335,25 +336,40 @@ function CallDispatcherContent() {
       {/* Top sticky header */}
       <header className="sticky top-0 z-30 bg-slate-900/95 backdrop-blur border-b border-slate-800 px-3 py-2.5 shadow-lg">
         <div className="max-w-xl mx-auto flex items-center justify-between gap-2">
-          {/* Manager Selector Tabs */}
-          <div className="flex items-center gap-1 bg-slate-950/80 p-1 rounded-xl border border-slate-800 text-[11px] font-bold overflow-x-auto">
-            {Object.values(MANAGERS).map((m) => (
-              <button
-                key={m.id}
-                onClick={() => {
-                  setActiveManager(m.id)
-                  setCurrentIndex(0)
-                }}
-                className={`px-2.5 py-1 rounded-lg transition whitespace-nowrap ${
-                  activeManager === m.id
-                    ? 'bg-emerald-500 text-slate-950 shadow-sm'
-                    : 'text-slate-400 hover:text-white'
-                }`}
-              >
-                {m.name} ({m.leadCount})
-              </button>
-            ))}
-          </div>
+          {isAdmin ? (
+            /* Admin view: Switcher tabs for supervisor */
+            <div className="flex items-center gap-1 bg-slate-950/80 p-1 rounded-xl border border-slate-800 text-[11px] font-bold overflow-x-auto">
+              {Object.values(MANAGERS).map((m) => (
+                <button
+                  key={m.id}
+                  onClick={() => {
+                    setActiveManager(m.id)
+                    setCurrentIndex(0)
+                  }}
+                  className={`px-2.5 py-1 rounded-lg transition whitespace-nowrap ${
+                    activeManager === m.id
+                      ? 'bg-emerald-500 text-slate-950 shadow-sm'
+                      : 'text-slate-400 hover:text-white'
+                  }`}
+                >
+                  {m.name} ({m.leadCount})
+                </button>
+              ))}
+            </div>
+          ) : (
+            /* Private Manager View: Locked identity badge with zero switcher tabs */
+            <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2 bg-slate-950/90 border border-emerald-900/60 px-3 py-1.5 rounded-xl shadow-sm">
+                <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></span>
+                <span className="text-xs font-bold text-white tracking-wide">
+                  👩‍💼 {managerCfg.name}
+                </span>
+                <span className="text-[10px] text-emerald-400 font-mono font-medium">
+                  ({managerLeads.length} {lang === 'EN' ? 'assigned leads' : 'контактов'})
+                </span>
+              </div>
+            </div>
+          )}
 
           <div className="flex items-center gap-1.5 shrink-0">
             {/* Zadarma Webphone Quick Link */}
