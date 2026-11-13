@@ -1,6 +1,8 @@
 import React from 'react'
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
+import fs from 'fs'
+import path from 'path'
 import { getLeadBySlug, getHighTicketSlugs } from '../../data/septicLeads'
 import { UniversalSepticPage } from '../../components/UniversalSepticPage'
 
@@ -27,9 +29,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     rawFocus.toLowerCase().includes('pumping') ||
     Boolean(lead.ticketRange && (lead.ticketRange.includes('$350') || lead.ticketRange.includes('$650')))
 
-  const ogImageUrl = lead.heroImage
-    ? (lead.heroImage.startsWith('http')
-        ? lead.heroImage
+  const heroImageExists = lead.heroImage && (
+    lead.heroImage.startsWith('http') ||
+    fs.existsSync(path.join(process.cwd(), 'public', lead.heroImage))
+  )
+
+  const ogImageUrl = heroImageExists
+    ? (lead.heroImage!.startsWith('http')
+        ? lead.heroImage!
         : `https://septic.up.railway.app${lead.heroImage}`)
     : isLowTicket
     ? 'https://septic.up.railway.app/og-preview-pumping.jpg'

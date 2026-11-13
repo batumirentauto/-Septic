@@ -4,27 +4,33 @@ import path from 'path'
 import rawCallLeads from '../../../data/callLeads.json'
 
 const LOG_FILE = path.resolve(process.cwd(), 'outreach_call_log.json')
+const BACKUP_FILE = path.resolve(process.cwd(), 'outreach_call_log_backup.json')
 
 function readLog() {
   try {
     if (fs.existsSync(LOG_FILE)) {
       return JSON.parse(fs.readFileSync(LOG_FILE, 'utf8'))
     }
+    if (fs.existsSync(BACKUP_FILE)) {
+      return JSON.parse(fs.readFileSync(BACKUP_FILE, 'utf8'))
+    }
   } catch (err) {
     console.error('Error reading call log:', err)
   }
-  return { calls: {}, stats: { total: 0, agreed: 0, callback: 0, noAnswer: 0, declined: 0, wrongNumber: 0 } }
+  return { calls: {}, stats: { total: 0, agreed: 0, callback: 0, noAnswer: 0, declined: 0, wrongNumber: 0 }, managerStats: {} }
 }
 
 function writeLog(data: any) {
   try {
-    fs.writeFileSync(LOG_FILE, JSON.stringify(data, null, 2), 'utf8')
+    const serialized = JSON.stringify(data, null, 2)
+    fs.writeFileSync(LOG_FILE, serialized, 'utf8')
+    fs.writeFileSync(BACKUP_FILE, serialized, 'utf8')
   } catch (err) {
     console.error('Error writing call log:', err)
   }
 }
 
-async function sendTelegramAlert(leadInfo: any, status: string, note: string, stats: any) {
+async function sendTelegramAlert(leadInfo: any, status: string, note: string, stats: any, manager?: string) {
   const statusEmoji: Record<string, string> = {
     AGREED: '✅ СОГЛАСИЛИСЬ НА SMS',
     CALLBACK: '🟡 ПЕРЕЗВОНИТЬ / СЕКРЕТАРЬ',
@@ -33,10 +39,20 @@ async function sendTelegramAlert(leadInfo: any, status: string, note: string, st
     WRONG_NUMBER: '🚫 НЕВЕРНЫЙ НОМЕР',
   }
 
+  const managerNames: Record<string, string> = {
+    dinara: 'Динара (Менеджер 1)',
+    '1': 'Динара (Менеджер 1)',
+    tatyana: 'Татьяна (Менеджер 2)',
+    '2': 'Татьяна (Менеджер 2)',
+    jane: 'Jane (Менеджер 3)',
+    '3': 'Jane (Менеджер 3)',
+  }
+
+  const managerLabel = manager ? (managerNames[manager.toLowerCase()] || manager) : 'Оператор'
   const statusLabel = statusEmoji[status] || status
 
   const text =
-    `📞 <b>Результат звонка оператора Ходы</b>\n\n` +
+    `📞 <b>Результат звонка: ${managerLabel}</b>\n\n` +
     `🏢 <b>Компания:</b> ${leadInfo.company || '—'}\n` +
     `👤 <b>Владелец:</b> ${leadInfo.owner || '—'}\n` +
     `📱 <b>Телефон:</b> <code>${leadInfo.phone}</code>\n` +
@@ -47,7 +63,7 @@ async function sendTelegramAlert(leadInfo: any, status: string, note: string, st
     `📊 <b>Сводка на текущий момент:</b>\n` +
     `• Всего обработано: <b>${stats.total}</b>\n` +
     `• 🟢 Согласились на SMS: <b>${stats.agreed}</b>\n` +
-    `• 🟡 Перезвонить/Жена: <b>${stats.callback}</b>\n` +
+    `• 🟡 Перезвонить: <b>${stats.callback}</b>\n` +
     `• ⚪ Не ответили: <b>${stats.noAnswer}</b>\n` +
     `• 🔴 Отказ: <b>${stats.declined}</b>`
 
@@ -88,7 +104,7 @@ export async function GET() {
 export async function POST(req: Request) {
   try {
     const body = await req.json()
-    const { phone, slug, company, status, note, isSilentSync } = body
+    const { phone, slug, company, status, note, isSilentSync, manager } = body
 
     if (!phone || !status) {
       return NextResponse.json({ error: 'phone and status are required' }, { status: 400 })
@@ -101,6 +117,7 @@ export async function POST(req: Request) {
       slug,
       company,
       phone,
+      manager: manager || 'unassigned',
       status, // 'AGREED' | 'CALLBACK' | 'NO_ANSWER' | 'DECLINED' | 'WRONG_NUMBER'
       note: note || '',
       updatedAt: new Date().toISOString(),
@@ -116,15 +133,28 @@ export async function POST(req: Request) {
       wrongNumber: 0,
     }
 
+    const managerStats: Record<string, { total: number; agreed: number; callback: number; noAnswer: number; declined: number }> = {}
+
     for (const item of Object.values(data.calls) as any[]) {
       if (item.status === 'AGREED') stats.agreed++
       else if (item.status === 'CALLBACK') stats.callback++
       else if (item.status === 'NO_ANSWER') stats.noAnswer++
       else if (item.status === 'DECLINED') stats.declined++
       else if (item.status === 'WRONG_NUMBER') stats.wrongNumber++
+
+      const mgr = item.manager || 'unassigned'
+      if (!managerStats[mgr]) {
+        managerStats[mgr] = { total: 0, agreed: 0, callback: 0, noAnswer: 0, declined: 0 }
+      }
+      managerStats[mgr].total++
+      if (item.status === 'AGREED') managerStats[mgr].agreed++
+      else if (item.status === 'CALLBACK') managerStats[mgr].callback++
+      else if (item.status === 'NO_ANSWER') managerStats[mgr].noAnswer++
+      else if (item.status === 'DECLINED') managerStats[mgr].declined++
     }
 
     data.stats = stats
+    data.managerStats = managerStats
     data.lastUpdated = new Date().toISOString()
 
     writeLog(data)
@@ -136,12 +166,12 @@ export async function POST(req: Request) {
         slug,
         phone,
       }
-      sendTelegramAlert(matchedLead, status, note || '', stats).catch((err) =>
+      sendTelegramAlert(matchedLead, status, note || '', stats, manager).catch((err) =>
         console.error('Background telegram alert error:', err)
       )
     }
 
-    return NextResponse.json({ ok: true, stats, logged: data.calls[phone] })
+    return NextResponse.json({ ok: true, stats, managerStats, logged: data.calls[phone] })
   } catch (err: any) {
     return NextResponse.json({ error: err.message }, { status: 500 })
   }
