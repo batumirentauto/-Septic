@@ -89,9 +89,9 @@ function runAudit() {
     if (!lead) return;
 
     // 2.1 Equipment Cards Structure
-    if (lead.equipmentPhotos) {
-      if (lead.equipmentPhotos.length !== 3) {
-        errors.push(`[Structure] "${lead.name}" (${slug}) equipmentPhotos has ${lead.equipmentPhotos.length} items. Must be exactly 3 cards!`);
+    if (lead.equipmentPhotos && lead.equipmentPhotos.length > 0) {
+      if (lead.equipmentPhotos.length > 3) {
+        errors.push(`[Structure] "${lead.name}" (${slug}) equipmentPhotos has ${lead.equipmentPhotos.length} items. Max 3 cards allowed!`);
       } else {
         const titles = lead.equipmentPhotos.map(e => (e.title || '').trim().toLowerCase());
         const badges = lead.equipmentPhotos.map(e => (e.badge || '').trim().toLowerCase());

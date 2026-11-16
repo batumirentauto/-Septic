@@ -31,10 +31,13 @@ export function SepticHeader({ lead, isRu = false }: SepticHeaderProps) {
   const enUrl = `/${lead.slug}`
   const ruUrl = `/${lead.slug}/ru`
 
+  const hasEquipment = Boolean(lead.equipmentPhotos && lead.equipmentPhotos.length > 0)
+  const hasGallery = Boolean(lead.galleryPhotos && lead.galleryPhotos.length > 0)
+
   const navLinks = [
     { label: isRu ? 'Услуги' : 'Services', href: '#services', icon: Wrench },
-    { label: isRu ? 'Спецтехника' : 'Equipment', href: '#equipment', icon: Truck },
-    { label: isRu ? 'Объекты' : 'Gallery', href: '#gallery', icon: Camera },
+    ...(hasEquipment ? [{ label: isRu ? 'Спецтехника' : 'Equipment', href: '#equipment', icon: Truck }] : []),
+    ...(hasGallery ? [{ label: isRu ? 'Объекты' : 'Gallery', href: '#gallery', icon: Camera }] : []),
     { label: isRu ? 'Калькулятор' : 'Estimator', href: '#calculator', icon: Calculator },
     { label: isRu ? 'Отзывы' : 'Reviews', href: '#reviews', icon: Star },
     { label: isRu ? 'Зона выезда' : 'Service Area', href: '#coverage', icon: MapPin },

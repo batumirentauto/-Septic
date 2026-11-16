@@ -17,7 +17,9 @@ export interface EquipmentPhotoItem {
   badgeRu: string
   desc: string
   descRu: string
-  image: string
+  image: string | null
+  points?: string[]
+  pointsRu?: string[]
 }
 
 export interface GalleryPhotoItem {
