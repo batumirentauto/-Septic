@@ -85,6 +85,120 @@ function CallDispatcherContent() {
   const [activeTab, setActiveTab] = useState<'CALL1' | 'SMS' | 'CALL2' | 'OBJECTIONS'>('CALL1')
   const [activeObjection, setActiveObjection] = useState<string | null>(null)
 
+  // Zadarma Cloud PBX & WebRTC state
+  const [zadarmaBalance, setZadarmaBalance] = useState<string | null>(null)
+  const [isCallingZadarma, setIsCallingZadarma] = useState(false)
+  const [zadarmaMessage, setZadarmaMessage] = useState<string | null>(null)
+  const [zadarmaError, setZadarmaError] = useState<string | null>(null)
+  const [webrtcWidgetActive, setWebrtcWidgetActive] = useState(false)
+
+  const managerExtMap: Record<string, string> = {
+    dinara: '101',
+    '1': '101',
+    tatyana: '102',
+    '2': '102',
+    jane: '103',
+    '3': '103',
+    all: '100',
+  }
+  const currentExt = managerExtMap[activeManager] || '101'
+
+  // Fetch Zadarma Balance on Mount
+  useEffect(() => {
+    fetch('/api/zadarma?action=balance')
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.status === 'success' && data.balance !== undefined) {
+          setZadarmaBalance(`${data.balance} ${data.currency}`)
+        }
+      })
+      .catch((err) => console.warn('Zadarma balance check skipped:', err))
+  }, [])
+
+  const triggerZadarmaCallback = async (phone: string, companyName?: string) => {
+    if (isCallingZadarma) return
+    setIsCallingZadarma(true)
+    setZadarmaMessage(lang === 'EN' ? 'Initiating Zadarma call...' : 'Запуск звонка через Zadarma...')
+    setZadarmaError(null)
+
+    try {
+      const res = await fetch('/api/zadarma', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          action: 'callback',
+          manager: activeManager,
+          to: phone,
+        }),
+      })
+      const data = await res.json()
+      if (data.ok) {
+        setZadarmaMessage(
+          lang === 'EN'
+            ? `📞 Zadarma is calling your extension (${data.sip}). Pick up your headset or Zadarma app to connect with ${companyName || 'the lead'}!`
+            : `📞 Zadarma звонит на ваш номер (${data.sip}). Снимите трубку в приложении/гарнитуре для соединения с ${companyName || 'клиентом'}!`
+        )
+        setTimeout(() => setZadarmaMessage(null), 12000)
+      } else {
+        const errMsg = data.result?.message || data.error || (lang === 'EN' ? 'Failed to start Zadarma call' : 'Ошибка запуска звонка')
+        setZadarmaError(errMsg)
+        setTimeout(() => setZadarmaError(null), 8000)
+      }
+    } catch (err: any) {
+      setZadarmaError(err.message || 'Network error')
+      setTimeout(() => setZadarmaError(null), 8000)
+    } finally {
+      setIsCallingZadarma(false)
+    }
+  }
+
+  const initZadarmaWebRTC = async () => {
+    try {
+      setWebrtcWidgetActive(true)
+      const res = await fetch(`/api/zadarma?action=webrtc_key&manager=${activeManager}`)
+      const data = await res.json()
+      if (!data.ok || !data.key) {
+        setZadarmaError(lang === 'EN' ? 'Could not load WebRTC key' : 'Не удалось получить WebRTC ключ')
+        return
+      }
+
+      if (!(window as any).zadarmaWidgetFn) {
+        const script1 = document.createElement('script')
+        script1.src = 'https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-lib.js?sub_v=1'
+        script1.async = true
+        document.body.appendChild(script1)
+
+        const script2 = document.createElement('script')
+        script2.src = 'https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-fn.js?sub_v=1'
+        script2.async = true
+        script2.onload = () => {
+          if ((window as any).zadarmaWidgetFn) {
+            ;(window as any).zadarmaWidgetFn(
+              data.key,
+              data.sip,
+              'square',
+              lang === 'RU' ? 'ru' : 'en',
+              true,
+              { right: '20px', bottom: '20px' }
+            )
+          }
+        }
+        document.body.appendChild(script2)
+      } else {
+        ;(window as any).zadarmaWidgetFn(
+          data.key,
+          data.sip,
+          'square',
+          lang === 'RU' ? 'ru' : 'en',
+          true,
+          { right: '20px', bottom: '20px' }
+        )
+      }
+    } catch (e: any) {
+      setZadarmaError(e.message)
+    }
+  }
+
   const managerCfg = MANAGERS[activeManager] || MANAGERS.dinara
   const managerLeads: CallLead[] = useMemo(() => {
     return (rawCallLeads as CallLead[]).slice(managerCfg.startIndex, managerCfg.endIndex)
@@ -372,16 +486,32 @@ function CallDispatcherContent() {
           )}
 
           <div className="flex items-center gap-1.5 shrink-0">
-            {/* Zadarma Webphone Quick Link */}
-            <a
-              href="https://my.zadarma.com/webphone/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-indigo-950 hover:bg-indigo-900 border border-indigo-700 text-indigo-200 text-[11px] font-semibold px-2.5 py-1 rounded-lg transition flex items-center gap-1"
-              title="Открыть Webphone в my.zadarma.com"
+            {/* Zadarma PBX Status Badge */}
+            <div className="hidden lg:flex items-center gap-2 bg-slate-950/80 border border-amber-500/30 px-2.5 py-1 rounded-lg text-[11px] font-mono shadow-sm">
+              <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+              <span className="text-amber-400 font-bold">Zadarma Ext {currentExt}</span>
+              <span className="text-slate-600">|</span>
+              <span className="text-slate-300">CID: +1 (585) 438-0111</span>
+              {zadarmaBalance && (
+                <>
+                  <span className="text-slate-600">|</span>
+                  <span className="text-emerald-400 font-bold">${zadarmaBalance}</span>
+                </>
+              )}
+            </div>
+
+            {/* Zadarma Webphone Embedded Button */}
+            <button
+              onClick={initZadarmaWebRTC}
+              className={`border text-[11px] font-semibold px-2.5 py-1 rounded-lg transition flex items-center gap-1 ${
+                webrtcWidgetActive
+                  ? 'bg-emerald-950 border-emerald-600 text-emerald-200'
+                  : 'bg-indigo-950 hover:bg-indigo-900 border-indigo-700 text-indigo-200'
+              }`}
+              title="Запустить встроенный веб-телефон Zadarma WebRTC"
             >
-              🌐 Zadarma
-            </a>
+              🎧 {webrtcWidgetActive ? 'Webphone ON' : 'Webphone'}
+            </button>
 
             {/* Language toggle */}
             <div className="flex bg-slate-800 rounded-lg p-0.5 border border-slate-700 text-[11px] font-bold">
@@ -538,34 +668,76 @@ function CallDispatcherContent() {
           </div>
         </div>
 
-        {/* Zadarma Primary Calling & Softphone Row */}
-        <div className="grid grid-cols-3 gap-2">
-          {/* 1. tel: Link (Triggers Zadarma App / OS Dialer) */}
-          <a
-            href={telHref}
-            className="flex items-center justify-center gap-1.5 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-slate-950 font-black text-sm py-2.5 px-3 rounded-xl shadow-lg active:scale-95 transition"
-          >
-            <span>📞</span>
-            <span>{lang === 'EN' ? 'Zadarma Call' : 'Позвонить'}</span>
-          </a>
-
-          {/* 2. SIP Link */}
-          <a
-            href={sipHref}
-            className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2.5 px-2 rounded-xl transition"
-          >
-            <span>☎️</span>
-            <span>SIP Call</span>
-          </a>
-
-          {/* 3. Copy Number for Webphone */}
+        {/* Zadarma 1-Click Callback Primary Button */}
+        <div className="space-y-2">
           <button
-            onClick={() => copyToClipboard(cleanPhone, 'phone_btn')}
-            className="flex items-center justify-center gap-1.5 bg-indigo-950 hover:bg-indigo-900 border border-indigo-700 text-indigo-200 font-bold text-xs py-2.5 px-2 rounded-xl transition"
+            onClick={() => triggerZadarmaCallback(cleanPhone, currentLead.company)}
+            disabled={isCallingZadarma}
+            className="w-full flex items-center justify-between bg-gradient-to-r from-amber-500 via-amber-400 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-sm sm:text-base py-3 px-4 rounded-xl shadow-xl active:scale-[0.99] transition disabled:opacity-50"
           >
-            <span>📋</span>
-            <span>{copiedField === 'phone_btn' ? '✓ Copied!' : 'Copy for Webphone'}</span>
+            <div className="flex items-center gap-2">
+              <span className="text-lg">{isCallingZadarma ? '⏳' : '⚡'}</span>
+              <span>
+                {isCallingZadarma
+                  ? (lang === 'EN' ? 'Connecting Zadarma...' : 'Соединяем через Zadarma...')
+                  : (lang === 'EN' ? '1-Click Zadarma Call (Callback)' : '⚡ Звонок через Zadarma в 1 клик')}
+              </span>
+            </div>
+            <div className="flex items-center gap-1.5 text-xs font-mono font-bold bg-slate-950/20 px-2 py-0.5 rounded">
+              <span>Ext {currentExt}</span>
+              <span>➔</span>
+              <span>US +1</span>
+            </div>
           </button>
+
+          {/* Zadarma Live Status Notification */}
+          {zadarmaMessage && (
+            <div className="bg-emerald-500/15 border border-emerald-500/40 text-emerald-300 text-xs px-3 py-2 rounded-xl flex items-center gap-2 animate-pulse">
+              <span className="h-2 w-2 rounded-full bg-emerald-400"></span>
+              <span className="font-medium">{zadarmaMessage}</span>
+            </div>
+          )}
+
+          {/* Zadarma Error Notification */}
+          {zadarmaError && (
+            <div className="bg-rose-500/15 border border-rose-500/40 text-rose-300 text-xs px-3 py-2 rounded-xl flex items-center gap-2">
+              <span>⚠️</span>
+              <span className="font-medium">{zadarmaError}</span>
+            </div>
+          )}
+
+          {/* Fallback Calling Options Row */}
+          <div className="grid grid-cols-3 gap-2 pt-0.5">
+            {/* 1. tel: Link (Triggers Zadarma App / OS Dialer) */}
+            <a
+              href={telHref}
+              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
+              title="Открыть в приложении Zadarma / телефонной книге"
+            >
+              <span>📞</span>
+              <span>{lang === 'EN' ? 'App Call' : 'Приложение'}</span>
+            </a>
+
+            {/* 2. SIP Link */}
+            <a
+              href={sipHref}
+              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
+              title="Вызов через SIP протокол"
+            >
+              <span>☎️</span>
+              <span>SIP</span>
+            </a>
+
+            {/* 3. Copy Number for Webphone */}
+            <button
+              onClick={() => copyToClipboard(cleanPhone, 'phone_btn')}
+              className="flex items-center justify-center gap-1.5 bg-indigo-950 hover:bg-indigo-900 border border-indigo-700 text-indigo-200 font-bold text-xs py-2 px-2 rounded-xl transition"
+              title="Скопировать цифры номера в буфер"
+            >
+              <span>📋</span>
+              <span>{copiedField === 'phone_btn' ? '✓ Copied!' : 'Copy Digits'}</span>
+            </button>
+          </div>
         </div>
 
         {/* Mode Navigation Tabs (Call 1, SMS Preview, Call 2, Objections) */}
