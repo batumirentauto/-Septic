@@ -45,6 +45,11 @@ const TEST_LEADS: CallLead[] = [
   },
 ]
 
+const JAYNE_LEADS: CallLead[] = [
+  ...(rawCallLeads as CallLead[]).slice(70, 105), // Primary 35 Jayne leads (#1 - #35)
+  ...(rawCallLeads as CallLead[]).slice(55, 70),  // 15 extra leads from Tatyana (#36 - #50)
+]
+
 const MANAGERS: Record<string, ManagerConfig> = {
   dinara: {
     id: 'dinara',
@@ -66,25 +71,28 @@ const MANAGERS: Record<string, ManagerConfig> = {
     id: 'jayne',
     name: 'Jayne',
     nameRu: 'Jayne (Менеджер 3)',
-    startIndex: 70,
-    endIndex: 105,
-    leadCount: 35,
+    startIndex: 0,
+    endIndex: 50,
+    leadCount: 50,
+    customLeads: JAYNE_LEADS,
   },
   jane: {
     id: 'jayne',
     name: 'Jayne',
     nameRu: 'Jayne (Менеджер 3)',
-    startIndex: 70,
-    endIndex: 105,
-    leadCount: 35,
+    startIndex: 0,
+    endIndex: 50,
+    leadCount: 50,
+    customLeads: JAYNE_LEADS,
   },
   '3': {
     id: 'jayne',
     name: 'Jayne',
     nameRu: 'Jayne (Менеджер 3)',
-    startIndex: 70,
-    endIndex: 105,
-    leadCount: 35,
+    startIndex: 0,
+    endIndex: 50,
+    leadCount: 50,
+    customLeads: JAYNE_LEADS,
   },
   test: {
     id: 'test',
@@ -463,7 +471,7 @@ function CallDispatcherContent() {
           {isAdmin ? (
             /* Admin view: Switcher tabs for supervisor */
             <div className="flex items-center gap-1 bg-slate-950/80 p-1 rounded-xl border border-slate-800 text-[11px] font-bold overflow-x-auto">
-              {Object.values(MANAGERS).map((m) => (
+              {Array.from(new Map(Object.values(MANAGERS).map((m) => [m.id, m])).values()).map((m) => (
                 <button
                   key={m.id}
                   onClick={() => {
