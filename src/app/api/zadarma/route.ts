@@ -10,6 +10,7 @@ const MANAGER_SIP_MAP: Record<string, string> = {
   '1': `${ZADARMA_PBX_ID}-101`,
   tatyana: `${ZADARMA_PBX_ID}-102`,
   '2': `${ZADARMA_PBX_ID}-102`,
+  jayne: `${ZADARMA_PBX_ID}-103`,
   jane: `${ZADARMA_PBX_ID}-103`,
   '3': `${ZADARMA_PBX_ID}-103`,
   test: `${ZADARMA_PBX_ID}-100`,
