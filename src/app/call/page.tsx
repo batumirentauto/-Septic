@@ -466,7 +466,9 @@ function CallDispatcherContent() {
     )
   }
 
-  const cleanPhone = currentLead.phone.replace(/[^0-9+]/g, '')
+  let rawDigits = currentLead.phone.replace(/\D/g, '')
+  if (rawDigits.length === 10) rawDigits = '1' + rawDigits
+  const cleanPhone = '+' + rawDigits
   const telHref = `tel:${cleanPhone}`
   const sipHref = `sip:${cleanPhone}`
   const showcaseUrl = `https://zonus.co/${currentLead.slug}`
@@ -856,42 +858,91 @@ function CallDispatcherContent() {
           </div>
         </div>
 
-        {/* Calling Actions: Browser Webphone & Cloud PBX Callback */}
+        {/* Calling Actions: Mobile Zadarma App First & Browser Webphone */}
         <div className="space-y-2">
-          {/* 1. Primary: Direct In-Browser Webphone Call */}
-          <button
-            onClick={() => callFromBrowser(cleanPhone)}
-            className="w-full flex items-center justify-between bg-gradient-to-r from-emerald-500 via-emerald-400 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-slate-950 font-black text-sm sm:text-base py-3.5 px-4 rounded-xl shadow-xl active:scale-[0.99] transition cursor-pointer"
+          {/* 1. Primary: 1-Click Open in Zadarma App (SIP Scheme + Auto-Copy) */}
+          <a
+            href={sipHref}
+            onClick={() => {
+              copyToClipboard(cleanPhone, 'phone_btn')
+              setZadarmaMessage(
+                lang === 'EN'
+                  ? `📲 Opening Zadarma app with ${cleanPhone}! (Number also copied to clipboard)`
+                  : `📲 Открываем Zadarma с номером ${cleanPhone}! (Номер также скопирован в буфер)`
+              )
+            }}
+            className="w-full flex items-center justify-between bg-gradient-to-r from-blue-600 via-indigo-600 to-sky-500 hover:from-blue-500 hover:to-sky-400 text-white font-black text-sm sm:text-base py-3.5 px-4 rounded-xl shadow-xl active:scale-[0.99] transition cursor-pointer"
           >
-            <div className="flex items-center gap-2">
-              <span className="text-xl">🎧</span>
-              <span className="tracking-tight">
-                {lang === 'EN' ? 'Call from Browser (Webphone)' : '🎧 Позвонить прямо из браузера'}
-              </span>
+            <div className="flex items-center gap-2.5">
+              <span className="text-2xl">📲</span>
+              <div className="text-left">
+                <div className="tracking-tight leading-tight">
+                  {lang === 'EN' ? 'Open in Zadarma App' : '📲 Открыть в приложении Zadarma'}
+                </div>
+                <div className="text-[10px] text-blue-200 font-normal">
+                  {lang === 'EN' ? '1-tap call via Zadarma with US Caller ID' : 'Номер подставляется сразу • вызов с +1 (585)'}
+                </div>
+              </div>
             </div>
-            <div className="flex items-center gap-1.5 text-xs font-mono font-bold bg-slate-950/20 px-2.5 py-1 rounded-lg">
+            <div className="flex items-center gap-1.5 text-xs font-mono font-bold bg-white/20 px-2.5 py-1 rounded-lg">
               <span>{cleanPhone}</span>
             </div>
-          </button>
+          </a>
 
-          {/* 2. Secondary: 1-Click Callback to Softphone / Mobile App */}
+          {/* 2. Secondary: Direct In-Browser Webphone Call (Desktop / Mac / PC) */}
           <button
-            onClick={() => triggerZadarmaCallback(cleanPhone, currentLead.company)}
-            disabled={isCallingZadarma}
-            className="w-full flex items-center justify-between bg-gradient-to-r from-amber-500 via-amber-400 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-bold text-xs sm:text-sm py-2.5 px-4 rounded-xl shadow-md active:scale-[0.99] transition disabled:opacity-50"
+            onClick={() => callFromBrowser(cleanPhone)}
+            className="w-full flex items-center justify-between bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-slate-950 font-bold text-xs sm:text-sm py-2.5 px-4 rounded-xl shadow-md active:scale-[0.99] transition cursor-pointer"
           >
             <div className="flex items-center gap-2">
-              <span>{isCallingZadarma ? '⏳' : '⚡'}</span>
-              <span>
-                {isCallingZadarma
-                  ? (lang === 'EN' ? 'Connecting Callback...' : 'Соединяем через Zadarma...')
-                  : (lang === 'EN' ? 'Callback to Zadarma App (Ext ' + currentExt + ')' : 'Callback на телефон / приложение (Ext ' + currentExt + ')')}
+              <span className="text-base">🎧</span>
+              <span className="font-bold">
+                {lang === 'EN' ? 'Call from Browser (Desktop/Mac)' : '🎧 Позвонить прямо из браузера (ПК / Mac)'}
               </span>
             </div>
-            <span className="text-[11px] font-mono font-bold bg-slate-950/20 px-2 py-0.5 rounded">
-              Zadarma PBX
+            <span className="text-[10px] font-mono font-bold bg-slate-950/20 px-2 py-0.5 rounded">
+              Webphone
             </span>
           </button>
+
+          {/* 3. Tertiary Row: Quick Actions (Copy, Native Phone tel:, PBX Callback) */}
+          <div className="grid grid-cols-3 gap-2 pt-0.5">
+            {/* Copy Number */}
+            <button
+              onClick={() => {
+                copyToClipboard(cleanPhone, 'phone_btn')
+                setZadarmaMessage(
+                  lang === 'EN' ? `✓ Number ${cleanPhone} copied!` : `✓ Номер ${cleanPhone} скопирован в буфер!`
+                )
+              }}
+              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
+              title="Скопировать номер телефона"
+            >
+              <span>📋</span>
+              <span>{copiedField === 'phone_btn' ? '✓ Скопировано' : 'Скопировать'}</span>
+            </button>
+
+            {/* tel: Link (Standard Phone App) */}
+            <a
+              href={telHref}
+              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
+              title="Стандартный вызов через телефон (SIM / системное приложение)"
+            >
+              <span>📞</span>
+              <span>{lang === 'EN' ? 'Phone (tel:)' : 'Телефон'}</span>
+            </a>
+
+            {/* Zadarma Callback */}
+            <button
+              onClick={() => triggerZadarmaCallback(cleanPhone, currentLead.company)}
+              disabled={isCallingZadarma}
+              className="flex items-center justify-center gap-1 bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-300 font-bold text-xs py-2 px-2 rounded-xl transition disabled:opacity-50"
+              title="Автодозвон через Zadarma Callback"
+            >
+              <span>{isCallingZadarma ? '⏳' : '⚡'}</span>
+              <span>Callback</span>
+            </button>
+          </div>
 
           {/* Zadarma Live Status Notification */}
           {zadarmaMessage && (
@@ -908,39 +959,6 @@ function CallDispatcherContent() {
               <span className="font-medium">{zadarmaError}</span>
             </div>
           )}
-
-          {/* Fallback Calling Options Row */}
-          <div className="grid grid-cols-3 gap-2 pt-0.5">
-            {/* 1. tel: Link (Triggers Zadarma App / OS Dialer) */}
-            <a
-              href={telHref}
-              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
-              title="Открыть в приложении Zadarma / телефонной книге"
-            >
-              <span>📞</span>
-              <span>{lang === 'EN' ? 'App Call' : 'Приложение'}</span>
-            </a>
-
-            {/* 2. SIP Link */}
-            <a
-              href={sipHref}
-              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
-              title="Вызов через SIP протокол"
-            >
-              <span>☎️</span>
-              <span>SIP</span>
-            </a>
-
-            {/* 3. Copy Number for Webphone */}
-            <button
-              onClick={() => copyToClipboard(cleanPhone, 'phone_btn')}
-              className="flex items-center justify-center gap-1.5 bg-indigo-950 hover:bg-indigo-900 border border-indigo-700 text-indigo-200 font-bold text-xs py-2 px-2 rounded-xl transition"
-              title="Скопировать цифры номера в буфер"
-            >
-              <span>📋</span>
-              <span>{copiedField === 'phone_btn' ? '✓ Copied!' : 'Copy Digits'}</span>
-            </button>
-          </div>
         </div>
 
         {/* Mode Navigation Tabs (Call 1, SMS Preview, Call 2, Objections) */}
