@@ -27,7 +27,23 @@ interface ManagerConfig {
   startIndex: number
   endIndex: number
   leadCount: number
+  customLeads?: CallLead[]
 }
+
+const TEST_LEADS: CallLead[] = [
+  {
+    company: 'Zonus Studio (Test Call)',
+    owner: 'Maksym',
+    phone: '+1 (302) 213-0266',
+    city: 'Wilmington',
+    state: 'DE',
+    slug: 'safari-septic-and-home-services',
+    rating: 5.0,
+    reviewCount: 42,
+    hookAuthor: 'Zonus Verification System',
+    hookText: 'Zadarma WebRTC telephony and Cloud PBX direct browser test call.',
+  },
+]
 
 const MANAGERS: Record<string, ManagerConfig> = {
   dinara: {
@@ -53,6 +69,24 @@ const MANAGERS: Record<string, ManagerConfig> = {
     startIndex: 70,
     endIndex: 105,
     leadCount: 35,
+  },
+  test: {
+    id: 'test',
+    name: 'Test (Ext 100)',
+    nameRu: 'Тестовая звонилка (Линия 100)',
+    startIndex: 0,
+    endIndex: 1,
+    leadCount: 1,
+    customLeads: TEST_LEADS,
+  },
+  '100': {
+    id: '100',
+    name: 'Test (Ext 100)',
+    nameRu: 'Тестовая звонилка (Линия 100)',
+    startIndex: 0,
+    endIndex: 1,
+    leadCount: 1,
+    customLeads: TEST_LEADS,
   },
   all: {
     id: 'all',
@@ -99,6 +133,8 @@ function CallDispatcherContent() {
     '2': '102',
     jane: '103',
     '3': '103',
+    test: '100',
+    '100': '100',
     all: '100',
   }
   const currentExt = managerExtMap[activeManager] || '101'
@@ -257,6 +293,9 @@ function CallDispatcherContent() {
 
   const managerCfg = MANAGERS[activeManager] || MANAGERS.dinara
   const managerLeads: CallLead[] = useMemo(() => {
+    if (managerCfg.customLeads && managerCfg.customLeads.length > 0) {
+      return managerCfg.customLeads
+    }
     return (rawCallLeads as CallLead[]).slice(managerCfg.startIndex, managerCfg.endIndex)
   }, [managerCfg])
 
@@ -677,6 +716,22 @@ function CallDispatcherContent() {
 
       {/* Main Container */}
       <main className="max-w-xl w-full mx-auto p-3.5 flex-1 flex flex-col gap-3">
+        {/* Test Mode Banner for Line 100 */}
+        {(activeManager === 'test' || activeManager === '100') && (
+          <div className="bg-gradient-to-r from-amber-500/20 via-orange-500/20 to-amber-500/10 border-2 border-amber-500/60 rounded-2xl p-4 shadow-lg space-y-2">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">🧪</span>
+              <div className="font-extrabold text-amber-300 text-sm sm:text-base">
+                Тестовая звонилка (Линия #605466-100)
+              </div>
+            </div>
+            <p className="text-xs text-amber-100/90 leading-relaxed">
+              Вызов преднастроен на ваш тестовый номер: <b className="text-white font-mono text-sm underline decoration-amber-400">+1 (302) 213-0266</b>.
+              Нажмите зеленую кнопку <b>«🎧 Позвонить прямо из браузера»</b> ниже, разрешите браузеру доступ к микрофону при запросе и проверьте слышимость.
+            </p>
+          </div>
+        )}
+
         {/* Company Overview Card */}
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl">
           <div className="flex items-start justify-between gap-3">

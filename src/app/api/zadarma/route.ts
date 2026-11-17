@@ -12,6 +12,8 @@ const MANAGER_SIP_MAP: Record<string, string> = {
   '2': `${ZADARMA_PBX_ID}-102`,
   jane: `${ZADARMA_PBX_ID}-103`,
   '3': `${ZADARMA_PBX_ID}-103`,
+  test: `${ZADARMA_PBX_ID}-100`,
+  '100': `${ZADARMA_PBX_ID}-100`,
   master: `${ZADARMA_PBX_ID}-100`,
 }
 

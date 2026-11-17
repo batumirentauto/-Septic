@@ -11,6 +11,8 @@ export async function generateStaticParams() {
     { manager: 'dinara' },
     { manager: 'tatyana' },
     { manager: 'jane' },
+    { manager: 'test' },
+    { manager: '100' },
     { manager: '1' },
     { manager: '2' },
     { manager: '3' },
