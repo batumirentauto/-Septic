@@ -191,6 +191,24 @@ function CallDispatcherContent() {
   const initZadarmaWebRTC = async () => {
     try {
       setWebrtcWidgetActive(true)
+
+      // Ensure custom CSS for Zadarma widget z-index is injected
+      if (!document.getElementById('zdrm-custom-style')) {
+        const style = document.createElement('style')
+        style.id = 'zdrm-custom-style'
+        style.innerHTML = `
+          .zdrm-phone {
+            z-index: 99999 !important;
+            display: block !important;
+          }
+          .zdrm-webphone {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
+            border-radius: 16px !important;
+          }
+        `
+        document.head.appendChild(style)
+      }
+
       const res = await fetch(`/api/zadarma?action=webrtc_key&manager=${activeManager}`)
       const data = await res.json()
       if (!data.ok || !data.key) {
@@ -198,29 +216,47 @@ function CallDispatcherContent() {
         return
       }
 
-      if (!(window as any).zadarmaWidgetFn) {
-        const script1 = document.createElement('script')
-        script1.src = 'https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-lib.js?sub_v=1'
-        script1.async = true
-        document.body.appendChild(script1)
-
-        const script2 = document.createElement('script')
-        script2.src = 'https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-fn.js?sub_v=1'
-        script2.async = true
-        script2.onload = () => {
-          if ((window as any).zadarmaWidgetFn) {
-            ;(window as any).zadarmaWidgetFn(
-              data.key,
-              data.sip,
-              'square',
-              lang === 'RU' ? 'ru' : 'en',
-              true,
-              { right: '20px', bottom: '20px' }
-            )
+      // Helper to dynamically load external script
+      const loadScript = (src: string, id: string): Promise<void> => {
+        return new Promise((resolve) => {
+          if (document.getElementById(id)) {
+            resolve()
+            return
           }
-        }
-        document.body.appendChild(script2)
-      } else {
+          const s = document.createElement('script')
+          s.id = id
+          s.src = src
+          s.async = true
+          s.onload = () => resolve()
+          s.onerror = () => resolve()
+          document.body.appendChild(s)
+        })
+      }
+
+      await loadScript('https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-lib.js?sub_v=1', 'zdrm-lib-script')
+      await loadScript('https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-fn.js?sub_v=1', 'zdrm-fn-script')
+
+      // Wait until Zadarma internal scripts are fully evaluated
+      const waitForReady = (maxAttempts = 50): Promise<boolean> => {
+        return new Promise((resolve) => {
+          let attempts = 0
+          const interval = setInterval(() => {
+            attempts++
+            const hasFn = typeof (window as any).zadarmaWidgetFn === 'function'
+            const hasInterface = typeof (window as any).zdrmWebrtcPhoneInterface === 'function'
+            if (hasFn && hasInterface) {
+              clearInterval(interval)
+              resolve(true)
+            } else if (attempts >= maxAttempts) {
+              clearInterval(interval)
+              resolve(false)
+            }
+          }, 150)
+        })
+      }
+
+      const isReady = await waitForReady()
+      if (isReady && !(window as any).zdrmWPhI && !(window as any).zdrmWebrtcPhone) {
         ;(window as any).zadarmaWidgetFn(
           data.key,
           data.sip,
@@ -231,6 +267,7 @@ function CallDispatcherContent() {
         )
       }
     } catch (e: any) {
+      console.error('initZadarmaWebRTC error:', e)
       setZadarmaError(e.message)
     }
   }
@@ -239,48 +276,70 @@ function CallDispatcherContent() {
   const callFromBrowser = async (phone: string) => {
     let clean = phone.replace(/\D/g, '')
     if (clean.length === 10) clean = '1' + clean
+    if (!clean.startsWith('+')) clean = '+' + clean
 
     setZadarmaError(null)
 
-    if (!webrtcWidgetActive) {
-      setZadarmaMessage(lang === 'EN' ? 'Initializing browser phone...' : 'Запускаем браузерный телефон...')
+    // Prime microphone permission under user click gesture
+    try {
+      if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices
+          .getUserMedia({ audio: true })
+          .then((stream) => stream.getTracks().forEach((t) => t.stop()))
+          .catch(() => {})
+      }
+    } catch (e) {}
+
+    // Ensure phone widget is ready
+    if (!(window as any).zdrmWPhI && !(window as any).zdrmWebrtcPhone) {
+      setZadarmaMessage(lang === 'EN' ? 'Connecting browser phone...' : 'Подключаем телефон к браузеру...')
       await initZadarmaWebRTC()
+      await new Promise((r) => setTimeout(r, 600))
     }
 
-    setTimeout(() => {
-      try {
-        const input = document.querySelector('.zdrm-webphone-phonenumber-input') as HTMLInputElement | null
-        if (input) {
-          input.value = clean
-          input.dispatchEvent(new Event('input', { bubbles: true }))
-          input.dispatchEvent(new Event('change', { bubbles: true }))
-        }
+    const zdrm = (window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone
 
-        if ((window as any).zdrmWebPhone && typeof (window as any).zdrmWebPhone.webCallRequest === 'function') {
-          (window as any).zdrmWebPhone.webCallRequest(clean)
-          setZadarmaMessage(
-            lang === 'EN'
-              ? `🎧 Calling +${clean} directly from your browser! Allow microphone if prompted.`
-              : `🎧 Звоним на +${clean} прямо из браузера! Разрешите микрофон во всплывающем окне браузера.`
-          )
-        } else {
-          const callBtn = (document.querySelector('.zdrm-webphone-call-btn, .zdrm-phone-call-button, .zdrm-webphone-call-button, button.zdrm-call') ||
-            document.querySelector('.zdrm-phone button')) as HTMLElement | null
-          if (callBtn) {
-            callBtn.click()
-          }
-          setZadarmaMessage(
-            lang === 'EN'
-              ? `🎧 Number +${clean} loaded into browser phone. Put on headset and speak!`
-              : `🎧 Номер +${clean} передан в браузерный телефон. Разрешите микрофон и говорите!`
-          )
-        }
-        setTimeout(() => setZadarmaMessage(null), 12000)
-      } catch (err: any) {
-        console.error('Browser call trigger error:', err)
-        setZadarmaError(err.message || 'Browser call error')
+    // Set phone number in Zadarma input field
+    const input = document.getElementById('zdrm-webphone-phonenumber-input') as HTMLInputElement | null
+    if (input) {
+      input.value = clean
+      input.dispatchEvent(new Event('input', { bubbles: true }))
+      input.dispatchEvent(new Event('change', { bubbles: true }))
+    }
+
+    if (zdrm && typeof zdrm.callNum === 'function') {
+      setZadarmaMessage(
+        lang === 'EN'
+          ? `🎧 Dialing ${clean} directly in browser! Allow microphone if prompted.`
+          : `🎧 Набираем ${clean} прямо в браузере! Нажмите «Разрешить» для микрофона.`
+      )
+      zdrm.callNum()
+    } else if (zdrm?.apiWidget && typeof zdrm.apiWidget.call === 'function') {
+      setZadarmaMessage(
+        lang === 'EN'
+          ? `🎧 Dialing ${clean} directly in browser! Allow microphone if prompted.`
+          : `🎧 Набираем ${clean} прямо в браузере! Нажмите «Разрешить» для микрофона.`
+      )
+      zdrm.apiWidget.call(clean)
+    } else {
+      const callBtn = document.querySelector('.zdrm-webphone-call-btn') as HTMLElement | null
+      if (callBtn) {
+        callBtn.click()
+        setZadarmaMessage(
+          lang === 'EN'
+            ? `🎧 Dialing ${clean} directly in browser! Allow microphone if prompted.`
+            : `🎧 Набираем ${clean} прямо в браузере! Нажмите «Разрешить» для микрофона.`
+        )
+      } else {
+        setZadarmaError(
+          lang === 'EN'
+            ? 'WebRTC phone is initializing. Please click again in 2 seconds.'
+            : 'Виджет телефона загружается. Нажмите еще раз через 2 секунды.'
+        )
       }
-    }, 600)
+    }
+
+    setTimeout(() => setZadarmaMessage(null), 10000)
   }
 
   // Auto-initialize WebRTC widget in background for seamless browser calling
