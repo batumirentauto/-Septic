@@ -188,11 +188,11 @@ function CallDispatcherContent() {
     }
   }
 
-  const initZadarmaWebRTC = async () => {
+  const initZadarmaWebRTC = async (): Promise<boolean> => {
     try {
       setWebrtcWidgetActive(true)
 
-      // Ensure custom CSS for Zadarma widget z-index is injected
+      // Ensure custom CSS for Zadarma widget z-index and appearance is injected
       if (!document.getElementById('zdrm-custom-style')) {
         const style = document.createElement('style')
         style.id = 'zdrm-custom-style'
@@ -202,8 +202,9 @@ function CallDispatcherContent() {
             display: block !important;
           }
           .zdrm-webphone {
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.6), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
             border-radius: 16px !important;
+            border: 1px solid rgba(16, 185, 129, 0.4) !important;
           }
         `
         document.head.appendChild(style)
@@ -213,7 +214,7 @@ function CallDispatcherContent() {
       const data = await res.json()
       if (!data.ok || !data.key) {
         setZadarmaError(lang === 'EN' ? 'Could not load WebRTC key' : 'Не удалось получить WebRTC ключ')
-        return
+        return false
       }
 
       // Helper to dynamically load external script
@@ -266,9 +267,20 @@ function CallDispatcherContent() {
           { right: '20px', bottom: '20px' }
         )
       }
+
+      // Wait until zdrm instance is mounted
+      for (let i = 0; i < 30; i++) {
+        if ((window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone) {
+          return true
+        }
+        await new Promise((r) => setTimeout(r, 100))
+      }
+
+      return true
     } catch (e: any) {
       console.error('initZadarmaWebRTC error:', e)
       setZadarmaError(e.message)
+      return false
     }
   }
 
@@ -286,25 +298,34 @@ function CallDispatcherContent() {
         navigator.mediaDevices
           .getUserMedia({ audio: true })
           .then((stream) => stream.getTracks().forEach((t) => t.stop()))
-          .catch(() => {})
+          .catch((err) => {
+            console.warn('Microphone permission check:', err)
+          })
       }
     } catch (e) {}
 
     // Ensure phone widget is ready
-    if (!(window as any).zdrmWPhI && !(window as any).zdrmWebrtcPhone) {
+    let zdrm = (window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone
+    if (!zdrm) {
       setZadarmaMessage(lang === 'EN' ? 'Connecting browser phone...' : 'Подключаем телефон к браузеру...')
       await initZadarmaWebRTC()
-      await new Promise((r) => setTimeout(r, 600))
+      for (let i = 0; i < 20; i++) {
+        zdrm = (window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone
+        if (zdrm) break
+        await new Promise((r) => setTimeout(r, 150))
+      }
     }
 
-    const zdrm = (window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone
-
     // Set phone number in Zadarma input field
-    const input = document.getElementById('zdrm-webphone-phonenumber-input') as HTMLInputElement | null
-    if (input) {
-      input.value = clean
-      input.dispatchEvent(new Event('input', { bubbles: true }))
-      input.dispatchEvent(new Event('change', { bubbles: true }))
+    for (let i = 0; i < 15; i++) {
+      const input = document.getElementById('zdrm-webphone-phonenumber-input') as HTMLInputElement | null
+      if (input) {
+        input.value = clean
+        input.dispatchEvent(new Event('input', { bubbles: true }))
+        input.dispatchEvent(new Event('change', { bubbles: true }))
+        break
+      }
+      await new Promise((r) => setTimeout(r, 150))
     }
 
     if (zdrm && typeof zdrm.callNum === 'function') {
@@ -342,12 +363,9 @@ function CallDispatcherContent() {
     setTimeout(() => setZadarmaMessage(null), 10000)
   }
 
-  // Auto-initialize WebRTC widget in background for seamless browser calling
+  // Auto-initialize WebRTC widget immediately on page load
   useEffect(() => {
-    const timer = setTimeout(() => {
-      initZadarmaWebRTC()
-    }, 1200)
-    return () => clearTimeout(timer)
+    initZadarmaWebRTC()
   }, [activeManager])
 
   const managerCfg = MANAGERS[activeManager] || MANAGERS.dinara
