@@ -119,12 +119,11 @@ function CallDispatcherContent() {
   const [activeTab, setActiveTab] = useState<'CALL1' | 'SMS' | 'CALL2' | 'OBJECTIONS'>('CALL1')
   const [activeObjection, setActiveObjection] = useState<string | null>(null)
 
-  // Zadarma Cloud PBX & WebRTC state
+  // Zadarma Cloud PBX state
   const [zadarmaBalance, setZadarmaBalance] = useState<string | null>(null)
   const [isCallingZadarma, setIsCallingZadarma] = useState(false)
   const [zadarmaMessage, setZadarmaMessage] = useState<string | null>(null)
   const [zadarmaError, setZadarmaError] = useState<string | null>(null)
-  const [webrtcWidgetActive, setWebrtcWidgetActive] = useState(false)
 
   const managerExtMap: Record<string, string> = {
     dinara: '101',
@@ -187,186 +186,6 @@ function CallDispatcherContent() {
       setIsCallingZadarma(false)
     }
   }
-
-  const initZadarmaWebRTC = async (): Promise<boolean> => {
-    try {
-      setWebrtcWidgetActive(true)
-
-      // Ensure custom CSS for Zadarma widget z-index and appearance is injected
-      if (!document.getElementById('zdrm-custom-style')) {
-        const style = document.createElement('style')
-        style.id = 'zdrm-custom-style'
-        style.innerHTML = `
-          .zdrm-phone {
-            z-index: 99999 !important;
-            display: block !important;
-          }
-          .zdrm-webphone {
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.6), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
-            border-radius: 16px !important;
-            border: 1px solid rgba(16, 185, 129, 0.4) !important;
-          }
-        `
-        document.head.appendChild(style)
-      }
-
-      const res = await fetch(`/api/zadarma?action=webrtc_key&manager=${activeManager}`)
-      const data = await res.json()
-      if (!data.ok || !data.key) {
-        setZadarmaError(lang === 'EN' ? 'Could not load WebRTC key' : 'Не удалось получить WebRTC ключ')
-        return false
-      }
-
-      // Helper to dynamically load external script
-      const loadScript = (src: string, id: string): Promise<void> => {
-        return new Promise((resolve) => {
-          if (document.getElementById(id)) {
-            resolve()
-            return
-          }
-          const s = document.createElement('script')
-          s.id = id
-          s.src = src
-          s.async = true
-          s.onload = () => resolve()
-          s.onerror = () => resolve()
-          document.body.appendChild(s)
-        })
-      }
-
-      await loadScript('https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-lib.js?sub_v=1', 'zdrm-lib-script')
-      await loadScript('https://my.zadarma.com/webphoneWebRTCWidget/v9/js/loader-phone-fn.js?sub_v=1', 'zdrm-fn-script')
-
-      // Wait until Zadarma internal scripts are fully evaluated
-      const waitForReady = (maxAttempts = 50): Promise<boolean> => {
-        return new Promise((resolve) => {
-          let attempts = 0
-          const interval = setInterval(() => {
-            attempts++
-            const hasFn = typeof (window as any).zadarmaWidgetFn === 'function'
-            const hasInterface = typeof (window as any).zdrmWebrtcPhoneInterface === 'function'
-            if (hasFn && hasInterface) {
-              clearInterval(interval)
-              resolve(true)
-            } else if (attempts >= maxAttempts) {
-              clearInterval(interval)
-              resolve(false)
-            }
-          }, 150)
-        })
-      }
-
-      const isReady = await waitForReady()
-      if (isReady && !(window as any).zdrmWPhI && !(window as any).zdrmWebrtcPhone) {
-        ;(window as any).zadarmaWidgetFn(
-          data.key,
-          data.sip,
-          'square',
-          lang === 'RU' ? 'ru' : 'en',
-          true,
-          { right: '20px', bottom: '20px' }
-        )
-      }
-
-      // Wait until zdrm instance is mounted
-      for (let i = 0; i < 30; i++) {
-        if ((window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone) {
-          return true
-        }
-        await new Promise((r) => setTimeout(r, 100))
-      }
-
-      return true
-    } catch (e: any) {
-      console.error('initZadarmaWebRTC error:', e)
-      setZadarmaError(e.message)
-      return false
-    }
-  }
-
-  // Directly initiate call inside the browser using WebRTC
-  const callFromBrowser = async (phone: string) => {
-    let clean = phone.replace(/\D/g, '')
-    if (clean.length === 10) clean = '1' + clean
-    if (!clean.startsWith('+')) clean = '+' + clean
-
-    setZadarmaError(null)
-
-    // Prime microphone permission under user click gesture
-    try {
-      if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
-        navigator.mediaDevices
-          .getUserMedia({ audio: true })
-          .then((stream) => stream.getTracks().forEach((t) => t.stop()))
-          .catch((err) => {
-            console.warn('Microphone permission check:', err)
-          })
-      }
-    } catch (e) {}
-
-    // Ensure phone widget is ready
-    let zdrm = (window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone
-    if (!zdrm) {
-      setZadarmaMessage(lang === 'EN' ? 'Connecting browser phone...' : 'Подключаем телефон к браузеру...')
-      await initZadarmaWebRTC()
-      for (let i = 0; i < 20; i++) {
-        zdrm = (window as any).zdrmWPhI || (window as any).zdrmWebrtcPhone
-        if (zdrm) break
-        await new Promise((r) => setTimeout(r, 150))
-      }
-    }
-
-    // Set phone number in Zadarma input field
-    for (let i = 0; i < 15; i++) {
-      const input = document.getElementById('zdrm-webphone-phonenumber-input') as HTMLInputElement | null
-      if (input) {
-        input.value = clean
-        input.dispatchEvent(new Event('input', { bubbles: true }))
-        input.dispatchEvent(new Event('change', { bubbles: true }))
-        break
-      }
-      await new Promise((r) => setTimeout(r, 150))
-    }
-
-    if (zdrm && typeof zdrm.callNum === 'function') {
-      setZadarmaMessage(
-        lang === 'EN'
-          ? `🎧 Dialing ${clean} directly in browser! Allow microphone if prompted.`
-          : `🎧 Набираем ${clean} прямо в браузере! Нажмите «Разрешить» для микрофона.`
-      )
-      zdrm.callNum()
-    } else if (zdrm?.apiWidget && typeof zdrm.apiWidget.call === 'function') {
-      setZadarmaMessage(
-        lang === 'EN'
-          ? `🎧 Dialing ${clean} directly in browser! Allow microphone if prompted.`
-          : `🎧 Набираем ${clean} прямо в браузере! Нажмите «Разрешить» для микрофона.`
-      )
-      zdrm.apiWidget.call(clean)
-    } else {
-      const callBtn = document.querySelector('.zdrm-webphone-call-btn') as HTMLElement | null
-      if (callBtn) {
-        callBtn.click()
-        setZadarmaMessage(
-          lang === 'EN'
-            ? `🎧 Dialing ${clean} directly in browser! Allow microphone if prompted.`
-            : `🎧 Набираем ${clean} прямо в браузере! Нажмите «Разрешить» для микрофона.`
-        )
-      } else {
-        setZadarmaError(
-          lang === 'EN'
-            ? 'WebRTC phone is initializing. Please click again in 2 seconds.'
-            : 'Виджет телефона загружается. Нажмите еще раз через 2 секунды.'
-        )
-      }
-    }
-
-    setTimeout(() => setZadarmaMessage(null), 10000)
-  }
-
-  // Auto-initialize WebRTC widget immediately on page load
-  useEffect(() => {
-    initZadarmaWebRTC()
-  }, [activeManager])
 
   const managerCfg = MANAGERS[activeManager] || MANAGERS.dinara
   const managerLeads: CallLead[] = useMemo(() => {
@@ -674,18 +493,6 @@ function CallDispatcherContent() {
               )}
             </div>
 
-            {/* Zadarma Webphone Embedded Button */}
-            <button
-              onClick={initZadarmaWebRTC}
-              className={`border text-[11px] font-semibold px-2.5 py-1 rounded-lg transition flex items-center gap-1 ${
-                webrtcWidgetActive
-                  ? 'bg-emerald-950 border-emerald-600 text-emerald-200'
-                  : 'bg-indigo-950 hover:bg-indigo-900 border-indigo-700 text-indigo-200'
-              }`}
-              title="Запустить встроенный веб-телефон Zadarma WebRTC"
-            >
-              🎧 {webrtcWidgetActive ? 'Webphone ON' : 'Webphone'}
-            </button>
 
             {/* Language toggle */}
             <div className="flex bg-slate-800 rounded-lg p-0.5 border border-slate-700 text-[11px] font-bold">
@@ -858,90 +665,61 @@ function CallDispatcherContent() {
           </div>
         </div>
 
-        {/* Calling Actions: Mobile Zadarma App First & Browser Webphone */}
-        <div className="space-y-2">
-          {/* 1. Primary: 1-Click Open in Zadarma App (SIP Scheme + Auto-Copy) */}
-          <a
-            href={sipHref}
+        {/* Calling Actions: Clean Mobile First */}
+        <div className="space-y-2.5">
+          {/* 1. Primary: 1-Click Copy Number for Zadarma App */}
+          <button
             onClick={() => {
-              copyToClipboard(cleanPhone, 'phone_btn')
+              copyToClipboard(cleanPhone, 'phone_main')
               setZadarmaMessage(
                 lang === 'EN'
-                  ? `📲 Opening Zadarma app with ${cleanPhone}! (Number also copied to clipboard)`
-                  : `📲 Открываем Zadarma с номером ${cleanPhone}! (Номер также скопирован в буфер)`
+                  ? `✓ Number ${cleanPhone} copied! Switch to Zadarma app & paste.`
+                  : `✓ Номер ${cleanPhone} скопирован в буфер! Откройте Zadarma и вставьте в строку набора.`
               )
+              setTimeout(() => setZadarmaMessage(null), 8000)
             }}
-            className="w-full flex items-center justify-between bg-gradient-to-r from-blue-600 via-indigo-600 to-sky-500 hover:from-blue-500 hover:to-sky-400 text-white font-black text-sm sm:text-base py-3.5 px-4 rounded-xl shadow-xl active:scale-[0.99] transition cursor-pointer"
+            className="w-full flex items-center justify-between bg-gradient-to-r from-emerald-500 via-emerald-400 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-slate-950 font-black text-sm sm:text-base py-3.5 px-4 rounded-xl shadow-xl active:scale-[0.99] transition cursor-pointer"
           >
             <div className="flex items-center gap-2.5">
-              <span className="text-2xl">📲</span>
+              <span className="text-2xl">📋</span>
               <div className="text-left">
                 <div className="tracking-tight leading-tight">
-                  {lang === 'EN' ? 'Open in Zadarma App' : '📲 Открыть в приложении Zadarma'}
+                  {lang === 'EN' ? 'Copy Number for Zadarma' : '📋 Скопировать номер для Zadarma'}
                 </div>
-                <div className="text-[10px] text-blue-200 font-normal">
-                  {lang === 'EN' ? '1-tap call via Zadarma with US Caller ID' : 'Номер подставляется сразу • вызов с +1 (585)'}
+                <div className="text-[10px] text-slate-900/80 font-medium">
+                  {copiedField === 'phone_main'
+                    ? (lang === 'EN' ? '✓ Copied to clipboard!' : '✓ Скопировано в буфер обмена!')
+                    : (lang === 'EN' ? '1-tap copy • ready to paste in Zadarma' : 'В 1 клик • откройте Zadarma и вставьте')}
                 </div>
               </div>
             </div>
-            <div className="flex items-center gap-1.5 text-xs font-mono font-bold bg-white/20 px-2.5 py-1 rounded-lg">
+            <div className="flex items-center gap-1.5 text-xs font-mono font-black bg-slate-950/20 px-2.5 py-1 rounded-lg">
               <span>{cleanPhone}</span>
             </div>
-          </a>
-
-          {/* 2. Secondary: Direct In-Browser Webphone Call (Desktop / Mac / PC) */}
-          <button
-            onClick={() => callFromBrowser(cleanPhone)}
-            className="w-full flex items-center justify-between bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-slate-950 font-bold text-xs sm:text-sm py-2.5 px-4 rounded-xl shadow-md active:scale-[0.99] transition cursor-pointer"
-          >
-            <div className="flex items-center gap-2">
-              <span className="text-base">🎧</span>
-              <span className="font-bold">
-                {lang === 'EN' ? 'Call from Browser (Desktop/Mac)' : '🎧 Позвонить прямо из браузера (ПК / Mac)'}
-              </span>
-            </div>
-            <span className="text-[10px] font-mono font-bold bg-slate-950/20 px-2 py-0.5 rounded">
-              Webphone
-            </span>
           </button>
 
-          {/* 3. Tertiary Row: Quick Actions (Copy, Native Phone tel:, PBX Callback) */}
-          <div className="grid grid-cols-3 gap-2 pt-0.5">
-            {/* Copy Number */}
-            <button
-              onClick={() => {
-                copyToClipboard(cleanPhone, 'phone_btn')
-                setZadarmaMessage(
-                  lang === 'EN' ? `✓ Number ${cleanPhone} copied!` : `✓ Номер ${cleanPhone} скопирован в буфер!`
-                )
-              }}
-              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
-              title="Скопировать номер телефона"
-            >
-              <span>📋</span>
-              <span>{copiedField === 'phone_btn' ? '✓ Скопировано' : 'Скопировать'}</span>
-            </button>
-
-            {/* tel: Link (Standard Phone App) */}
-            <a
-              href={telHref}
-              className="flex items-center justify-center gap-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2 px-2 rounded-xl transition"
-              title="Стандартный вызов через телефон (SIM / системное приложение)"
-            >
-              <span>📞</span>
-              <span>{lang === 'EN' ? 'Phone (tel:)' : 'Телефон'}</span>
-            </a>
-
+          {/* 2. Secondary Row: Zadarma Callback & Native Phone (tel:) */}
+          <div className="grid grid-cols-2 gap-2">
             {/* Zadarma Callback */}
             <button
               onClick={() => triggerZadarmaCallback(cleanPhone, currentLead.company)}
               disabled={isCallingZadarma}
-              className="flex items-center justify-center gap-1 bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-300 font-bold text-xs py-2 px-2 rounded-xl transition disabled:opacity-50"
-              title="Автодозвон через Zadarma Callback"
+              className="flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500/20 to-orange-500/20 hover:from-amber-500/30 hover:to-orange-500/30 border border-amber-500/50 text-amber-300 font-bold text-xs py-2.5 px-3 rounded-xl transition disabled:opacity-50"
+              title="Заказать автодозвон через Zadarma PBX"
             >
               <span>{isCallingZadarma ? '⏳' : '⚡'}</span>
-              <span>Callback</span>
+              <span>{lang === 'EN' ? 'Zadarma Callback' : '⚡ Автодозвон Zadarma'}</span>
             </button>
+
+            {/* Standard tel: link */}
+            <a
+              href={telHref}
+              className="flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs py-2.5 px-3 rounded-xl transition"
+              title="Стандартный вызов через телефон (SIM-карта)"
+            >
+              <span>📞</span>
+              <span>{lang === 'EN' ? 'Native Phone (tel:)' : '📞 Обычный телефон'}</span>
+            </a>
           </div>
 
           {/* Zadarma Live Status Notification */}
