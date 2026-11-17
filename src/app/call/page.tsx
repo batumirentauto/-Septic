@@ -199,6 +199,62 @@ function CallDispatcherContent() {
     }
   }
 
+  // Directly initiate call inside the browser using WebRTC
+  const callFromBrowser = async (phone: string) => {
+    let clean = phone.replace(/\D/g, '')
+    if (clean.length === 10) clean = '1' + clean
+
+    setZadarmaError(null)
+
+    if (!webrtcWidgetActive) {
+      setZadarmaMessage(lang === 'EN' ? 'Initializing browser phone...' : 'Запускаем браузерный телефон...')
+      await initZadarmaWebRTC()
+    }
+
+    setTimeout(() => {
+      try {
+        const input = document.querySelector('.zdrm-webphone-phonenumber-input') as HTMLInputElement | null
+        if (input) {
+          input.value = clean
+          input.dispatchEvent(new Event('input', { bubbles: true }))
+          input.dispatchEvent(new Event('change', { bubbles: true }))
+        }
+
+        if ((window as any).zdrmWebPhone && typeof (window as any).zdrmWebPhone.webCallRequest === 'function') {
+          (window as any).zdrmWebPhone.webCallRequest(clean)
+          setZadarmaMessage(
+            lang === 'EN'
+              ? `🎧 Calling +${clean} directly from your browser! Allow microphone if prompted.`
+              : `🎧 Звоним на +${clean} прямо из браузера! Разрешите микрофон во всплывающем окне браузера.`
+          )
+        } else {
+          const callBtn = (document.querySelector('.zdrm-webphone-call-btn, .zdrm-phone-call-button, .zdrm-webphone-call-button, button.zdrm-call') ||
+            document.querySelector('.zdrm-phone button')) as HTMLElement | null
+          if (callBtn) {
+            callBtn.click()
+          }
+          setZadarmaMessage(
+            lang === 'EN'
+              ? `🎧 Number +${clean} loaded into browser phone. Put on headset and speak!`
+              : `🎧 Номер +${clean} передан в браузерный телефон. Разрешите микрофон и говорите!`
+          )
+        }
+        setTimeout(() => setZadarmaMessage(null), 12000)
+      } catch (err: any) {
+        console.error('Browser call trigger error:', err)
+        setZadarmaError(err.message || 'Browser call error')
+      }
+    }, 600)
+  }
+
+  // Auto-initialize WebRTC widget in background for seamless browser calling
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      initZadarmaWebRTC()
+    }, 1200)
+    return () => clearTimeout(timer)
+  }, [activeManager])
+
   const managerCfg = MANAGERS[activeManager] || MANAGERS.dinara
   const managerLeads: CallLead[] = useMemo(() => {
     return (rawCallLeads as CallLead[]).slice(managerCfg.startIndex, managerCfg.endIndex)
@@ -668,31 +724,46 @@ function CallDispatcherContent() {
           </div>
         </div>
 
-        {/* Zadarma 1-Click Callback Primary Button */}
+        {/* Calling Actions: Browser Webphone & Cloud PBX Callback */}
         <div className="space-y-2">
+          {/* 1. Primary: Direct In-Browser Webphone Call */}
+          <button
+            onClick={() => callFromBrowser(cleanPhone)}
+            className="w-full flex items-center justify-between bg-gradient-to-r from-emerald-500 via-emerald-400 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-slate-950 font-black text-sm sm:text-base py-3.5 px-4 rounded-xl shadow-xl active:scale-[0.99] transition cursor-pointer"
+          >
+            <div className="flex items-center gap-2">
+              <span className="text-xl">🎧</span>
+              <span className="tracking-tight">
+                {lang === 'EN' ? 'Call from Browser (Webphone)' : '🎧 Позвонить прямо из браузера'}
+              </span>
+            </div>
+            <div className="flex items-center gap-1.5 text-xs font-mono font-bold bg-slate-950/20 px-2.5 py-1 rounded-lg">
+              <span>{cleanPhone}</span>
+            </div>
+          </button>
+
+          {/* 2. Secondary: 1-Click Callback to Softphone / Mobile App */}
           <button
             onClick={() => triggerZadarmaCallback(cleanPhone, currentLead.company)}
             disabled={isCallingZadarma}
-            className="w-full flex items-center justify-between bg-gradient-to-r from-amber-500 via-amber-400 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-sm sm:text-base py-3 px-4 rounded-xl shadow-xl active:scale-[0.99] transition disabled:opacity-50"
+            className="w-full flex items-center justify-between bg-gradient-to-r from-amber-500 via-amber-400 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-bold text-xs sm:text-sm py-2.5 px-4 rounded-xl shadow-md active:scale-[0.99] transition disabled:opacity-50"
           >
             <div className="flex items-center gap-2">
-              <span className="text-lg">{isCallingZadarma ? '⏳' : '⚡'}</span>
+              <span>{isCallingZadarma ? '⏳' : '⚡'}</span>
               <span>
                 {isCallingZadarma
-                  ? (lang === 'EN' ? 'Connecting Zadarma...' : 'Соединяем через Zadarma...')
-                  : (lang === 'EN' ? '1-Click Zadarma Call (Callback)' : '⚡ Звонок через Zadarma в 1 клик')}
+                  ? (lang === 'EN' ? 'Connecting Callback...' : 'Соединяем через Zadarma...')
+                  : (lang === 'EN' ? 'Callback to Zadarma App (Ext ' + currentExt + ')' : 'Callback на телефон / приложение (Ext ' + currentExt + ')')}
               </span>
             </div>
-            <div className="flex items-center gap-1.5 text-xs font-mono font-bold bg-slate-950/20 px-2 py-0.5 rounded">
-              <span>Ext {currentExt}</span>
-              <span>➔</span>
-              <span>US +1</span>
-            </div>
+            <span className="text-[11px] font-mono font-bold bg-slate-950/20 px-2 py-0.5 rounded">
+              Zadarma PBX
+            </span>
           </button>
 
           {/* Zadarma Live Status Notification */}
           {zadarmaMessage && (
-            <div className="bg-emerald-500/15 border border-emerald-500/40 text-emerald-300 text-xs px-3 py-2 rounded-xl flex items-center gap-2 animate-pulse">
+            <div className="bg-emerald-500/15 border border-emerald-500/40 text-emerald-300 text-xs px-3 py-2.5 rounded-xl flex items-center gap-2 animate-pulse">
               <span className="h-2 w-2 rounded-full bg-emerald-400"></span>
               <span className="font-medium">{zadarmaMessage}</span>
             </div>
