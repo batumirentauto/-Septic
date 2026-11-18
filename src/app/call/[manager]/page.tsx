@@ -9,6 +9,7 @@ export const dynamicParams = true
 export async function generateStaticParams() {
   return [
     { manager: 'dinara' },
+    { manager: 'dinariya' },
     { manager: 'tatyana' },
     { manager: 'jayne' },
     { manager: 'jane' },

@@ -45,6 +45,11 @@ const TEST_LEADS: CallLead[] = [
   },
 ]
 
+const DINARA_LEADS: CallLead[] = [
+  ...(rawCallLeads as CallLead[]).slice(0, 35),  // Primary 35 Dinara leads (#1 - #35)
+  ...(rawCallLeads as CallLead[]).slice(35, 50), // 15 extra leads from Tatyana (#36 - #50)
+]
+
 const JAYNE_LEADS: CallLead[] = [
   ...(rawCallLeads as CallLead[]).slice(70, 105), // Primary 35 Jayne leads (#1 - #35)
   ...(rawCallLeads as CallLead[]).slice(55, 70),  // 15 extra leads from Tatyana (#36 - #50)
@@ -56,8 +61,27 @@ const MANAGERS: Record<string, ManagerConfig> = {
     name: 'Dinara',
     nameRu: 'Динара (Менеджер 1)',
     startIndex: 0,
-    endIndex: 35,
-    leadCount: 35,
+    endIndex: 50,
+    leadCount: 50,
+    customLeads: DINARA_LEADS,
+  },
+  dinariya: {
+    id: 'dinara',
+    name: 'Dinara',
+    nameRu: 'Динара (Менеджер 1)',
+    startIndex: 0,
+    endIndex: 50,
+    leadCount: 50,
+    customLeads: DINARA_LEADS,
+  },
+  '1': {
+    id: 'dinara',
+    name: 'Dinara',
+    nameRu: 'Динара (Менеджер 1)',
+    startIndex: 0,
+    endIndex: 50,
+    leadCount: 50,
+    customLeads: DINARA_LEADS,
   },
   tatyana: {
     id: 'tatyana',
@@ -151,6 +175,7 @@ function CallDispatcherContent() {
 
   const managerExtMap: Record<string, string> = {
     dinara: '101',
+    dinariya: '101',
     '1': '101',
     tatyana: '102',
     '2': '102',

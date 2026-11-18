@@ -41,6 +41,7 @@ async function sendTelegramAlert(leadInfo: any, status: string, note: string, st
 
   const managerNames: Record<string, string> = {
     dinara: 'Динара (Менеджер 1)',
+    dinariya: 'Динара (Менеджер 1)',
     '1': 'Динара (Менеджер 1)',
     tatyana: 'Татьяна (Менеджер 2)',
     '2': 'Татьяна (Менеджер 2)',

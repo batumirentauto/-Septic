@@ -7,6 +7,7 @@ const ZADARMA_PBX_ID = process.env.ZADARMA_PBX_ID || '605466'
 
 const MANAGER_SIP_MAP: Record<string, string> = {
   dinara: `${ZADARMA_PBX_ID}-101`,
+  dinariya: `${ZADARMA_PBX_ID}-101`,
   '1': `${ZADARMA_PBX_ID}-101`,
   tatyana: `${ZADARMA_PBX_ID}-102`,
   '2': `${ZADARMA_PBX_ID}-102`,
