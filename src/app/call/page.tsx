@@ -45,10 +45,41 @@ const TEST_LEADS: CallLead[] = [
   },
 ]
 
-const DINARA_LEADS: CallLead[] = [
+const ET_STATES = new Set(['ME', 'VT', 'NH', 'MA', 'RI', 'CT', 'NY', 'NJ', 'PA', 'DE', 'MD', 'DC', 'VA', 'WV', 'NC', 'SC', 'GA', 'FL', 'OH', 'MI', 'IN', 'KY'])
+const CT_STATES = new Set(['WI', 'IL', 'MN', 'IA', 'MO', 'ND', 'SD', 'NE', 'KS', 'OK', 'TX', 'AR', 'LA', 'MS', 'TN', 'AL'])
+const MT_STATES = new Set(['MT', 'WY', 'CO', 'NM', 'ID', 'UT', 'AZ'])
+const PT_STATES = new Set(['WA', 'OR', 'CA', 'NV'])
+
+function getTimeZoneRank(lead: CallLead): number {
+  const st = (lead.state || '').trim().toUpperCase()
+  if (ET_STATES.has(st)) return 1
+  if (CT_STATES.has(st)) return 2
+  if (MT_STATES.has(st)) return 3
+  if (PT_STATES.has(st)) return 4
+  return 1
+}
+
+function getLeadTimeZone(state?: string): { zone: string; label: string; offsetHours: number; ianaZone: string } {
+  const st = (state || '').trim().toUpperCase()
+  if (ET_STATES.has(st)) return { zone: 'ET', label: 'Eastern Time (ET)', offsetHours: -5, ianaZone: 'America/New_York' }
+  if (CT_STATES.has(st)) return { zone: 'CT', label: 'Central Time (CT)', offsetHours: -6, ianaZone: 'America/Chicago' }
+  if (MT_STATES.has(st)) return { zone: 'MT', label: 'Mountain Time (MT)', offsetHours: -7, ianaZone: 'America/Denver' }
+  if (PT_STATES.has(st)) return { zone: 'PT', label: 'Pacific Time (PT)', offsetHours: -8, ianaZone: 'America/Los_Angeles' }
+  return { zone: 'ET', label: 'Eastern Time (ET)', offsetHours: -5, ianaZone: 'America/New_York' }
+}
+
+const DINARA_RAW_LEADS: CallLead[] = [
   ...(rawCallLeads as CallLead[]).slice(0, 35),  // Primary 35 Dinara leads (#1 - #35)
   ...(rawCallLeads as CallLead[]).slice(35, 50), // 15 extra leads from Tatyana (#36 - #50)
 ]
+
+// Sorted strictly by US Timezones: Eastern (ET: 29 leads) -> Central (CT: 13 leads) -> Mountain (MT: 8 leads)
+const DINARA_LEADS: CallLead[] = [...DINARA_RAW_LEADS].sort((a, b) => {
+  const rankDiff = getTimeZoneRank(a) - getTimeZoneRank(b)
+  if (rankDiff !== 0) return rankDiff
+  if (a.state !== b.state) return a.state.localeCompare(b.state)
+  return a.company.localeCompare(b.company)
+})
 
 const JAYNE_LEADS: CallLead[] = [
   ...(rawCallLeads as CallLead[]).slice(70, 105), // Primary 35 Jayne leads (#1 - #35)
@@ -294,6 +325,28 @@ function CallDispatcherContent() {
   }, [activeManager, managerLeads, storageKey])
 
   const currentLead: CallLead | undefined = managerLeads[currentIndex]
+  const currentLeadTz = getLeadTimeZone(currentLead?.state)
+  const [currentLeadLocalTime, setCurrentLeadLocalTime] = useState<string>('')
+
+  useEffect(() => {
+    if (!currentLead) return
+    const updateTime = () => {
+      try {
+        const formatted = new Intl.DateTimeFormat('en-US', {
+          timeZone: currentLeadTz.ianaZone,
+          hour: 'numeric',
+          minute: '2-digit',
+          hour12: true,
+        }).format(new Date())
+        setCurrentLeadLocalTime(formatted)
+      } catch {
+        setCurrentLeadLocalTime('')
+      }
+    }
+    updateTime()
+    const timer = setInterval(updateTime, 30000)
+    return () => clearInterval(timer)
+  }, [currentLeadTz, currentLead])
 
   // Sync state when index changes
   useEffect(() => {
@@ -321,8 +374,8 @@ function CallDispatcherContent() {
           <h1 className="text-2xl font-black mb-2">{lang === 'EN' ? 'All Leads Completed!' : 'Все контакты обработаны!'}</h1>
           <p className="text-slate-400 text-sm mb-4">
             {lang === 'EN'
-              ? `You have reached the end of the 35 leads assigned to ${managerCfg.name}.`
-              : `Вы завершили прозвон 35 контактов, назначенных менеджеру ${managerCfg.nameRu}.`}
+              ? `You have reached the end of the ${managerLeads.length} leads assigned to ${managerCfg.name}.`
+              : `Вы завершили прозвон ${managerLeads.length} контактов, назначенных менеджеру ${managerCfg.nameRu}.`}
           </p>
           <button
             onClick={() => setCurrentIndex(0)}
@@ -672,8 +725,14 @@ function CallDispatcherContent() {
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl">
           <div className="flex items-start justify-between gap-3">
             <div>
-              <div className="text-[11px] font-semibold text-emerald-400 uppercase tracking-wider mb-1">
-                {lang === 'EN' ? `Lead #${currentIndex + 1} of ${managerLeads.length}` : `Контакт #${currentIndex + 1} из ${managerLeads.length}`}
+              <div className="flex items-center gap-2 mb-1 flex-wrap">
+                <span className="text-[11px] font-semibold text-emerald-400 uppercase tracking-wider">
+                  {lang === 'EN' ? `Lead #${currentIndex + 1} of ${managerLeads.length}` : `Контакт #${currentIndex + 1} из ${managerLeads.length}`}
+                </span>
+                <span className="text-slate-600">•</span>
+                <span className="inline-flex items-center gap-1 font-mono text-[10px] font-bold px-2 py-0.5 rounded-full bg-slate-800 text-amber-300 border border-amber-500/30">
+                  🕒 {currentLeadTz.zone} {currentLeadLocalTime ? `• ${currentLeadLocalTime}` : ''}
+                </span>
               </div>
               <h2 className="text-lg font-black text-white leading-tight">{currentLead.company}</h2>
               <div className="flex items-center gap-2 mt-1 text-xs text-slate-400">
