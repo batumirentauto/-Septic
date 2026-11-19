@@ -56,36 +56,13 @@ const PATTERNS = [
       descRu: `Специализированный мини-экскаватор на резиновых гусеницах для работы в стесненных условиях приусадебного участка без повреждения брусчатки и газона.`,
       points: [
         'Rubber tracks engineered for zero turf rutting',
-        'Laser-guided depth control for trenching',
+        'Precision grade control for trenching',
         'Tight-access maneuverability between fences and homes'
       ],
       pointsRu: [
         'Резиновые гусеницы для защиты газона и дорожек',
-        'Лазерный контроль глубины траншей',
+        'Точный контроль глубины и уклона траншей',
         'Маневренность в узких проездах между заборами'
-      ],
-      image: null
-    })
-  },
-  {
-    type: 'DRAINFIELD_TECH',
-    regex: /\b(drain\s*field|drainfield|leach\s*(?:field|bed|line)|infiltrator|distribution\s*box|d-box)\b/i,
-    card: (lead) => ({
-      title: 'Laser-Graded Drainfield & Infiltrator Installation Setup',
-      titleRu: 'Лазерный комплекс монтажа полей фильтрации',
-      badge: 'Engineered Drainfield Setup',
-      badgeRu: 'Точный дренажный комплекс',
-      desc: `Laser-level transit and grading setup for precision lateral line slope (1/4 inch per foot) and high-efficiency drainfield infiltrator chamber installations.`,
-      descRu: `Оборудование для укладки дренажных труб и инфильтрационных камер с лазерным контролем уклона 1/4 дюйма на фут для долговечной безаварийной работы системы.`,
-      points: [
-        'Precision laser transit for continuous gravity slope',
-        'Engineered infiltrator chambers for long-term absorption',
-        'Built to strict local health department code specifications'
-      ],
-      pointsRu: [
-        'Лазерный нивелир для идеального уклона самотечных линий',
-        'Монтаж дренажных тоннелей по строительным нормам',
-        'Полное соответствие нормативам департамента здравоохранения'
       ],
       image: null
     })
@@ -196,10 +173,6 @@ for (const lead of septicLeads) {
           const pat = PATTERNS.find(p => p.type === 'MINI_EXCAVATOR');
           addedTypes.add('MINI_EXCAVATOR');
           verifiedCards.push(pat.card(lead));
-        } else if (cat === 'DRAINFIELD_PIPES' && !addedTypes.has('DRAINFIELD_TECH')) {
-          const pat = PATTERNS.find(p => p.type === 'DRAINFIELD_TECH');
-          addedTypes.add('DRAINFIELD_TECH');
-          verifiedCards.push(pat.card(lead));
         } else if (cat === 'CAMERA_DIAGNOSTICS' && !addedTypes.has('CAMERA_INSPECTION')) {
           const pat = PATTERNS.find(p => p.type === 'CAMERA_INSPECTION');
           addedTypes.add('CAMERA_INSPECTION');
@@ -207,6 +180,16 @@ for (const lead of septicLeads) {
         }
       }
     }
+  }
+
+  // Also clean any leftover laser mentions in customServices
+  if (lead.customServices && Array.isArray(lead.customServices)) {
+    lead.customServices.forEach(cs => {
+      if (cs.desc) cs.desc = cs.desc.replace(/laser-graded bedding/gi, 'compacted aggregate bedding');
+      if (cs.descRu) cs.descRu = cs.descRu.replace(/лазерное выравнивание подушки/gi, 'выравнивание песчано-гравийной подушки');
+      if (cs.specs) cs.specs = cs.specs.replace(/laser\s*level\s*precision/gi, 'code-compliant slope');
+      if (cs.specsRu) cs.specsRu = cs.specsRu.replace(/лазерный\s*контроль/gi, 'контроль по нормам');
+    });
   }
 
   // Cap at 3 verified cards

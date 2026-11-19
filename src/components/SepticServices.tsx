@@ -79,7 +79,7 @@ export function SepticServices({ lead, isRu = false }: SepticServicesProps) {
             },
             {
               icon: Sparkles,
-              title: 'Точные земляные работы и лазерная разработка котлованов',
+              title: 'Точные земляные работы и разработка котлованов',
               desc: 'Работа на компактных экскаваторах с резиновыми гусеницами на полимерных настилах. Нулевая колейность, сохранение деревьев, заборов и коммуникаций.',
               specs: 'Мини-экскаваторы 3.5–5T | Защитные маты Turf-Mats | Чистовая засыпка',
             },
@@ -139,14 +139,14 @@ export function SepticServices({ lead, isRu = false }: SepticServicesProps) {
             {
               icon: Wrench,
               title: 'Complete Septic System Installation & Engineered Replacements',
-              desc: 'Turnkey residential and commercial septic engineering. Laser-guided tank setting, proper slope calibration, and county health department permit acquisition and final sign-off.',
-              specs: '1,000–2,500 Gal Tanks | Laser Level Precision | County Health Certified',
+              desc: 'Turnkey residential and commercial septic engineering. Certified tank setting, proper slope calibration, and county health department permit acquisition and final sign-off.',
+              specs: '1,000–2,500 Gal Tanks | Code-Compliant Slope | County Health Certified',
             },
             {
               icon: Activity,
               title: 'Drain Field (Leach Field) Engineering & Replacement',
               desc: 'Complete excavation of failed drainfields and precision installation of modern high-capacity chamber systems (Infiltrator Systems) and engineered distribution boxes (D-Box).',
-              specs: 'Soil Perc Calibration | Infiltrator Chambers | D-Box Laser Leveling',
+              specs: 'Soil Perc Calibration | Infiltrator Chambers | D-Box Calibration',
             },
             {
               icon: Filter,

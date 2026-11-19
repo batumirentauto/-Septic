@@ -119,7 +119,7 @@ export function SepticCalculator({ lead, isRu = false }: SepticCalculatorProps) 
     {
       id: 'tank_replacement',
       name: isRu ? 'Замена резервуара септика (бетон / полимер) и земляные работы' : 'Septic Tank Replacement & Excavation',
-      sub: isRu ? 'Демонтаж старой емкости, точная разработка котлована' : 'Excavation of damaged tank, laser setting of new precast concrete/poly unit',
+      sub: isRu ? 'Демонтаж старой емкости, точная разработка котлована' : 'Excavation of damaged tank, precision setting of new precast concrete/poly unit',
     },
     {
       id: 'emergency',

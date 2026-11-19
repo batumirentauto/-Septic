@@ -56,8 +56,8 @@ export function SepticEquipment({ lead, isRu = false, onOpenPhoto }: SepticEquip
           </h2>
           <p className="text-slate-400 text-sm sm:text-base">
             {isRu
-              ? `Бригада ${lead.name} использует сертифицированное оборудование для точной раскопки, лазерной укладки дренажа и сохранения окружающего рельефа.`
-              : `The crew at ${lead.name} deploys dedicated mini-excavators, laser grading instruments, and ground protection designed to protect your turf and driveway.`}
+              ? `Бригада ${lead.name} использует сертифицированное оборудование для аккуратной разработки грунта и сохранения окружающего ландшафта.`
+              : `The crew at ${lead.name} deploys dedicated machinery and ground protection designed to protect your turf and driveway.`}
           </p>
         </div>
 

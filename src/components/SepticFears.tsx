@@ -25,13 +25,13 @@ export function SepticFears({ lead, isRu = false }: SepticFearsProps) {
               badge: 'Фиксированная цена',
               title: '100% фиксированная смета до начала работ (Guaranteed Flat Bid)',
               solution:
-                'Фиксируем полную стоимость до въезда техники на участок. В смету включены разработка грунта, танки, трубы, щебень, лазерная укладка, обратная засыпка и вывоз излишков земли без скрытых доплат.',
+                'Фиксируем полную стоимость до въезда техники на участок. В смету включены разработка грунта, танки, трубы, щебень, монтаж по нормам, обратная засыпка и вывоз излишков земли без скрытых доплат.',
             },
             {
               badge: 'Инженерный контроль',
-              title: 'Лазерный контроль уклона труб и объективная видеоинспекция',
+              title: 'Строгий контроль уклона труб и объективная видеоинспекция',
               solution:
-                'Каждый фут магистрали укладывается по цифровому лазерному нивелиру со строгим уклоном 1/4 дюйма на фут. Видеокамера высокого разрешения с зондом 512 Гц проверяет соединения до обратной засыпки.',
+                'Каждый фут магистрали укладывается со строгим проектным уклоном 1/4 дюйма на фут для бесперебойного самотека. Видеокамера высокого разрешения проверяет соединения до обратной засыпки.',
             },
             {
               badge: 'Чистота участка',
@@ -93,10 +93,10 @@ export function SepticFears({ lead, isRu = false }: SepticFearsProps) {
                 'We lock in your total project price before equipment touches your yard. Your quote includes engineering, excavation, tank setting, pipe materials, backfill compaction, and permit fees with zero surprise add-ons.',
             },
             {
-              badge: 'Laser Precision',
-              title: 'Laser Slope Grading & Dual CCTV Video Verification',
+              badge: 'Slope Precision',
+              title: 'Code-Compliant Slope Grading & CCTV Video Verification',
               solution:
-                'Every drain line and lateral is laid with dual-axis digital laser instruments guaranteeing precise 1/4" per foot gravity pitch. High-definition color sewer cameras verify all internal joints prior to final backfill.',
+                'Every drain line and lateral is laid with verified instruments guaranteeing precise 1/4" per foot gravity pitch. High-definition color sewer cameras verify all internal joints prior to final backfill.',
             },
             {
               badge: 'Clean Yard Restoration',

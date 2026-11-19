@@ -249,8 +249,8 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
               </h1>
               <p className="text-base sm:text-lg text-slate-300 font-medium leading-relaxed max-w-2xl mx-auto">
                 {isRu
-                  ? `Собственный парк тяжелой и мини-спецтехники в ${locationLabel}. Честные сметы напрямую от подрядчика, лазерный контроль уклона труб и 100% защита газона.`
-                  : `Owner-operated heavy machinery and mini-excavator fleet serving ${locationLabel}. Upfront direct contractor pricing, laser slope precision, and 100% turf preservation pledge.`}
+                  ? `Собственный парк профильной спецтехники в ${locationLabel}. Честные сметы напрямую от подрядчика, соблюдение строительных норм уклона труб и 100% защита газона.`
+                  : `Owner-operated machinery and equipment fleet serving ${locationLabel}. Upfront direct contractor pricing, code-compliant slope precision, and 100% turf preservation pledge.`}
               </p>
             </div>
 
@@ -331,8 +331,8 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                   </h1>
                   <p className="text-base text-slate-300 font-medium leading-relaxed max-w-2xl">
                     {isRu
-                      ? `Прямой подрядчик с собственной техникой в ${locationLabel}. Лазерная разработка котлованов, укладка фильтрационных полей и фиксация цены без скрытых доплат.`
-                      : `Direct owner-operated fleet serving ${locationLabel}. Laser-grade trench excavation, complete drainfield chamber placement, and zero-broker direct pricing.`}
+                      ? `Прямой подрядчик с собственной техникой в ${locationLabel}. Точная разработка траншей, монтаж фильтрационных полей и фиксация цены без скрытых доплат.`
+                      : `Direct owner-operated fleet serving ${locationLabel}. Precision trench excavation, complete drainfield chamber placement, and zero-broker direct pricing.`}
                   </p>
                 </div>
 
@@ -526,10 +526,10 @@ export function SepticHero({ lead, isRu = false, onOpenPhoto }: SepticHeroProps)
                   {isRu
                     ? isLowTicket
                       ? `Специализированная ассенизаторская спецтехника и прочистное оборудование в ${locationLabel}. Честные цены напрямую без посредников, оперативный выезд и 100% чистота территории.`
-                      : `Собственный парк тяжелой и мини-спецтехники в ${locationLabel}. Честные сметы напрямую от владельца без посредников, лазерный контроль уклона труб и 100% защита вашего участка.`
+                      : `Собственный парк профильной техники в ${locationLabel}. Честные сметы напрямую от владельца без посредников, соблюдение строительных норм уклона труб и 100% защита вашего участка.`
                     : isLowTicket
                       ? `Dedicated commercial vacuum pumper and drain line clearing equipment serving ${locationLabel}. Upfront direct pricing, rapid response, and 100% property protection.`
-                      : `Direct owner-operated heavy machinery and mini-excavator fleet serving ${locationLabel}. Upfront fixed pricing with zero broker markup, laser-level slope grading, and 100% lawn protection pledge.`}
+                      : `Direct owner-operated fleet serving ${locationLabel}. Upfront fixed pricing with zero broker markup, code-compliant gravity slope, and 100% lawn protection pledge.`}
                 </p>
               </div>
 
