@@ -10,6 +10,10 @@ export async function generateStaticParams() {
   return [
     { manager: 'dinara' },
     { manager: 'dinariya' },
+    { manager: 'dinara-warm' },
+    { manager: 'dinara-followup' },
+    { manager: 'dinara-closing' },
+    { manager: 'dinara-4' },
     { manager: 'tatyana' },
     { manager: 'jayne' },
     { manager: 'jane' },

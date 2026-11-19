@@ -81,6 +81,53 @@ const DINARA_LEADS: CallLead[] = [...DINARA_RAW_LEADS].sort((a, b) => {
   return a.company.localeCompare(b.company)
 })
 
+// 4 Warm Agreed Leads for Next-Day Call 2 Closing (Hills Septic, Arnett Environmental, TBC Septic, Crow Creek)
+const DINARA_WARM_LEADS: CallLead[] = [
+  // 1. Hills Septic Service (Ocala, FL - Eastern Time)
+  (rawCallLeads as CallLead[]).find((l) => l.slug === 'hills-septic-service')!,
+  // 2. Arnett Environmental (Jemison, AL - Central Time - Luke)
+  (rawCallLeads as CallLead[]).find((l) => l.slug === 'arnett-environmental')!,
+  // 3. TBC Septic (Franktown, CO - Mountain Time - Clint locked 9:30 AM callback!)
+  (rawCallLeads as CallLead[]).find((l) => l.slug === 'tbc-septic')!,
+  // 4. Crow Creek Septic Services (Fort Collins, CO - Mountain Time - Sierra agreed)
+  (rawCallLeads as CallLead[]).find((l) => l.slug === 'crow-creek-septic-services')!,
+].filter(Boolean)
+
+const WARM_LEAD_NOTES: Record<
+  string,
+  {
+    contactName: string
+    call1Result: string
+    bestCallTime: string
+    call2Goal: string
+  }
+> = {
+  'hills-septic-service': {
+    contactName: 'Owner / Hills Septic Team',
+    call1Result: 'Вчера согласились принять ссылку по СМС: «That’s fine to text the link».',
+    bestCallTime: '17:30–18:00 МСК (9:30–10:00 AM EST)',
+    call2Goal: 'Спросить: «Удалось ли открыть ссылку вчера? Все услуги и телефоны указали верно?». Оффер: подключение под ключ $2,500 или сплит $1,250/$1,250.',
+  },
+  'arnett-environmental': {
+    contactName: 'Luke (Владелец) / Диспетчер',
+    call1Result: 'Секретарь приняла СМС для Люка (Luke) и согласовала звонок на утро.',
+    bestCallTime: '18:30 МСК (9:30 AM CST)',
+    call2Goal: 'Спросить: «Люк на месте? Удалось ли передать ему ссылку?». Если Люк у трубки — пройтись по странице и сделать оффер $2,500 ($1,250 сплит).',
+  },
+  'tbc-septic': {
+    contactName: 'Clint (Владелец)',
+    call1Result: 'Клинт ЛИЧНО согласился: «Sounds good, talk to you tomorrow morning at 9:30».',
+    bestCallTime: '19:30 МСК (9:30 AM MST) — ЖДЁТ ЗВОНКА В 9:30!',
+    call2Goal: 'Горячий контакт! Напомнить: «Клинт, привет, Динара из Zonus, как договаривались в 9:30. Удалось взглянуть на превью?». Закрывать на $2,500 turnkey.',
+  },
+  'crow-creek-septic-services': {
+    contactName: 'Sierra (Сиерра)',
+    call1Result: 'Сиерра дала мобильный для отправки ссылки по СМС.',
+    bestCallTime: '20:00 МСК (10:00 AM MST)',
+    call2Goal: 'Спросить у Сиерры: «Посмотрели превью вчера вечером? Всё понравилось?». Предложить запустить сайт под их официальным доменом за $2,500.',
+  },
+}
+
 const JAYNE_LEADS: CallLead[] = [
   ...(rawCallLeads as CallLead[]).slice(70, 105), // Primary 35 Jayne leads (#1 - #35)
   ...(rawCallLeads as CallLead[]).slice(55, 70),  // 15 extra leads from Tatyana (#36 - #50)
@@ -113,6 +160,42 @@ const MANAGERS: Record<string, ManagerConfig> = {
     endIndex: 50,
     leadCount: 50,
     customLeads: DINARA_LEADS,
+  },
+  'dinara-warm': {
+    id: 'dinara-warm',
+    name: 'Dinara (Warm 4)',
+    nameRu: 'Динара — Дожим 4 согласий',
+    startIndex: 0,
+    endIndex: 4,
+    leadCount: 4,
+    customLeads: DINARA_WARM_LEADS,
+  },
+  'dinara-followup': {
+    id: 'dinara-warm',
+    name: 'Dinara (Warm 4)',
+    nameRu: 'Динара — Дожим 4 согласий',
+    startIndex: 0,
+    endIndex: 4,
+    leadCount: 4,
+    customLeads: DINARA_WARM_LEADS,
+  },
+  'dinara-closing': {
+    id: 'dinara-warm',
+    name: 'Dinara (Warm 4)',
+    nameRu: 'Динара — Дожим 4 согласий',
+    startIndex: 0,
+    endIndex: 4,
+    leadCount: 4,
+    customLeads: DINARA_WARM_LEADS,
+  },
+  'dinara-4': {
+    id: 'dinara-warm',
+    name: 'Dinara (Warm 4)',
+    nameRu: 'Динара — Дожим 4 согласий',
+    startIndex: 0,
+    endIndex: 4,
+    leadCount: 4,
+    customLeads: DINARA_WARM_LEADS,
   },
   tatyana: {
     id: 'tatyana',
@@ -183,6 +266,12 @@ function CallDispatcherContent() {
   const initialManagerKey = MANAGERS[initialManagerParam] ? initialManagerParam : 'dinara'
   const isAdmin = searchParams.get('admin') === '1' || searchParams.get('admin') === 'true'
 
+  const isWarmMode =
+    initialManagerKey.includes('warm') ||
+    initialManagerKey.includes('followup') ||
+    initialManagerKey.includes('closing') ||
+    initialManagerKey.includes('dinara-4')
+
   const [activeManager, setActiveManager] = useState<string>(initialManagerKey)
   const [lang, setLang] = useState<'EN' | 'RU'>('EN')
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -195,7 +284,7 @@ function CallDispatcherContent() {
   const [isSaving, setIsSaving] = useState(false)
   const [copiedField, setCopiedField] = useState<string | null>(null)
   const [showHistory, setShowHistory] = useState(false)
-  const [activeTab, setActiveTab] = useState<'CALL1' | 'SMS' | 'CALL2' | 'OBJECTIONS'>('CALL1')
+  const [activeTab, setActiveTab] = useState<'CALL1' | 'SMS' | 'CALL2' | 'OBJECTIONS'>(isWarmMode ? 'CALL2' : 'CALL1')
   const [activeObjection, setActiveObjection] = useState<string | null>(null)
 
   // Zadarma Cloud PBX state
@@ -207,6 +296,10 @@ function CallDispatcherContent() {
   const managerExtMap: Record<string, string> = {
     dinara: '101',
     dinariya: '101',
+    'dinara-warm': '101',
+    'dinara-followup': '101',
+    'dinara-closing': '101',
+    'dinara-4': '101',
     '1': '101',
     tatyana: '102',
     '2': '102',
@@ -218,6 +311,17 @@ function CallDispatcherContent() {
     all: '100',
   }
   const currentExt = managerExtMap[activeManager] || '101'
+
+  useEffect(() => {
+    if (
+      activeManager.includes('warm') ||
+      activeManager.includes('followup') ||
+      activeManager.includes('closing') ||
+      activeManager.includes('dinara-4')
+    ) {
+      setActiveTab('CALL2')
+    }
+  }, [activeManager])
 
   // Fetch Zadarma Balance on Mount
   useEffect(() => {
@@ -416,6 +520,8 @@ function CallDispatcherContent() {
 
   // Call 2 Script
   const call2ScriptEn = `“Morning ${currentLead.owner || currentLead.company}, ${callerName} checking back as promised. Did you get a chance to open that link last night? Did we get all your services and info right, or is there anything we should tweak?”\n\n[PITCH $2,500]: “We do the full turnkey setup for a flat $2,500 — we connect your official dot-com domain, set up Google indexing, fast mobile hosting, and zero monthly fees. In your business, literally one single drain field replacement or tank job brings in $6,000 to $10,000+, so it pays for itself on the first serious call. If you text me those photos today, we can have your official site fully live within 24 hours. Want us to lock this in for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch within 24 hours, and $1,250 in 30 days after you start taking calls through it. Fair enough?”`
+
+  const call2ScriptRu = `«Доброе утро, ${currentLead.owner || currentLead.company}, это ${callerName}, как и договаривались вчера. Удалось вчера открыть ссылку и посмотреть превью? Всё ли верно по услугам и контактам, или стоит что-то скорректировать?»\n\n[ОФФЕР $2,500]: «Мы запускаем сайт под ключ за фиксированные $2,500: привязываем официальный .com домен, настраиваем индексацию в Google, быстрый мобильный хостинг и ноль ежемесячных платежей. В вашей сфере один вызов на замену поля фильтрации окупает этот сайт в разы. Если скинете фото техники — сайт будет онлайн за 24 часа. Фиксируем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для запуска за 24 часа, а $1,250 через 30 дней, когда пойдут первые звонки. Договорились?»`
 
   // Objections Dictionary
   const OBJECTIONS_DATA: Record<string, { label: string; script: string; why: string }> = {
@@ -725,6 +831,56 @@ function CallDispatcherContent() {
           </div>
         )}
 
+        {/* Warm Follow-up Context Banner for Dinara */}
+        {isWarmMode && (
+          <div className="bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-900 border-2 border-emerald-500/60 rounded-2xl p-4 shadow-xl space-y-2.5">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <span className="text-xl">🔥</span>
+                <span className="font-extrabold text-emerald-300 text-sm">
+                  {lang === 'EN' ? 'Warm Call #2: Agreed on SMS Link Yesterday' : 'Теплый звонок #2: Вчера согласились принять ссылку'}
+                </span>
+              </div>
+              <span className="text-[10px] font-bold uppercase tracking-wider bg-emerald-500/20 text-emerald-300 px-2.5 py-0.5 rounded-full border border-emerald-500/40">
+                {lang === 'EN' ? 'Closing / Offer' : 'Дожим / Закрытие'}
+              </span>
+            </div>
+
+            {WARM_LEAD_NOTES[currentLead.slug] && (
+              <div className="bg-slate-950/80 border border-emerald-800/50 rounded-xl p-3 text-xs space-y-2">
+                <div className="flex items-center justify-between">
+                  <span className="text-slate-400 font-medium">
+                    {lang === 'EN' ? 'Contact / Owner:' : 'Контакт / Владелец:'}
+                  </span>
+                  <span className="font-bold text-white">
+                    {WARM_LEAD_NOTES[currentLead.slug].contactName}
+                  </span>
+                </div>
+                <div className="flex items-start justify-between gap-2">
+                  <span className="text-slate-400 font-medium shrink-0">
+                    {lang === 'EN' ? 'Yesterday Result:' : 'Итог вчера:'}
+                  </span>
+                  <span className="font-semibold text-emerald-300 text-right">
+                    {WARM_LEAD_NOTES[currentLead.slug].call1Result}
+                  </span>
+                </div>
+                <div className="flex items-center justify-between">
+                  <span className="text-slate-400 font-medium">
+                    {lang === 'EN' ? 'Target Time (MSK):' : 'Рекомендуемое время:'}
+                  </span>
+                  <span className="font-mono font-bold text-amber-300">
+                    🕒 {WARM_LEAD_NOTES[currentLead.slug].bestCallTime}
+                  </span>
+                </div>
+                <div className="pt-2 border-t border-slate-800 text-slate-200 leading-snug">
+                  <span className="text-amber-400 font-bold">🎯 {lang === 'EN' ? 'Goal:' : 'Цель звонка:'} </span>
+                  {WARM_LEAD_NOTES[currentLead.slug].call2Goal}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
         {/* Company Overview Card */}
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl">
           <div className="flex items-start justify-between gap-3">
@@ -989,9 +1145,9 @@ function CallDispatcherContent() {
         {activeTab === 'CALL2' && (
           <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4">
             <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-emerald-400 mb-2">
-              <span>🎯 Next-Morning Closing Call (9:30 AM US Time)</span>
+              <span>🎯 {lang === 'EN' ? 'Next-Morning Closing Call (9:30 AM US Time)' : 'Звонок №2: Дожим и продажа сайта ($2,500)'}</span>
               <button
-                onClick={() => copyToClipboard(call2ScriptEn, 'call2')}
+                onClick={() => copyToClipboard(lang === 'EN' ? call2ScriptEn : call2ScriptRu, 'call2')}
                 className="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 px-2 py-0.5 rounded transition"
               >
                 {copiedField === 'call2' ? '✓ Copied' : 'Copy'}
@@ -999,7 +1155,7 @@ function CallDispatcherContent() {
             </div>
 
             <div className="text-xs text-slate-200 font-mono bg-slate-950/70 p-3 rounded-xl border border-slate-800 leading-relaxed whitespace-pre-line">
-              {call2ScriptEn}
+              {lang === 'EN' ? call2ScriptEn : call2ScriptRu}
             </div>
           </div>
         )}
