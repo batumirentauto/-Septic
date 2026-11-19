@@ -519,9 +519,9 @@ function CallDispatcherContent() {
   const smsAppHref = `sms:${cleanPhone}&body=${smsCombinedBody}`
 
   // Call 2 Script
-  const call2ScriptEn = `“Morning ${currentLead.owner || currentLead.company}, ${callerName} checking back as promised. Did you get a chance to open that link last night? Did we get all your services and info right, or is there anything we should tweak?”\n\n[PITCH $2,500]: “We do the full turnkey setup for a flat $2,500 — we connect your official dot-com domain, set up Google indexing, fast mobile hosting, and zero monthly fees. In your business, literally one single drain field replacement or tank job brings in $6,000 to $10,000+, so it pays for itself on the first serious call. If you text me those photos today, we can have your official site fully live within 24 hours. Want us to lock this in for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch within 24 hours, and $1,250 in 30 days after you start taking calls through it. Fair enough?”`
+  const call2ScriptEn = `“Morning ${currentLead.owner || currentLead.company}, ${callerName} checking back as promised. Did you get a chance to open that link last night? Did we get all your services and info right, or is there anything we should tweak?”\n\n[PHOTO OFFER]: “By the way, you can text over photos of your pump trucks, excavators, equipment, and your crew straight to this number. We’ll plug them right onto your page so homeowners see your real rigs and crew instead of generic pictures.”\n\n[PITCH $2,500]: “We do the full turnkey setup for a flat $2,500 — we connect your official dot-com domain, set up Google indexing, fast mobile hosting, and zero monthly fees. In your business, literally one single drain field replacement or tank job brings in $6,000 to $10,000+, so it pays for itself on the first serious call. If you text me those photos today, we can have your official site fully live within 24 hours. Want us to lock this in for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch within 24 hours under your domain, and $1,250 in 30 days after you start taking calls through it. Fair enough?”`
 
-  const call2ScriptRu = `«Доброе утро, ${currentLead.owner || currentLead.company}, это ${callerName}, как и договаривались вчера. Удалось вчера открыть ссылку и посмотреть превью? Всё ли верно по услугам и контактам, или стоит что-то скорректировать?»\n\n[ОФФЕР $2,500]: «Мы запускаем сайт под ключ за фиксированные $2,500: привязываем официальный .com домен, настраиваем индексацию в Google, быстрый мобильный хостинг и ноль ежемесячных платежей. В вашей сфере один вызов на замену поля фильтрации окупает этот сайт в разы. Если скинете фото техники — сайт будет онлайн за 24 часа. Фиксируем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для запуска за 24 часа, а $1,250 через 30 дней, когда пойдут первые звонки. Договорились?»`
+  const call2ScriptRu = `«Доброе утро, ${currentLead.owner || currentLead.company}, это ${callerName}, как и договаривались вчера. Удалось вчера открыть ссылку и посмотреть превью? Всё ли верно по услугам и контактам, или стоит что-то скорректировать?»\n\n[ФОТО ТЕХНИКИ И БРИГАДЫ]: «Кстати, вы можете скинуть прямо на этот номер фотографии ваших ассенизаторских машин, экскаватора, оборудования и бригады. Мы разместим их прямо на сайте, чтобы клиенты видели вашу реальную технику, а не стоковые картинки.»\n\n[ОФФЕР $2,500]: «Мы запускаем сайт под ключ за фиксированные $2,500: привязываем официальный .com домен, настраиваем индексацию в Google, быстрый мобильный хостинг и ноль ежемесячных платежей. В вашей сфере один вызов на замену поля фильтрации окупает этот сайт в разы. Если скинете фото техники — сайт будет онлайн за 24 часа. Фиксируем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для запуска за 24 часа, а $1,250 через 30 дней, когда пойдут первые звонки. Договорились?»`
 
   // Objections Dictionary
   const OBJECTIONS_DATA: Record<string, { label: string; script: string; why: string }> = {
@@ -552,18 +552,23 @@ function CallDispatcherContent() {
     },
     email: {
       label: '«Just send an email» (Скиньте на email)',
-      script: `“Happy to send an email as well! But since it’s built specifically for smartphones, it looks best right on your cell screen. I’ll text the link so you have it in one tap, and drop an email too. What's your best email address?”`,
-      why: 'Соглашается на email, но обосновывает важность мобильного SMS.',
+      script: `“Happy to send an email as well! What's your best email address? I'll send the full breakdown over. And in the meantime, feel free to text over photos of your trucks or crew right to this cell — we'll plug them into your preview today so you can see how it looks!”`,
+      why: 'Соглашается на email, но просит прислать фото техники по СМС для вовлечения.',
+    },
+    photos: {
+      label: '«Can we add our photos?» (Фото техники / бригады)',
+      script: `“Absolutely! You can text over photos of your pump trucks, excavators, equipment, and your crew directly to this number. We’ll plug them right onto your site so homeowners see your real rigs and crew instead of generic stock pictures. Text them over anytime today!”`,
+      why: 'Подтверждает возможность кастомизации реальной техникой и бригадой.',
     },
     expensive: {
       label: '«$2,500 is too expensive» (Звонок 2: Дорого)',
-      script: `“Understood. But in the septic business, literally one single tank replacement or drain field job brings in $6,000 to $10,000+. So this pays for itself on your very first big call. Plus, zero monthly fees. If $2,500 is tight, we can split it: $1,250 now to launch within 24 hours, and $1,250 in 30 days. Fair enough?”`,
-      why: 'Привязка к 1 объекту ($8k) + сплит 50/50 за 24 часа.',
+      script: `“Understood. But in septic, literally one single drain field replacement or tank job brings in $6,000 to $10,000+. So this pays for itself on the first serious call. Plus, zero monthly fees. If $2,500 is tight, we can split it: $1,250 now to launch within 24 hours under your domain, you text me your truck and crew photos, and the second $1,250 in 30 days after you start taking calls through it. Fair enough?”`,
+      why: 'Привязка к 1 объекту ($8k) + сплит 50/50 за 24 часа + фото техники.',
     },
     no_time: {
       label: '«Didn’t look at it yet» (Звонок 2: Не успел)',
-      script: `“Totally understand, long day yesterday! Tell you what — pull it up right now on your phone while I'm on the line, takes literally 15 seconds to scroll... Let me know when it opens.”`,
-      why: 'Вместе открываем прямо на линии на громкой связи.',
+      script: `“Totally understand, long day yesterday! Tell you what — pull it up right now on your phone while I'm on the line, takes literally 15 seconds to scroll... And by the way, you can text photos of your trucks or crew right to this number and we'll plug them in. Let me know when the link opens!”`,
+      why: 'Вместе открываем прямо на линии на громкой связи + предложение скинуть фото.',
     },
     wife: {
       label: '«Talk to wife / partner» (Звонок 2: Спрошу жену)',
@@ -1143,19 +1148,44 @@ function CallDispatcherContent() {
 
         {/* TAB 3: CALL 2 CLOSING SCRIPT */}
         {activeTab === 'CALL2' && (
-          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4">
-            <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-emerald-400 mb-2">
-              <span>🎯 {lang === 'EN' ? 'Next-Morning Closing Call (9:30 AM US Time)' : 'Звонок №2: Дожим и продажа сайта ($2,500)'}</span>
-              <button
-                onClick={() => copyToClipboard(lang === 'EN' ? call2ScriptEn : call2ScriptRu, 'call2')}
-                className="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 px-2 py-0.5 rounded transition"
-              >
-                {copiedField === 'call2' ? '✓ Copied' : 'Copy'}
-              </button>
+          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 space-y-3">
+            <div>
+              <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-emerald-400 mb-2">
+                <span>🎯 {lang === 'EN' ? 'Next-Morning Closing Call (9:30 AM US Time)' : 'Звонок №2: Дожим и продажа сайта ($2,500)'}</span>
+                <button
+                  onClick={() => copyToClipboard(lang === 'EN' ? call2ScriptEn : call2ScriptRu, 'call2')}
+                  className="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 px-2 py-0.5 rounded transition"
+                >
+                  {copiedField === 'call2' ? '✓ Copied' : 'Copy'}
+                </button>
+              </div>
+
+              <div className="text-xs text-slate-200 font-mono bg-slate-950/70 p-3 rounded-xl border border-slate-800 leading-relaxed whitespace-pre-line">
+                {lang === 'EN' ? call2ScriptEn : call2ScriptRu}
+              </div>
             </div>
 
-            <div className="text-xs text-slate-200 font-mono bg-slate-950/70 p-3 rounded-xl border border-slate-800 leading-relaxed whitespace-pre-line">
-              {lang === 'EN' ? call2ScriptEn : call2ScriptRu}
+            {/* Photo Personalization Offer Banner */}
+            <div className="bg-gradient-to-r from-emerald-950/60 to-slate-950 border border-emerald-700/60 rounded-xl p-3">
+              <div className="flex items-center justify-between text-[11px] font-bold text-amber-300 mb-1.5">
+                <span>📸 {lang === 'EN' ? 'Offer to Add Real Photos (Trucks, Equipment & Crew):' : 'Предложение добавить фото техники и бригады:'}</span>
+                <button
+                  onClick={() => copyToClipboard(
+                    lang === 'EN'
+                      ? `“By the way, you can text over photos of your pump trucks, excavators, equipment, and your crew straight to this number. We’ll plug them right onto your site so homeowners see your real rigs and crew instead of generic stock pictures. Text them over anytime!”`
+                      : `«Кстати, вы можете скинуть прямо на этот номер фотографии ваших ассенизаторских машин, экскаватора, оборудования и бригады. Мы разместим их прямо на сайте, чтобы клиенты видели вашу реальную технику, а не стоковые картинки. Можете отправить прямо сюда в ответ на СМС!»`,
+                    'photos_pitch'
+                  )}
+                  className="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 px-2 py-0.5 rounded transition"
+                >
+                  {copiedField === 'photos_pitch' ? '✓ Copied' : 'Copy'}
+                </button>
+              </div>
+              <div className="text-xs text-slate-200 font-mono bg-slate-950/60 p-2.5 rounded-lg border border-emerald-900/40 leading-relaxed">
+                {lang === 'EN'
+                  ? `“By the way, you can text over photos of your pump trucks, excavators, equipment, and your crew straight to this number. We’ll plug them right onto your site so homeowners see your real rigs and crew instead of generic stock pictures. Text them over anytime!”`
+                  : `«Кстати, вы можете скинуть прямо на этот номер фотографии ваших ассенизаторских машин, экскаватора, оборудования и бригады. Мы разместим их прямо на сайте, чтобы клиенты видели вашу реальную технику, а не стоковые картинки. Можете отправить прямо сюда в ответ на СМС!»`}
+              </div>
             </div>
           </div>
         )}
