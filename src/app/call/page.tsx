@@ -396,10 +396,14 @@ function CallDispatcherContent() {
   const showcaseUrl = `https://zonus.co/${currentLead.slug}`
   const callerName = managerCfg.name
 
-  // Adapted Dynamic Scripts
-  const hookScriptEn = `“Hey ${currentLead.owner ? currentLead.owner : currentLead.company}, this is ${callerName}. Quick call — we actually put together a custom website specifically for ${currentLead.company}.\n\nIt already has your real customer reviews, your phone number, and your exact services.\n\nWanted to text you the link so you can double-check if we got all your details right, and see if you have any photos of your trucks or crew you'd want added in. Is this cell good to text?”`
+  // Adapted Dynamic Scripts (v2.0 - No "quick call", No salesy triggers, Added Front-Desk branch)
+  const hookScriptEn = `“Hey ${currentLead.owner ? currentLead.owner : currentLead.company}, ${callerName} here with Zonus. I was looking at your 5-star Google reviews for ${currentLead.company} — we put together a free mobile preview for your business so homeowners can tap and call your crew in one second.\n\nZero cost, zero strings attached — just wanted to shoot you a quick link on your cell so you can see your reviews on it. Is this cell good to text?”`
 
-  const hookScriptRu = `«Здравствуйте, ${currentLead.owner ? currentLead.owner : currentLead.company}, это ${callerName}. Буквально на секунду — мы собрали готовый сайт специально под ${currentLead.company}.\n\nТам уже стоят ваши реальные отзывы клиентов, ваш прямой телефон и точный список услуг.\n\nХочу скинуть ссылку в смс, чтобы вы проверили, всё ли мы указали правильно, и если у вас есть фото ваших траков или бригады — мы их сразу добавим. Сюда можно скинуть ссылку?»`
+  const hookScriptRu = `«Здравствуйте, ${currentLead.owner ? currentLead.owner : currentLead.company}, это ${callerName} из Zonus. Я сейчас смотрю ваши 5-звездочные отзывы в Google по ${currentLead.company} — мы собрали бесплатное мобильное превью для вашей компании, чтобы клиенты могли набрать вашу бригаду в один клик.\n\nЭто полностью бесплатно и без обязательств — хотела скинуть короткую ссылку на сотовый, чтобы вы посмотрели. Сюда можно скинуть ссылку?»`
+
+  const frontDeskScriptEn = `“Hi! Is ${currentLead.owner ? currentLead.owner : 'the owner'} around, or is he out on a job site right now?\n\n[IF OUT / WHAT IS THIS REGARDING]: Got it! We put together a clean mobile preview for ${currentLead.company} featuring your 5-star Google reviews. What's the best cell number I can text the link to so he can tap it when he comes off the truck?”`
+
+  const frontDeskScriptRu = `«Здравствуйте! ${currentLead.owner ? currentLead.owner : 'Руководитель'} на месте или сейчас на выезде на объекте?\n\n[ЕСЛИ НА ОБЪЕКТЕ / ПО КАКОМУ ВОПРОСУ]: Поняла! Мы собрали аккуратное мобильное превью для ${currentLead.company} с вашими 5-звездочными отзывами Google. На какой сотовый номер лучше скинуть ссылку, чтобы он открыл ее вечером, когда вернется с выезда?»`
 
   const exitScriptEn = `Caller: “Got it, sending it over right now. Take a quick look tonight whenever you're off the road, and I'll give you a short buzz tomorrow morning around 9:30 to see what you think. Sound good?”\nOwner: “Sounds good.”\nCaller: “Appreciate it, ${currentLead.owner || 'sir'}. Talk to you tomorrow morning!” [HANG UP]`
 
@@ -878,26 +882,44 @@ function CallDispatcherContent() {
 
         {/* TAB 1: CALL 1 HOOK */}
         {activeTab === 'CALL1' && (
-          <div className="bg-emerald-950/40 border border-emerald-800/60 rounded-2xl p-4">
-            <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-emerald-400 mb-2">
-              <span>🔥 15-Sec Opening Hook (Tailored for {currentLead.company})</span>
-              <button
-                onClick={() => copyToClipboard(lang === 'EN' ? hookScriptEn : hookScriptRu, 'hook')}
-                className="text-[10px] bg-emerald-900/80 hover:bg-emerald-800 text-emerald-200 px-2 py-0.5 rounded transition"
-              >
-                {copiedField === 'hook' ? '✓ Copied' : 'Copy'}
-              </button>
+          <div className="bg-emerald-950/40 border border-emerald-800/60 rounded-2xl p-4 space-y-3">
+            <div>
+              <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-emerald-400 mb-2">
+                <span>👑 Direct to Owner / Crew Hook (No "quick call")</span>
+                <button
+                  onClick={() => copyToClipboard(lang === 'EN' ? hookScriptEn : hookScriptRu, 'hook')}
+                  className="text-[10px] bg-emerald-900/80 hover:bg-emerald-800 text-emerald-200 px-2 py-0.5 rounded transition"
+                >
+                  {copiedField === 'hook' ? '✓ Copied' : 'Copy'}
+                </button>
+              </div>
+
+              <div className="text-sm text-slate-100 font-medium leading-relaxed whitespace-pre-line font-mono bg-slate-950/60 p-3 rounded-xl border border-emerald-900/40">
+                {lang === 'EN' ? hookScriptEn : hookScriptRu}
+              </div>
             </div>
 
-            <div className="text-sm text-slate-100 font-medium leading-relaxed whitespace-pre-line font-mono bg-slate-950/60 p-3 rounded-xl border border-emerald-900/40">
-              {lang === 'EN' ? hookScriptEn : hookScriptRu}
+            {/* Front Desk Dispatcher Branch */}
+            <div className="pt-2 border-t border-emerald-900/40">
+              <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-sky-400 mb-1.5">
+                <span>🏢 Front Desk / Receptionist Branch (If Dispatcher Answers)</span>
+                <button
+                  onClick={() => copyToClipboard(lang === 'EN' ? frontDeskScriptEn : frontDeskScriptRu, 'frontdesk')}
+                  className="text-[10px] bg-sky-950 hover:bg-sky-900 text-sky-300 border border-sky-800 px-2 py-0.5 rounded transition"
+                >
+                  {copiedField === 'frontdesk' ? '✓ Copied' : 'Copy'}
+                </button>
+              </div>
+              <div className="text-xs text-slate-200 font-mono bg-slate-950/60 p-2.5 rounded-xl border border-sky-900/40 leading-relaxed whitespace-pre-line">
+                {lang === 'EN' ? frontDeskScriptEn : frontDeskScriptRu}
+              </div>
             </div>
 
-            <div className="mt-3 pt-3 border-t border-emerald-900/50">
+            <div className="pt-2 border-t border-emerald-900/50">
               <div className="text-[11px] font-bold text-amber-400 mb-1">
                 🚪 Post-Agreement Exit (Locking 9:30 AM Tomorrow Callback):
               </div>
-              <div className="text-xs text-slate-300 font-mono bg-slate-950/40 p-2.5 rounded-lg border border-slate-800 leading-snug whitespace-pre-line">
+              <div className="text-xs text-slate-300 font-mono bg-slate-950/40 p-2 rounded-lg border border-slate-800 leading-snug whitespace-pre-line">
                 {exitScriptEn}
               </div>
             </div>
