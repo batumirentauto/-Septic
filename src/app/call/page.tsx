@@ -590,8 +590,12 @@ function CallDispatcherContent() {
   const OBJECTIONS_DATA: Record<string, { label: string; script: string; why: string }> = {
     price: {
       label: '«How much is this?» (Сколько стоит?)',
-      script: `“It’s completely free to check out the preview — zero obligation. If you like it and want to launch it under your official domain, it’s a flat one-time setup with zero monthly fees. Just wanted to see if you like what we put together first. Is this cell good to text?”`,
-      why: 'Снимает страх цены до показа ценности. Фиксирует отсутствие абонентки.',
+      script: isMediator
+        ? `“Taking a look carries zero commitment — we built this preview as a portfolio showcase for our Florida ADR practice. If you decide you want to launch it under your official domain, the complete turnkey setup is a flat $2,500 with zero monthly fees. But take a look first to see if you like the presentation. Would you prefer I text it or email it?”`
+        : `“It’s completely free to check out the preview — zero obligation. If you like it and want to launch it under your official domain, it’s a flat one-time setup with zero monthly fees. Just wanted to see if you like what we put together first. Is this cell good to text?”`,
+      why: isMediator
+        ? 'Честно разделяет: просмотр превью ни к чему не обязывает, а запуск под ключ — $2,500 без скрытых условий. Исключает триггер «бесплатно».'
+        : 'Снимает страх цены до показа ценности. Фиксирует отсутствие абонентки.',
     },
     busy: {
       label: '«I’m busy / driving» (Я за рулем / занят)',
