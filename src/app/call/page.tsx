@@ -81,17 +81,17 @@ const DINARA_LEADS: CallLead[] = [...DINARA_RAW_LEADS].sort((a, b) => {
   return a.company.localeCompare(b.company)
 })
 
-// 4 Warm Agreed Leads for Next-Day Call 2 Closing (Hills Septic, Arnett Environmental, TBC Septic, Crow Creek)
-const DINARA_WARM_LEADS: CallLead[] = [
-  // 1. Hills Septic Service (Ocala, FL - Eastern Time)
+// 3 Priority Follow-Up Leads for Dinara (Hills Septic, Arnett Environmental, TBC Septic)
+const DINARA_TODAY_3_LEADS: CallLead[] = [
+  // 1. Hills Septic Service (Ocala, FL - Eastern Time - Voicemail yesterday at 18:52 MSK)
   (rawCallLeads as CallLead[]).find((l) => l.slug === 'hills-septic-service')!,
-  // 2. Arnett Environmental (Jemison, AL - Central Time - Luke)
+  // 2. Arnett Environmental (Jemison, AL - Central Time - Busy line yesterday at 19:30 MSK)
   (rawCallLeads as CallLead[]).find((l) => l.slug === 'arnett-environmental')!,
-  // 3. TBC Septic (Franktown, CO - Mountain Time - Clint locked 9:30 AM callback!)
+  // 3. TBC Septic (Franktown, CO - Mountain Time - Clint scheduled 9:30 AM callback, email sent to clint@tbcseptic.com!)
   (rawCallLeads as CallLead[]).find((l) => l.slug === 'tbc-septic')!,
-  // 4. Crow Creek Septic Services (Fort Collins, CO - Mountain Time - Sierra agreed)
-  (rawCallLeads as CallLead[]).find((l) => l.slug === 'crow-creek-septic-services')!,
 ].filter(Boolean)
+
+const DINARA_WARM_LEADS: CallLead[] = DINARA_TODAY_3_LEADS
 
 // Meah Rothman Tell, Esq. - Mediator Outreach Lead
 const MEAH_LEADS: CallLead[] = [
@@ -120,22 +120,22 @@ const WARM_LEAD_NOTES: Record<
   }
 > = {
   'hills-septic-service': {
-    contactName: 'Owner / Hills Septic Team',
-    call1Result: 'Вчера согласились принять ссылку по СМС: «That’s fine to text the link».',
+    contactName: 'Hills Septic Team (Окала, Флорида)',
+    call1Result: 'В среду согласились принять СМС. Вчера (четверг) в 18:52 МСК Динара не дозвонилась — сработал автоответчик (Voicemail).',
     bestCallTime: '17:30–18:00 МСК (9:30–10:00 AM EST)',
-    call2Goal: 'Спросить: «Удалось ли открыть ссылку вчера? Все услуги и телефоны указали верно?». Оффер: подключение под ключ $2,500 или сплит $1,250/$1,250.',
+    call2Goal: 'Повторный звонок №2: сказать, что звонила вчера днем и не застала. Спросить: открыли ли ссылку, всё ли верно по услугам и номерам. Предложить скинуть фото реальных машин/техники по СМС. Озвучить стоимость под ключ $2,500 (сплит $1,250/$1,250).',
   },
   'arnett-environmental': {
-    contactName: 'Luke (Владелец) / Диспетчер',
-    call1Result: 'Секретарь приняла СМС для Люка (Luke) и согласовала звонок на утро.',
+    contactName: 'Luke (Владелец) / Секретарь (Джемисон, Алабама)',
+    call1Result: 'Секретарь приняла СМС для Люка в среду. Вчера (четверг) в 19:30 МСК Динара не дозвонилась — линия была занята (User busy).',
     bestCallTime: '18:30 МСК (9:30 AM CST)',
-    call2Goal: 'Спросить: «Люк на месте? Удалось ли передать ему ссылку?». Если Люк у трубки — пройтись по странице и сделать оффер $2,500 ($1,250 сплит).',
+    call2Goal: 'Повторный звонок №2: позвать Люка к телефону. Если Люк у трубки — сказать, что звонила вчера, спросить, видел ли он витрину. Предложить добавить фото его реальной техники и бригады. Озвучить стоимость под ключ $2,500 (сплит $1,250).',
   },
   'tbc-septic': {
-    contactName: 'Clint (Владелец)',
-    call1Result: 'Клинт ЛИЧНО согласился: «Sounds good, talk to you tomorrow morning at 9:30».',
-    bestCallTime: '19:30 МСК (9:30 AM MST) — ЖДЁТ ЗВОНКА В 9:30!',
-    call2Goal: 'Горячий контакт! Напомнить: «Клинт, привет, Динара из Zonus, как договаривались в 9:30. Удалось взглянуть на превью?». Закрывать на $2,500 turnkey.',
+    contactName: 'Clint (Владелец, TBC Septic — Франктаун, Колорадо)',
+    call1Result: 'Вчера в 19:32 МСК Клинт ЛИЧНО взял трубку, сказал «I didn’t get it» (СМС не дошло на офис), дал свой email clint@tbcseptic.com и сам назначил звонок: «Call me tomorrow around 9:30». Ссылка отправлена на почту!',
+    bestCallTime: '19:30 МСК (9:30 AM MST) — ЖДЁТ ЗВОНКА РОВНО В 9:30!',
+    call2Goal: 'ГОРЯЧИЙ ЗВОНОК №3: Напомнить про договоренность в 9:30 и письмо. Проверить точность услуг. Предложить загрузить РЕАЛЬНЫЕ ФОТО его траков, экскаваторов и бригады. Озвучить $2,500 под ключ (домен, Google, без абонентки) или сплит $1,250/$1,250.',
   },
   'crow-creek-septic-services': {
     contactName: 'Sierra (Сиерра)',
@@ -151,6 +151,60 @@ const JAYNE_LEADS: CallLead[] = [
 ]
 
 const MANAGERS: Record<string, ManagerConfig> = {
+  'dinara-today': {
+    id: 'dinara-today',
+    name: 'Dinara (3 Follow-Ups)',
+    nameRu: 'Динара — 3 повторных звонка',
+    startIndex: 0,
+    endIndex: 3,
+    leadCount: 3,
+    customLeads: DINARA_TODAY_3_LEADS,
+  },
+  'dinara-3': {
+    id: 'dinara-today',
+    name: 'Dinara (3 Follow-Ups)',
+    nameRu: 'Динара — 3 повторных звонка',
+    startIndex: 0,
+    endIndex: 3,
+    leadCount: 3,
+    customLeads: DINARA_TODAY_3_LEADS,
+  },
+  'dinara-warm': {
+    id: 'dinara-today',
+    name: 'Dinara (3 Follow-Ups)',
+    nameRu: 'Динара — 3 повторных звонка',
+    startIndex: 0,
+    endIndex: 3,
+    leadCount: 3,
+    customLeads: DINARA_TODAY_3_LEADS,
+  },
+  'dinara-followup': {
+    id: 'dinara-today',
+    name: 'Dinara (3 Follow-Ups)',
+    nameRu: 'Динара — 3 повторных звонка',
+    startIndex: 0,
+    endIndex: 3,
+    leadCount: 3,
+    customLeads: DINARA_TODAY_3_LEADS,
+  },
+  'dinara-closing': {
+    id: 'dinara-today',
+    name: 'Dinara (3 Follow-Ups)',
+    nameRu: 'Динара — 3 повторных звонка',
+    startIndex: 0,
+    endIndex: 3,
+    leadCount: 3,
+    customLeads: DINARA_TODAY_3_LEADS,
+  },
+  'dinara-4': {
+    id: 'dinara-today',
+    name: 'Dinara (3 Follow-Ups)',
+    nameRu: 'Динара — 3 повторных звонка',
+    startIndex: 0,
+    endIndex: 3,
+    leadCount: 3,
+    customLeads: DINARA_TODAY_3_LEADS,
+  },
   dinara: {
     id: 'dinara',
     name: 'Dinara',
@@ -177,42 +231,6 @@ const MANAGERS: Record<string, ManagerConfig> = {
     endIndex: 50,
     leadCount: 50,
     customLeads: DINARA_LEADS,
-  },
-  'dinara-warm': {
-    id: 'dinara-warm',
-    name: 'Dinara (Warm 4)',
-    nameRu: 'Динара — Дожим 4 согласий',
-    startIndex: 0,
-    endIndex: 4,
-    leadCount: 4,
-    customLeads: DINARA_WARM_LEADS,
-  },
-  'dinara-followup': {
-    id: 'dinara-warm',
-    name: 'Dinara (Warm 4)',
-    nameRu: 'Динара — Дожим 4 согласий',
-    startIndex: 0,
-    endIndex: 4,
-    leadCount: 4,
-    customLeads: DINARA_WARM_LEADS,
-  },
-  'dinara-closing': {
-    id: 'dinara-warm',
-    name: 'Dinara (Warm 4)',
-    nameRu: 'Динара — Дожим 4 согласий',
-    startIndex: 0,
-    endIndex: 4,
-    leadCount: 4,
-    customLeads: DINARA_WARM_LEADS,
-  },
-  'dinara-4': {
-    id: 'dinara-warm',
-    name: 'Dinara (Warm 4)',
-    nameRu: 'Динара — Дожим 4 согласий',
-    startIndex: 0,
-    endIndex: 4,
-    leadCount: 4,
-    customLeads: DINARA_WARM_LEADS,
   },
   meah: {
     id: 'meah',
@@ -314,6 +332,8 @@ function CallDispatcherContent() {
     initialManagerKey.includes('warm') ||
     initialManagerKey.includes('followup') ||
     initialManagerKey.includes('closing') ||
+    initialManagerKey.includes('today') ||
+    initialManagerKey.includes('dinara-3') ||
     initialManagerKey.includes('dinara-4')
 
   const [activeManager, setActiveManager] = useState<string>(initialManagerKey)
@@ -340,6 +360,8 @@ function CallDispatcherContent() {
   const managerExtMap: Record<string, string> = {
     dinara: '101',
     dinariya: '101',
+    'dinara-today': '101',
+    'dinara-3': '101',
     'dinara-warm': '101',
     'dinara-followup': '101',
     'dinara-closing': '101',
@@ -361,6 +383,8 @@ function CallDispatcherContent() {
       activeManager.includes('warm') ||
       activeManager.includes('followup') ||
       activeManager.includes('closing') ||
+      activeManager.includes('today') ||
+      activeManager.includes('dinara-3') ||
       activeManager.includes('dinara-4')
     ) {
       setActiveTab('CALL2')
@@ -577,14 +601,31 @@ function CallDispatcherContent() {
   const smsCombinedBody = encodeURIComponent(`${smsIntroText}\n\n${smsLinkText}\n\n${smsActionText}`)
   const smsAppHref = `sms:${cleanPhone}&body=${smsCombinedBody}`
 
-  // Call 2 Script
-  const call2ScriptEn = isMediator
-    ? `“Good afternoon Ms. Tell, ${callerName} checking back as we agreed yesterday. Did you get a chance to open that link on your phone or check it on your computer screen? How did the presentation and your credentials look to you?”\n\n[IF ONLY SEEN ON PHONE]: “If you only had a moment on your phone, definitely take a look on your office desktop or laptop when you have a minute — the full-width portrait, editorial quotes, and tax background give it that high-end legal publication presence.”\n\n[PITCH $2,500]: “If you'd like to keep it and make it your official web presence, we do the full turnkey handover: connect your custom domain, optimize your Google presence, and set up your direct intake routing — with zero monthly maintenance fees. Turnkey is a flat $2,500, or we can split it $1,250 today and $1,250 next month. Would you like us to transfer and launch it for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch under your domain, and $1,250 in 30 days. Fair enough?”`
-    : `“Morning ${currentLead.owner || currentLead.company}, ${callerName} checking back as promised. Did you get a chance to open that link last night? Did we get all your services and info right, or is there anything we should tweak?”\n\n[PHOTO OFFER]: “By the way, you can text over photos of your pump trucks, excavators, equipment, and your crew straight to this number. We’ll plug them right onto your page so homeowners see your real rigs and crew instead of generic pictures.”\n\n[PITCH $2,500]: “We do the full turnkey setup for a flat $2,500 — we connect your official dot-com domain, set up Google indexing, fast mobile hosting, and zero monthly fees. In your business, literally one single drain field replacement or tank job brings in $6,000 to $10,000+, so it pays for itself on the first serious call. If you text me those photos today, we can have your official site fully live within 24 hours. Want us to lock this in for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch within 24 hours under your domain, and $1,250 in 30 days after you start taking calls through it. Fair enough?”`
+  // Call 2/3 Script tailored dynamically per lead
+  let call2ScriptEn = ''
+  let call2ScriptRu = ''
 
-  const call2ScriptRu = isMediator
-    ? `«Добрый день, госпожа Телл! Это ${callerName}, как мы и договаривались вчера. Удалось ли вам открыть ссылку на телефоне или взглянуть на неё за компьютером? Как вам оформление и подача ваших регалий?»\n\n[ЕСЛИ СМОТРЕЛА ТОЛЬКО С ТЕЛЕФОНА]: «Если вы открывали только со смартфона — обязательно взгляните на неё в офисе на мониторе или ноутбуке: там в полную ширину раскрывается портрет, типографика и вся глубина подачи уровня ведущих юридических изданий.»\n\n[ОФФЕР $2,500]: «Если вам нравится страница и вы хотите оставить её себе как официальный сайт — мы передаем всё под ключ: привязываем ваш личный домен, настраиваем индексацию в Google и прямую запись на медиацию, без ежемесячных платежей. Полная передача под ключ — фиксированные $2,500, либо сплит: $1,250 сейчас и $1,250 в следующем месяце. Оформляем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для привязки домена и запуска, и $1,250 через 30 дней. Договорились?»`
-    : `«Доброе утро, ${currentLead.owner || currentLead.company}, это ${callerName}, как и договаривались вчера. Удалось вчера открыть ссылку и посмотреть превью? Всё ли верно по услугам и контактам, или стоит что-то скорректировать?»\n\n[ФОТО ТЕХНИКИ И БРИГАДЫ]: «Кстати, вы можете скинуть прямо на этот номер фотографии ваших ассенизаторских машин, экскаватора, оборудования и бригады. Мы разместим их прямо на сайте, чтобы клиенты видели вашу реальную технику, а не стоковые картинки.»\n\n[ОФФЕР $2,500]: «Мы запускаем сайт под ключ за фиксированные $2,500: привязываем официальный .com домен, настраиваем индексацию в Google, быстрый мобильный хостинг и ноль ежемесячных платежей. В вашей сфере один вызов на замену поля фильтрации окупает этот сайт в разы. Если скинете фото техники — сайт будет онлайн за 24 часа. Фиксируем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для запуска за 24 часа, а $1,250 через 30 дней, когда пойдут первые звонки. Договорились?»`
+  if (isMediator) {
+    call2ScriptEn = `“Good afternoon Ms. Tell, ${callerName} checking back as we agreed yesterday. Did you get a chance to open that link on your phone or check it on your computer screen? How did the presentation and your credentials look to you?”\n\n[IF ONLY SEEN ON PHONE]: “If you only had a moment on your phone, definitely take a look on your office desktop or laptop when you have a minute — the full-width portrait, editorial quotes, and tax background give it that high-end legal publication presence.”\n\n[PITCH $2,500]: “If you'd like to keep it and make it your official web presence, we do the full turnkey handover: connect your custom domain, optimize your Google presence, and set up your direct intake routing — with zero monthly maintenance fees. Turnkey is a flat $2,500, or we can split it $1,250 today and $1,250 next month. Would you like us to transfer and launch it for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch under your domain, and $1,250 in 30 days. Fair enough?”`
+
+    call2ScriptRu = `«Добрый день, госпожа Телл! Это ${callerName}, как мы и договаривались вчера. Удалось ли вам открыть ссылку на телефоне или взглянуть на неё за компьютером? Как вам оформление и подача ваших регалий?»\n\n[ЕСЛИ СМОТРЕЛА ТОЛЬКО С ТЕЛЕФОНА]: «Если вы открывали только со смартфона — обязательно взгляните на неё в офисе на мониторе или ноутбуке: там в полную ширину раскрывается портрет, типографика и вся глубина подачи уровня ведущих юридических изданий.»\n\n[ОФФЕР $2,500]: «Если вам нравится страница и вы хотите оставить её себе как официальный сайт — мы передаем всё под ключ: привязываем ваш личный домен, настраиваем индексацию в Google и прямую запись на медиацию, без ежемесячных платежей. Полная передача под ключ — фиксированные $2,500, либо сплит: $1,250 сейчас и $1,250 в следующем месяце. Оформляем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для привязки домена и запуска, и $1,250 через 30 дней. Договорились?»`
+  } else if (currentLead.slug === 'tbc-septic') {
+    call2ScriptEn = `“Morning Clint! Dinara from Zonus checking back at 9:30 as we scheduled. I emailed you that link yesterday afternoon to clint@tbcseptic.com — did you get a chance to open it or take a quick scroll?”\n\n[IF HE HASN'T OPENED YET / IN TRUCK]:\n“Totally understand Clint, I know you're super busy out in the field! The email subject is ‘TBC Septic mobile preview & reviews’. If you have just 15 seconds, you can tap that link right on your phone while we talk, or take a quick look tonight.”\n\n[VERIFY INFO & REAL PHOTOS OFFER]:\n“First off, take a quick look to see if we got your services, phone number, and service areas in Douglas & Elbert County 100% accurate. We pulled your real 5-star Google reviews.\nAnd the main reason I'm calling: right now we have clean placeholder visuals for the pumps and tanks, but we'd love to plug in YOUR real photos — your pump trucks, excavators, equipment, and your crew on job sites. If you text or email those over to me, our team will plug them right into your site so homeowners see your actual rigs and crew instead of generic pictures.”\n\n[PITCH $2,500 TURNKEY]:\n“We do the full turnkey handover for a flat $2,500. That includes everything: connecting your official tbcseptic.com domain, Google Business indexing, lightning-fast mobile hosting, and absolutely zero monthly maintenance fees — you own it 100%. In your line of work, just one single septic install or drain field replacement easily runs $6,000 to $10,000+, so it pays for itself on the very first call. If you like the layout, we can connect your domain and have it live within 24 hours. Want us to get that set up for you?”\n\n[DOWNSELL 50/50 SPLIT]:\n“Understood Clint. To make it completely painless, we can do a 50/50 split: $1,250 today to connect your domain and launch within 24 hours, and the remaining $1,250 in 30 days after you start taking calls through it. Fair enough?”`
+
+    call2ScriptRu = `«Доброе утро, Клинт! Это Динара из Zonus, как мы и договаривались, в 9:30. Я отправила вам ссылку вчера на почту clint@tbcseptic.com — удалось ли вам открыть письмо и взглянуть на страницу?»\n\n[ЕСЛИ ЕЩЕ НЕ ОТКРЫЛ / В ДОРОГЕ]:\n«Прекрасно понимаю, Клинт, знаю, что вы постоянно на объектах! Тема письма: ‘TBC Septic mobile preview & reviews’. Если есть буквально 15 секунд — можете нажать на ссылку прямо с телефона пока мы на связи, либо взглянуть вечером.»\n\n[ПРОВЕРКА И ПРЕДЛОЖЕНИЕ ДОБАВИТЬ РЕАЛЬНЫЕ ФОТО]:\n«Прежде всего, взгляните, всё ли мы правильно указали: ваши услуги, телефон и зоны обслуживания в округах Douglas и Elbert. Мы подтянули ваши реальные 5-звездочные отзывы из Google.\nИ главное, почему я звоню: сейчас на сайте стоят аккуратные заглушки для септиков и насосов, но мы хотим добавить ВАШИ РЕАЛЬНЫЕ ФОТОГРАФИИ — ваши ассенизаторские машины, экскаваторы, оборудование и бригаду в работе. Если вы скинете их мне в ответ на письмо или по СМС — мы сразу вставим их на сайт, чтобы домовладельцы видели вашу настоящую технику и команду, а не стоковые картинки.»\n\n[ОФФЕР $2,500 ПОД КЛЮЧ]:\n«Мы отдаем весь сайт под ключ за фиксированные $2,500. В стоимость входит всё: привязка вашего официального домена tbcseptic.com, индексация в Google, быстрый мобильный хостинг и ноль ежемесячных платежей — сайт полностью ваш. В вашей сфере всего один заказ на замену поля или установку приносит от $6,000 до $10,000+, так что сайт окупается с первого же вызова. Если оформляем — сайт заработает на вашем домене за 24 часа. Закрепляем за вами?»\n\n[ДАУНСЕЛЛ 50/50 СПЛИТ]:\n«Понимаю, Клинт. Чтобы всё было максимально комфортно, можем разбить оплату 50/50: $1,250 сейчас, чтобы привязать домен и запуститься за 24 часа, а вторые $1,250 — через 30 дней, когда сайт уже будет приносить вам звонки. Договорились?»`
+  } else if (currentLead.slug === 'hills-septic-service') {
+    call2ScriptEn = `“Morning! ${callerName} from Zonus checking back. I gave you a quick ring yesterday afternoon after texting over that website showcase for Hills Septic, but missed you. Did you have a chance to take a quick scroll on your phone? Did we get all your services and info right?”\n\n[VERIFY INFO & REAL PHOTOS OFFER]:\n“Take a look to make sure your phone numbers and services are 100% accurate. Also, you can text over photos of your pump trucks, excavators, and equipment right to this number. We’ll plug your real rigs right into the page so homeowners see your actual trucks instead of generic pictures.”\n\n[PITCH $2,500 TURNKEY]:\n“Turnkey handover is a flat $2,500 with zero monthly fees — we connect your official dot-com domain, set up Google indexing, and fast hosting. In septic, one standard job more than pays for the whole thing. If you text over those truck photos today, we can have it fully live within 24 hours. Want us to lock this in?”\n\n[DOWNSELL 50/50 SPLIT]:\n“Understood. We can split it: $1,250 today to launch under your domain, and $1,250 in 30 days after you take calls through it. Fair enough?”`
+
+    call2ScriptRu = `«Доброе утро! Это ${callerName} из Zonus. Я звонила вам вчера днем после того, как отправила ссылку на сайт Hills Septic, но не застала вас. Удалось ли взглянуть на страницу на телефоне? Всё ли верно по услугам и номерам?»\n\n[ПРОВЕРКА И ПРЕДЛОЖЕНИЕ ДОБАВИТЬ РЕАЛЬНЫЕ ФОТО]:\n«Посмотрите, всё ли точно по контактам и услугам. И вы можете прямо на этот номер прислать фотографии ваших ассенизаторских машин и техники — мы разместим ваши реальные траки на сайте, чтобы клиенты видели ваше оборудование, а не картинки из интернета.»\n\n[ОФФЕР $2,500 ПОД КЛЮЧ]:\n«Передача под ключ стоит фиксированные $2,500 без ежемесячных платежей — привязываем официальный домен, настраиваем Google и быстрый хостинг. В септиках один вызов окупает всё. Если скинете фото техники — запустим сайт за 24 часа. Оформляем?»\n\n[ДАУНСЕЛЛ 50/50 СПЛИТ]:\n«Понимаю. Можем разбить: $1,250 сейчас для запуска на вашем домене, и $1,250 через 30 дней, когда пойдут звонки. Договорились?»`
+  } else if (currentLead.slug === 'arnett-environmental') {
+    call2ScriptEn = `“Morning! ${callerName} from Zonus checking back. I spoke with you guys on Wednesday and tried calling back yesterday afternoon, but the line was busy. Is Luke around? / Just wanted to make sure Luke had a quick moment to see the showcase link we sent over for Arnett Environmental.”\n\n[IF LUKE ANSWERS / ON LINE]:\n“Morning Luke! ${callerName} from Zonus. We put together a clean mobile showcase for Arnett Environmental with your 5-star Google reviews. Did you get a chance to take a 30-second scroll? Did we get all your services and phone numbers right?”\n\n[VERIFY INFO & REAL PHOTOS OFFER]:\n“By the way Luke, you can text over photos of your pump trucks, excavators, or crew straight to this number. We’ll plug your real equipment right onto the page so customers see your actual rigs and team instead of generic pictures.”\n\n[PITCH $2,500 TURNKEY]:\n“Full turnkey launch under your official domain is a flat $2,500 with zero monthly fees — Google indexing, mobile hosting, complete ownership. One single replacement or tank job pays for it on the spot. If you text those photos, we can have your official site live within 24 hours. Want us to set that up?”\n\n[DOWNSELL 50/50 SPLIT]:\n“Understood Luke. We can do a 50/50 split: $1,250 today to launch within 24 hours, and $1,250 in 30 days after you start taking calls through it. Fair enough?”`
+
+    call2ScriptRu = `«Доброе утро! Это ${callerName} из Zonus. Мы общались в среду, я пыталась перезвонить вчера днем, но линия была занята. Люк на месте? Хотела уточнить, удалось ли Люку взглянуть на сайт Arnett Environmental, который мы отправили.»\n\n[ЕСЛИ ЛЮК У ТЕЛЕФОНА]:\n«Доброе утро, Люк! Это ${callerName} из Zonus. Мы собрали мобильную витрину для Arnett Environmental с вашими 5-звездочными отзывами. Удалось ли взглянуть на полминуты? Всё ли верно указали по услугам и номерам?»\n\n[ПРОВЕРКА И ПРЕДЛОЖЕНИЕ ДОБАВИТЬ РЕАЛЬНЫЕ ФОТО]:\n«Кстати, Люк, вы можете скинуть фото ваших ассенизаторских машин, экскаваторов и бригады прямо на этот номер. Мы разместим вашу настоящую технику на сайте, чтобы заказчики видели ваше реальное оборудование, а не стоковые картинки.»\n\n[ОФФЕР $2,500 ПОД КЛЮЧ]:\n«Запуск под ключ на вашем официальном домене стоит фиксированные $2,500 без ежемесячных платежей — индексация в Google, хостинг, сайт полностью ваш. В вашем бизнесе один вызов на замену поля окупает вложения сразу. Присылаете фото — и сайт онлайн за 24 часа. Оформляем за вами?»\n\n[ДАУНСЕЛЛ 50/50 СПЛИТ]:\n«Понимаю, Люк. Можем разделить: $1,250 сейчас для запуска за 24 часа, и $1,250 через 30 дней, когда пойдут звонки. Договорились?»`
+  } else {
+    call2ScriptEn = `“Morning ${currentLead.owner || currentLead.company}, ${callerName} checking back as promised. Did you get a chance to open that link last night? Did we get all your services and info right, or is there anything we should tweak?”\n\n[PHOTO OFFER]: “By the way, you can text over photos of your pump trucks, excavators, equipment, and your crew straight to this number. We’ll plug them right onto your page so homeowners see your real rigs and crew instead of generic pictures.”\n\n[PITCH $2,500]: “We do the full turnkey setup for a flat $2,500 — we connect your official dot-com domain, set up Google indexing, fast mobile hosting, and zero monthly fees. In your business, literally one single drain field replacement or tank job brings in $6,000 to $10,000+, so it pays for itself on the first serious call. If you text me those photos today, we can have your official site fully live within 24 hours. Want us to lock this in for you?”\n\n[DOWNSELL 50/50]: “Understood. We can split it: $1,250 today to launch within 24 hours under your domain, and $1,250 in 30 days after you start taking calls through it. Fair enough?”`
+
+    call2ScriptRu = `«Доброе утро, ${currentLead.owner || currentLead.company}, это ${callerName}, как и договаривались вчера. Удалось вчера открыть ссылку и посмотреть превью? Всё ли верно по услугам и контактам, или стоит что-то скорректировать?»\n\n[ФОТО ТЕХНИКИ И БРИГАДЫ]: «Кстати, вы можете скинуть прямо на этот номер фотографии ваших ассенизаторских машин, экскаватора, оборудования и бригады. Мы разместим их прямо на сайте, чтобы клиенты видели вашу реальную технику, а не стоковые картинки.»\n\n[ОФФЕР $2,500]: «Мы запускаем сайт под ключ за фиксированные $2,500: привязываем официальный .com домен, настраиваем индексацию в Google, быстрый мобильный хостинг и ноль ежемесячных платежей. В вашей сфере один вызов на замену поля фильтрации окупает этот сайт в разы. Если скинете фото техники — сайт будет онлайн за 24 часа. Фиксируем за вами?»\n\n[ДАУНСЕЛЛ 50/50]: «Понимаю. Можем разбить: $1,250 сейчас для запуска за 24 часа, а $1,250 через 30 дней, когда пойдут первые звонки. Договорились?»`
+  }
 
   // Objections Dictionary
   const OBJECTIONS_DATA: Record<string, { label: string; script: string; why: string }> = {
@@ -910,11 +951,19 @@ function CallDispatcherContent() {
               <div className="flex items-center gap-2">
                 <span className="text-xl">🔥</span>
                 <span className="font-extrabold text-emerald-300 text-sm">
-                  {lang === 'EN' ? 'Warm Call #2: Agreed on SMS Link Yesterday' : 'Теплый звонок #2: Вчера согласились принять ссылку'}
+                  {currentLead.slug === 'tbc-septic'
+                    ? (lang === 'EN' ? '🔥 Warm Call #3: Clint (TBC Septic) — Callback at 9:30 AM MST' : '🔥 Звонок №3: Клинт (TBC Septic) — Назначен на 19:30 МСК (9:30 AM MST)')
+                    : currentLead.slug === 'hills-septic-service'
+                    ? (lang === 'EN' ? '🔄 Re-Dial Call #2: Hills Septic — Voicemail Yesterday' : '🔄 Повторный звонок №2: Hills Septic — Вчера был автоответчик')
+                    : currentLead.slug === 'arnett-environmental'
+                    ? (lang === 'EN' ? '🔄 Re-Dial Call #2: Arnett Environmental — Busy Line Yesterday' : '🔄 Повторный звонок №2: Arnett Environmental — Вчера было занято')
+                    : (lang === 'EN' ? 'Warm Follow-up Call' : 'Повторный звонок')}
                 </span>
               </div>
               <span className="text-[10px] font-bold uppercase tracking-wider bg-emerald-500/20 text-emerald-300 px-2.5 py-0.5 rounded-full border border-emerald-500/40">
-                {lang === 'EN' ? 'Closing / Offer' : 'Дожим / Закрытие'}
+                {currentLead.slug === 'tbc-septic'
+                  ? (lang === 'EN' ? 'Call #3 / Closing' : 'Звонок №3 / Закрытие')
+                  : (lang === 'EN' ? 'Re-Dial / Verify' : 'Повторный звонок')}
               </span>
             </div>
 
@@ -1004,6 +1053,22 @@ function CallDispatcherContent() {
               👁 {lang === 'EN' ? 'Preview Live Site ↗' : 'Открыть витрину ↗'}
             </a>
           </div>
+
+          {currentLead.slug === 'tbc-septic' && (
+            <div className="mt-2.5 pt-2.5 border-t border-slate-800/80 flex items-center justify-between text-xs bg-slate-950/60 px-3 py-1.5 rounded-xl border border-sky-900/50">
+              <div className="flex items-center gap-1.5 font-mono text-sky-300">
+                <span>✉️</span>
+                <span className="font-bold">clint@tbcseptic.com</span>
+                <span className="text-[10px] text-slate-400 font-sans hidden sm:inline">(письмо со ссылкой отправлено вчера)</span>
+              </div>
+              <button
+                onClick={() => copyToClipboard('clint@tbcseptic.com', 'email')}
+                className="bg-slate-800 hover:bg-slate-700 text-slate-200 text-[10px] font-bold px-2 py-0.5 rounded transition"
+              >
+                {copiedField === 'email' ? '✓ Copied' : 'Copy'}
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Calling Actions: Clean Mobile First */}
@@ -1098,7 +1163,7 @@ function CallDispatcherContent() {
             onClick={() => setActiveTab('CALL2')}
             className={`flex-1 py-1.5 rounded-lg transition ${activeTab === 'CALL2' ? 'bg-emerald-500 text-slate-950 shadow' : 'text-slate-400 hover:text-white'}`}
           >
-            🎯 Call #2 ($2.5k)
+            {isWarmMode ? (currentLead?.slug === 'tbc-septic' ? '🎯 Call #3 (Closing)' : '🎯 Call #2 (Closing)') : '🎯 Call #2 ($2.5k)'}
           </button>
           <button
             onClick={() => setActiveTab('OBJECTIONS')}
@@ -1218,7 +1283,9 @@ function CallDispatcherContent() {
           <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 space-y-3">
             <div>
               <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-emerald-400 mb-2">
-                <span>🎯 {lang === 'EN' ? 'Next-Morning Closing Call (9:30 AM US Time)' : 'Звонок №2: Дожим и продажа сайта ($2,500)'}</span>
+                <span>🎯 {currentLead.slug === 'tbc-septic'
+                  ? (lang === 'EN' ? 'Call #3: Follow-Up & Closing Call (19:30 MSK / 9:30 AM MST)' : 'Звонок №3: Дожим Клинта по почте и закрытие ($2,500)')
+                  : (lang === 'EN' ? 'Re-Dial Call #2: Verification & Closing ($2,500)' : 'Повторный звонок №2: Проверка и закрытие ($2,500)')}</span>
                 <button
                   onClick={() => copyToClipboard(lang === 'EN' ? call2ScriptEn : call2ScriptRu, 'call2')}
                   className="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 px-2 py-0.5 rounded transition"
@@ -1252,6 +1319,29 @@ function CallDispatcherContent() {
                 {lang === 'EN'
                   ? `“By the way, you can text over photos of your pump trucks, excavators, equipment, and your crew straight to this number. We’ll plug them right onto your site so homeowners see your real rigs and crew instead of generic stock pictures. Text them over anytime!”`
                   : `«Кстати, вы можете скинуть прямо на этот номер фотографии ваших ассенизаторских машин, экскаватора, оборудования и бригады. Мы разместим их прямо на сайте, чтобы клиенты видели вашу реальную технику, а не стоковые картинки. Можете отправить прямо сюда в ответ на СМС!»`}
+              </div>
+            </div>
+
+            {/* Price Presentation & Downsell Offer Banner */}
+            <div className="bg-gradient-to-r from-amber-950/60 to-slate-950 border border-amber-600/60 rounded-xl p-3">
+              <div className="flex items-center justify-between text-[11px] font-bold text-amber-300 mb-1.5">
+                <span>💰 {lang === 'EN' ? 'Price Presentation ($2,500 Turnkey / $1,250 Split Downsell):' : 'Озвучивание цены ($2,500 под ключ / $1,250 сплит):'}</span>
+                <button
+                  onClick={() => copyToClipboard(
+                    lang === 'EN'
+                      ? `“We do the full turnkey handover for a flat $2,500 — official dot-com domain, Google indexing, ultra-fast hosting, and zero monthly fees. In your business, just one drain field job or pumping route pays for it on the spot. If needed, we can also split it 50/50: $1,250 today to launch within 24 hours, and $1,250 in 30 days after you take calls through it. Fair enough?”`
+                      : `«Полная передача под ключ — фиксированные $2,500 без абонентской платы: перенос на официальный .com домен, индексация в Google и быстрый хостинг. В вашем бизнесе один вызов на ремонт окупает сайт сразу. Если нужно, можем разбить оплату 50/50: $1,250 сейчас для запуска за 24 часа, и $1,250 через 30 дней, когда уже пойдут звонки. Договорились?»`,
+                    'price_pitch'
+                  )}
+                  className="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 px-2 py-0.5 rounded transition"
+                >
+                  {copiedField === 'price_pitch' ? '✓ Copied' : 'Copy'}
+                </button>
+              </div>
+              <div className="text-xs text-slate-200 font-mono bg-slate-950/60 p-2.5 rounded-lg border border-amber-900/40 leading-relaxed whitespace-pre-line">
+                {lang === 'EN'
+                  ? `• Turnkey Handover: $2,500 flat (Official domain + Google SEO + Fast hosting + 100% ownership, zero monthly fees)\n• Downsell 50/50: $1,250 today (live in 24 hrs) + $1,250 in 30 days after taking calls.`
+                  : `• Под ключ: $2,500 фикс (Официальный домен + Google SEO + Быстрый хостинг + 100% владение, ноль абонплаты)\n• Даунселл 50/50: $1,250 сейчас (запуск за 24 часа) + $1,250 через 30 дней после получения звонков.`}
               </div>
             </div>
           </div>
